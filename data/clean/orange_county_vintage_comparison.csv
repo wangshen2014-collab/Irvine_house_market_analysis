@@ -1,0 +1,6 @@
+estimate_year,dof_population_start,dof_population_end,dof_population_change,dof_births,dof_deaths,dof_natural_change,dof_net_migration,dof_net_international_migration,dof_net_domestic_migration,dof_residual,census_population_start,census_population_end,census_population_change,census_births,census_deaths,census_natural_change,census_net_migration,census_net_international_migration,census_net_domestic_migration,census_residual,same_net_migration_sign
+2021,3189916,3167049,-22867,30038,26313,3725,-26592,513,-27105,0,3186167,3160780,-25387,30108,26354,3754,-29273,3836,-33109,132,True
+2022,3167049,3165015,-2034,31085,23516,7569,-9603,10955,-20558,0,3160780,3156252,-4528,31099,23558,7541,-11232,16522,-27754,-837,True
+2023,3165015,3160022,-4993,30270,23044,7226,-12219,17886,-30105,0,3156252,3149341,-6911,30320,23116,7204,-14263,21406,-35669,148,True
+2024,3160022,3173633,13611,30511,22270,8241,5370,20430,-15060,0,3149341,3158027,8686,30006,22209,7797,903,23385,-22482,-14,True
+2025,3173633,3169463,-4170,30682,22394,8288,-12458,13173,-25631,0,3158027,3149507,-8520,29899,22178,7721,-16196,9161,-25357,-45,True

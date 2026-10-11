@@ -35,3 +35,12 @@ python scripts/build_dof_baseline.py --download
 ```
 
 当前只完成DOF官方统计模块的35行提取与复算。20–30笔成交试样本、全市学校和项目覆盖、需求／供给／定价结论均未完成。成交模板为空，验证器会如实拒绝将其视为完成。
+
+## 需求阶段一更新
+
+[橙县人口净迁移与社区口径报告](reports/2026-10-11_population_migration_phase1.md)：60条官方组成记录已复算；新增社区—PA对应11行。县级历史有阶段判断，城市／社区需求及未来预测未完成。
+
+```bash
+python scripts/build_demographic_components.py --download
+python scripts/plot_migration.py
+```

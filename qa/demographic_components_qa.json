@@ -1,0 +1,20 @@
+{
+  "status": "pass",
+  "rows": 60,
+  "unique_keys": 60,
+  "dof_e2_e6_matched_rows": 30,
+  "fingerprints": {
+    "dof_e2.xlsx": "967bad41ec264a6e9e597af810ca48226bdf78838485f1f396cebdd5eaf9b61d",
+    "dof_e6.xlsx": "a6797dfcae13cc89bb078c289148b83fc68c37788c3b0b34ea50144c36180cff",
+    "co-est2025-alldata.csv": "4f5a499d851e2cb48fd7a5405e5a9235453a8a66933657aacd10df0e264f35d5"
+  },
+  "failures": [],
+  "limits": [
+    "E2 and E6 are two presentations of one DOF series, not independent evidence.",
+    "DOF and Census share some administrative inputs; agreement is not independent replication.",
+    "Each 2021–2025 record covers July 1 of prior year through June 30 of named year.",
+    "2020 Apr–Jun components excluded from full-year/cumulative comparisons.",
+    "County migration does not identify Irvine community migration or target home buyers.",
+    "Census residual is retained; DOF components sum exactly in this extraction."
+  ]
+}

@@ -25,3 +25,9 @@ source_id/source_url/retrieved_at：逐行追溯。
 redistribution_status：approved/link_only/restricted/pending。未确认批准的原始成交行不进入公开仓库。
 
 模板当前只有列头、0笔实际成交。验证器只做格式、重复和覆盖检查，不替代地理、产权与原来源人工验收。
+
+## 人口组成与地理对应（第二轮）
+
+county_components_2020_2025.csv有60行：DOF与Census各6地理单元×5完整年度。period_end_exclusive为所示年7月1日，实际覆盖截至6月30日。人数为有符号整数。residual在Census保留，DOF本轮组成相加为零残差；不把两系列拼接或平均。
+
+community_pa_crosswalk_v0_2.csv有11行，父PA和子区分别记录。不同社区共享父PA不重复加总；Reserve与Orchard Hills有包含关系。城市GIS的TRACT／TR.编号是登记／开发tract，不是11位Census statistical tract GEOID，不得直接join。

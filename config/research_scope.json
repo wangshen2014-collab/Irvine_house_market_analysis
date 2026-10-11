@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-11-startup",
+  "version": "2026-10-11-demographics-phase1",
   "timezone": "America/Los_Angeles",
   "project_type": "independent_public_market_B",
   "primary_city": "Irvine",
@@ -23,7 +23,7 @@
     "Portola Springs",
     "Great Park"
   ],
-  "north_irvine_boundary_status": "pending_polygon_and_tract_crosswalk",
+  "north_irvine_boundary_status": "community_parent_pa_crosswalk_v0_2_done; precise_polygons_and_census_tract_overlay_pending",
   "target_product": {
     "minimum_area_sqft": 1650,
     "preferred_bedrooms": 4,
@@ -41,5 +41,7 @@
     "maximum": 30,
     "manual_checks_minimum": 5
   },
-  "independent_B_required_before_A": true
+  "independent_B_required_before_A": true,
+  "geography_crosswalk": "data/clean/community_pa_crosswalk_v0_2.csv",
+  "gis_tract_is_census_tract": false
 }

@@ -1,0 +1,12 @@
+community,parent_pa,subarea,evidence_status,boundary_status,source_ids
+Stonegate,9,9B;9C2,parent_and_subarea_confirmed,polygon_and_census_overlay_pending,SRC-021;SRC-020
+Woodbury,9,9A,parent_and_subarea_confirmed,polygon_and_census_overlay_pending,SRC-021;SRC-020
+Woodbury East,9,9C1,parent_and_subarea_confirmed,polygon_and_census_overlay_pending,SRC-021
+Eastwood Village,5,,map_features_and_streets_confirmed,not_entire_PA5; polygon_pending,SRC-019;SRC-004;SRC-005
+Northwood Pointe / Northwood Point,5,,official_parent_confirmed,not_entire_PA5; market_boundary_pending,SRC-021;SRC-019
+Northwood,8,,official_parent_confirmed,market_boundary_and_census_overlay_pending,SRC-021
+Orchard Hills,1,,official_parent_confirmed,subareas_and_census_overlay_pending,SRC-021;SRC-022
+Reserve at Orchard Hills,1,,parent_only,reserve_subarea_polygon_and_tract_pending,SRC-021;SRC-022
+Portola Springs,6,,official_parent_confirmed,phase_and_census_overlay_pending,SRC-021
+Great Park,51,,current_plan_parent_confirmed,legacy_GIS_PA30_reconciliation_pending,SRC-021;SRC-004
+Cypress Village,40,,official_parent_confirmed,citywide_comparator; north_irvine_inclusion_pending,SRC-021
