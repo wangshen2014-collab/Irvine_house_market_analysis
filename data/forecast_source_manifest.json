@@ -1,0 +1,100 @@
+[
+  {
+    "file": "P2A_County_Total.xlsx",
+    "url": "https://dof.ca.gov/media/docs/forecasting/Demographics/projections/P2A_County_Total.xlsx",
+    "bytes": 165593,
+    "sha256": "6caa2c639c8fc9571c0cb483848b3d74ec996c41075ebb5ae3fd0a4071574cad",
+    "retrieved_date": "2026-10-11"
+  },
+  {
+    "file": "PCC_Components_of_Change.xlsx",
+    "url": "https://dof.ca.gov/media/docs/forecasting/Demographics/projections/PCC_Components_of_Change.xlsx",
+    "bytes": 201963,
+    "sha256": "3ac720a26dfe39969dc1da6bfc9a496af1b59e5588cc7f2409aa8734b26cea2f",
+    "retrieved_date": "2026-10-11"
+  },
+  {
+    "file": "P4_HHProjections_B2024.xlsx",
+    "url": "https://dof.ca.gov/media/docs/forecasting/Demographics/projections/P4_HHProjections_B2024.xlsx",
+    "bytes": 53542,
+    "sha256": "6e61fe9f9f0ad2ee33982639412ef921d996513f030757c36bf3beee26300022",
+    "retrieved_date": "2026-10-11"
+  },
+  {
+    "file": "dof_population_methodology.pdf",
+    "url": "https://dof.ca.gov/media/docs/forecasting/Demographics/projections/Methodology_Report.pdf",
+    "bytes": 134102,
+    "sha256": "5eb852301c6c7d351b0646c5a93098648ec6289a1809461bb61a4b0d00a133b9",
+    "retrieved_date": "2026-10-11"
+  },
+  {
+    "file": "dof_household_methodology.pdf",
+    "url": "https://dof.ca.gov/media/docs/forecasting/Demographics/projections/Household-Projections-Methodology.pdf",
+    "bytes": 98141,
+    "sha256": "e7a1e568c522397f2e3d46451d9f760d501806194f4d7774a2de0f61beb9e571",
+    "retrieved_date": "2026-10-11"
+  },
+  {
+    "file": "scag2024-frtp-sed.xlsx",
+    "url": "https://scag.ca.gov/sites/default/files/2024-05/scag2024-frtp-sed.xlsx",
+    "bytes": 980721,
+    "sha256": "4e10e75c41df0b76df43c44703824fef577946fd25d14ee52a8cb2d8227b3393",
+    "retrieved_date": "2026-10-11"
+  },
+  {
+    "file": "scag2024_demographics.pdf",
+    "url": "https://sustain.scag.ca.gov/sites/default/files/2024-05/23-2987-tr-demographics-growth-forecast-final-040424.pdf",
+    "bytes": 6136876,
+    "sha256": "5481834fc4d964d73796190157deeca9bdb5ccbb638473297f1a05191c939366",
+    "retrieved_date": "2026-10-11"
+  },
+  {
+    "file": "ldx2026_Irvine.pdf",
+    "url": "https://scag.ca.gov/sites/default/files/2026-04/26-416-RDPLDX-0056-Irvine.pdf",
+    "bytes": 12792799,
+    "sha256": "61472d79273337cdf8258cf381843aaead5b15a36444eb3110ebf8d6fb421521",
+    "retrieved_date": "2026-10-11"
+  },
+  {
+    "file": "ldx2026_Lake-Forest.pdf",
+    "url": "https://scag.ca.gov/sites/default/files/2026-04/26-416-RDPLDX-0056-Lake-Forest.pdf",
+    "bytes": 11591323,
+    "sha256": "aab1064c5bdb45e6cd53393abbb2706c0792234567c98ac14db4f3d21113c47b",
+    "retrieved_date": "2026-10-11"
+  },
+  {
+    "file": "ldx2026_Tustin.pdf",
+    "url": "https://scag.ca.gov/sites/default/files/2026-04/26-416-RDPLDX-0056-Tustin.pdf",
+    "bytes": 11902546,
+    "sha256": "86838d91b6116096f9b95cd40a5c99647f1218e9468c718ba612d3eb7e5d3a49",
+    "retrieved_date": "2026-10-11"
+  },
+  {
+    "file": "ldx2026_Aliso-Viejo.pdf",
+    "url": "https://scag.ca.gov/sites/default/files/2026-04/26-416-RDPLDX-0056-Aliso-Viejo.pdf",
+    "bytes": 11187339,
+    "sha256": "2896b0e946e62bcb8a9f1dbf7ad715907425ce275043883ea8ed7f110a4ff778",
+    "retrieved_date": "2026-10-11"
+  },
+  {
+    "file": "dof_projections.html",
+    "url": "https://dof.ca.gov/Forecasting/Demographics/projections/",
+    "bytes": 17713,
+    "sha256": "030fe4840d079ec8ad92da0123719f135a3e429c8e0e6a4173a41ff13daffb8e",
+    "retrieved_date": "2026-10-11"
+  },
+  {
+    "file": "scag_ldx.html",
+    "url": "https://scag.ca.gov/local-data-exchange",
+    "bytes": 465527,
+    "sha256": "0e34752628d5f7ec6a2b65170e955f89c0f6bad48a52eb6a70fa8f10065be304",
+    "retrieved_date": "2026-10-11"
+  },
+  {
+    "file": "scag_terms.html",
+    "url": "https://scag.ca.gov/terms-use",
+    "bytes": 334356,
+    "sha256": "3747df8df5268ae6fc8cb511509868deef0e36081c8b49e97beca2fc6a56d13c",
+    "retrieved_date": "2026-10-11"
+  }
+]

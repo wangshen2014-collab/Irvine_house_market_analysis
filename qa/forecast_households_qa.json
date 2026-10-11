@@ -1,0 +1,123 @@
+{
+  "status": "pass",
+  "output_rows": {
+    "dof_oc_population_projection_v2026.csv": 51,
+    "dof_oc_projected_components_v2026.csv": 50,
+    "dof_oc_households_projection_v2025.csv": 31,
+    "scag_city_county_forecast_vintages.csv": 33,
+    "city_household_growth_decomposition.csv": 10
+  },
+  "fingerprints": {
+    "P2A_County_Total.xlsx": {
+      "sha256": "6caa2c639c8fc9571c0cb483848b3d74ec996c41075ebb5ae3fd0a4071574cad",
+      "bytes": 165593,
+      "source_id": "SRC-024"
+    },
+    "PCC_Components_of_Change.xlsx": {
+      "sha256": "3ac720a26dfe39969dc1da6bfc9a496af1b59e5588cc7f2409aa8734b26cea2f",
+      "bytes": 201963,
+      "source_id": "SRC-025"
+    },
+    "P4_HHProjections_B2024.xlsx": {
+      "sha256": "6e61fe9f9f0ad2ee33982639412ef921d996513f030757c36bf3beee26300022",
+      "bytes": 53542,
+      "source_id": "SRC-026"
+    },
+    "scag2024-frtp-sed.xlsx": {
+      "sha256": "4e10e75c41df0b76df43c44703824fef577946fd25d14ee52a8cb2d8227b3393",
+      "bytes": 980721,
+      "source_id": "SRC-029"
+    },
+    "ldx2026_Irvine.pdf": {
+      "sha256": "61472d79273337cdf8258cf381843aaead5b15a36444eb3110ebf8d6fb421521",
+      "bytes": 12792799,
+      "source_id": "SRC-031"
+    },
+    "ldx2026_Lake-Forest.pdf": {
+      "sha256": "aab1064c5bdb45e6cd53393abbb2706c0792234567c98ac14db4f3d21113c47b",
+      "bytes": 11591323,
+      "source_id": "SRC-032"
+    },
+    "ldx2026_Tustin.pdf": {
+      "sha256": "86838d91b6116096f9b95cd40a5c99647f1218e9468c718ba612d3eb7e5d3a49",
+      "bytes": 11902546,
+      "source_id": "SRC-033"
+    },
+    "ldx2026_Aliso-Viejo.pdf": {
+      "sha256": "2896b0e946e62bcb8a9f1dbf7ad715907425ce275043883ea8ed7f110a4ff778",
+      "bytes": 11187339,
+      "source_id": "SRC-034"
+    }
+  },
+  "checks": [
+    "fixed_vintage_SHA256",
+    "P2A_PCC_51_snapshots_match",
+    "PCC_50_component_equalities",
+    "SCAG_unique_keys",
+    "LDX_all_TAZ_sums_equal_visually_read_charts",
+    "10_population_household_accounting_equalities"
+  ],
+  "LDX_TAZ_checks": [
+    {
+      "city": "Irvine",
+      "TAZ_count": 173,
+      "sums": [
+        116683,
+        126586,
+        132986,
+        316671,
+        319247,
+        308220
+      ],
+      "chart_match": true
+    },
+    {
+      "city": "Lake Forest",
+      "TAZ_count": 62,
+      "sums": [
+        30981,
+        32632,
+        32530,
+        42007,
+        42072,
+        41962
+      ],
+      "chart_match": true
+    },
+    {
+      "city": "Tustin",
+      "TAZ_count": 54,
+      "sums": [
+        27527,
+        32213,
+        31880,
+        53490,
+        54430,
+        50969
+      ],
+      "chart_match": true
+    },
+    {
+      "city": "Aliso Viejo",
+      "TAZ_count": 23,
+      "sums": [
+        19428,
+        19990,
+        20073,
+        22373,
+        22470,
+        22428
+      ],
+      "chart_match": true
+    }
+  ],
+  "limits": [
+    "Population July 1 and households January 1 are separate clocks.",
+    "P4 Vintage 2025 is not updated to population Vintage 2026.",
+    "2024 city population supplements are unreviewed and outside adopted plan.",
+    "2026 LDX is preliminary, not approved.",
+    "Households include renters and owners; jobs are counted at workplace.",
+    "Housing Unit Method and accounting identity do not independently establish demand.",
+    "TAZ sums validate extraction, not assumptions or original source accuracy."
+  ]
+}

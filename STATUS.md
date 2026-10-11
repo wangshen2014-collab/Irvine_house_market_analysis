@@ -1,44 +1,46 @@
 # STATUS
 
-最后更新：2026-10-11，America/Los_Angeles；第二轮需求阶段一。
+最后更新：2026-10-11，America/Los_Angeles；第三轮需求阶段二。
 
 ## 当前阶段
 
-橙县县级人口／净迁移已形成历史阶段判断；公共B整体未完成，家庭A未接入。成交可行性仍未通过。
+县级历史人口／迁移、城市家庭数量及官方长期预测已有阶段判断。公共B整体未完成，家庭A未接入，成交可行性未通过。
 
 ## 已完成与关键判断
 
-- 首轮DOF E-5人口住房35条提取与QA通过。
-- 新增DOF E-2/E-6及Census Vintage 2025：各6地理单元×5完整年度，共60条；算术、唯一键和指纹通过，E2/E6的30条匹配。
-- 两系列对Orange County五年迁移方向一致：每年国内净流出，总净迁移仅2023–2024为正。
-- 最新2024–2025总净迁移DOF−12,458、Census−16,196，保留版本差异，不平均，不视为统计置信区间。
-- Stonegate为PA9中的9B及9C2；Woodbury9A、Woodbury East9C1。Eastwood和Northwood Point同父PA5；Orchard Hills父PA1，Reserve精细子区待核。
-- 11行community_pa_crosswalk_v0_2.csv已建立。城市GIS的TRACT/TR.编号不是Census statistical tract。
-- 来源索引增至22项；原数据与地图原文保存至私有Drive。
+- E-5人口住房35行、DOF/Census历史组成60行、社区—PA对应11行延续前轮。
+- 本轮DOF人口51快照、组成50期、家庭31快照；SCAG正式／草案33行；城市家庭分解10行，共175行。来源增至36项。
+- Irvine 2025→2026人口+92，已入住户+1,177；户均人数从2.5245降至2.5004。会计分解成立，不能当作独立需求证据。
+- 当前DOF情景橙县2050人口3,151,816，比2025低0.56%；SCAG2024正式规划2050为3,439,000。保留约28.7万人差异，不平均、不当置信区间。
+- DOF P-4家庭情景2040比2025多78,133户（7.06%）；January1、Vintage2025，不同于人口July1/Vintage2026。
+- SCAG2026 LDX四城为Preliminary；反馈截止2026-11-20，预计2028春正式采纳。Irvine家庭2024/2035/2050=116,683/126,586/132,986，岗位同期净变化−8,451。
+- SCAG家庭规划包含住房容量、Housing Element及空间政策；不是北尔湾四卧无共墙买家数量预测。2024正式表的城市未来人口列不属正式采纳文件、未经地方审核。
+- DOF人口方法原字节确为2024 Baseline；搜索服务同URL旧缓存仍写2023，按下载版本登记。首发09-20/09-30的元数据差异保留，不影响当前2026-03-13版本。
 
-## 实际产物
+## 本轮实际产物与验收
 
-- reports/2026-10-11_population_migration_phase1.md
-- data/clean/county_components_2020_2025.csv（60行）
-- data/clean/orange_county_vintage_comparison.csv（5行）
-- data/clean/community_pa_crosswalk_v0_2.csv（11行）
-- qa/demographic_components_qa.json（pass）
-- scripts/build_demographic_components.py
-- scripts/plot_migration.py
-- figures/orange_county_migration.svg
-- 首轮范围卡、E-5标准数据与QA、来源索引、模板和脚本继续保留。
-- 正式需求tab、图表PNG及私有原始包真实链接在V2入口登记，不在公开仓库发布私人链接。
+- reports/2026-10-11_households_forecast_phase2.md
+- data/clean/dof_oc_population_projection_v2026.csv（51行）
+- data/clean/dof_oc_projected_components_v2026.csv（50行）
+- data/clean/dof_oc_households_projection_v2025.csv（31行）
+- data/clean/scag_city_county_forecast_vintages.csv（33行）
+- data/clean/city_household_growth_decomposition.csv（10行）
+- data/forecast_source_manifest.json；data/sources.csv（36项）
+- scripts/build_forecast_baseline.py；scripts/plot_forecast.py
+- qa/forecast_households_qa.json（pass）：8数值原文件指纹；51快照与50组成等式；10历史分解；Irvine/LF/Tustin/Aliso 173/62/54/23个TAZ汇总等于PDF32页图表。
+- figures/orange_county_forecast.svg；图表PNG及14个原始来源文件的私有包，真实链接在V2正式tab登记。
+- 正式V2新增「需求：家庭与未来预测」，保留原方案及既有报告tab。前轮QA仍保留，不因本轮而改写历史快照。
 
 ## 缺口与覆盖
 
-成交0/20–30、人工核对0/5。社区精细polygon/Census tract叠加未完；PA对应不意味着人口可直接分配到社区。学校仍为GIS候选地块，非已验收完整目录。城市家庭形成／年龄／租买结构、迁入者购买力、官方未来预测、全市供给、经纪人、定价未完成。
+成交0/20–30、人工0/5；完整公共B未完成。家庭数量不等于购房家庭，缺ACS年龄／租买／有孩／收入结构及MOE、迁入购买力、HMDA融资、IRS流向核对；社区精细polygon与Census tract/GEOID叠加未完。学校仍为GIS候选地块，项目供给及定价模块未验收。
 
-DOF与Census不是完全独立输入来源；Riverside最新国内净迁移方向有差异，后续核对IRS流向与版本。E-5一月与E-2七月窗口不可直接拼成同一等式。未取得December DOF旧表，不声称算出February修订幅度。
+县级历史迁移方向仍是两系列五年国内净流出、总净迁移仅2023–2024为正。DOF与Census非完全独立；Riverside最新国内方向有差异。未来净迁移转正是模型假设，不是观察结果。P4未随2026人口更新；城市2024 LDX与现行E5不同起点不拼接。
 
 ## 下一项具体动作
 
-取得DOF当前县级人口／迁移预测、SCAG正式预测与Irvine LDX文件，登记发布版本、基准、家庭形成与住房容量假设；并继续城市家庭结构及社区Census tract叠加。成交数据入口并行于资料收集流程，但按模块串行执行，不因待补字段停下官方研究。
+取得官方ACS可下载数据，对Irvine及三替代城市的家庭类型、租买、有孩、年龄、收入与迁移分层；登记1-year/5-year窗口、MOE与可比性。API无key返回MissingKey HTML未解决，优先官方bulk／下载表替代。然后把社区边界与Census tract叠加验收，再进入目标买家购买力及供给项目兑现率。
 
 ## 接续规则
 
-先读本文件、AGENTS、范围卡、本轮报告与data/sources.csv。只接续本轮独立研究，不读取旧宏观报告／旧研究结论来锚定判断。按真实产物和commit保存，不把阶段报告当完整B，不把历史净流出直接外推未来房价。
+先读本文件、AGENTS、范围卡及本轮来源。只接续独立研究，不读旧宏观／旧市场结论锚定判断。先完成公共B再接家庭A；私人A/C、私人链接、账号信息不进入公开仓库。按真实产物和commit保存；阶段报告不等于全项目完成。
