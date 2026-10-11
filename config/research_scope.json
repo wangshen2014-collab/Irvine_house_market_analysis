@@ -1,0 +1,45 @@
+{
+  "version": "2026-10-11-startup",
+  "timezone": "America/Los_Angeles",
+  "project_type": "independent_public_market_B",
+  "primary_city": "Irvine",
+  "region": "Orange County, California",
+  "comparison_cities": [
+    "Lake Forest",
+    "Tustin",
+    "Aliso Viejo"
+  ],
+  "focus_communities": [
+    "Stonegate",
+    "Orchard Hills Reserve"
+  ],
+  "candidate_north_irvine_communities": [
+    "Stonegate",
+    "Orchard Hills subareas",
+    "Eastwood",
+    "Northwood",
+    "Northwood Pointe",
+    "Woodbury",
+    "Portola Springs",
+    "Great Park"
+  ],
+  "north_irvine_boundary_status": "pending_polygon_and_tract_crosswalk",
+  "target_product": {
+    "minimum_area_sqft": 1650,
+    "preferred_bedrooms": 4,
+    "preferred_year_built_min": 2010,
+    "no_shared_walls": true,
+    "detached_condominium_included": true,
+    "legal_classification_separate": true
+  },
+  "fixed_quality_and_fixed_budget_series_separate": true,
+  "price_band": null,
+  "price_band_status": "pending_private_confirmation; public work continues without a hard budget filter",
+  "holding_period": null,
+  "transaction_trial_target": {
+    "minimum": 20,
+    "maximum": 30,
+    "manual_checks_minimum": 5
+  },
+  "independent_B_required_before_A": true
+}

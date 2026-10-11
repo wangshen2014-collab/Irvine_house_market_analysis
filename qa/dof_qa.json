@@ -1,0 +1,22 @@
+{
+  "status": "pass",
+  "rows": 35,
+  "unique_geography_date_keys": 35,
+  "source_sha256": "7d179aa625f07d4e05c78e89ca348f064b5ada9eba77d5b48c41feb33fb6f306",
+  "checks_per_row": [
+    "population_components",
+    "housing_components",
+    "vacancy_arithmetic",
+    "household_arithmetic",
+    "required_numeric_fields"
+  ],
+  "failures": [],
+  "limits": [
+    "2020 is April 1; other dates are January 1.",
+    "Population change is not net migration.",
+    "Housing Unit Method estimates are not independent proof of housing demand.",
+    "Single detached is an aggregate structure category, not a 4-bedroom/no-shared-wall legal classification.",
+    "Vacancy includes all housing stock, not active sale inventory.",
+    "This validates extraction and arithmetic, not source accuracy or causal conclusions."
+  ]
+}

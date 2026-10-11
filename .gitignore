@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+private/
+credentials/
+data/raw/*
+!data/raw/README.md
+*.zip
+*.sqlite
+*.duckdb

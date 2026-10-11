@@ -19,3 +19,19 @@
 公开可访问不自动等于允许再分发。按来源条款处理；未经确认的原始数据只登记链接和取得方法，不上传原文、照片、完整 MLS 导出或平台数据库。家庭收入、资产、账户、私人访谈和个人融资报价不进入本公开仓库。具体官方数据的使用范围在来源索引中逐项记录。
 
 本仓库不发布家庭任务书全文或私人 Drive 链接。代码的存在不代表研究已完成；验收以证据覆盖、定义准确、反例和可复算性为准。
+
+## 当前底稿与复算
+
+- [启动及可行性报告](reports/2026-10-11_startup_feasibility.md)
+- [最新状态与下一动作](STATUS.md)
+- [范围卡](docs/research_scope.md)
+- [来源索引](data/sources.csv)
+- [DOF标准数据](data/clean/dof_population_housing_v2026.csv)
+- [QA记录](qa/dof_qa.json)
+
+```bash
+pip install -r requirements.txt
+python scripts/build_dof_baseline.py --download
+```
+
+当前只完成DOF官方统计模块的35行提取与复算。20–30笔成交试样本、全市学校和项目覆盖、需求／供给／定价结论均未完成。成交模板为空，验证器会如实拒绝将其视为完成。
