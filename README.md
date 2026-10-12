@@ -22,6 +22,18 @@
 
 ## 当前底稿与复算
 
+2026-10-12新增[阶段十供给基线](reports/2026-10-12_supply_phase10.md)：76行项目／母子期／修订登记、7份标准表，区分全市年度活动、建筑形态、剩余量与目标库存；目前为受限完成。下一项为租赁全成本，详见STATUS。
+
+```bash
+# 从指定私人证据包解压取得 raw/，不将原始文件提交到仓库。
+# 系统依赖：Poppler pdftotext；Python依赖沿用 requirements.txt。
+python scripts/build_supply_baseline.py --input-dir /path/to/raw --private-out /path/to/private-workpapers
+python scripts/audit_supply_baseline.py --input-dir /path/to/raw
+python scripts/report_supply_baseline.py --private-out /path/to/private-workpapers
+```
+
+供给计算先核38份原件SHA-256；同URL换版会停止。另3项下载403如实登记。APR工作簿仅读取不修改；openpyxl对原件条件格式／验证的读取警告不表示原始文件被另存。市政点位图和逐套建商记录只输出到private-out。公开CSV的空值不是0，项目套数整列不能求和；替换研究注释前先核来源和版本。
+
 - [启动及可行性报告](reports/2026-10-11_startup_feasibility.md)
 - [最新状态与下一动作](STATUS.md)
 - [范围卡](docs/research_scope.md)

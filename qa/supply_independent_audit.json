@@ -1,0 +1,102 @@
+{
+  "xml_cells_reconciled": 18,
+  "xml_checks": [
+    [
+      "SFA",
+      "entitled",
+      0
+    ],
+    [
+      "SFA",
+      "permitted",
+      121
+    ],
+    [
+      "SFA",
+      "completed",
+      194
+    ],
+    [
+      "SFD",
+      "entitled",
+      1123
+    ],
+    [
+      "SFD",
+      "permitted",
+      360
+    ],
+    [
+      "SFD",
+      "completed",
+      600
+    ],
+    [
+      "2 to 4",
+      "entitled",
+      0
+    ],
+    [
+      "2 to 4",
+      "permitted",
+      27
+    ],
+    [
+      "2 to 4",
+      "completed",
+      0
+    ],
+    [
+      "5+",
+      "entitled",
+      3712
+    ],
+    [
+      "5+",
+      "permitted",
+      895
+    ],
+    [
+      "5+",
+      "completed",
+      230
+    ],
+    [
+      "ADU",
+      "entitled",
+      0
+    ],
+    [
+      "ADU",
+      "permitted",
+      8
+    ],
+    [
+      "ADU",
+      "completed",
+      28
+    ],
+    [
+      "MH",
+      "entitled",
+      0
+    ],
+    [
+      "MH",
+      "permitted",
+      0
+    ],
+    [
+      "MH",
+      "completed",
+      0
+    ]
+  ],
+  "rhna_identity": "23610 - 7442 = 16168",
+  "project_ids_unique": true,
+  "parent_children_not_added": true,
+  "unknown_remaining_preserved": true,
+  "annual_activity_not_cohort": true,
+  "manual_inventory_card_check": "18 GPN; 4 exact4BR detached condo; 5 Summit QMI all5BR",
+  "coverage_limit": "No complete municipal parcel stock, sale inventory or annual delivery schedule; not independent model review"
+}

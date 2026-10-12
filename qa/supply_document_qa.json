@@ -1,0 +1,22 @@
+{
+  "total_pages": 118,
+  "new_tab_separator_page": 110,
+  "content_pages_reviewed": [
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118
+  ],
+  "clipped_text_bounds": [],
+  "native_tables": 7,
+  "native_cells_matched": 155,
+  "map_count": 1,
+  "unrelated_tabs_preserved": 13,
+  "execution_tab_scoped_update": true,
+  "visual_review": "All eight new content pages inspected; table headers repeat; orphan heading corrected; no clipped content",
+  "pdf_sha256": "4f0de54b23105769baa871b469047a9f14d3d81a4778ca69ccaea89ba1a60d47"
+}

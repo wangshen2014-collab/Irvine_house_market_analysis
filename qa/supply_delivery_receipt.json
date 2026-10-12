@@ -1,0 +1,21 @@
+{
+  "local_data_report_commit": "05b78242e6674766198b4d143afa4f11e38d9618",
+  "archive_files": 254,
+  "archive_bytes": 49071527,
+  "archive_sha256": "573a6201caddce0754c19a1cdd94a7dd34fa8ef43ac182eefc889a01094c9f50",
+  "date": "2026-10-12",
+  "module": "phase10_supply_restricted_baseline",
+  "formal_document_saved": true,
+  "native_tables": 7,
+  "cells_verified": 155,
+  "unrelated_tabs_preserved": 13,
+  "source_files_fingerprinted": 38,
+  "download_failures": 3,
+  "archive_uploaded": true,
+  "remote_parent_verified": true,
+  "remote_size_verified": true,
+  "remote_content_hash_verified": false,
+  "public_snapshot": "data/report commit in archive; this delivery receipt created after upload",
+  "publication": "PR and merge receipt recorded in formal document and final handoff; no private links here",
+  "next_action": "step8_rental_full_cost"
+}

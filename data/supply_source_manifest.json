@@ -1,0 +1,407 @@
+{
+  "as_of": "2026-10-12",
+  "raw_publication": "private_evidence_only",
+  "files": [
+    {
+      "file": "irvine_discretionary_20261008.pdf",
+      "url": "https://cityofirvine.gov/sites/default/files/legacy-documents/current-discretionary-applications_2.pdf",
+      "status": 200,
+      "bytes": 187957,
+      "type": "application/pdf",
+      "source_id": "SUP_IRVINE_DISCRETIONARY_20261008",
+      "sha256": "724f2d649c2636972de30efd1ee9d6eb85dd427bfc22c0a945d1ca7d5e6da9b0",
+      "retrieved_at": "2026-10-12; initial download UTC time not recorded"
+    },
+    {
+      "file": "irvine_housing_apr2025.pdf",
+      "url": "https://irvine.granicus.com/MetaViewer.php?event_id=2798&meta_id=182178&view_id=",
+      "status": 200,
+      "bytes": 6559067,
+      "type": "application/pdf",
+      "source_id": "SUP_IRVINE_HOUSING_APR2025",
+      "sha256": "3aed86263291b822bfb7a6905b278cd7e337bae35a2402b35930817a379ff841",
+      "retrieved_at": "2026-10-12; initial download UTC time not recorded"
+    },
+    {
+      "file": "irvine_development_map.html",
+      "url": "https://cityofirvine.gov/community-development/development-projects-map",
+      "status": 200,
+      "bytes": 91587,
+      "type": "text/html; charset=UTF-8",
+      "source_id": "SUP_IRVINE_DEVELOPMENT_MAP",
+      "sha256": "d19acc064a7fb7b34a47cbe842481ae8d6a38a91e7e0f7ef292ce9f7219e5c6f",
+      "retrieved_at": "2026-10-12; initial download UTC time not recorded"
+    },
+    {
+      "file": "irvine_oakpark.html",
+      "url": "https://www.cityofirvine.gov/index.php/community-development/proposed-oak-park-planning-area-52",
+      "status": 200,
+      "bytes": 176175,
+      "type": "text/html; charset=UTF-8",
+      "source_id": "SUP_IRVINE_OAKPARK",
+      "sha256": "94c07cfc99a0e66f425583772695c0da948e457187000c23e360814ba5d14503",
+      "retrieved_at": "2026-10-12; initial download UTC time not recorded"
+    },
+    {
+      "file": "irvine_housing_element.html",
+      "url": "https://cityofirvine.gov/housing-element-update",
+      "retrieved_at": "2026-10-12T15:14:35.820955+00:00",
+      "status": 200,
+      "bytes": 110318,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "55929f58802a9c5929ba5789bafb93fadb696d76798b4608aac59c6f0acef9ef",
+      "source_id": "SUP_IRVINE_HOUSING_ELEMENT"
+    },
+    {
+      "file": "irvine_story_item.json",
+      "url": "https://www.arcgis.com/sharing/rest/content/items/8ffb0dc939244b5f908e3d6f7a8a15f4?f=json",
+      "retrieved_at": "2026-10-12T15:14:35.821402+00:00",
+      "status": 200,
+      "bytes": 2229,
+      "content_type": "application/json;charset=utf-8",
+      "sha256": "58925d9812be09c63eecd0ce8b66bac71593f88ef88f7bf125aa39cd6e69502a",
+      "source_id": "SUP_IRVINE_STORY_ITEM"
+    },
+    {
+      "file": "irvine_story_data.json",
+      "url": "https://www.arcgis.com/sharing/rest/content/items/8ffb0dc939244b5f908e3d6f7a8a15f4/data?f=json",
+      "retrieved_at": "2026-10-12T15:14:35.821886+00:00",
+      "status": 200,
+      "bytes": 175108,
+      "content_type": "application/json;charset=utf-8",
+      "sha256": "8317ec6ddfdc006701a10424a57d9004618c1978d94c177b9207223d195f2311",
+      "source_id": "SUP_IRVINE_STORY_DATA"
+    },
+    {
+      "file": "tustin_projects.html",
+      "url": "https://www.tustinca.org/1080/Current-Projects",
+      "retrieved_at": "2026-10-12T15:14:35.822307+00:00",
+      "status": 200,
+      "bytes": 222898,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "b967559c6a3544d25c6ea8b605e7270c3f1ac6114b387ec9a161318c02a3b85d",
+      "source_id": "SUP_TUSTIN_PROJECTS"
+    },
+    {
+      "file": "aliso_projects.html",
+      "url": "https://www.avcity.org/412/Major-Projects",
+      "retrieved_at": "2026-10-12T15:14:39.494871+00:00",
+      "status": 200,
+      "bytes": 100501,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "2447e2946838c5c56ab540fa2a251bd70d84a84f9928c5bea798a3a01b48d209",
+      "source_id": "SUP_ALISO_PROJECTS"
+    },
+    {
+      "file": "irvine_gateway.html",
+      "url": "https://cityofirvine.gov/city-managers-office/gateway-residential",
+      "retrieved_at": "2026-10-12T15:14:39.502659+00:00",
+      "status": 200,
+      "bytes": 85932,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "e229d6fd41961a04b26976a490e4463b083f014238c10303d2b7c778b2217ead",
+      "source_id": "SUP_IRVINE_GATEWAY"
+    },
+    {
+      "file": "irvine_apr2025.xlsm",
+      "url": "https://cityofirvine.gov/sites/default/files/legacy-documents/civica-34702-2025-housing-element-annual-progress-report.xlsm",
+      "retrieved_at": "2026-10-12T15:15:23.275978+00:00",
+      "status": 200,
+      "bytes": 1665141,
+      "content_type": "application/vnd.ms-excel.sheet.macroEnabled.12",
+      "sha256": "4d337b26452462503751fff183e2ec3e0b1cf816f3f24c33c0a0be9667848845",
+      "source_id": "SUP_IRVINE_APR2025"
+    },
+    {
+      "file": "lakeforest_projects.html",
+      "url": "https://www.lakeforestca.gov/departments/community_development/planning/projects/index.php",
+      "retrieved_at": "2026-10-12T15:15:23.276646+00:00",
+      "status": 200,
+      "bytes": 199611,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "b8660695852aa5abc18534f769ebcbd38cdcd7afc9836213f4690dd6537f6d6c",
+      "source_id": "SUP_LAKEFOREST_PROJECTS"
+    },
+    {
+      "file": "lakeforest_major.html",
+      "url": "https://www.lakeforestca.gov/departments/community_development/planning/projects/major_developments/index.php",
+      "retrieved_at": "2026-10-12T15:15:23.277303+00:00",
+      "status": 200,
+      "bytes": 122220,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "042025e0166dcecef76bc0b30a703e9acf0e118404b9a71dec3f41ed1ee2e875",
+      "source_id": "SUP_LAKEFOREST_MAJOR"
+    },
+    {
+      "file": "fivepoint_q2_2026.html",
+      "url": "https://ir.fivepoint.com/news-releases/2026/07-23-2026-211025643",
+      "retrieved_at": "2026-10-12T15:15:23.277803+00:00",
+      "error": "HTTP Error 403: Forbidden",
+      "source_id": "SUP_FIVEPOINT_Q2_2026"
+    },
+    {
+      "file": "lf_smartsheet.html",
+      "url": "https://publish.smartsheet.com/15d87d2814154e6e8ba689ec74c45f27",
+      "retrieved_at": "2026-10-12T15:16:52.600693+00:00",
+      "status": 200,
+      "bytes": 94772,
+      "content_type": "text/html;charset=UTF-8",
+      "sha256": "c63c5b92dc39f7e11375c477d652cd2611975641223ad17681b029acee8cd651",
+      "source_id": "SUP_LF_SMARTSHEET"
+    },
+    {
+      "file": "lf_meadows.html",
+      "url": "https://www.lakeforestca.gov/departments/community_development/planning/projects/major_developments/the_meadows.php",
+      "retrieved_at": "2026-10-12T15:16:52.601206+00:00",
+      "status": 200,
+      "bytes": 173238,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "d5ef220d6b57ce3a0a4fbd302231763b378005bbead833a3e2f4ecf26f6ce1fe",
+      "source_id": "SUP_LF_MEADOWS"
+    },
+    {
+      "file": "lf_portola.html",
+      "url": "https://www.lakeforestca.gov/departments/community_development/planning/projects/major_developments/portola_center.php",
+      "retrieved_at": "2026-10-12T15:16:52.601642+00:00",
+      "status": 200,
+      "bytes": 436466,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "dad42d4a6decc7e7d78daf497cb100c6e669a167446610296e2617ac72ca6550",
+      "source_id": "SUP_LF_PORTOLA"
+    },
+    {
+      "file": "lf_serrano.html",
+      "url": "https://www.lakeforestca.gov/departments/community_development/planning/projects/major_developments/serrano_summit.php",
+      "retrieved_at": "2026-10-12T15:16:52.602085+00:00",
+      "status": 200,
+      "bytes": 240528,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "6496bd20e3c7fadf760b577ae8c6deef6b6563ef32b31aaea2aee476fbd1a8de",
+      "source_id": "SUP_LF_SERRANO"
+    },
+    {
+      "file": "aliso_argonaut15.html",
+      "url": "https://avcity.org/426/15-Argonaut",
+      "retrieved_at": "2026-10-12T15:16:56.632745+00:00",
+      "status": 200,
+      "bytes": 100789,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "daaa2f955ff65c3cb69f49e7924d6384160537b10456be117da826588070b0c7",
+      "source_id": "SUP_ALISO_ARGONAUT15"
+    },
+    {
+      "file": "aliso_argonaut95.html",
+      "url": "https://www.avcity.org/413/Axis-at-95-Argonaut-Under-construction",
+      "retrieved_at": "2026-10-12T15:16:56.709938+00:00",
+      "status": 200,
+      "bytes": 102576,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "efef0d9e285e9ee20a78116de3593a4002fae575d4634b0988d83e1b7afba492",
+      "source_id": "SUP_ALISO_ARGONAUT95"
+    },
+    {
+      "file": "aliso_polaris.html",
+      "url": "https://avcity.org/441/1-5-Polaris",
+      "retrieved_at": "2026-10-12T15:16:56.838389+00:00",
+      "status": 200,
+      "bytes": 100218,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "98c1c675174f16a545669fe3dd9504444fb2662719e973cfa886bad2d3abc77e",
+      "source_id": "SUP_ALISO_POLARIS"
+    },
+    {
+      "file": "aliso_freedom.html",
+      "url": "https://avcity.org/414/400-700-Freedom-Lane",
+      "retrieved_at": "2026-10-12T15:16:58.287074+00:00",
+      "status": 200,
+      "bytes": 101533,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "3db0ce9d58d6521c82e0f20dd354370e4ce958f8bbd45f6eaac9a8e9785cd759",
+      "source_id": "SUP_ALISO_FREEDOM"
+    },
+    {
+      "file": "gateway_faq202606.pdf",
+      "url": "https://cityofirvine.gov/sites/default/files/legacy-documents/gateway-village-residential-project_faq_june-2026.pdf",
+      "retrieved_at": "2026-10-12T15:17:36.226745+00:00",
+      "status": 200,
+      "bytes": 229854,
+      "content_type": "application/pdf",
+      "sha256": "6ec682946a4d97bf4c0d0653211bbf6e3f67f7040e2c581730d3e8bbc5af89f8",
+      "source_id": "SUP_GATEWAY_FAQ202606"
+    },
+    {
+      "file": "gateway_park20260923.pdf",
+      "url": "https://cityofirvine.gov/sites/default/files/legacy-documents/9.23.26-approval-of-park-design-00981965-ppd-for-gateway-residential-village-located-in-planning-area-2.pdf",
+      "retrieved_at": "2026-10-12T15:17:36.227233+00:00",
+      "status": 200,
+      "bytes": 12993882,
+      "content_type": "application/pdf",
+      "sha256": "f34edeb798b6af3b729db8856ce74384f7f40eb462236daf331de7cad08d3f9c",
+      "source_id": "SUP_GATEWAY_PARK20260923"
+    },
+    {
+      "file": "gateway_nod.html",
+      "url": "https://ceqanet.lci.ca.gov/2024100742/4",
+      "retrieved_at": "2026-10-12T15:17:36.227652+00:00",
+      "status": 200,
+      "bytes": 30092,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "b91044e93941d1c717a70260ad7aab3cba61974e8a90aed68e3ce646e287a770",
+      "source_id": "SUP_GATEWAY_NOD"
+    },
+    {
+      "file": "summit_sales.html",
+      "url": "https://www.villagesofirvine.com/homes/summit-at-orchard-hills",
+      "retrieved_at": "2026-10-12T15:17:36.228102+00:00",
+      "error": "HTTP Error 403: Forbidden",
+      "source_id": "SUP_SUMMIT_SALES"
+    },
+    {
+      "file": "portola_sales.html",
+      "url": "https://www.villagesofirvine.com/homes/portola-springs",
+      "retrieved_at": "2026-10-12T15:17:39.862553+00:00",
+      "error": "HTTP Error 403: Forbidden",
+      "source_id": "SUP_PORTOLA_SALES"
+    },
+    {
+      "file": "aliso_creek.html",
+      "url": "https://www.avcity.org/427/27081-Aliso-Creek-Road",
+      "retrieved_at": "2026-10-12T15:17:40.221756+00:00",
+      "status": 200,
+      "bytes": 101186,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "8857a9c8ce29eccc10e7ba8be6eb2a30c793c0ac1092c68b2b6134eb3b3827c0",
+      "source_id": "SUP_ALISO_CREEK"
+    },
+    {
+      "file": "aliso_parkway.html",
+      "url": "https://www.avcity.org/415/26940-26970-26980-Aliso-Viejo-Parkway",
+      "retrieved_at": "2026-10-12T15:17:40.487748+00:00",
+      "status": 200,
+      "bytes": 100665,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "cf0db7fa30a96e2cb9fd7c67c0caa067028987bdb4e516e9f9c5242355dd64e9",
+      "source_id": "SUP_ALISO_PARKWAY"
+    },
+    {
+      "file": "fph_10q20260630.html",
+      "url": "https://www.sec.gov/Archives/edgar/data/1574197/000157419726000027/fph-20260630.htm",
+      "retrieved_at": "2026-10-12T15:19:04.101103+00:00",
+      "status": 200,
+      "bytes": 2168866,
+      "content_type": "text/html",
+      "sha256": "ac0419c10f3c17b403e22df76c49b04b757a9d685f457770ecfb5fb97cf2b69b",
+      "source_id": "SUP_FPH_10Q20260630"
+    },
+    {
+      "file": "fph_10k2025.html",
+      "url": "https://www.sec.gov/Archives/edgar/data/1574197/000157419726000005/fph-20251231.htm",
+      "retrieved_at": "2026-10-12T15:19:04.101730+00:00",
+      "status": 200,
+      "bytes": 2906144,
+      "content_type": "text/html",
+      "sha256": "de28632276d62f3575cda422197f2b1b4f75793f6286c40f18d1710b629920f9",
+      "source_id": "SUP_FPH_10K2025"
+    },
+    {
+      "file": "fph_10q20260331.html",
+      "url": "https://www.sec.gov/Archives/edgar/data/1574197/000157419726000020/fph-20260331.htm",
+      "retrieved_at": "2026-10-12T15:19:04.102523+00:00",
+      "status": 200,
+      "bytes": 1417050,
+      "content_type": "text/html",
+      "sha256": "80b035cafc00f5f0e1718d74ad9ca5cbcec38ef1899998980c2bdc39620c091e",
+      "source_id": "SUP_FPH_10Q20260331"
+    },
+    {
+      "file": "toll_gpn.html",
+      "url": "https://www.tollbrothers.com/luxury-homes-for-sale/California/Toll-Brothers-at-Great-Park-Neighborhoods",
+      "retrieved_at": "2026-10-12T15:19:04.103067+00:00",
+      "status": 200,
+      "bytes": 2541695,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "31c6a4c373b956425d41e31d2d4297a6f138db731abae7db5ea250d76c4feed3",
+      "source_id": "SUP_TOLL_GPN"
+    },
+    {
+      "file": "sheaarbor.html",
+      "url": "https://www.sheahomes.com/new-homes/california/orange-county/irvine/arbor-at-portola-springs-village",
+      "retrieved_at": "2026-10-12T15:19:08.080131+00:00",
+      "status": 200,
+      "bytes": 323983,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "6f3810449d5568a415720cde73441839a42f1f003832998ce39baa6ac4ae242d",
+      "source_id": "SUP_SHEAARBOR"
+    },
+    {
+      "file": "toll_summit.html",
+      "url": "https://www.tollbrothers.com/luxury-homes-for-sale/California/Toll-Brothers-in-Summit-at-Orchard-Hills",
+      "retrieved_at": "2026-10-12T15:19:08.297349+00:00",
+      "status": 200,
+      "bytes": 778129,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "94cec6740a9d41602ce18f4b6d9b64c9317fd9cbe8b1c18baa510fa725db7dbf",
+      "source_id": "SUP_TOLL_SUMMIT"
+    },
+    {
+      "file": "iusd_facilities20260428.pdf",
+      "url": "https://iusd.org/sites/default/files/documents/Facilities%20Study%20Session%202026-04-28-%20FINAL.pdf",
+      "retrieved_at": "2026-10-12T15:20:08.153956+00:00",
+      "status": 200,
+      "bytes": 22169889,
+      "content_type": "application/pdf",
+      "sha256": "3f6435c4d19f45088a4878f06d12eb69d8fd6684f2a4f15b3c383870dfc3c9bf",
+      "source_id": "SUP_IUSD_FACILITIES20260428"
+    },
+    {
+      "file": "toll_alder.html",
+      "url": "https://www.tollbrothers.com/luxury-homes-for-sale/California/Toll-Brothers-at-Great-Park-Neighborhoods/Alder-Collection",
+      "retrieved_at": "2026-10-12T15:27:59.286870+00:00",
+      "status": 200,
+      "bytes": 272374,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "8fdb20b58fef806a53b901b8accd331d501086579710a5969727c2c05d85a568",
+      "source_id": "SUP_TOLL_ALDER"
+    },
+    {
+      "file": "toll_rowan.html",
+      "url": "https://www.tollbrothers.com/luxury-homes-for-sale/California/Toll-Brothers-at-Great-Park-Neighborhoods/Rowan-Collection",
+      "retrieved_at": "2026-10-12T15:27:59.287436+00:00",
+      "status": 200,
+      "bytes": 277081,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "ba6a7f44cdaadb61f0892a8d1b6492d87e3c3dc42d8235b418e7396b12152769",
+      "source_id": "SUP_TOLL_ROWAN"
+    },
+    {
+      "file": "toll_elm.html",
+      "url": "https://www.tollbrothers.com/luxury-homes-for-sale/California/Toll-Brothers-at-Great-Park-Neighborhoods/Elm-Collection",
+      "retrieved_at": "2026-10-12T15:27:59.288299+00:00",
+      "status": 200,
+      "bytes": 349938,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "e266fc061ce615bfa306d3576d66d54074e55483a6fcc6ecf939f9d8b6146580",
+      "source_id": "SUP_TOLL_ELM"
+    },
+    {
+      "file": "toll_birch.html",
+      "url": "https://www.tollbrothers.com/luxury-homes-for-sale/California/Toll-Brothers-at-Great-Park-Neighborhoods/Birch-Collection",
+      "retrieved_at": "2026-10-12T15:27:59.289029+00:00",
+      "status": 200,
+      "bytes": 426657,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "8b5ee1255dff466fd199d6f6baeff912e3f65690c5b9354d37250fd005dba15f",
+      "source_id": "SUP_TOLL_BIRCH"
+    },
+    {
+      "file": "toll_offer.html",
+      "url": "https://www.tollbrothers.com/luxury-homes-for-sale/California/Toll-Brothers-at-Great-Park-Neighborhoods/event/5.49",
+      "retrieved_at": "2026-10-12T15:28:08.130584+00:00",
+      "status": 200,
+      "bytes": 21365,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "0d6953d1e14b8072e1552f8c583621b70f377492194045d6b441e98bfad7d763",
+      "source_id": "SUP_TOLL_OFFER"
+    }
+  ]
+}
