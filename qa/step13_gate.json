@@ -1,0 +1,58 @@
+{
+  "report_id": "S13-20261012-GATE-v1",
+  "date_local": "2026-10-12",
+  "timezone": "America/Los_Angeles",
+  "audited_commit": "ff33e18ce3e781dccf5194331561c97c71285a97",
+  "audited_commit_stage": "step11",
+  "baseline_commit_utc": "2026-10-12T21:54:37Z",
+  "verdict": "insufficient_evidence_to_complete",
+  "step12_artifacts_confirmed": false,
+  "full_step13_completed": false,
+  "eligible_for_A_C_integration": false,
+  "unresolved_major_issues": [
+    "S13-001"
+  ],
+  "missing_objects": [
+    "dated step12 synthesis and action rules",
+    "consolidated A parameter adoption table",
+    "step12 review packet"
+  ],
+  "inventory_scope": {
+    "all_visible_branches": 13,
+    "recent_pull_requests": 10,
+    "preexisting_V2_tabs": 19,
+    "designated_private_roots_and_output_directory_checked": true
+  },
+  "method_exposure": "exposed_to_prior_context_and_progress; not_fully_blind",
+  "primary_originals_read": [
+    "JS-01",
+    "JS-02",
+    "JS-06",
+    "JS-29"
+  ],
+  "arithmetic_families_passed": [
+    "equal_payment",
+    "points",
+    "arm",
+    "refinance"
+  ],
+  "not_independently_verified": [
+    "demographic original rows",
+    "HMDA underlying microdata",
+    "school original indicators and assignment",
+    "supply approvals and target denominators",
+    "vendor price histories",
+    "signed leases and property-specific costs",
+    "Fannie/MBA/Fed original forecast PDFs",
+    "all step12 final action conclusions"
+  ],
+  "no_household_A_C_read_or_run": true,
+  "no_subagents": true,
+  "no_third_party_contact": true,
+  "checked_files": {
+    "data/scenario_analysis_design.json": "071a5cc02816bf5731773a796ef31f5228f700b2edee6e82e3e23b06a013adaa",
+    "data/scenario_source_index.csv": "e11455eed250defe8e8cac8fd596341447d4d4de8a035fd2605e9711cf5d0f65",
+    "reports/2026-10-12_joint_scenarios_phase14.md": "6b7b9042579b8ef3672f56e083bc966c09031eb8ad7c8bcbd9e5946d62c69c6c"
+  },
+  "next_action": "Complete and freeze step12 synthesis, A parameter table and review packet; then resume full step13 review."
+}
