@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-11-demographics-phase1",
+  "version": "2026-10-11-transaction-pilot-phase5",
   "timezone": "America/Los_Angeles",
   "project_type": "independent_public_market_B",
   "primary_city": "Irvine",
@@ -23,7 +23,7 @@
     "Portola Springs",
     "Great Park"
   ],
-  "north_irvine_boundary_status": "community_parent_pa_crosswalk_v0_2_done; precise_polygons_and_census_tract_overlay_pending",
+  "north_irvine_boundary_status": "focus_HOA_masks_and_Census_proxy_diagnostics_completed; full_north_Irvine_market_and_legal_boundaries_pending",
   "target_product": {
     "minimum_area_sqft": 1650,
     "preferred_bedrooms": 4,
@@ -42,6 +42,14 @@
     "manual_checks_minimum": 5
   },
   "independent_B_required_before_A": true,
-  "geography_crosswalk": "data/clean/community_pa_crosswalk_v0_2.csv",
-  "gis_tract_is_census_tract": false
+  "geography_crosswalk": "data/clean/community_census_crosswalk.csv",
+  "gis_tract_is_census_tract": false,
+  "transaction_trial_status": {
+    "closed_sale_records_mls_reported": 25,
+    "closed_lease_records_mls_reported": 3,
+    "sale_source_reviews": 8,
+    "lease_source_reviews": 3,
+    "title_or_site_verified": 0,
+    "market_pricing_series_accepted": false
+  }
 }
