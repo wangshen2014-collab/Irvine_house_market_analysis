@@ -1,0 +1,73 @@
+{
+  "version": "pricing_phase12_v1",
+  "as_of": "2026-10-12",
+  "inputs": [
+    {
+      "path": "raw/City_zhvi_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv",
+      "sha256": "9be9ce85c3442fc40d362a009738ae2c8e8ee257c3eadc8d52e4c63a95fb2355",
+      "bytes": 93930992,
+      "url": "https://files.zillowstatic.com/research/public_csvs/zhvi/City_zhvi_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv",
+      "retrieved_at": "2026-10-12T19:58:17.359316+00:00",
+      "kind": "original_download_bytes",
+      "public_storage": "link_only_raw_private"
+    },
+    {
+      "path": "raw/Neighborhood_zhvi_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv",
+      "sha256": "06138126ce4624cdb813c31157acd968a0c529340c8053ba4111dd5686883b9f",
+      "bytes": 103344187,
+      "url": "https://files.zillowstatic.com/research/public_csvs/zhvi/Neighborhood_zhvi_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv",
+      "retrieved_at": "2026-10-12T19:58:17.359834+00:00",
+      "kind": "original_download_bytes",
+      "public_storage": "link_only_raw_private"
+    },
+    {
+      "path": "raw/City_zhvi_bdrmcnt_4_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv",
+      "sha256": "92b3a45ef6d32ddf8cf82e6ea3605cab3a58d3e6d04646eef4fee5a50af16201",
+      "bytes": 50105032,
+      "url": "https://files.zillowstatic.com/research/public_csvs/zhvi/City_zhvi_bdrmcnt_4_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv",
+      "retrieved_at": "2026-10-12T19:58:17.360476+00:00",
+      "kind": "original_download_bytes",
+      "public_storage": "link_only_raw_private"
+    },
+    {
+      "path": "raw/Neighborhood_zhvi_bdrmcnt_4_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv",
+      "sha256": "9c50b5283c2e192d0fac7fc676c0db21a45b37c67f41824206db35c9407e91ad",
+      "bytes": 46854390,
+      "url": "https://files.zillowstatic.com/research/public_csvs/zhvi/Neighborhood_zhvi_bdrmcnt_4_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv",
+      "retrieved_at": "2026-10-12T19:58:17.361095+00:00",
+      "kind": "original_download_bytes",
+      "public_storage": "link_only_raw_private"
+    },
+    {
+      "path": "raw/realtor_county_history.csv",
+      "sha256": "d2021d58077cbcad380f895685522b9b799783a38a7290ccaa6021f7bf651aa3",
+      "bytes": 103158368,
+      "url": "https://econdata.s3-us-west-2.amazonaws.com/Reports/Core/RDC_Inventory_Core_Metrics_County_History.csv",
+      "retrieved_at": "2026-10-12T20:00:41.551482+00:00",
+      "kind": "original_download_bytes",
+      "public_storage": "link_only_raw_private"
+    },
+    {
+      "path": "private/pricing_notes.json",
+      "sha256": "6333a1ffdeb632b9003ebe561d608b150dc84276228aee5862c9ef7043feed8c",
+      "bytes": 12260,
+      "kind": "original_research_notes_not_source_HTML",
+      "public_storage": "private_workpaper"
+    },
+    {
+      "path": "private/frozen/rental_notes.json",
+      "sha256": "bb8f9620fe39720d61f920dcb0e65e4299a836c97b27861841305d9fc5e7a7ec",
+      "bytes": 112203,
+      "kind": "original_research_notes_not_source_HTML",
+      "public_storage": "private_workpaper"
+    },
+    {
+      "path": "private/frozen/history_notes.json",
+      "sha256": "9be2132b111ccb212b662adb78a74239ef9603ff146a77225b0ed10a5136b6e9",
+      "bytes": 39272,
+      "kind": "original_research_notes_not_source_HTML",
+      "public_storage": "private_workpaper"
+    }
+  ],
+  "publication": "No property facts or full vendor time series published; original aggregate diagnostics and synthetic scenarios only."
+}

@@ -1,0 +1,11 @@
+metric,value,unit
+downloaded_vendor_CSV,5,files
+selected_ZHVI_series,19,model_series_not_transactions
+county_months,123,Orange_CA_months
+same_season_county_rows,4,September_cross_sections
+new_property_followups,9,purposively_selected_addresses
+old_sale_cohort_reused,25,reported_closed_sales
+certified_2024_2025_to_2026_target_repeat_pairs,0,pairs
+complete_target_inventory_denominator,0,verified_denominators
+new_signed_leases,0,documents
+real_complete_net_yield_cases,0,cases

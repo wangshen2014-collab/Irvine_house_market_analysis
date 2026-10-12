@@ -1,0 +1,17 @@
+{
+  "input_fingerprints": 8,
+  "series_count": 19,
+  "latest_zhvi": "2026-08-31",
+  "latest_county": "202609",
+  "selected_county_quality_flags": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "missing_is_not_zero": true,
+  "full_DOM_derived": false,
+  "absorption_rate_derived": false,
+  "real_net_yield_derived": false,
+  "synthetic_scenarios": 9
+}

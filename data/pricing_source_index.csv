@@ -1,0 +1,18 @@
+source_id,provider,url,access_or_limitation,retrieved_date
+Z01,Zillow,https://www.zillow.com/research/data/,CSV latest 2026-08-31; website snapshot through September kept separate,2026-10-12
+Z02,Zillow,https://www.zillow.com/research/zhvi-methodology/,"repeat-Zestimate model, not repeat closed-sale index",2026-10-12
+R01,Realtor.com Economic Research,https://www.realtor.com/research/data/,county history 2026-09; stock and flow separated,2026-10-12
+R02,Realtor.com Economic Research,https://rdceconomics.wpengine.com/wp-content/uploads/2023/02/realtor-research-asset-sharing.pdf,attribution and source link; no full republishing,2026-10-12
+F01,Redfin,https://www.redfin.com/city/9361/CA/Irvine/housing-market,three-month/single-month label conflicts; excluded from absorption,2026-10-12
+F02,Redfin,https://www.redfin.com/neighborhood/116032/CA/Irvine/Stonegate/housing-market,current August data versus title September/cache conflict,2026-10-12
+O01,OC REALTORS,https://www.ocrealtors.org/business-tools/OC-FastStats,member login; no access or bypass,2026-10-12
+O02,OC REALTORS,https://www.ocrealtors.org/market-data,county attached and detached summary; animated zero counters not observations,2026-10-12
+P01,Redfin / syndicated MLS,https://www.redfin.com/CA/Irvine/30-Larkfield-92620/home/51684191,individual_public_page_review_CRMLS_or_public_record_claim,2026-10-12
+P02,Redfin / syndicated MLS,https://www.redfin.com/CA/Irvine/77-Rembrandt-92620/home/58557351,individual_public_page_review_CRMLS_or_public_record_claim,2026-10-12
+P03,Redfin / syndicated MLS,https://www.redfin.com/CA/Irvine/126-Saybrook-92620/home/58556445,individual_public_page_review_CRMLS_or_public_record_claim,2026-10-12
+P04,Redfin / syndicated MLS,https://www.redfin.com/CA/Irvine/146-Dolci-92602/home/169487130,individual_public_page_review_CRMLS_or_public_record_claim,2026-10-12
+P05,Redfin / syndicated MLS,https://www.redfin.com/CA/Irvine/32-Larkfield-92620/home/51684192,individual_public_page_review_CRMLS_or_public_record_claim,2026-10-12
+P06,Redfin / syndicated MLS,https://www.redfin.com/CA/Irvine/41-Coleridge-92620/home/51684442,individual_public_page_review_CRMLS_or_public_record_claim,2026-10-12
+P07,Redfin / syndicated MLS,https://www.redfin.com/CA/Irvine/120-Pendant-92620/home/45383217,individual_public_page_review_CRMLS_or_public_record_claim,2026-10-12
+P08,Redfin / syndicated MLS,https://www.redfin.com/CA/Irvine/57-Stanza-92620/home/58552338,individual_public_page_review_CRMLS_or_public_record_claim,2026-10-12
+P09,Redfin / syndicated MLS,https://www.redfin.com/CA/Irvine/63-Birmingham-92620/home/112721607,individual_public_page_review_CRMLS_or_public_record_claim,2026-10-12
