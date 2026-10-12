@@ -1,0 +1,19 @@
+{
+  "review_basis_commit": "cb558116c3df6a21278e6dfff706d67c4aa5a95f",
+  "retrieved_at_utc": "2026-10-12T07:48:02.627138+00:00",
+  "retrieved_at_basis": "download file mtime approximately; processing timestamp recorded separately",
+  "raw_download_mtime_utc": "2026-10-12T07:46:06.016184+00:00",
+  "url": "https://www.homesforsaleinirvine.com/irvine-real-estate-market-update-july-2026/",
+  "access": "direct HTTPS HTML; web service failed separately",
+  "bytes": 97181,
+  "sha256": "f33056e90066f6ac4b1b533985dffa2dff3ea028a8f2a0f31b69fcb39b48b506",
+  "visible_published": "2026-07-10",
+  "visible_updated": "2026-10-11",
+  "footer_data_as_of": "2026-07-10",
+  "structured_modified": [
+    "2026-10-11T20:26:58+00:00",
+    "2026-10-11T06:17:03-07:00"
+  ],
+  "historical_page_status": "not independently verified; original notes retained unchanged",
+  "current_page_status": "direct HTML examined; no historical inventory inference"
+}

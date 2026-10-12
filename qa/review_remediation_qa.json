@@ -1,0 +1,35 @@
+{
+  "basis": "cb558116c3df6a21278e6dfff706d67c4aa5a95f",
+  "unchanged_tables": [
+    {
+      "path": "data/clean/crosscity_buyer_evidence_gates.csv",
+      "rows": 3,
+      "values_unchanged": true
+    },
+    {
+      "path": "data/clean/crosscity_cost_marginal_scenarios.csv",
+      "rows": 3,
+      "values_unchanged": true
+    },
+    {
+      "path": "data/clean/crosscity_cost_synthetic_scenarios.csv",
+      "rows": 2,
+      "values_unchanged": true
+    },
+    {
+      "path": "data/clean/crosscity_evidence_coverage.csv",
+      "rows": 14,
+      "values_unchanged": true
+    },
+    {
+      "path": "data/clean/crosscity_match_sensitivity.csv",
+      "rows": 5,
+      "values_unchanged": true
+    }
+  ],
+  "frozen_manifest_unchanged": true,
+  "frozen_inputs_verified_by_builder": 5,
+  "broker_count": 13,
+  "B13_original_html_dates_verified": true,
+  "remaining_global_blockers": []
+}

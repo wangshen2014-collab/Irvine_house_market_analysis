@@ -140,3 +140,7 @@ python scripts/report_crosscity_comparison.py --private-dir /path/to/phase8/revi
 恢复指定阶段八证据包的`inputs`目录（5份冻结笔记／基线），以`data/crosscity_source_manifest.json`校验后运行；`data/crosscity_scenario_config.json`为显式研究参数。两份脚本仅用Python标准库，第三条命令会生成含逐屋数据的私有报告计划，不能加入公共仓库。官方7份成功下载、3项失败状态分别登记；SHA256未被用于冒充未下载网页的原件。公开6表和QA，隔离输出及私有诊断共11份逐字节一致；等长输入篡改在写出前被拒绝。
 
 下一项：全市学校与2026—27地址边界、教育项目和容量规则，之后继续供给、租赁全成本、定价及独立审阅。步骤5仍受限完成，完整公共B和买入／等待结论未完成，家庭A/C尚未接入。
+
+## 阶段五至八独立审阅处理
+
+[2026-10-12处理报告](reports/2026-10-12_review_remediation.md)及[八项状态](qa/review_disposition_20261012.csv)。B58-001当前网页版本已补，原冻结笔记不改；B58-007区分登记与独立认证，其余缺口保留。阶段八原命令自动应用来源版本补记，五张数值／覆盖表不变。学校模块可继续，完整品质／全成本／分流仍未识别。
