@@ -56,3 +56,13 @@ acs_household_metrics_2024.csv为305项常规指标（包含近似MOE）；acs_r
 - `80_replicates_SDR`采用4/80乘80次平方离差，再乘1.645得到90%MOE，分子／分母或完整BG在同一次replicate中运算。单个发布数值保留发布MOE；其他RSS／比例近似明确命名。`CV>30%`仅研究提示线，不是Census官方通过／拒绝标准。
 - `acs_community_geography_check.csv`为11条身份核对；`acs_community_table_coverage.csv`为11表可得性。B25115/B25118/B25119没有9个目标BG行，不下推tract、不填零；合并BG中位数不做加权平均。
 - `community_source_manifest.json`为21份新来源字节和SHA-256；复用13份ACS批量来源继续参见`acs_source_manifest.json`。官方换版后须登记新snapshot，不能覆盖当前快照。
+
+## 成交／租赁阶段五
+
+公开transaction_source_index为record_id×source_url的证据索引，link_only不表示已获准重发房源库。transaction_pilot_qa记录聚合覆盖与逐项问题；不含价格／面积／贷款字段或私人档案入口。
+
+个人研究输入中transaction_type明确区分sale与lease；amount分别为一次售房价和发布月租，price_per_sqft分别为售房比值和月租比值，不混单位。close_date为选择的MLS关闭事件日，不自动替换成recording或抓取日期；alternate日期另存。MLS房型、common_interest和共墙分列，legal_property_type全数unverified，产权报告尚未取得。
+
+HOA保留金额和monthly／quarterly／annual频率，月度等价除以1／3／12后相加；不是核实的新账单。buyer_specific_mls_financing只取买方专属标签，不从卖方acceptable terms或缺失值推定现金购买。seller_concession、实际合同日、完整挂牌史、MR账单缺失，不填0。
+
+target_filter_match按四卧、面积>=1650、建年>=2010、MLS无共墙筛选；stable_profile_candidate再排除重要卧室／面积冲突，不表示价格可比、产权或现场验收。manual_source_reviews是Codex串行公开来源检查，保留问题，非第三方真人现场检查或第二模型审查。

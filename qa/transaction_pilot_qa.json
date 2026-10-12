@@ -1,0 +1,1773 @@
+{
+  "version": "2026-10-11-transaction-pilot",
+  "status": "field_feasibility_pilot_with_unresolved_items",
+  "as_of_local": "2026-10-11",
+  "search_window_start": "2024-10-12",
+  "observed_sale_date_range": [
+    "2025-02-05",
+    "2026-10-01"
+  ],
+  "closed_sales_mls_reported": 25,
+  "closed_leases_mls_reported": 3,
+  "communities": {
+    "Stonegate": 8,
+    "Reserve": 8,
+    "Eastwood": 4,
+    "Portola Springs": 2,
+    "Baker Ranch": 1,
+    "Greenwood / Tustin Legacy": 1,
+    "Glenwood / Veranda": 1
+  },
+  "sale_source_reviews": 8,
+  "lease_source_reviews": 3,
+  "human_third_party_review_or_site_inspection": false,
+  "second_model_review": false,
+  "reported_target_filter_matches": 23,
+  "stable_reported_profile_candidates": 22,
+  "verified_purchase_ready_properties": 0,
+  "official_geography_records": 24,
+  "official_geography_unique_addresses": 23,
+  "broker_only_geography_records": 4,
+  "hoa_geometries_repaired_before_point_checks": 4,
+  "sale_field_coverage": {
+    "close_date": {
+      "observed": 25,
+      "denominator": 25,
+      "basis": "reported_field_not_document_certification"
+    },
+    "amount": {
+      "observed": 25,
+      "denominator": 25,
+      "basis": "reported_field_not_document_certification"
+    },
+    "bedrooms": {
+      "observed": 25,
+      "denominator": 25,
+      "basis": "reported_field_not_document_certification"
+    },
+    "living_area_sqft": {
+      "observed": 25,
+      "denominator": 25,
+      "basis": "reported_field_not_document_certification"
+    },
+    "year_built": {
+      "observed": 25,
+      "denominator": 25,
+      "basis": "reported_field_not_document_certification"
+    },
+    "mls_property_subtype": {
+      "observed": 25,
+      "denominator": 25,
+      "basis": "reported_field_not_document_certification"
+    },
+    "shared_wall_status": {
+      "observed": 25,
+      "denominator": 25,
+      "basis": "reported_field_not_document_certification"
+    },
+    "hoa_monthly_equivalent": {
+      "observed": 19,
+      "denominator": 25
+    },
+    "buyer_specific_mls_financing": {
+      "observed": 3,
+      "denominator": 25
+    },
+    "legal_title_verified": {
+      "observed": 0,
+      "denominator": 25
+    },
+    "recorded_deed_or_loan_verified": {
+      "observed": 0,
+      "denominator": 25
+    },
+    "actual_contract_date": {
+      "observed": 0,
+      "denominator": 25
+    },
+    "complete_listing_history": {
+      "observed": 0,
+      "denominator": 25
+    },
+    "actual_seller_concession": {
+      "observed": 0,
+      "denominator": 25
+    },
+    "verified_mello_roos_bill": {
+      "observed": 0,
+      "denominator": 25
+    }
+  },
+  "issues_by_record_id": {
+    "T001": [
+      "dom_display_conflict"
+    ],
+    "T003": [
+      "sale_price_cross_source_conflict"
+    ],
+    "T004": [
+      "closing_date_cross_source_conflict",
+      "stale_pending_cache",
+      "platform_community_label_conflict"
+    ],
+    "T009": [
+      "material_bedroom_and_area_conflict",
+      "mls_vs_record_date_conflict"
+    ],
+    "T013": [
+      "three_bedroom_control"
+    ],
+    "T015": [
+      "outside_no_shared_wall_target"
+    ],
+    "T016": [
+      "reported_ppsf_inconsistent"
+    ],
+    "T019": [
+      "potential_duplicate_event_different_dates",
+      "area_cross_source_difference"
+    ],
+    "T022": [
+      "stale_active_cache"
+    ],
+    "L001": [
+      "lease_mislabelled_as_sale",
+      "lease_date_cross_source_conflict",
+      "mls_property_type_conflict"
+    ],
+    "L002": [
+      "removed_listing_not_closed_lease"
+    ]
+  },
+  "checks": [
+    {
+      "check": "closed_sale_feasibility_count_20_to_30",
+      "pass": true
+    },
+    {
+      "check": "combined_trial_count_at_most_30",
+      "pass": true
+    },
+    {
+      "check": "unique_record_ids",
+      "pass": true
+    },
+    {
+      "check": "unique_address_type_event_dates",
+      "pass": true
+    },
+    {
+      "check": "no_sale_lease_identifier_overlap",
+      "pass": true
+    },
+    {
+      "check": "at_least_three_communities",
+      "pass": true
+    },
+    {
+      "check": "at_least_five_sale_source_reviews",
+      "pass": true
+    },
+    {
+      "check": "T001:closed_reported_type",
+      "pass": true
+    },
+    {
+      "check": "T001:positive_amount",
+      "pass": true
+    },
+    {
+      "check": "T001:valid_bedrooms_area_year",
+      "pass": true
+    },
+    {
+      "check": "T001:dated_observation_window",
+      "pass": true
+    },
+    {
+      "check": "T001:linked_provenance",
+      "pass": true
+    },
+    {
+      "check": "T001:title_not_inferred_from_mls",
+      "pass": true
+    },
+    {
+      "check": "T001:missing_concession_not_zero",
+      "pass": true
+    },
+    {
+      "check": "T001:recorded_loan_not_inferred",
+      "pass": true
+    },
+    {
+      "check": "T001:unit_separated_price_ratio",
+      "pass": true
+    },
+    {
+      "check": "T001:target_filter_recalculated",
+      "pass": true
+    },
+    {
+      "check": "T001:conflicted_profile_not_stable",
+      "pass": true
+    },
+    {
+      "check": "T001:unique_municipal_address",
+      "pass": true
+    },
+    {
+      "check": "T001:hoa_research_mask_match",
+      "pass": true
+    },
+    {
+      "check": "T001:address_point_building_agreement",
+      "pass": true
+    },
+    {
+      "check": "T002:closed_reported_type",
+      "pass": true
+    },
+    {
+      "check": "T002:positive_amount",
+      "pass": true
+    },
+    {
+      "check": "T002:valid_bedrooms_area_year",
+      "pass": true
+    },
+    {
+      "check": "T002:dated_observation_window",
+      "pass": true
+    },
+    {
+      "check": "T002:linked_provenance",
+      "pass": true
+    },
+    {
+      "check": "T002:title_not_inferred_from_mls",
+      "pass": true
+    },
+    {
+      "check": "T002:missing_concession_not_zero",
+      "pass": true
+    },
+    {
+      "check": "T002:recorded_loan_not_inferred",
+      "pass": true
+    },
+    {
+      "check": "T002:unit_separated_price_ratio",
+      "pass": true
+    },
+    {
+      "check": "T002:target_filter_recalculated",
+      "pass": true
+    },
+    {
+      "check": "T002:conflicted_profile_not_stable",
+      "pass": true
+    },
+    {
+      "check": "T002:unique_municipal_address",
+      "pass": true
+    },
+    {
+      "check": "T002:hoa_research_mask_match",
+      "pass": true
+    },
+    {
+      "check": "T002:address_point_building_agreement",
+      "pass": true
+    },
+    {
+      "check": "T003:closed_reported_type",
+      "pass": true
+    },
+    {
+      "check": "T003:positive_amount",
+      "pass": true
+    },
+    {
+      "check": "T003:valid_bedrooms_area_year",
+      "pass": true
+    },
+    {
+      "check": "T003:dated_observation_window",
+      "pass": true
+    },
+    {
+      "check": "T003:linked_provenance",
+      "pass": true
+    },
+    {
+      "check": "T003:title_not_inferred_from_mls",
+      "pass": true
+    },
+    {
+      "check": "T003:missing_concession_not_zero",
+      "pass": true
+    },
+    {
+      "check": "T003:recorded_loan_not_inferred",
+      "pass": true
+    },
+    {
+      "check": "T003:unit_separated_price_ratio",
+      "pass": true
+    },
+    {
+      "check": "T003:target_filter_recalculated",
+      "pass": true
+    },
+    {
+      "check": "T003:conflicted_profile_not_stable",
+      "pass": true
+    },
+    {
+      "check": "T003:unique_municipal_address",
+      "pass": true
+    },
+    {
+      "check": "T003:hoa_research_mask_match",
+      "pass": true
+    },
+    {
+      "check": "T003:address_point_building_agreement",
+      "pass": true
+    },
+    {
+      "check": "T004:closed_reported_type",
+      "pass": true
+    },
+    {
+      "check": "T004:positive_amount",
+      "pass": true
+    },
+    {
+      "check": "T004:valid_bedrooms_area_year",
+      "pass": true
+    },
+    {
+      "check": "T004:dated_observation_window",
+      "pass": true
+    },
+    {
+      "check": "T004:linked_provenance",
+      "pass": true
+    },
+    {
+      "check": "T004:title_not_inferred_from_mls",
+      "pass": true
+    },
+    {
+      "check": "T004:missing_concession_not_zero",
+      "pass": true
+    },
+    {
+      "check": "T004:recorded_loan_not_inferred",
+      "pass": true
+    },
+    {
+      "check": "T004:unit_separated_price_ratio",
+      "pass": true
+    },
+    {
+      "check": "T004:target_filter_recalculated",
+      "pass": true
+    },
+    {
+      "check": "T004:conflicted_profile_not_stable",
+      "pass": true
+    },
+    {
+      "check": "T004:unique_municipal_address",
+      "pass": true
+    },
+    {
+      "check": "T004:hoa_research_mask_match",
+      "pass": true
+    },
+    {
+      "check": "T004:address_point_building_agreement",
+      "pass": true
+    },
+    {
+      "check": "T005:closed_reported_type",
+      "pass": true
+    },
+    {
+      "check": "T005:positive_amount",
+      "pass": true
+    },
+    {
+      "check": "T005:valid_bedrooms_area_year",
+      "pass": true
+    },
+    {
+      "check": "T005:dated_observation_window",
+      "pass": true
+    },
+    {
+      "check": "T005:linked_provenance",
+      "pass": true
+    },
+    {
+      "check": "T005:title_not_inferred_from_mls",
+      "pass": true
+    },
+    {
+      "check": "T005:missing_concession_not_zero",
+      "pass": true
+    },
+    {
+      "check": "T005:recorded_loan_not_inferred",
+      "pass": true
+    },
+    {
+      "check": "T005:unit_separated_price_ratio",
+      "pass": true
+    },
+    {
+      "check": "T005:target_filter_recalculated",
+      "pass": true
+    },
+    {
+      "check": "T005:conflicted_profile_not_stable",
+      "pass": true
+    },
+    {
+      "check": "T005:unique_municipal_address",
+      "pass": true
+    },
+    {
+      "check": "T005:hoa_research_mask_match",
+      "pass": true
+    },
+    {
+      "check": "T005:address_point_building_agreement",
+      "pass": true
+    },
+    {
+      "check": "T006:closed_reported_type",
+      "pass": true
+    },
+    {
+      "check": "T006:positive_amount",
+      "pass": true
+    },
+    {
+      "check": "T006:valid_bedrooms_area_year",
+      "pass": true
+    },
+    {
+      "check": "T006:dated_observation_window",
+      "pass": true
+    },
+    {
+      "check": "T006:linked_provenance",
+      "pass": true
+    },
+    {
+      "check": "T006:title_not_inferred_from_mls",
+      "pass": true
+    },
+    {
+      "check": "T006:missing_concession_not_zero",
+      "pass": true
+    },
+    {
+      "check": "T006:recorded_loan_not_inferred",
+      "pass": true
+    },
+    {
+      "check": "T006:unit_separated_price_ratio",
+      "pass": true
+    },
+    {
+      "check": "T006:target_filter_recalculated",
+      "pass": true
+    },
+    {
+      "check": "T006:conflicted_profile_not_stable",
+      "pass": true
+    },
+    {
+      "check": "T006:unique_municipal_address",
+      "pass": true
+    },
+    {
+      "check": "T006:hoa_research_mask_match",
+      "pass": true
+    },
+    {
+      "check": "T006:address_point_building_agreement",
+      "pass": true
+    },
+    {
+      "check": "T007:closed_reported_type",
+      "pass": true
+    },
+    {
+      "check": "T007:positive_amount",
+      "pass": true
+    },
+    {
+      "check": "T007:valid_bedrooms_area_year",
+      "pass": true
+    },
+    {
+      "check": "T007:dated_observation_window",
+      "pass": true
+    },
+    {
+      "check": "T007:linked_provenance",
+      "pass": true
+    },
+    {
+      "check": "T007:title_not_inferred_from_mls",
+      "pass": true
+    },
+    {
+      "check": "T007:missing_concession_not_zero",
+      "pass": true
+    },
+    {
+      "check": "T007:recorded_loan_not_inferred",
+      "pass": true
+    },
+    {
+      "check": "T007:unit_separated_price_ratio",
+      "pass": true
+    },
+    {
+      "check": "T007:target_filter_recalculated",
+      "pass": true
+    },
+    {
+      "check": "T007:conflicted_profile_not_stable",
+      "pass": true
+    },
+    {
+      "check": "T007:unique_municipal_address",
+      "pass": true
+    },
+    {
+      "check": "T007:hoa_research_mask_match",
+      "pass": true
+    },
+    {
+      "check": "T007:address_point_building_agreement",
+      "pass": true
+    },
+    {
+      "check": "T008:closed_reported_type",
+      "pass": true
+    },
+    {
+      "check": "T008:positive_amount",
+      "pass": true
+    },
+    {
+      "check": "T008:valid_bedrooms_area_year",
+      "pass": true
+    },
+    {
+      "check": "T008:dated_observation_window",
+      "pass": true
+    },
+    {
+      "check": "T008:linked_provenance",
+      "pass": true
+    },
+    {
+      "check": "T008:title_not_inferred_from_mls",
+      "pass": true
+    },
+    {
+      "check": "T008:missing_concession_not_zero",
+      "pass": true
+    },
+    {
+      "check": "T008:recorded_loan_not_inferred",
+      "pass": true
+    },
+    {
+      "check": "T008:unit_separated_price_ratio",
+      "pass": true
+    },
+    {
+      "check": "T008:target_filter_recalculated",
+      "pass": true
+    },
+    {
+      "check": "T008:conflicted_profile_not_stable",
+      "pass": true
+    },
+    {
+      "check": "T008:unique_municipal_address",
+      "pass": true
+    },
+    {
+      "check": "T008:hoa_research_mask_match",
+      "pass": true
+    },
+    {
+      "check": "T008:address_point_building_agreement",
+      "pass": true
+    },
+    {
+      "check": "T009:closed_reported_type",
+      "pass": true
+    },
+    {
+      "check": "T009:positive_amount",
+      "pass": true
+    },
+    {
+      "check": "T009:valid_bedrooms_area_year",
+      "pass": true
+    },
+    {
+      "check": "T009:dated_observation_window",
+      "pass": true
+    },
+    {
+      "check": "T009:linked_provenance",
+      "pass": true
+    },
+    {
+      "check": "T009:title_not_inferred_from_mls",
+      "pass": true
+    },
+    {
+      "check": "T009:missing_concession_not_zero",
+      "pass": true
+    },
+    {
+      "check": "T009:recorded_loan_not_inferred",
+      "pass": true
+    },
+    {
+      "check": "T009:unit_separated_price_ratio",
+      "pass": true
+    },
+    {
+      "check": "T009:target_filter_recalculated",
+      "pass": true
+    },
+    {
+      "check": "T009:conflicted_profile_not_stable",
+      "pass": true
+    },
+    {
+      "check": "T009:unique_municipal_address",
+      "pass": true
+    },
+    {
+      "check": "T009:hoa_research_mask_match",
+      "pass": true
+    },
+    {
+      "check": "T009:address_point_building_agreement",
+      "pass": true
+    },
+    {
+      "check": "T010:closed_reported_type",
+      "pass": true
+    },
+    {
+      "check": "T010:positive_amount",
+      "pass": true
+    },
+    {
+      "check": "T010:valid_bedrooms_area_year",
+      "pass": true
+    },
+    {
+      "check": "T010:dated_observation_window",
+      "pass": true
+    },
+    {
+      "check": "T010:linked_provenance",
+      "pass": true
+    },
+    {
+      "check": "T010:title_not_inferred_from_mls",
+      "pass": true
+    },
+    {
+      "check": "T010:missing_concession_not_zero",
+      "pass": true
+    },
+    {
+      "check": "T010:recorded_loan_not_inferred",
+      "pass": true
+    },
+    {
+      "check": "T010:unit_separated_price_ratio",
+      "pass": true
+    },
+    {
+      "check": "T010:target_filter_recalculated",
+      "pass": true
+    },
+    {
+      "check": "T010:conflicted_profile_not_stable",
+      "pass": true
+    },
+    {
+      "check": "T010:unique_municipal_address",
+      "pass": true
+    },
+    {
+      "check": "T010:hoa_research_mask_match",
+      "pass": true
+    },
+    {
+      "check": "T010:address_point_building_agreement",
+      "pass": true
+    },
+    {
+      "check": "T011:closed_reported_type",
+      "pass": true
+    },
+    {
+      "check": "T011:positive_amount",
+      "pass": true
+    },
+    {
+      "check": "T011:valid_bedrooms_area_year",
+      "pass": true
+    },
+    {
+      "check": "T011:dated_observation_window",
+      "pass": true
+    },
+    {
+      "check": "T011:linked_provenance",
+      "pass": true
+    },
+    {
+      "check": "T011:title_not_inferred_from_mls",
+      "pass": true
+    },
+    {
+      "check": "T011:missing_concession_not_zero",
+      "pass": true
+    },
+    {
+      "check": "T011:recorded_loan_not_inferred",
+      "pass": true
+    },
+    {
+      "check": "T011:unit_separated_price_ratio",
+      "pass": true
+    },
+    {
+      "check": "T011:target_filter_recalculated",
+      "pass": true
+    },
+    {
+      "check": "T011:conflicted_profile_not_stable",
+      "pass": true
+    },
+    {
+      "check": "T011:unique_municipal_address",
+      "pass": true
+    },
+    {
+      "check": "T011:hoa_research_mask_match",
+      "pass": true
+    },
+    {
+      "check": "T011:address_point_building_agreement",
+      "pass": true
+    },
+    {
+      "check": "T012:closed_reported_type",
+      "pass": true
+    },
+    {
+      "check": "T012:positive_amount",
+      "pass": true
+    },
+    {
+      "check": "T012:valid_bedrooms_area_year",
+      "pass": true
+    },
+    {
+      "check": "T012:dated_observation_window",
+      "pass": true
+    },
+    {
+      "check": "T012:linked_provenance",
+      "pass": true
+    },
+    {
+      "check": "T012:title_not_inferred_from_mls",
+      "pass": true
+    },
+    {
+      "check": "T012:missing_concession_not_zero",
+      "pass": true
+    },
+    {
+      "check": "T012:recorded_loan_not_inferred",
+      "pass": true
+    },
+    {
+      "check": "T012:unit_separated_price_ratio",
+      "pass": true
+    },
+    {
+      "check": "T012:target_filter_recalculated",
+      "pass": true
+    },
+    {
+      "check": "T012:conflicted_profile_not_stable",
+      "pass": true
+    },
+    {
+      "check": "T012:unique_municipal_address",
+      "pass": true
+    },
+    {
+      "check": "T012:hoa_research_mask_match",
+      "pass": true
+    },
+    {
+      "check": "T012:address_point_building_agreement",
+      "pass": true
+    },
+    {
+      "check": "T013:closed_reported_type",
+      "pass": true
+    },
+    {
+      "check": "T013:positive_amount",
+      "pass": true
+    },
+    {
+      "check": "T013:valid_bedrooms_area_year",
+      "pass": true
+    },
+    {
+      "check": "T013:dated_observation_window",
+      "pass": true
+    },
+    {
+      "check": "T013:linked_provenance",
+      "pass": true
+    },
+    {
+      "check": "T013:title_not_inferred_from_mls",
+      "pass": true
+    },
+    {
+      "check": "T013:missing_concession_not_zero",
+      "pass": true
+    },
+    {
+      "check": "T013:recorded_loan_not_inferred",
+      "pass": true
+    },
+    {
+      "check": "T013:unit_separated_price_ratio",
+      "pass": true
+    },
+    {
+      "check": "T013:target_filter_recalculated",
+      "pass": true
+    },
+    {
+      "check": "T013:conflicted_profile_not_stable",
+      "pass": true
+    },
+    {
+      "check": "T013:unique_municipal_address",
+      "pass": true
+    },
+    {
+      "check": "T013:hoa_research_mask_match",
+      "pass": true
+    },
+    {
+      "check": "T013:address_point_building_agreement",
+      "pass": true
+    },
+    {
+      "check": "T014:closed_reported_type",
+      "pass": true
+    },
+    {
+      "check": "T014:positive_amount",
+      "pass": true
+    },
+    {
+      "check": "T014:valid_bedrooms_area_year",
+      "pass": true
+    },
+    {
+      "check": "T014:dated_observation_window",
+      "pass": true
+    },
+    {
+      "check": "T014:linked_provenance",
+      "pass": true
+    },
+    {
+      "check": "T014:title_not_inferred_from_mls",
+      "pass": true
+    },
+    {
+      "check": "T014:missing_concession_not_zero",
+      "pass": true
+    },
+    {
+      "check": "T014:recorded_loan_not_inferred",
+      "pass": true
+    },
+    {
+      "check": "T014:unit_separated_price_ratio",
+      "pass": true
+    },
+    {
+      "check": "T014:target_filter_recalculated",
+      "pass": true
+    },
+    {
+      "check": "T014:conflicted_profile_not_stable",
+      "pass": true
+    },
+    {
+      "check": "T014:unique_municipal_address",
+      "pass": true
+    },
+    {
+      "check": "T014:hoa_research_mask_match",
+      "pass": true
+    },
+    {
+      "check": "T014:address_point_building_agreement",
+      "pass": true
+    },
+    {
+      "check": "T015:closed_reported_type",
+      "pass": true
+    },
+    {
+      "check": "T015:positive_amount",
+      "pass": true
+    },
+    {
+      "check": "T015:valid_bedrooms_area_year",
+      "pass": true
+    },
+    {
+      "check": "T015:dated_observation_window",
+      "pass": true
+    },
+    {
+      "check": "T015:linked_provenance",
+      "pass": true
+    },
+    {
+      "check": "T015:title_not_inferred_from_mls",
+      "pass": true
+    },
+    {
+      "check": "T015:missing_concession_not_zero",
+      "pass": true
+    },
+    {
+      "check": "T015:recorded_loan_not_inferred",
+      "pass": true
+    },
+    {
+      "check": "T015:unit_separated_price_ratio",
+      "pass": true
+    },
+    {
+      "check": "T015:target_filter_recalculated",
+      "pass": true
+    },
+    {
+      "check": "T015:conflicted_profile_not_stable",
+      "pass": true
+    },
+    {
+      "check": "T015:unique_municipal_address",
+      "pass": true
+    },
+    {
+      "check": "T015:hoa_research_mask_match",
+      "pass": true
+    },
+    {
+      "check": "T015:address_point_building_agreement",
+      "pass": true
+    },
+    {
+      "check": "T016:closed_reported_type",
+      "pass": true
+    },
+    {
+      "check": "T016:positive_amount",
+      "pass": true
+    },
+    {
+      "check": "T016:valid_bedrooms_area_year",
+      "pass": true
+    },
+    {
+      "check": "T016:dated_observation_window",
+      "pass": true
+    },
+    {
+      "check": "T016:linked_provenance",
+      "pass": true
+    },
+    {
+      "check": "T016:title_not_inferred_from_mls",
+      "pass": true
+    },
+    {
+      "check": "T016:missing_concession_not_zero",
+      "pass": true
+    },
+    {
+      "check": "T016:recorded_loan_not_inferred",
+      "pass": true
+    },
+    {
+      "check": "T016:unit_separated_price_ratio",
+      "pass": true
+    },
+    {
+      "check": "T016:target_filter_recalculated",
+      "pass": true
+    },
+    {
+      "check": "T016:conflicted_profile_not_stable",
+      "pass": true
+    },
+    {
+      "check": "T016:unique_municipal_address",
+      "pass": true
+    },
+    {
+      "check": "T016:hoa_research_mask_match",
+      "pass": true
+    },
+    {
+      "check": "T016:address_point_building_agreement",
+      "pass": true
+    },
+    {
+      "check": "T017:closed_reported_type",
+      "pass": true
+    },
+    {
+      "check": "T017:positive_amount",
+      "pass": true
+    },
+    {
+      "check": "T017:valid_bedrooms_area_year",
+      "pass": true
+    },
+    {
+      "check": "T017:dated_observation_window",
+      "pass": true
+    },
+    {
+      "check": "T017:linked_provenance",
+      "pass": true
+    },
+    {
+      "check": "T017:title_not_inferred_from_mls",
+      "pass": true
+    },
+    {
+      "check": "T017:missing_concession_not_zero",
+      "pass": true
+    },
+    {
+      "check": "T017:recorded_loan_not_inferred",
+      "pass": true
+    },
+    {
+      "check": "T017:unit_separated_price_ratio",
+      "pass": true
+    },
+    {
+      "check": "T017:target_filter_recalculated",
+      "pass": true
+    },
+    {
+      "check": "T017:conflicted_profile_not_stable",
+      "pass": true
+    },
+    {
+      "check": "T017:unique_municipal_address",
+      "pass": true
+    },
+    {
+      "check": "T017:hoa_research_mask_match",
+      "pass": true
+    },
+    {
+      "check": "T017:address_point_building_agreement",
+      "pass": true
+    },
+    {
+      "check": "T018:closed_reported_type",
+      "pass": true
+    },
+    {
+      "check": "T018:positive_amount",
+      "pass": true
+    },
+    {
+      "check": "T018:valid_bedrooms_area_year",
+      "pass": true
+    },
+    {
+      "check": "T018:dated_observation_window",
+      "pass": true
+    },
+    {
+      "check": "T018:linked_provenance",
+      "pass": true
+    },
+    {
+      "check": "T018:title_not_inferred_from_mls",
+      "pass": true
+    },
+    {
+      "check": "T018:missing_concession_not_zero",
+      "pass": true
+    },
+    {
+      "check": "T018:recorded_loan_not_inferred",
+      "pass": true
+    },
+    {
+      "check": "T018:unit_separated_price_ratio",
+      "pass": true
+    },
+    {
+      "check": "T018:target_filter_recalculated",
+      "pass": true
+    },
+    {
+      "check": "T018:conflicted_profile_not_stable",
+      "pass": true
+    },
+    {
+      "check": "T018:unique_municipal_address",
+      "pass": true
+    },
+    {
+      "check": "T018:hoa_research_mask_match",
+      "pass": true
+    },
+    {
+      "check": "T018:address_point_building_agreement",
+      "pass": true
+    },
+    {
+      "check": "T019:closed_reported_type",
+      "pass": true
+    },
+    {
+      "check": "T019:positive_amount",
+      "pass": true
+    },
+    {
+      "check": "T019:valid_bedrooms_area_year",
+      "pass": true
+    },
+    {
+      "check": "T019:dated_observation_window",
+      "pass": true
+    },
+    {
+      "check": "T019:linked_provenance",
+      "pass": true
+    },
+    {
+      "check": "T019:title_not_inferred_from_mls",
+      "pass": true
+    },
+    {
+      "check": "T019:missing_concession_not_zero",
+      "pass": true
+    },
+    {
+      "check": "T019:recorded_loan_not_inferred",
+      "pass": true
+    },
+    {
+      "check": "T019:unit_separated_price_ratio",
+      "pass": true
+    },
+    {
+      "check": "T019:target_filter_recalculated",
+      "pass": true
+    },
+    {
+      "check": "T019:conflicted_profile_not_stable",
+      "pass": true
+    },
+    {
+      "check": "T019:unique_municipal_address",
+      "pass": true
+    },
+    {
+      "check": "T019:hoa_research_mask_match",
+      "pass": true
+    },
+    {
+      "check": "T019:address_point_building_agreement",
+      "pass": true
+    },
+    {
+      "check": "T020:closed_reported_type",
+      "pass": true
+    },
+    {
+      "check": "T020:positive_amount",
+      "pass": true
+    },
+    {
+      "check": "T020:valid_bedrooms_area_year",
+      "pass": true
+    },
+    {
+      "check": "T020:dated_observation_window",
+      "pass": true
+    },
+    {
+      "check": "T020:linked_provenance",
+      "pass": true
+    },
+    {
+      "check": "T020:title_not_inferred_from_mls",
+      "pass": true
+    },
+    {
+      "check": "T020:missing_concession_not_zero",
+      "pass": true
+    },
+    {
+      "check": "T020:recorded_loan_not_inferred",
+      "pass": true
+    },
+    {
+      "check": "T020:unit_separated_price_ratio",
+      "pass": true
+    },
+    {
+      "check": "T020:target_filter_recalculated",
+      "pass": true
+    },
+    {
+      "check": "T020:conflicted_profile_not_stable",
+      "pass": true
+    },
+    {
+      "check": "T020:unique_municipal_address",
+      "pass": true
+    },
+    {
+      "check": "T020:hoa_research_mask_match",
+      "pass": true
+    },
+    {
+      "check": "T020:address_point_building_agreement",
+      "pass": true
+    },
+    {
+      "check": "T021:closed_reported_type",
+      "pass": true
+    },
+    {
+      "check": "T021:positive_amount",
+      "pass": true
+    },
+    {
+      "check": "T021:valid_bedrooms_area_year",
+      "pass": true
+    },
+    {
+      "check": "T021:dated_observation_window",
+      "pass": true
+    },
+    {
+      "check": "T021:linked_provenance",
+      "pass": true
+    },
+    {
+      "check": "T021:title_not_inferred_from_mls",
+      "pass": true
+    },
+    {
+      "check": "T021:missing_concession_not_zero",
+      "pass": true
+    },
+    {
+      "check": "T021:recorded_loan_not_inferred",
+      "pass": true
+    },
+    {
+      "check": "T021:unit_separated_price_ratio",
+      "pass": true
+    },
+    {
+      "check": "T021:target_filter_recalculated",
+      "pass": true
+    },
+    {
+      "check": "T021:conflicted_profile_not_stable",
+      "pass": true
+    },
+    {
+      "check": "T021:unique_municipal_address",
+      "pass": true
+    },
+    {
+      "check": "T021:hoa_research_mask_match",
+      "pass": true
+    },
+    {
+      "check": "T021:address_point_building_agreement",
+      "pass": true
+    },
+    {
+      "check": "T022:closed_reported_type",
+      "pass": true
+    },
+    {
+      "check": "T022:positive_amount",
+      "pass": true
+    },
+    {
+      "check": "T022:valid_bedrooms_area_year",
+      "pass": true
+    },
+    {
+      "check": "T022:dated_observation_window",
+      "pass": true
+    },
+    {
+      "check": "T022:linked_provenance",
+      "pass": true
+    },
+    {
+      "check": "T022:title_not_inferred_from_mls",
+      "pass": true
+    },
+    {
+      "check": "T022:missing_concession_not_zero",
+      "pass": true
+    },
+    {
+      "check": "T022:recorded_loan_not_inferred",
+      "pass": true
+    },
+    {
+      "check": "T022:unit_separated_price_ratio",
+      "pass": true
+    },
+    {
+      "check": "T022:target_filter_recalculated",
+      "pass": true
+    },
+    {
+      "check": "T022:conflicted_profile_not_stable",
+      "pass": true
+    },
+    {
+      "check": "T022:unique_municipal_address",
+      "pass": true
+    },
+    {
+      "check": "T022:hoa_research_mask_match",
+      "pass": true
+    },
+    {
+      "check": "T022:address_point_building_agreement",
+      "pass": true
+    },
+    {
+      "check": "T023:closed_reported_type",
+      "pass": true
+    },
+    {
+      "check": "T023:positive_amount",
+      "pass": true
+    },
+    {
+      "check": "T023:valid_bedrooms_area_year",
+      "pass": true
+    },
+    {
+      "check": "T023:dated_observation_window",
+      "pass": true
+    },
+    {
+      "check": "T023:linked_provenance",
+      "pass": true
+    },
+    {
+      "check": "T023:title_not_inferred_from_mls",
+      "pass": true
+    },
+    {
+      "check": "T023:missing_concession_not_zero",
+      "pass": true
+    },
+    {
+      "check": "T023:recorded_loan_not_inferred",
+      "pass": true
+    },
+    {
+      "check": "T023:unit_separated_price_ratio",
+      "pass": true
+    },
+    {
+      "check": "T023:target_filter_recalculated",
+      "pass": true
+    },
+    {
+      "check": "T023:conflicted_profile_not_stable",
+      "pass": true
+    },
+    {
+      "check": "T024:closed_reported_type",
+      "pass": true
+    },
+    {
+      "check": "T024:positive_amount",
+      "pass": true
+    },
+    {
+      "check": "T024:valid_bedrooms_area_year",
+      "pass": true
+    },
+    {
+      "check": "T024:dated_observation_window",
+      "pass": true
+    },
+    {
+      "check": "T024:linked_provenance",
+      "pass": true
+    },
+    {
+      "check": "T024:title_not_inferred_from_mls",
+      "pass": true
+    },
+    {
+      "check": "T024:missing_concession_not_zero",
+      "pass": true
+    },
+    {
+      "check": "T024:recorded_loan_not_inferred",
+      "pass": true
+    },
+    {
+      "check": "T024:unit_separated_price_ratio",
+      "pass": true
+    },
+    {
+      "check": "T024:target_filter_recalculated",
+      "pass": true
+    },
+    {
+      "check": "T024:conflicted_profile_not_stable",
+      "pass": true
+    },
+    {
+      "check": "T025:closed_reported_type",
+      "pass": true
+    },
+    {
+      "check": "T025:positive_amount",
+      "pass": true
+    },
+    {
+      "check": "T025:valid_bedrooms_area_year",
+      "pass": true
+    },
+    {
+      "check": "T025:dated_observation_window",
+      "pass": true
+    },
+    {
+      "check": "T025:linked_provenance",
+      "pass": true
+    },
+    {
+      "check": "T025:title_not_inferred_from_mls",
+      "pass": true
+    },
+    {
+      "check": "T025:missing_concession_not_zero",
+      "pass": true
+    },
+    {
+      "check": "T025:recorded_loan_not_inferred",
+      "pass": true
+    },
+    {
+      "check": "T025:unit_separated_price_ratio",
+      "pass": true
+    },
+    {
+      "check": "T025:target_filter_recalculated",
+      "pass": true
+    },
+    {
+      "check": "T025:conflicted_profile_not_stable",
+      "pass": true
+    },
+    {
+      "check": "L001:closed_reported_type",
+      "pass": true
+    },
+    {
+      "check": "L001:positive_amount",
+      "pass": true
+    },
+    {
+      "check": "L001:valid_bedrooms_area_year",
+      "pass": true
+    },
+    {
+      "check": "L001:dated_observation_window",
+      "pass": true
+    },
+    {
+      "check": "L001:linked_provenance",
+      "pass": true
+    },
+    {
+      "check": "L001:title_not_inferred_from_mls",
+      "pass": true
+    },
+    {
+      "check": "L001:missing_concession_not_zero",
+      "pass": true
+    },
+    {
+      "check": "L001:recorded_loan_not_inferred",
+      "pass": true
+    },
+    {
+      "check": "L001:unit_separated_price_ratio",
+      "pass": true
+    },
+    {
+      "check": "L001:target_filter_recalculated",
+      "pass": true
+    },
+    {
+      "check": "L001:conflicted_profile_not_stable",
+      "pass": true
+    },
+    {
+      "check": "L001:unique_municipal_address",
+      "pass": true
+    },
+    {
+      "check": "L001:hoa_research_mask_match",
+      "pass": true
+    },
+    {
+      "check": "L001:address_point_building_agreement",
+      "pass": true
+    },
+    {
+      "check": "L002:closed_reported_type",
+      "pass": true
+    },
+    {
+      "check": "L002:positive_amount",
+      "pass": true
+    },
+    {
+      "check": "L002:valid_bedrooms_area_year",
+      "pass": true
+    },
+    {
+      "check": "L002:dated_observation_window",
+      "pass": true
+    },
+    {
+      "check": "L002:linked_provenance",
+      "pass": true
+    },
+    {
+      "check": "L002:title_not_inferred_from_mls",
+      "pass": true
+    },
+    {
+      "check": "L002:missing_concession_not_zero",
+      "pass": true
+    },
+    {
+      "check": "L002:recorded_loan_not_inferred",
+      "pass": true
+    },
+    {
+      "check": "L002:unit_separated_price_ratio",
+      "pass": true
+    },
+    {
+      "check": "L002:target_filter_recalculated",
+      "pass": true
+    },
+    {
+      "check": "L002:conflicted_profile_not_stable",
+      "pass": true
+    },
+    {
+      "check": "L002:unique_municipal_address",
+      "pass": true
+    },
+    {
+      "check": "L002:hoa_research_mask_match",
+      "pass": true
+    },
+    {
+      "check": "L002:address_point_building_agreement",
+      "pass": true
+    },
+    {
+      "check": "L003:closed_reported_type",
+      "pass": true
+    },
+    {
+      "check": "L003:positive_amount",
+      "pass": true
+    },
+    {
+      "check": "L003:valid_bedrooms_area_year",
+      "pass": true
+    },
+    {
+      "check": "L003:dated_observation_window",
+      "pass": true
+    },
+    {
+      "check": "L003:linked_provenance",
+      "pass": true
+    },
+    {
+      "check": "L003:title_not_inferred_from_mls",
+      "pass": true
+    },
+    {
+      "check": "L003:missing_concession_not_zero",
+      "pass": true
+    },
+    {
+      "check": "L003:recorded_loan_not_inferred",
+      "pass": true
+    },
+    {
+      "check": "L003:unit_separated_price_ratio",
+      "pass": true
+    },
+    {
+      "check": "L003:target_filter_recalculated",
+      "pass": true
+    },
+    {
+      "check": "L003:conflicted_profile_not_stable",
+      "pass": true
+    },
+    {
+      "check": "mixed_hoa_frequency_independent_anchor",
+      "pass": true
+    },
+    {
+      "check": "sale_price_ratio_independent_anchor",
+      "pass": true
+    },
+    {
+      "check": "shared_wall_control_excluded",
+      "pass": true
+    },
+    {
+      "check": "three_bedroom_control_excluded",
+      "pass": true
+    },
+    {
+      "check": "material_conflict_not_stable",
+      "pass": true
+    },
+    {
+      "check": "new_loan_label_preserved",
+      "pass": true
+    },
+    {
+      "check": "lease_control_not_house_sale",
+      "pass": true
+    }
+  ],
+  "checks_passed": 394,
+  "checks_failed": 0,
+  "input_fingerprints": [
+    {
+      "filename": "pilot_working.json",
+      "bytes": 87175,
+      "sha256": "73488a35aa39e9c4d40669c0f9a485085278fc4a28c4bfd5c0b5396ec8d88bfb"
+    },
+    {
+      "filename": "hoa_targets.geojson",
+      "bytes": 462631,
+      "sha256": "fac7555ca67195b799b081b3b5e64fa89f599f7b35acb1fdfcb6fa5e75b084dd"
+    },
+    {
+      "filename": "city_target_buildings_layer1.json",
+      "bytes": 24819,
+      "sha256": "d039d7f1be2b500e75c79d60e04b9b80d1f62c8a73fa0cc488444c24b328be16"
+    },
+    {
+      "filename": "city_target_buildings_layer19.json",
+      "bytes": 4374,
+      "sha256": "9c6b27401ef5f73a6924f786010360f1e3c61a17531f4fa889e8cef81f8ae0f4"
+    },
+    {
+      "filename": "city_124_imagination_layer1.json",
+      "bytes": 1505,
+      "sha256": "e6b41ed765c79cbeaceead1915c52247733ced47f99c429677437237d24b3572"
+    },
+    {
+      "filename": "city_124_imagination_layer19.json",
+      "bytes": 940,
+      "sha256": "24a2ecf8d3e584073157ba8ba08bc8c64cae28adbf09d88d664339fd2a3b3980"
+    },
+    {
+      "filename": "hoa_eastwood_portola.geojson",
+      "bytes": 785395,
+      "sha256": "ddbf4c47a86ca323492262447abcba054df645e1e8b42127c25b55e417b997c6"
+    },
+    {
+      "filename": "city_t015_related_addresses.json",
+      "bytes": 924,
+      "sha256": "d9f9a3871771cc37a322fb61512b1aa5490673e21a5f9f0985d03d8fdda9d4d4"
+    }
+  ],
+  "publication": "source_links_and_original_QA_only; individual_listing_fields_remain_in_personal_research_archive",
+  "limitations": [
+    "Syndicated pages often share CRMLS; agreement is not independent confirmation.",
+    "MLS closed date differs from recorded document dates; no deed or escrow file acquired.",
+    "HOA polygons are research coverage masks, not legal village or ownership certification.",
+    "Purposive feasibility sample cannot identify community price trends, DOM, cash share, or buyer motives.",
+    "Missing financing or concession is not zero; seller acceptable terms are not buyer financing.",
+    "No three-bedroom closed-lease baseline or effective rent was verified."
+  ]
+}
