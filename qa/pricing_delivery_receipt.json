@@ -1,0 +1,31 @@
+{
+  "native_tables": 9,
+  "native_cells_matched": 226,
+  "images": 2,
+  "pdf_pages_before_final_receipt": 138,
+  "reviewed_pages": [
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138
+  ],
+  "render_review": "passed; corrected initial swapped image attachments and an orphan paragraph; all final tables and figure captions checked",
+  "data_commit": "134fe86d37a2f000fc70ed0347523376cfb6ca49",
+  "next_action": "Step 10 interest-rate transmission",
+  "limits": "Step 9 constrained; not a completed B or household A/C",
+  "data_tree": "3f513353e142ff15cdbdffecac8ef3520df42b31",
+  "archive_parts": 3,
+  "archive_entry_count": 54,
+  "archive_upload_verified": true,
+  "archive_sizes_and_destination_verified": true,
+  "archive_remote_hash_verified": false,
+  "archive_note": "Local ZIP hashes and every restored entry verified; remote metadata checked. Private archive locations omitted.",
+  "old_tabs_unchanged_before_handoff": 16,
+  "execution_handoff": "Final publication handoff appended after merge; no old execution text replaced.",
+  "publication_status": "Prepared for authorized PR merge; final merge result recorded in the formal document."
+}
