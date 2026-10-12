@@ -1,0 +1,151 @@
+{
+  "version": "2026-10-11",
+  "inputs": [
+    {
+      "key": "pilot",
+      "filename": "pilot_working.json",
+      "sha256": "73488a35aa39e9c4d40669c0f9a485085278fc4a28c4bfd5c0b5396ec8d88bfb",
+      "bytes": 87175,
+      "kind": "frozen_research_notes_not_raw_page"
+    },
+    {
+      "key": "history_summary",
+      "filename": "sale_case_summary.csv",
+      "sha256": "eca91488fb80fabd784bc0c59803911233e7755f9d4260da86554eda5c7733de",
+      "bytes": 8007,
+      "kind": "frozen_research_notes_not_raw_page"
+    },
+    {
+      "key": "broker_notes",
+      "filename": "broker_notes.json",
+      "sha256": "2c56e2849e65729747097cec26679a84e6539bcdab61485997d6ac424436706a",
+      "bytes": 11952,
+      "kind": "frozen_research_notes_not_raw_page"
+    },
+    {
+      "key": "buyer_notes",
+      "filename": "buyer_notes.json",
+      "sha256": "ac1ae6fca5b20259b09eb3277e33438d9a01edff8e4781bd04346a9dc71b1b84",
+      "bytes": 1968,
+      "kind": "frozen_research_notes_not_raw_page"
+    },
+    {
+      "key": "property_notes",
+      "filename": "property_cost_notes.json",
+      "sha256": "6ccc702ae825d16df9e9b522225d51a1abdd6956981b66fd8df2886673d76ac8",
+      "bytes": 4381,
+      "kind": "frozen_research_notes_not_raw_page"
+    }
+  ],
+  "downloads": [
+    {
+      "filename": "boe_pub29_202503.pdf",
+      "url": "https://boe.ca.gov/proptaxes/pdf/pub29.pdf",
+      "retrieved_date": "2026-10-11",
+      "access": "official_public_download",
+      "status": 200,
+      "content_type": "application/pdf",
+      "resolved_url": "https://boe.ca.gov/proptaxes/pdf/pub29.pdf",
+      "bytes": 446593,
+      "sha256": "90d44309d9951d0a21140d84a8a0d862508c2e6e4d3824055e0fe72581a9d713",
+      "success": true
+    },
+    {
+      "filename": "oc_new_homeowner_guide.pdf",
+      "url": "https://www.octreasurer.gov/sites/ttc/files/import/data/files/118057.pdf",
+      "retrieved_date": "2026-10-11",
+      "access": "official_public_download",
+      "status": 200,
+      "content_type": "application/pdf",
+      "resolved_url": "https://www.octreasurer.gov/sites/ttc/files/import/data/files/118057.pdf",
+      "bytes": 9507818,
+      "sha256": "7aa26fe01dde22fa891adfcc20de2efb4599fb8576ed57363aa8078d6e60fdf6",
+      "success": true
+    },
+    {
+      "filename": "tustin_refunding_proposal_20250520.pdf",
+      "url": "https://tustin.granicus.com/MetaViewer.php?clip_id=2732&meta_id=164909&view_id=5",
+      "retrieved_date": "2026-10-11",
+      "access": "official_public_download",
+      "status": 200,
+      "content_type": "application/pdf",
+      "resolved_url": "https://tustin.granicus.com/MetaViewer.php?clip_id=2732&meta_id=164909&view_id=5",
+      "bytes": 1417208,
+      "sha256": "10a1d53c1d142573ea302a1b0369dc0e4875d427c6a6beac1d76948739a30154",
+      "success": true
+    },
+    {
+      "filename": "iusd_high_school_2026_2027.pdf",
+      "url": "https://iusd.org/sites/default/files/documents/IUSD_HighSchoolAttendance__2026-2027.pdf",
+      "retrieved_date": "2026-10-11",
+      "access": "official_public_download",
+      "status": 200,
+      "content_type": "application/pdf",
+      "resolved_url": "https://iusd.org/sites/default/files/documents/IUSD_HighSchoolAttendance__2026-2027.pdf",
+      "bytes": 933925,
+      "sha256": "8a1864a716e3390d44bc2770603af9d4a56954e67e4a7769050df647b7dd7858",
+      "success": true
+    },
+    {
+      "filename": "woodbridge_reflections_201603.pdf",
+      "url": "https://www.wva.org/Archive/ViewFile/Item/160",
+      "retrieved_date": "2026-10-11",
+      "access": "official_public_download",
+      "success": false,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "filename": "oc_taxmap_landing.html",
+      "url": "https://taxmap.octreasurer.gov/",
+      "retrieved_date": "2026-10-11",
+      "access": "official_public_download",
+      "success": false,
+      "error": "HTTP Error 502: Bad Gateway"
+    },
+    {
+      "filename": "irvine_districts.html",
+      "url": "https://www.cityofirvine.gov/administrative-services-department/community-facilities-district-and-19131915-act-assessment",
+      "retrieved_date": "2026-10-11",
+      "access": "official_public_download",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "resolved_url": "https://www.cityofirvine.gov/administrative-services-department/community-facilities-district-and-19131915-act-assessment",
+      "bytes": 81206,
+      "sha256": "8f420b3c431a582b976065bfc6ab77620768d1128f910d3592dad8ae9878eeba",
+      "success": true
+    },
+    {
+      "filename": "cdi_fair_plan.html",
+      "url": "https://www.insurance.ca.gov/01-consumers/200-wrr/California-FAIR-Plan.cfm",
+      "retrieved_date": "2026-10-11",
+      "access": "official_public_download",
+      "status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "resolved_url": "https://www.insurance.ca.gov/01-consumers/200-wrr/California-FAIR-Plan.cfm",
+      "bytes": 50338,
+      "sha256": "ef3c0fa729abc1e10ce71eddf2b04da75a3e22871711b672be673cb6446d8ac3",
+      "success": true
+    },
+    {
+      "filename": "oc_buying_selling.html",
+      "url": "https://www.ocassessor.gov/real-property-assessments/buying-or-selling-property",
+      "retrieved_date": "2026-10-11",
+      "access": "official_public_download",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "resolved_url": "https://www.ocassessor.gov/real-property-assessments/buying-or-selling-property",
+      "bytes": 105206,
+      "sha256": "ecc7d2c7048995c0c64b2f7746d2108eadde4dad39efa0581eba82e25310cc1e",
+      "success": true
+    },
+    {
+      "filename": "lakeforest_leaflet_20150506.pdf",
+      "url": "https://www.lakeforestca.gov/sites/default/files/lake-forest/archives/May%20June%202015%20Leaflet%20Final%20web.pdf",
+      "retrieved_date": "2026-10-11",
+      "access": "official_public_download",
+      "success": false,
+      "error": "HTTP Error 403: Forbidden"
+    }
+  ],
+  "note": "私有输入由指定研究档案提供；公共清单不含私有入口。网页下载失败不产生原件指纹。"
+}

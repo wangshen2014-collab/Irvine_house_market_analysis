@@ -1,0 +1,4 @@
+﻿annual_rate_assumption,ltv_assumption,years,price_delta_usd,extra_downpayment_usd,extra_monthly_pi,extra_monthly_uniform_tax,extra_monthly_selected_cashflow,scope,price_offset_for_250_monthly_usd,price_offset_for_500_monthly_usd
+0.05,0.8,30,100000,20000.0,429.46,91.67,521.12,PI plus assumed uniform 1.1% value tax only; not total economic cost,47973.23,95946.46
+0.06,0.8,30,100000,20000.0,479.64,91.67,571.31,PI plus assumed uniform 1.1% value tax only; not total economic cost,43759.3,87518.61
+0.07,0.8,30,100000,20000.0,532.24,91.67,623.91,PI plus assumed uniform 1.1% value tax only; not total economic cost,40069.97,80139.94

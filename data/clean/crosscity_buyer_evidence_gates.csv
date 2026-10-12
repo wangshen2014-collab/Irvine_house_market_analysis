@@ -1,0 +1,4 @@
+﻿case_id,known_exact_origin_city,known_destination_city,known_year,independent_transaction,known_price_product,verified_flow_case
+C001,False,False,False,False,False,False
+C002,False,True,False,False,False,False
+C003,False,False,False,False,False,False

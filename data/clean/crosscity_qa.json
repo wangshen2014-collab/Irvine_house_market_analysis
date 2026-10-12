@@ -1,0 +1,36 @@
+{
+  "fingerprints_verified": 5,
+  "frozen_sales": 25,
+  "eligible_sales": 20,
+  "candidate_pairs": 51,
+  "proxy_pairs": 4,
+  "full_quality_pairs": 0,
+  "hoa_normalization_verified": true,
+  "unknown_costs_kept_missing": true,
+  "loan_formula_independent_decimal_checks": [
+    {
+      "rate": 0.05,
+      "closed_formula_pi": 429.4572984097118,
+      "decimal_simulation_pi": 429.4572984097112,
+      "abs_difference": 6.252776074688882e-13
+    },
+    {
+      "rate": 0.06,
+      "closed_formula_pi": 479.64042012220557,
+      "decimal_simulation_pi": 479.64042012220193,
+      "abs_difference": 3.637978807091713e-12
+    },
+    {
+      "rate": 0.07,
+      "closed_formula_pi": 532.2419961433459,
+      "decimal_simulation_pi": 532.2419961433466,
+      "abs_difference": 6.821210263296962e-13
+    }
+  ],
+  "synthetic_payment_checks": 2,
+  "broker_authors": 13,
+  "firm_families": 6,
+  "verified_flow_cases": 0,
+  "source_snapshot_warning": "Notes are not raw page bytes",
+  "review_model": "same-thread independent arithmetic path; no second model or subagents"
+}

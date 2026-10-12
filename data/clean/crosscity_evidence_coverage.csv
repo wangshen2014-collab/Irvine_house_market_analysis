@@ -1,0 +1,15 @@
+﻿metric,value,denominator,meaning
+frozen_sale_records,25,,非随机方便样本
+eligible_profiles,20,25,四卧、无共墙、2010年以后、面积至少1650；价格/卧室严重冲突排除
+candidate_crosscity_pairs,51,,17个Irvine与3个外市房屋的笛卡尔积
+base_proxy_pairs,4,51,仅面积/房龄/日期；重复使用2个外市样本
+quality_verified_pairs,0,4,地块、学校、装修、通勤等尚未控制
+property_cost_reviews,8,,6套配对房屋加2套额外对照
+complete_property_costs,0,8,实际新买家税单、特别收费及保险未齐
+broker_public_sources,13,target_12_to_20,人或个人品牌文章；不是13次访谈
+firm_families,6,target_at_least_6,机构品牌归组，不能视为独立上游数据
+long_irvine_self_claims,2,13,自述十年以上Irvine业务；尚非连续执业审核
+dated_irvine_activity_evidence,1,long_source_target_8_to_12,1人另有十年前第三方成交页；仍不是逐年连续执业验证
+independent_broker_interviews,0,13,未联系或访谈任何人
+anonymous_buyer_leads,3,,2个经纪网站的客户自述去重
+verified_buyer_flow_cases,0,3,缺完整起終城市、年份、产品/价格及独立成交佐证

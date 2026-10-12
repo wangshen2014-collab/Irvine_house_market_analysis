@@ -1,0 +1,6 @@
+﻿scenario,area_ratio_max,year_gap_max,close_gap_days_max,candidate_pairs,proxy_pairs,unique_irvine_homes,unique_other_homes,full_quality_pairs
+base,1.1,5,180,51,4,4,2,0
+area_5pct,1.05,5,180,51,4,4,2,0
+close_90days,1.1,5,90,51,2,2,1,0
+close_365days,1.1,5,365,51,4,4,2,0
+year_10years,1.1,10,180,51,6,6,2,0
