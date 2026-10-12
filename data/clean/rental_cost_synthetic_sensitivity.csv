@@ -1,0 +1,7 @@
+﻿scenario,price_usd,down_payment_share,rate,term_months,ad_valorem_assumption,HOA_assumption,maintenance_fraction_of_price,pi,interest_y1_month_avg,principal_y1_month_avg,tax_assumption_month,maintenance_allowance_month,partial_cash_reserve_budget,partial_economic_cost,insurance,special_assessments,full_cost
+synthetic_not_quote_or_household,1000000,.20,.04,360,.011,250,.005,3819.32,2645.30,1174.02,916.67,416.67,5402.66,4228.63,,,
+synthetic_not_quote_or_household,1000000,.20,.04,360,.011,250,.01,3819.32,2645.30,1174.02,916.67,833.33,5819.32,4645.30,,,
+synthetic_not_quote_or_household,1000000,.20,.06,360,.011,250,.005,4796.40,3977.73,818.67,916.67,416.67,6379.74,5561.06,,,
+synthetic_not_quote_or_household,1000000,.20,.06,360,.011,250,.01,4796.40,3977.73,818.67,916.67,833.33,6796.40,5977.73,,,
+synthetic_not_quote_or_household,1000000,.20,.08,360,.011,250,.005,5870.12,5313.21,556.91,916.67,416.67,7453.45,6896.54,,,
+synthetic_not_quote_or_household,1000000,.20,.08,360,.011,250,.01,5870.12,5313.21,556.91,916.67,833.33,7870.12,7313.21,,,

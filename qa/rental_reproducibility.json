@@ -1,0 +1,19 @@
+{
+  "status": "passed",
+  "public_files_identical": [
+    "data/clean/rental_coverage_20261012.csv",
+    "data/clean/rental_cost_synthetic_sensitivity.csv",
+    "data/rental_source_index.csv",
+    "qa/rental_baseline_qa.json"
+  ],
+  "private_files_identical": [
+    "rental_observations.csv",
+    "rental_purchase_matches.csv",
+    "rental_service_upgrades.csv",
+    "property_cost_gaps.csv",
+    "build_log.json"
+  ],
+  "modified_input_rejected": true,
+  "input_fingerprints": 18,
+  "scope": "Phase11 only; not rerunning unchanged prior modules"
+}

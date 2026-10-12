@@ -1,0 +1,36 @@
+{
+  "stage": "phase11_step8_constrained_baseline",
+  "date": "2026-10-12",
+  "data_commit": "953c9280bbcb112b028cf4049b183f774906e8c8",
+  "archive": {
+    "filename": "rental_phase11_evidence_20261012.zip",
+    "files": 54,
+    "bytes": 9445445,
+    "local_sha256": "0b0931d3da871f5ac05022c4ab652c004e83e402e9e3d193fb0f5c73eeaaa851",
+    "local_entry_hashes_verified": true,
+    "upload_confirmed": true,
+    "remote_parent_verified": true,
+    "remote_size_verified": true,
+    "remote_content_hash_verified": false,
+    "private_links_omitted": true
+  },
+  "document": {
+    "native_tables": 7,
+    "cells_verified": 183,
+    "unrelated_original_tabs_unchanged": 14,
+    "execution_tab_original_prefix_unchanged": true,
+    "pre_publication_receipt_pdf_pages": 127,
+    "new_content_pages_visually_reviewed": [120, 121, 122, 123, 124, 125, 126, 127],
+    "execution_handoff_page_visually_reviewed": 27,
+    "publication_receipt_location": "formal_document"
+  },
+  "validation": {
+    "serial_audit_checks_passed": 15,
+    "reproducible_public_outputs": 4,
+    "reproducible_private_outputs": 5,
+    "input_fingerprint_mutation_rejected": true,
+    "independent_second_model_review": false
+  },
+  "completion_boundary": "Signed leases, complete effective rents, complete ownership costs and strict same-quality school-controlled matches remain unverified. Public B is not complete.",
+  "next_step": "step9_asset_pricing_with_explicit_missing_inputs"
+}

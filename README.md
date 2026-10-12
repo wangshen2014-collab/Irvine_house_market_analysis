@@ -170,3 +170,15 @@ python scripts/report_school_baseline.py --private-out /tmp/school-report
 ```
 
 标准库即可。公开`school_research_notes_20261012.json`是逐项来源支持的原创研究笔记，不是原件；报告脚本重建边界、项目、体验、容量四表及原生Docs内容计划。CDE行政City字段不等于市界覆盖；Virtual C指以课堂为主。ELA/Math为距离标准分数，不是百分比；各字段分母保留，缺失不是零。`qa/school_independent_audit.json`记录13,860字段核对、490个比例复算及两校SPSA四个数值跨格式核对；这些不认证学校因果效果或入学资格。
+
+## 阶段十一：租赁与持有成本（2026-10-12）
+
+受限基线：18笔租赁观察、8组候选匹配；没有已取得签署租约、完整净租金或完整新买家持有成本。见[阶段十一报告](reports/2026-10-12_rental_cost_phase11.md)。个案事实与原始官方文件从已授权私人证据包取得，目录保留 `raw/` 和 `private/`；不要将这些输入推送公开仓库。
+
+```bash
+python scripts/build_rental_cost_baseline.py --evidence-dir /path/to/rental-evidence --private-out /path/to/rental-evidence/private/derived
+python scripts/audit_rental_cost_baseline.py --private-out /path/to/rental-evidence/private/derived
+python scripts/report_rental_cost_baseline.py --evidence-dir /path/to/rental-evidence
+```
+
+仅依赖Python标准库。构建先核 `data/rental_source_manifest.json` 中18份已取得输入的SHA-256；失败下载不当原件。公开产物只包括来源链接、覆盖计数和明确虚构的计算情景；逐址价格、实际费用、配对详表和正式文档段落留私有。`--public-out`可指定隔离输出目录；`qa/rental_reproducibility.json`记录复跑与篡改输入拒绝检查。真实保险、MR、附费缺失时完整成本为空，不补零。

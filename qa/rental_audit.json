@@ -1,0 +1,21 @@
+{
+  "status": "passed",
+  "checks": [
+    "M01_closed_form_matches_cent_rounding",
+    "M02_closed_form_matches_cent_rounding",
+    "M03_closed_form_matches_cent_rounding",
+    "M04_closed_form_matches_cent_rounding",
+    "M05_closed_form_matches_cent_rounding",
+    "M06_closed_form_matches_cent_rounding",
+    "M07_closed_form_matches_cent_rounding",
+    "M08_closed_form_matches_cent_rounding",
+    "refreshed_price_and_status_not_cached_search",
+    "deposit_not_recurring_rent",
+    "unknown_rental_total_remains_blank",
+    "mixed_HOA_frequency_independent_anchor",
+    "insurance_and_MR_missing_gate",
+    "service_upgrade_not_causal_bedroom_premium",
+    "status_counts_and_completion_boundary"
+  ],
+  "independent_method": "Float closed-form balance vs Decimal month-by-month amortization; serial audit, not second-model review"
+}
