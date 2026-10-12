@@ -1,0 +1,379 @@
+{
+  "as_of": "2026-10-12",
+  "inputs": [
+    {
+      "path": "raw/cfpb_compare.html",
+      "sha256": "acdd461b26da5e32619c60f35ccc40fa481964e63c846eb4cc6945529dd31521",
+      "bytes": 151260,
+      "url": "https://www.consumerfinance.gov/owning-a-home/compare/compare-loan-estimates/",
+      "retrieved_at": "2026-10-12T21:35:25.049657+00:00",
+      "origin": "new public download",
+      "public_rights": "source link and limited factual analysis only; original bytes private"
+    },
+    {
+      "path": "raw/cfpb_points.html",
+      "sha256": "5c87c835b95e5aec6bf97cbab74688659113a32757f3514bf1061d72932b72aa",
+      "bytes": 155556,
+      "url": "https://www.consumerfinance.gov/ask-cfpb/how-should-i-use-lender-credits-and-points-also-called-discount-points-en-136/",
+      "retrieved_at": "2026-10-12T21:35:30.387792+00:00",
+      "origin": "new public download",
+      "public_rights": "source link and limited factual analysis only; original bytes private"
+    },
+    {
+      "path": "raw/cme_fedwatch.html",
+      "sha256": "e435a35223151b35834ae517c1633b1e565a3c44babc0ef5694d4d6798cf0c73",
+      "bytes": 209117,
+      "url": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html",
+      "retrieved_at": "2026-10-12T21:33:35.989348+00:00",
+      "origin": "new public download",
+      "public_rights": "source link and limited factual analysis only; original bytes private"
+    },
+    {
+      "path": "raw/cme_futures.html",
+      "sha256": "a68b32d63c6898c472318e6a4373d1e198e76b0ca0fee8ede9563b6c919cc1b3",
+      "bytes": 262025,
+      "url": "https://www.cmegroup.com/markets/interest-rates/stirs/30-day-federal-fund.html",
+      "retrieved_at": "2026-10-12T21:33:40.694256+00:00",
+      "origin": "new public download",
+      "public_rights": "source link and limited factual analysis only; original bytes private"
+    },
+    {
+      "path": "raw/cme_methodology.html",
+      "sha256": "0b1dab16b01399d3b75497c949f874f574c76d0cccd691e3b72b78b9f654b2e7",
+      "bytes": 153715,
+      "url": "https://www.cmegroup.com/articles/2023/understanding-the-cme-group-fedwatch-tool-methodology.html",
+      "retrieved_at": "2026-10-12T21:35:39.366130+00:00",
+      "origin": "new public download",
+      "public_rights": "source link and limited factual analysis only; original bytes private"
+    },
+    {
+      "path": "raw/cusocal_rates.html",
+      "sha256": "a212bbf032c351b8e0d26df909cde710e7b6dd2385c91d38a2e36583ebe56a60",
+      "bytes": 427149,
+      "url": "https://www.cusocal.org/loans/personal/rates/",
+      "retrieved_at": "2026-10-12T21:34:29.388336+00:00",
+      "origin": "new public download",
+      "public_rights": "source link and limited factual analysis only; original bytes private"
+    },
+    {
+      "path": "raw/fannie_202509_housing.pdf",
+      "sha256": "ce18f3309c52ff8918fb8a6320ad451ec6fca3bfc728e1bdf8a8d0014d8b4fbd",
+      "bytes": 78243,
+      "url": "https://www.fanniemae.com/media/56176/display",
+      "retrieved_at": "2026-10-12T21:32:54.010207+00:00",
+      "origin": "new public download",
+      "public_rights": "source link and limited factual analysis only; original bytes private"
+    },
+    {
+      "path": "raw/fannie_202609_economy.pdf",
+      "sha256": "627539c760fc2fb3d26c3e6dc4244ad8c88506ff2ab4562b8fad0838cfa15694",
+      "bytes": 84537,
+      "url": "https://www.fanniemae.com/media/58221/display",
+      "retrieved_at": "2026-10-12T21:32:49.702117+00:00",
+      "origin": "new public download",
+      "public_rights": "source link and limited factual analysis only; original bytes private"
+    },
+    {
+      "path": "raw/fannie_202609_housing.pdf",
+      "sha256": "e484610992fbc31c26c0ec627f391553daf0e5c574b9dac0a0527ce2620ea264",
+      "bytes": 87342,
+      "url": "https://www.fanniemae.com/media/58226/display",
+      "retrieved_at": "2026-10-12T21:32:40.000802+00:00",
+      "origin": "new public download",
+      "public_rights": "source link and limited factual analysis only; original bytes private"
+    },
+    {
+      "path": "raw/fannie_forecast.html",
+      "sha256": "9f35a7dbaac8dc5821ad47d3578077f46625f7aae15704925825bee5fa13a1a0",
+      "bytes": 95251,
+      "url": "https://www.fanniemae.com/data-and-insights/forecast",
+      "retrieved_at": "2026-10-12T21:32:59.705030+00:00",
+      "origin": "new public download",
+      "public_rights": "source link and limited factual analysis only; original bytes private"
+    },
+    {
+      "path": "raw/fed_sep2026.html",
+      "sha256": "e8db2a6011b2a070d2d6ee005a9c3d896161311774876e0d5e320cde3e18eefc",
+      "bytes": 240293,
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260916.htm",
+      "retrieved_at": "2026-10-12T21:33:19.341982+00:00",
+      "origin": "new public download",
+      "public_rights": "source link and limited factual analysis only; original bytes private"
+    },
+    {
+      "path": "raw/fed_sep2026.pdf",
+      "sha256": "489f33b935f397ba850714f39924d50f12bf76531387da69bc8183ebe22e67d9",
+      "bytes": 1227336,
+      "url": "https://www.federalreserve.gov/monetarypolicy/files/fomcprojtabl20260916.pdf",
+      "retrieved_at": "2026-10-12T21:33:23.218086+00:00",
+      "origin": "new public download",
+      "public_rights": "source link and limited factual analysis only; original bytes private"
+    },
+    {
+      "path": "raw/fed_statement202609.html",
+      "sha256": "2100032dc6073866c871b568225d6550d7f75fbe454642b3b3361003daa93188",
+      "bytes": 81698,
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+      "retrieved_at": "2026-10-12T21:34:37.166278+00:00",
+      "origin": "new public download",
+      "public_rights": "source link and limited factual analysis only; original bytes private"
+    },
+    {
+      "path": "raw/fhfa_limits2026.pdf",
+      "sha256": "d5df2d943b086e10d71d85318e13f769d70f08e2576e71e95a6901f3d7010774",
+      "bytes": 998901,
+      "url": "https://www.fhfa.gov/document/d/cll/fullcountyloanlimitlist2026_hera-based_final_flat.pdf",
+      "retrieved_at": "2026-10-12T21:35:34.517199+00:00",
+      "origin": "new public download",
+      "public_rights": "source link and limited factual analysis only; original bytes private"
+    },
+    {
+      "path": "raw/fred_DFII10.html",
+      "sha256": "6cf579f39abd3997147b0ba94dc621ad34ca105678a416eb059f6471dd15fd28",
+      "bytes": 342840,
+      "url": "https://fred.stlouisfed.org/data/DFII10",
+      "retrieved_at": "2026-10-12T21:34:26.026845+00:00",
+      "origin": "new public download",
+      "public_rights": "source link and limited factual analysis only; original bytes private"
+    },
+    {
+      "path": "raw/fred_DGS1.html",
+      "sha256": "436c6d6d92cc4d2e3363760758747f356f25d3fa645513a25dd181fa2aa2c354",
+      "bytes": 706436,
+      "url": "https://fred.stlouisfed.org/data/DGS1",
+      "retrieved_at": "2026-10-12T21:33:55.017030+00:00",
+      "origin": "new public download",
+      "public_rights": "source link and limited factual analysis only; original bytes private"
+    },
+    {
+      "path": "raw/fred_DGS10.html",
+      "sha256": "c5d0e8d482b70cbd78a324d7d454a21437b6f0c099d05c4a2c87459625791a3d",
+      "bytes": 706416,
+      "url": "https://fred.stlouisfed.org/data/DGS10",
+      "retrieved_at": "2026-10-12T21:34:14.202490+00:00",
+      "origin": "new public download",
+      "public_rights": "source link and limited factual analysis only; original bytes private"
+    },
+    {
+      "path": "raw/fred_DGS2.html",
+      "sha256": "409e812693e068e1a06b38ad7d17df42c07f254e4714d951cf9254c7b318be87",
+      "bytes": 578596,
+      "url": "https://fred.stlouisfed.org/data/DGS2",
+      "retrieved_at": "2026-10-12T21:34:00.550665+00:00",
+      "origin": "new public download",
+      "public_rights": "source link and limited factual analysis only; original bytes private"
+    },
+    {
+      "path": "raw/fred_DGS3MO.html",
+      "sha256": "62ddc78dc62ecf05c979ec7f6b3949344c4453fdf9230e55309b34cdbe5bf7bb",
+      "bytes": 532023,
+      "url": "https://fred.stlouisfed.org/data/DGS3MO",
+      "retrieved_at": "2026-10-12T21:34:18.957493+00:00",
+      "origin": "new public download",
+      "public_rights": "source link and limited factual analysis only; original bytes private"
+    },
+    {
+      "path": "raw/fred_DGS5.html",
+      "sha256": "82929cfcec31e79330a2ef01281eae492917cb7d0ea0791076c9044b28652f1c",
+      "bytes": 706436,
+      "url": "https://fred.stlouisfed.org/data/DGS5",
+      "retrieved_at": "2026-10-12T21:35:18.539177+00:00",
+      "origin": "new public download",
+      "public_rights": "source link and limited factual analysis only; original bytes private"
+    },
+    {
+      "path": "raw/fred_T10YIE.html",
+      "sha256": "ad3b0898e7f59144fe0d7244ee9831dee4da1626ded521848b36fbea4000598d",
+      "bytes": 336302,
+      "url": "https://fred.stlouisfed.org/data/T10YIE",
+      "retrieved_at": "2026-10-12T21:34:31.681048+00:00",
+      "origin": "new public download",
+      "public_rights": "source link and limited factual analysis only; original bytes private"
+    },
+    {
+      "path": "raw/logix_mortgages.html",
+      "sha256": "07ff1d5de670678c0ac1b740af672b4700420960e326bf7f5e5cb471dfaf2179",
+      "bytes": 203451,
+      "url": "https://www.logixbanking.com/rates/mortgages",
+      "retrieved_at": "2026-10-12T21:33:31.524370+00:00",
+      "origin": "new public download",
+      "public_rights": "source link and limited factual analysis only; original bytes private"
+    },
+    {
+      "path": "raw/mba_202605.pdf",
+      "sha256": "03282d7289a5bbcb240c0f87dda4abad06530c49d378c088c4da0fba43cf6d55",
+      "bytes": 149402,
+      "url": "https://www.mba.org/docs/default-source/research-and-forecasts/forecasts/2026/mortgage-finance-forecast-may-2026.pdf?sfvrsn=5138f9c6_1",
+      "retrieved_at": "2026-10-12T21:33:14.210274+00:00",
+      "origin": "new public download",
+      "public_rights": "source link and limited factual analysis only; original bytes private"
+    },
+    {
+      "path": "raw/mba_202609.pdf",
+      "sha256": "f34dfa38ecc638bbb1d7357b6b7b613984931fcee61ce366a2a9deb576465b4e",
+      "bytes": 149632,
+      "url": "https://www.mba.org/docs/default-source/research-and-forecasts/forecasts/2026/mortgage-finance-forecast-sep-2026.pdf",
+      "retrieved_at": "2026-10-12T21:33:09.288309+00:00",
+      "origin": "new public download",
+      "public_rights": "source link and limited factual analysis only; original bytes private"
+    },
+    {
+      "path": "raw/mba_applications.html",
+      "sha256": "a8bb6e112903bb540b5cd1ea4cc985dce242349653cdf57d9b4ec30a64cb3a1d",
+      "bytes": 62451,
+      "url": "https://newslink.mba.org/mba-newslinks/2026/october/mba-newslink-thursday-oct-8-2026/mortgage-applications-decrease-in-latest-mba-weekly-survey/",
+      "retrieved_at": "2026-10-12T21:34:41.952902+00:00",
+      "origin": "new public download",
+      "public_rights": "source link and limited factual analysis only; original bytes private"
+    },
+    {
+      "path": "raw/mba_current_download.pdf",
+      "sha256": "7bbfc3fca4f694e7e4b47a13b7454318897b235535e1dea533e7be71d7f264fd",
+      "bytes": 128511,
+      "url": "https://img03.en25.com/Web/MortgageBankersAssociation/{7f0a9213-51f8-47c5-b15e-cf2125f80eab}_Mortgage_Finance_Forecast_Oct_2026.pdf",
+      "retrieved_at": "2026-10-12T21:34:01.474534+00:00",
+      "origin": "new public download",
+      "public_rights": "source link and limited factual analysis only; original bytes private"
+    },
+    {
+      "path": "raw/mba_latest.html",
+      "sha256": "8424607cda505658a9d61ae769a0b511c73bfdeedc69ed6525372281e74bdca2",
+      "bytes": 18677,
+      "url": "https://mbaforms.mba.org/AccessMortgageFinanceForecast",
+      "retrieved_at": "2026-10-12T21:33:04.544489+00:00",
+      "origin": "new public download",
+      "public_rights": "source link and limited factual analysis only; original bytes private"
+    },
+    {
+      "path": "raw/schoolsfirst_lock.html",
+      "sha256": "5653d2a3258eba840e598ea66c0ad3fce47e7efb11c4324e6d7a7bfe28ddada6",
+      "bytes": 127295,
+      "url": "https://www.schoolsfirstfcu.org/rate-lock-information/",
+      "retrieved_at": "2026-10-12T21:34:33.444506+00:00",
+      "origin": "new public download",
+      "public_rights": "source link and limited factual analysis only; original bytes private"
+    },
+    {
+      "path": "raw/schoolsfirst_purchase.html",
+      "sha256": "2b96bee868ddc5e1f96e86552d6876542160401ee1ae5d0f9a0bcce3e2516497",
+      "bytes": 70411,
+      "url": "https://www.schoolsfirstfcu.org/rates/mortgage-purchase",
+      "retrieved_at": "2026-10-12T21:33:27.211141+00:00",
+      "origin": "new public download",
+      "public_rights": "source link and limited factual analysis only; original bytes private"
+    },
+    {
+      "path": "private/frozen/2026-10-12_asset_pricing_phase12.md",
+      "sha256": "e936d5273bcb80410cf67375b7ebb24b2870beac7ff54ca3cc95efa48c01952e",
+      "bytes": 4460,
+      "origin": "same independent B project frozen predecessor; not a new download",
+      "parent_git_commit": "b2a5ada021e8431311fd4f544814e9e3bfdf46e8",
+      "public_rights": "upstream source rights retained"
+    },
+    {
+      "path": "private/frozen/2026-10-12_rate_transmission_phase13.md",
+      "sha256": "8b06e87c97ef182b9bd9e729f2046be651867b86942d451f58d2de9f2b139890",
+      "bytes": 18941,
+      "origin": "same independent B project frozen predecessor; not a new download",
+      "parent_git_commit": "b2a5ada021e8431311fd4f544814e9e3bfdf46e8",
+      "public_rights": "upstream source rights retained"
+    },
+    {
+      "path": "private/frozen/2026-10-12_rental_cost_phase11.md",
+      "sha256": "aeb379e74b7f45f490e529d2a21ad404c457646d4cd65534e0582c7f7c91059c",
+      "bytes": 5172,
+      "origin": "same independent B project frozen predecessor; not a new download",
+      "parent_git_commit": "b2a5ada021e8431311fd4f544814e9e3bfdf46e8",
+      "public_rights": "upstream source rights retained"
+    },
+    {
+      "path": "private/frozen/2026-10-12_supply_phase10.md",
+      "sha256": "434b19e719ac20c585a81faea09563b04b4e06ac1802d52d84f8d62bf48bfd1e",
+      "bytes": 16389,
+      "origin": "same independent B project frozen predecessor; not a new download",
+      "parent_git_commit": "b2a5ada021e8431311fd4f544814e9e3bfdf46e8",
+      "public_rights": "upstream source rights retained"
+    },
+    {
+      "path": "private/frozen/fred_GS10.html",
+      "sha256": "66a1b458d4f7a2531fdca4c0453f9d2b355db80174ee9a7ac410a8b88350ba8a",
+      "bytes": 150362,
+      "origin": "same independent B project frozen predecessor; not a new download",
+      "parent_git_commit": "b2a5ada021e8431311fd4f544814e9e3bfdf46e8",
+      "public_rights": "upstream source rights retained"
+    },
+    {
+      "path": "private/frozen/fred_MORTGAGE30US.html",
+      "sha256": "6a184f6c8ec7fd7eef58d448dcedafb612cf42646ae7d21ef8e57fc0f337fa50",
+      "bytes": 230654,
+      "origin": "same independent B project frozen predecessor; not a new download",
+      "parent_git_commit": "b2a5ada021e8431311fd4f544814e9e3bfdf46e8",
+      "public_rights": "upstream source rights retained"
+    },
+    {
+      "path": "private/fannie_202509_housing.txt",
+      "sha256": "4a8c9affbdbbb4a57d6002129aef1ddc871aa28dea9b2cdc5fde3855d43b5a1d",
+      "bytes": 5315,
+      "origin": "pdftotext -layout from matching raw PDF",
+      "public_rights": "private derived extraction"
+    },
+    {
+      "path": "private/fannie_202609_economy.txt",
+      "sha256": "c43ca1164f645e2045066245011d609ec61b008105c7849ecc98cb4a2193d6fc",
+      "bytes": 5395,
+      "origin": "pdftotext -layout from matching raw PDF",
+      "public_rights": "private derived extraction"
+    },
+    {
+      "path": "private/fannie_202609_housing.txt",
+      "sha256": "a516b17f3c03910a45b9def779dbbf34012e5c31fbdf5131e2aa37c11185e7e5",
+      "bytes": 5863,
+      "origin": "pdftotext -layout from matching raw PDF",
+      "public_rights": "private derived extraction"
+    },
+    {
+      "path": "private/fed_sep2026.txt",
+      "sha256": "da2337138b3d61e71058275fffba226733abcbd58125c09b6cb9cbf93b0e9c90",
+      "bytes": 101422,
+      "origin": "pdftotext -layout from matching raw PDF",
+      "public_rights": "private derived extraction"
+    },
+    {
+      "path": "private/fhfa_limits2026.txt",
+      "sha256": "ea3bdd0bd72e3422df2248880088897a601ca0da557a07589d4640d2694dedcf",
+      "bytes": 636241,
+      "origin": "pdftotext -layout from matching raw PDF",
+      "public_rights": "private derived extraction"
+    },
+    {
+      "path": "private/mba_202605.txt",
+      "sha256": "1ca4c6d8ff85cf5f9fec0f1279426cf22f80c6e5d4d5c670cf0a1d608380a889",
+      "bytes": 6218,
+      "origin": "pdftotext -layout from matching raw PDF",
+      "public_rights": "private derived extraction"
+    },
+    {
+      "path": "private/mba_202609.txt",
+      "sha256": "f04d9524b414511d1086c73e4fe6a8414bd4bb812b26d15abec21932f8d22f17",
+      "bytes": 6223,
+      "origin": "pdftotext -layout from matching raw PDF",
+      "public_rights": "private derived extraction"
+    },
+    {
+      "path": "private/mba_current_download.txt",
+      "sha256": "6967d1f9db4fde99cb0e70bdddbd8b03b0c137a7c3151d67504fdfd14030811e",
+      "bytes": 6356,
+      "origin": "pdftotext -layout from matching raw PDF",
+      "public_rights": "private derived extraction"
+    }
+  ],
+  "failures": [
+    {
+      "filename": "fred_DGS5.html",
+      "url": "https://fred.stlouisfed.org/data/DGS5",
+      "retrieved_at": "2026-10-12T21:34:06.521416+00:00",
+      "error": "HTTP Error 502: Bad Gateway"
+    }
+  ],
+  "web_only_gap": "CME current probability widget access denied for missing referrer; did not bypass. No live futures probabilities used."
+}

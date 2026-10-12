@@ -1,0 +1,1110 @@
+{
+  "status": "passed",
+  "passed": 144,
+  "checks": [
+    {
+      "check": "PV payment 4.5",
+      "passed": true,
+      "detail": {
+        "actual": 506.6853098258857,
+        "expected": 506.68530982588067
+      }
+    },
+    {
+      "check": "fixed cash boundary 4.5",
+      "passed": true,
+      "detail": {
+        "actual": 0.4144050885583994,
+        "expected": 0.4144050885584028
+      }
+    },
+    {
+      "check": "fixed fraction boundary 4.5",
+      "passed": true,
+      "detail": {
+        "actual": 0.41440508855839936,
+        "expected": 0.4144050885584028
+      }
+    },
+    {
+      "check": "PV payment 5.5",
+      "passed": true,
+      "detail": {
+        "actual": 567.7890013470005,
+        "expected": 567.7890013470029
+      }
+    },
+    {
+      "check": "fixed cash boundary 5.5",
+      "passed": true,
+      "detail": {
+        "actual": 0.41440508855840524,
+        "expected": 0.4144050885584028
+      }
+    },
+    {
+      "check": "fixed fraction boundary 5.5",
+      "passed": true,
+      "detail": {
+        "actual": 0.4144050885584053,
+        "expected": 0.4144050885584028
+      }
+    },
+    {
+      "check": "PV payment 6.5",
+      "passed": true,
+      "detail": {
+        "actual": 632.0680234929654,
+        "expected": 632.0680234929637
+      }
+    },
+    {
+      "check": "fixed cash boundary 6.5",
+      "passed": true,
+      "detail": {
+        "actual": 0.4144050885584023,
+        "expected": 0.4144050885584028
+      }
+    },
+    {
+      "check": "fixed fraction boundary 6.5",
+      "passed": true,
+      "detail": {
+        "actual": 0.4144050885584024,
+        "expected": 0.4144050885584028
+      }
+    },
+    {
+      "check": "PV payment 7.375",
+      "passed": true,
+      "detail": {
+        "actual": 690.6751475973392,
+        "expected": 690.6751475973381
+      }
+    },
+    {
+      "check": "fixed cash boundary 7.375",
+      "passed": true,
+      "detail": {
+        "actual": 0.4144050885584028,
+        "expected": 0.4144050885584028
+      }
+    },
+    {
+      "check": "fixed fraction boundary 7.375",
+      "passed": true,
+      "detail": {
+        "actual": 0.4144050885584028,
+        "expected": 0.4144050885584028
+      }
+    },
+    {
+      "check": "PV payment 8.5",
+      "passed": true,
+      "detail": {
+        "actual": 768.9134835843337,
+        "expected": 768.9134835843336
+      }
+    },
+    {
+      "check": "fixed cash boundary 8.5",
+      "passed": true,
+      "detail": {
+        "actual": 0.4144050885584034,
+        "expected": 0.4144050885584028
+      }
+    },
+    {
+      "check": "fixed fraction boundary 8.5",
+      "passed": true,
+      "detail": {
+        "actual": 0.41440508855840347,
+        "expected": 0.4144050885584028
+      }
+    },
+    {
+      "check": "grid cash (4.5, 90)",
+      "passed": true,
+      "detail": {
+        "actual": -38.86594013740291,
+        "expected": -38.86594013740342
+      }
+    },
+    {
+      "check": "grid fraction (4.5, 90)",
+      "passed": true,
+      "detail": {
+        "actual": -33.975215348395146,
+        "expected": -33.97521534839569
+      }
+    },
+    {
+      "check": "grid cash (4.5, 100)",
+      "passed": true,
+      "detail": {
+        "actual": -26.639128164883495,
+        "expected": -26.639128164884106
+      }
+    },
+    {
+      "check": "grid fraction (4.5, 100)",
+      "passed": true,
+      "detail": {
+        "actual": -26.639128164883495,
+        "expected": -26.639128164884106
+      }
+    },
+    {
+      "check": "grid cash (4.5, 110)",
+      "passed": true,
+      "detail": {
+        "actual": -14.412316192364083,
+        "expected": -14.41231619236479
+      }
+    },
+    {
+      "check": "grid fraction (4.5, 110)",
+      "passed": true,
+      "detail": {
+        "actual": -19.303040981371854,
+        "expected": -19.303040981372515
+      }
+    },
+    {
+      "check": "grid cash (5.5, 90)",
+      "passed": true,
+      "detail": {
+        "actual": -31.49348101368933,
+        "expected": -31.49348101368892
+      }
+    },
+    {
+      "check": "grid fraction (5.5, 90)",
+      "passed": true,
+      "detail": {
+        "actual": -26.01295949478447,
+        "expected": -26.012959494784035
+      }
+    },
+    {
+      "check": "grid cash (5.5, 100)",
+      "passed": true,
+      "detail": {
+        "actual": -17.792177216427195,
+        "expected": -17.792177216426705
+      }
+    },
+    {
+      "check": "grid fraction (5.5, 100)",
+      "passed": true,
+      "detail": {
+        "actual": -17.792177216427195,
+        "expected": -17.792177216426705
+      }
+    },
+    {
+      "check": "grid cash (5.5, 110)",
+      "passed": true,
+      "detail": {
+        "actual": -4.090873419165064,
+        "expected": -4.090873419164489
+      }
+    },
+    {
+      "check": "grid fraction (5.5, 110)",
+      "passed": true,
+      "detail": {
+        "actual": -9.571394938069922,
+        "expected": -9.571394938069375
+      }
+    },
+    {
+      "check": "grid cash (6.5, 90)",
+      "passed": true,
+      "detail": {
+        "actual": -23.737902725597703,
+        "expected": -23.73790272559777
+      }
+    },
+    {
+      "check": "grid fraction (6.5, 90)",
+      "passed": true,
+      "detail": {
+        "actual": -17.63693494364552,
+        "expected": -17.636934943645592
+      }
+    },
+    {
+      "check": "grid cash (6.5, 100)",
+      "passed": true,
+      "detail": {
+        "actual": -8.485483270717243,
+        "expected": -8.485483270717323
+      }
+    },
+    {
+      "check": "grid fraction (6.5, 100)",
+      "passed": true,
+      "detail": {
+        "actual": -8.485483270717243,
+        "expected": -8.485483270717323
+      }
+    },
+    {
+      "check": "grid cash (6.5, 110)",
+      "passed": true,
+      "detail": {
+        "actual": 6.766936184163219,
+        "expected": 6.766936184163123
+      }
+    },
+    {
+      "check": "grid fraction (6.5, 110)",
+      "passed": true,
+      "detail": {
+        "actual": 0.6659684022110257,
+        "expected": 0.6659684022109446
+      }
+    },
+    {
+      "check": "grid cash (7.375, 90)",
+      "passed": true,
+      "detail": {
+        "actual": -16.666666666666675,
+        "expected": -16.666666666666668
+      }
+    },
+    {
+      "check": "grid fraction (7.375, 90)",
+      "passed": true,
+      "detail": {
+        "actual": -10.000000000000009,
+        "expected": -10.0
+      }
+    },
+    {
+      "check": "grid cash (7.375, 100)",
+      "passed": true,
+      "detail": {
+        "actual": 0.0,
+        "expected": 0.0
+      }
+    },
+    {
+      "check": "grid fraction (7.375, 100)",
+      "passed": true,
+      "detail": {
+        "actual": 0.0,
+        "expected": 0.0
+      }
+    },
+    {
+      "check": "grid cash (7.375, 110)",
+      "passed": true,
+      "detail": {
+        "actual": 16.66666666666665,
+        "expected": 16.666666666666668
+      }
+    },
+    {
+      "check": "grid fraction (7.375, 110)",
+      "passed": true,
+      "detail": {
+        "actual": 9.999999999999986,
+        "expected": 10.0
+      }
+    },
+    {
+      "check": "grid cash (8.5, 90)",
+      "passed": true,
+      "detail": {
+        "actual": -7.226828915257388,
+        "expected": -7.226828915257242
+      }
+    },
+    {
+      "check": "grid fraction (8.5, 90)",
+      "passed": true,
+      "detail": {
+        "actual": 0.19502477152202324,
+        "expected": 0.19502477152217895
+      }
+    },
+    {
+      "check": "grid cash (8.5, 100)",
+      "passed": true,
+      "detail": {
+        "actual": 11.327805301691129,
+        "expected": 11.32780530169131
+      }
+    },
+    {
+      "check": "grid fraction (8.5, 100)",
+      "passed": true,
+      "detail": {
+        "actual": 11.327805301691129,
+        "expected": 11.32780530169131
+      }
+    },
+    {
+      "check": "grid cash (8.5, 110)",
+      "passed": true,
+      "detail": {
+        "actual": 29.882439518639647,
+        "expected": 29.882439518639863
+      }
+    },
+    {
+      "check": "grid fraction (8.5, 110)",
+      "passed": true,
+      "detail": {
+        "actual": 22.460585831860257,
+        "expected": 22.460585831860442
+      }
+    },
+    {
+      "check": "points cash 12",
+      "passed": true,
+      "detail": {
+        "actual": -796.5205084455638,
+        "expected": -796.5205084455503
+      }
+    },
+    {
+      "check": "points interest 12",
+      "passed": true,
+      "detail": {
+        "actual": -749.5396160325154,
+        "expected": -749.5396160325266
+      }
+    },
+    {
+      "check": "points balance 12",
+      "passed": true,
+      "detail": {
+        "actual": 46.98089241304842,
+        "expected": 46.980892413023604
+      }
+    },
+    {
+      "check": "points cash 24",
+      "passed": true,
+      "detail": {
+        "actual": -593.0410168911276,
+        "expected": -593.0410168911004
+      }
+    },
+    {
+      "check": "points interest 24",
+      "passed": true,
+      "detail": {
+        "actual": -498.14362783036813,
+        "expected": -498.14362783035114
+      }
+    },
+    {
+      "check": "points balance 24",
+      "passed": true,
+      "detail": {
+        "actual": 94.89738906075945,
+        "expected": 94.89738906074925
+      }
+    },
+    {
+      "check": "points cash 36",
+      "passed": true,
+      "detail": {
+        "actual": -389.5615253366914,
+        "expected": -389.5615253366506
+      }
+    },
+    {
+      "check": "points interest 36",
+      "passed": true,
+      "detail": {
+        "actual": -245.9356666348649,
+        "expected": -245.93566663485558
+      }
+    },
+    {
+      "check": "points balance 36",
+      "passed": true,
+      "detail": {
+        "actual": 143.62585870182374,
+        "expected": 143.62585870179507
+      }
+    },
+    {
+      "check": "points cash 60",
+      "passed": true,
+      "detail": {
+        "actual": 17.397457772181042,
+        "expected": 17.39745777224896
+      }
+    },
+    {
+      "check": "points interest 60",
+      "passed": true,
+      "detail": {
+        "actual": 260.2998280595202,
+        "expected": 260.2998280595575
+      }
+    },
+    {
+      "check": "points balance 60",
+      "passed": true,
+      "detail": {
+        "actual": 242.90237028733827,
+        "expected": 242.90237028730857
+      }
+    },
+    {
+      "check": "points cash 84",
+      "passed": true,
+      "detail": {
+        "actual": 424.35644088105346,
+        "expected": 424.35644088114856
+      }
+    },
+    {
+      "check": "points interest 84",
+      "passed": true,
+      "detail": {
+        "actual": 767.6482149252915,
+        "expected": 767.6482149253502
+      }
+    },
+    {
+      "check": "points balance 84",
+      "passed": true,
+      "detail": {
+        "actual": 343.29177404423535,
+        "expected": 343.2917740442017
+      }
+    },
+    {
+      "check": "points cash 120",
+      "passed": true,
+      "detail": {
+        "actual": 1034.794915544362,
+        "expected": 1034.7949155444978
+      }
+    },
+    {
+      "check": "points interest 120",
+      "passed": true,
+      "detail": {
+        "actual": 1526.0847452967719,
+        "expected": 1526.0847452968296
+      }
+    },
+    {
+      "check": "points balance 120",
+      "passed": true,
+      "detail": {
+        "actual": 491.28982975240797,
+        "expected": 491.28982975233174
+      }
+    },
+    {
+      "check": "points crossing 47",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "points crossing 48",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "ARM 1 payment",
+      "passed": true,
+      "detail": {
+        "actual": 607.6105395806909,
+        "expected": 607.6105395806918
+      }
+    },
+    {
+      "check": "ARM 1 balance",
+      "passed": true,
+      "detail": {
+        "actual": 99902.80612708598,
+        "expected": 99902.80612708598
+      }
+    },
+    {
+      "check": "ARM 1 cumulative_interest",
+      "passed": true,
+      "detail": {
+        "actual": 510.4166666666667,
+        "expected": 510.4166666666667
+      }
+    },
+    {
+      "check": "ARM 60 payment",
+      "passed": true,
+      "detail": {
+        "actual": 607.6105395806909,
+        "expected": 607.6105395806918
+      }
+    },
+    {
+      "check": "ARM 60 balance",
+      "passed": true,
+      "detail": {
+        "actual": 93196.95145836673,
+        "expected": 93196.95145836668
+      }
+    },
+    {
+      "check": "ARM 60 cumulative_interest",
+      "passed": true,
+      "detail": {
+        "actual": 29653.58383320819,
+        "expected": 29653.583833208177
+      }
+    },
+    {
+      "check": "ARM 61 payment",
+      "passed": true,
+      "detail": {
+        "actual": 727.0434758021175,
+        "expected": 727.0434758021189
+      }
+    },
+    {
+      "check": "ARM 61 balance",
+      "passed": true,
+      "detail": {
+        "actual": 93100.92900806398,
+        "expected": 93100.9290080639
+      }
+    },
+    {
+      "check": "ARM 61 cumulative_interest",
+      "passed": true,
+      "detail": {
+        "actual": 30284.60485870755,
+        "expected": 30284.604858707535
+      }
+    },
+    {
+      "check": "ARM 72 payment",
+      "passed": true,
+      "detail": {
+        "actual": 727.0434758021175,
+        "expected": 727.0434758021189
+      }
+    },
+    {
+      "check": "ARM 72 balance",
+      "passed": true,
+      "detail": {
+        "actual": 92000.78865174181,
+        "expected": 92000.78865174172
+      }
+    },
+    {
+      "check": "ARM 72 cumulative_interest",
+      "passed": true,
+      "detail": {
+        "actual": 37181.942736208664,
+        "expected": 37181.94273620865
+      }
+    },
+    {
+      "check": "ARM 73 payment",
+      "passed": true,
+      "detail": {
+        "actual": 852.0357727077436,
+        "expected": 852.035772707745
+      }
+    },
+    {
+      "check": "ARM 73 balance",
+      "passed": true,
+      "detail": {
+        "actual": 91925.00953328314,
+        "expected": 91925.00953328304
+      }
+    },
+    {
+      "check": "ARM 73 cumulative_interest",
+      "passed": true,
+      "detail": {
+        "actual": 37958.19939045774,
+        "expected": 37958.199390457725
+      }
+    },
+    {
+      "check": "ARM 84 payment",
+      "passed": true,
+      "detail": {
+        "actual": 852.0357727077436,
+        "expected": 852.035772707745
+      }
+    },
+    {
+      "check": "ARM 84 balance",
+      "passed": true,
+      "detail": {
+        "actual": 91048.03003379764,
+        "expected": 91048.03003379753
+      }
+    },
+    {
+      "check": "ARM 84 cumulative_interest",
+      "passed": true,
+      "detail": {
+        "actual": 46453.613390757426,
+        "expected": 46453.613390757404
+      }
+    },
+    {
+      "check": "ARM 85 payment",
+      "passed": true,
+      "detail": {
+        "actual": 981.153878710385,
+        "expected": 981.1538787103825
+      }
+    },
+    {
+      "check": "ARM 85 balance",
+      "passed": true,
+      "detail": {
+        "actual": 90986.84062522041,
+        "expected": 90986.84062522031
+      }
+    },
+    {
+      "check": "ARM 85 cumulative_interest",
+      "passed": true,
+      "detail": {
+        "actual": 47373.57786089059,
+        "expected": 47373.57786089057
+      }
+    },
+    {
+      "check": "ARM 96 payment",
+      "passed": true,
+      "detail": {
+        "actual": 981.153878710385,
+        "expected": 981.1538787103825
+      }
+    },
+    {
+      "check": "ARM 96 balance",
+      "passed": true,
+      "detail": {
+        "actual": 90271.54532951172,
+        "expected": 90271.54532951163
+      }
+    },
+    {
+      "check": "ARM 96 cumulative_interest",
+      "passed": true,
+      "detail": {
+        "actual": 57450.97523099612,
+        "expected": 57450.9752309961
+      }
+    },
+    {
+      "check": "ARM 120 payment",
+      "passed": true,
+      "detail": {
+        "actual": 981.153878710385,
+        "expected": 981.1538787103825
+      }
+    },
+    {
+      "check": "ARM 120 balance",
+      "passed": true,
+      "detail": {
+        "actual": 88407.12659109633,
+        "expected": 88407.1265910963
+      }
+    },
+    {
+      "check": "ARM 120 cumulative_interest",
+      "passed": true,
+      "detail": {
+        "actual": 79134.24958162996,
+        "expected": 79134.24958162993
+      }
+    },
+    {
+      "check": "ARM 360 payment",
+      "passed": true,
+      "detail": {
+        "actual": 981.1538787103643,
+        "expected": 981.1538787103825
+      }
+    },
+    {
+      "check": "ARM 360 balance",
+      "passed": true,
+      "detail": {
+        "actual": -1.0027179087046534e-10,
+        "expected": -3.96483e-32
+      }
+    },
+    {
+      "check": "ARM 360 cumulative_interest",
+      "passed": true,
+      "detail": {
+        "actual": 226204.05388102477,
+        "expected": 226204.05388102544
+      }
+    },
+    {
+      "check": "refi cash (324, 12)",
+      "passed": true,
+      "detail": {
+        "actual": -550.9476462853072,
+        "expected": -550.9476462853576
+      }
+    },
+    {
+      "check": "refi interest (324, 12)",
+      "passed": true,
+      "detail": {
+        "actual": -120.31952499077624,
+        "expected": -120.3195249907935
+      }
+    },
+    {
+      "check": "refi cash (324, 24)",
+      "passed": true,
+      "detail": {
+        "actual": 836.9941673230965,
+        "expected": 836.9941673229963
+      }
+    },
+    {
+      "check": "refi interest (324, 24)",
+      "passed": true,
+      "detail": {
+        "actual": 1699.1199462847148,
+        "expected": 1699.11994628467
+      }
+    },
+    {
+      "check": "refi cash (324, 60)",
+      "passed": true,
+      "detail": {
+        "actual": 5000.819608148307,
+        "expected": 5000.819608148057
+      }
+    },
+    {
+      "check": "refi interest (324, 60)",
+      "passed": true,
+      "detail": {
+        "actual": 7144.081446121178,
+        "expected": 7144.081446121059
+      }
+    },
+    {
+      "check": "refi cash (360, 12)",
+      "passed": true,
+      "detail": {
+        "actual": -256.06834965729104,
+        "expected": -256.0683496573365
+      }
+    },
+    {
+      "check": "refi interest (360, 12)",
+      "passed": true,
+      "detail": {
+        "actual": -127.86768644962604,
+        "expected": -127.86768644965018
+      }
+    },
+    {
+      "check": "refi cash (360, 24)",
+      "passed": true,
+      "detail": {
+        "actual": 1426.7527605791288,
+        "expected": 1426.7527605790383
+      }
+    },
+    {
+      "check": "refi interest (360, 24)",
+      "passed": true,
+      "detail": {
+        "actual": 1666.9643375344754,
+        "expected": 1666.9643375344397
+      }
+    },
+    {
+      "check": "refi cash (360, 60)",
+      "passed": true,
+      "detail": {
+        "actual": 6475.216091288388,
+        "expected": 6475.216091288163
+      }
+    },
+    {
+      "check": "refi interest (360, 60)",
+      "passed": true,
+      "detail": {
+        "actual": 6925.8505403832605,
+        "expected": 6925.850540383148
+      }
+    },
+    {
+      "check": "independent HTML count MORTGAGE30US",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "quarter mean ('Fannie Mae', '2026Q1')",
+      "passed": true,
+      "detail": {
+        "actual": 6.109166666666667,
+        "expected": 6.109166666666667
+      }
+    },
+    {
+      "check": "quarter n ('Fannie Mae', '2026Q1')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "quarter mean ('Fannie Mae', '2026Q2')",
+      "passed": true,
+      "detail": {
+        "actual": 6.414615384615384,
+        "expected": 6.414615384615384
+      }
+    },
+    {
+      "check": "quarter n ('Fannie Mae', '2026Q2')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "quarter mean ('Fannie Mae', '2026Q3')",
+      "passed": true,
+      "detail": {
+        "actual": 6.679230769230769,
+        "expected": 6.679230769230769
+      }
+    },
+    {
+      "check": "quarter n ('Fannie Mae', '2026Q3')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "quarter mean ('MBA', '2026Q3')",
+      "passed": true,
+      "detail": {
+        "actual": 6.679230769230769,
+        "expected": 6.679230769230769
+      }
+    },
+    {
+      "check": "quarter n ('MBA', '2026Q3')",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "independent HTML count DGS10",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "same-date market DGS10",
+      "passed": true,
+      "detail": {
+        "actual": 5.22,
+        "expected": 5.22
+      }
+    },
+    {
+      "check": "independent HTML count DGS2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "same-date market DGS2",
+      "passed": true,
+      "detail": {
+        "actual": 4.75,
+        "expected": 4.75
+      }
+    },
+    {
+      "check": "independent HTML count DGS5",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "same-date market DGS5",
+      "passed": true,
+      "detail": {
+        "actual": 4.99,
+        "expected": 4.99
+      }
+    },
+    {
+      "check": "independent HTML count DFII10",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "same-date market DFII10",
+      "passed": true,
+      "detail": {
+        "actual": 2.87,
+        "expected": 2.87
+      }
+    },
+    {
+      "check": "independent HTML count T10YIE",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "same-date market T10YIE",
+      "passed": true,
+      "detail": {
+        "actual": 2.35,
+        "expected": 2.35
+      }
+    },
+    {
+      "check": "raw PDF alternate order fannie_202509_housing",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "forecast date fannie_202509_housing",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "raw PDF alternate order fannie_202609_housing",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "forecast date fannie_202609_housing",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "raw PDF alternate order mba_202605",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "forecast date mba_202605",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "raw PDF alternate order mba_202609",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "forecast date mba_202609",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "raw PDF alternate order mba_current_download",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "forecast date mba_current_download",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source anomaly calc CU SoCal high balance 30y",
+      "passed": true,
+      "detail": {
+        "actual": 7.777897377096505,
+        "expected": 7.777897377096483
+      }
+    },
+    {
+      "check": "source anomaly retained CU SoCal high balance 30y",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source anomaly calc CU SoCal high balance 15y",
+      "passed": true,
+      "detail": {
+        "actual": 9.128628810339812,
+        "expected": 9.12862881033986
+      }
+    },
+    {
+      "check": "source anomaly retained CU SoCal high balance 15y",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "source anomaly calc CU SoCal jumbo 15y",
+      "passed": true,
+      "detail": {
+        "actual": 8.849094622540221,
+        "expected": 8.849094622540212
+      }
+    },
+    {
+      "check": "source anomaly retained CU SoCal jumbo 15y",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "missing personal quotes",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "no fabricated probabilities",
+      "passed": true,
+      "detail": null
+    }
+  ],
+  "source_discrepancies_retained": [
+    {
+      "source": "cusocal_rates.html",
+      "field": "CU SoCal high balance 30y",
+      "rate_pct": 8.625,
+      "years": 30,
+      "stated_PI_per_1000": 9.92,
+      "calculated_PI_per_1000": 7.777897377096505,
+      "difference": 2.1421026229034945,
+      "status": "unresolved_source_discrepancy; not corrected silently"
+    },
+    {
+      "source": "cusocal_rates.html",
+      "field": "CU SoCal high balance 15y",
+      "rate_pct": 7.25,
+      "years": 15,
+      "stated_PI_per_1000": 6.82,
+      "calculated_PI_per_1000": 9.128628810339812,
+      "difference": -2.308628810339812,
+      "status": "unresolved_source_discrepancy; not corrected silently"
+    },
+    {
+      "source": "cusocal_rates.html",
+      "field": "CU SoCal jumbo 15y",
+      "rate_pct": 6.75,
+      "years": 15,
+      "stated_PI_per_1000": 6.49,
+      "calculated_PI_per_1000": 8.849094622540221,
+      "difference": -2.359094622540221,
+      "status": "unresolved_source_discrepancy; not corrected silently"
+    }
+  ],
+  "review_type": "same-thread independent arithmetic and extraction paths; not second-model review"
+}

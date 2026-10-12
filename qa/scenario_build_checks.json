@@ -1,0 +1,74 @@
+{
+  "status": "passed",
+  "frozen_inputs": 43,
+  "coverage": [
+    {
+      "series": "MORTGAGE30US",
+      "first": "1971-04-02",
+      "last": "2026-10-08",
+      "observations": 2898,
+      "nonmissing": 2898
+    },
+    {
+      "series": "GS10",
+      "first": "1953-04-01",
+      "last": "2026-09-01",
+      "observations": 882,
+      "nonmissing": 882
+    },
+    {
+      "series": "DGS1",
+      "first": "1962-01-02",
+      "last": "2026-10-08",
+      "observations": 16898,
+      "nonmissing": 16178
+    },
+    {
+      "series": "DGS2",
+      "first": "1976-06-01",
+      "last": "2026-10-08",
+      "observations": 13138,
+      "nonmissing": 12586
+    },
+    {
+      "series": "DGS5",
+      "first": "1962-01-02",
+      "last": "2026-10-08",
+      "observations": 16898,
+      "nonmissing": 16178
+    },
+    {
+      "series": "DGS10",
+      "first": "1962-01-02",
+      "last": "2026-10-08",
+      "observations": 16898,
+      "nonmissing": 16178
+    },
+    {
+      "series": "DGS3MO",
+      "first": "1981-09-01",
+      "last": "2026-10-08",
+      "observations": 11768,
+      "nonmissing": 11276
+    },
+    {
+      "series": "DFII10",
+      "first": "2003-01-02",
+      "last": "2026-10-08",
+      "observations": 6201,
+      "nonmissing": 5947
+    },
+    {
+      "series": "T10YIE",
+      "first": "2003-01-02",
+      "last": "2026-10-09",
+      "observations": 6202,
+      "nonmissing": 5948
+    }
+  ],
+  "forecast_error_rows": 4,
+  "forecasts_extracted": 79,
+  "source_discrepancies": 3,
+  "personal_quotes": 0,
+  "not_independent_model_review": true
+}
