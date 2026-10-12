@@ -1,46 +1,41 @@
 # STATUS
 
-最后更新：2026-10-11，America/Los_Angeles；第三轮需求阶段二。
+最后更新：2026-10-11，America/Los_Angeles；第四轮需求阶段三（ACS家庭结构与购买力代理指标）。
 
 ## 当前阶段
 
-县级历史人口／迁移、城市家庭数量及官方长期预测已有阶段判断。公共B整体未完成，家庭A未接入，成交可行性未通过。
+县级迁移、城市家庭数量与官方预测，以及ACS年龄／租买／有孩／收入／迁入结构基线已完成。公共B整体未完成，家庭A未接入，目标产品成交可行性未通过；收入代理不等于实际买家购买力。
 
-## 已完成与关键判断
+## 本轮关键判断
 
-- E-5人口住房35行、DOF/Census历史组成60行、社区—PA对应11行延续前轮。
-- 本轮DOF人口51快照、组成50期、家庭31快照；SCAG正式／草案33行；城市家庭分解10行，共175行。来源增至36项。
-- Irvine 2025→2026人口+92，已入住户+1,177；户均人数从2.5245降至2.5004。会计分解成立，不能当作独立需求证据。
-- 当前DOF情景橙县2050人口3,151,816，比2025低0.56%；SCAG2024正式规划2050为3,439,000。保留约28.7万人差异，不平均、不当置信区间。
-- DOF P-4家庭情景2040比2025多78,133户（7.06%）；January1、Vintage2025，不同于人口July1/Vintage2026。
-- SCAG2026 LDX四城为Preliminary；反馈截止2026-11-20，预计2028春正式采纳。Irvine家庭2024/2035/2050=116,683/126,586/132,986，岗位同期净变化−8,451。
-- SCAG家庭规划包含住房容量、Housing Element及空间政策；不是北尔湾四卧无共墙买家数量预测。2024正式表的城市未来人口列不属正式采纳文件、未经地方审核。
-- DOF人口方法原字节确为2024 Baseline；搜索服务同URL旧缓存仍写2023，按下载版本登记。首发09-20/09-30的元数据差异保留，不影响当前2026-03-13版本。
+- 四城共同窗口为2020–2024 ACS 5-year；2024 1-year另列。2025一年表仍未发布，Aliso无标准一年行；LF／Tustin一年B07001/B07010官方文件无对应行，全部明确记缺，不补零。
+- Irvine总户数在2015–2019→2020–2024两个不重叠期间从98,281→112,091，变化+13,810±1,945（90%）；租客+9,997±2,112、业主+3,813±1,793。租客点估计贡献72.4%，不是新迁入家庭比例或年度增速。
+- Irvine有未成年人家庭+3,049±1,525，占比35.2%→33.6%；差值−1.62±1.50pp是边缘的90%名义结果，不作为稳定下滑的强证据。四城当前占比均约三分之一。
+- Irvine≥$200k收入家庭占比32.3%，与LF31.3%及Aliso30.1%区间重叠，不排确定名次；高收入租客≥$150k约21,710户，但首付、意愿、有孩及目标房型联合交集未识别，不相乘制造买家。
+- 迁入表只有现居人口的迁入侧，不能当城市净迁移；人数非户数，原居境外非移民身份，B07011个人收入非家庭财富。
 
 ## 本轮实际产物与验收
 
-- reports/2026-10-11_households_forecast_phase2.md
-- data/clean/dof_oc_population_projection_v2026.csv（51行）
-- data/clean/dof_oc_projected_components_v2026.csv（50行）
-- data/clean/dof_oc_households_projection_v2025.csv（31行）
-- data/clean/scag_city_county_forecast_vintages.csv（33行）
-- data/clean/city_household_growth_decomposition.csv（10行）
-- data/forecast_source_manifest.json；data/sources.csv（36项）
-- scripts/build_forecast_baseline.py；scripts/plot_forecast.py
-- qa/forecast_households_qa.json（pass）：8数值原文件指纹；51快照与50组成等式；10历史分解；Irvine/LF/Tustin/Aliso 173/62/54/23个TAZ汇总等于PDF32页图表。
-- figures/orange_county_forecast.svg；图表PNG及14个原始来源文件的私有包，真实链接在V2正式tab登记。
-- 正式V2新增「需求：家庭与未来预测」，保留原方案及既有报告tab。前轮QA仍保留，不因本轮而改写历史快照。
+- reports/2026-10-11_acs_household_structure_phase3.md；figures/acs_irvine_household_windows.svg
+- scripts/build_acs_household_structure.py；refine_acs_moe.py；build_acs_history.py；report_acs_structure.py
+- 2024细项2,781行；2019细项1,725行，合计4,506行；常规指标305＋60；不重叠比较60行；SDR指标25行；地理交叉表9＋5行。
+- 49个数值／元数据来源的完整指纹：2024 32、2019 11、VRE 6；data/acs_*_source_manifest.json。方法文件及访问结果另列acs_method_manifest.json。
+- qa/acs_household_structure_qa.json：133项算术／跨表检查及唯一键；qa/acs_history_qa.json：30项历史算术；qa/acs_replicate_qa.json：195个E/M单元在独立发布格式逐项一致，25个派生比例用80次SDR，均pass。
+- sources.csv增至96项。原始数值字节与可下载PDF存指定档案，真实入口登记在V2；公开仓库无私人链接。
+- 正式V2新增“需求：家庭结构与购买力”，含3张原生表及1张图；方案和执行tab补方法。执行偏好已改为准确性优先，SOL Extra High主执行／Astra Extra High关键节点独立审阅建议；本轮没有冒充已完成Astra审核。
+
+## 前轮成果与限制保留
+
+E-5 35、历史组成60、社区—PA 11、家庭／预测五表175条与前轮QA保留。县级两系列五年国内净流出、总净迁移仅2023–2024为正；DOF／Census共享部分输入。实际人口持平可伴随户数增加；SCAG规划包含住房容量，2026 LDX仍是草案，不平均版本，也不当作独立买家预测。
 
 ## 缺口与覆盖
 
-成交0/20–30、人工0/5；完整公共B未完成。家庭数量不等于购房家庭，缺ACS年龄／租买／有孩／收入结构及MOE、迁入购买力、HMDA融资、IRS流向核对；社区精细polygon与Census tract/GEOID叠加未完。学校仍为GIS候选地块，项目供给及定价模块未验收。
-
-县级历史迁移方向仍是两系列五年国内净流出、总净迁移仅2023–2024为正。DOF与Census非完全独立；Riverside最新国内方向有差异。未来净迁移转正是模型假设，不是观察结果。P4未随2026人口更新；城市2024 LDX与现行E5不同起点不拼接。
+成交0/20–30、人工成交核对0/5；社区精细polygon/Census tract叠加未完。目标买家联合交集、财富与融资、HMDA、IRS流向、全市学校目录、供给项目兑现及定价未验收。ACS地理身份核对不代表历史边界已统一；抽样MOE不含非抽样误差。SDR只覆盖官方可得表，剩余MOE明确为近似。阶段QA不等于完整公共B，更不等于买／等结论。
 
 ## 下一项具体动作
 
-取得官方ACS可下载数据，对Irvine及三替代城市的家庭类型、租买、有孩、年龄、收入与迁移分层；登记1-year/5-year窗口、MOE与可比性。API无key返回MissingKey HTML未解决，优先官方bulk／下载表替代。然后把社区边界与Census tract叠加验收，再进入目标买家购买力及供给项目兑现率。
+取得并验收Stonegate、Orchard Hills与Reserve子区polygon，叠加2020 Census tract/GEOID；记录整块／部分重合、是否跨社区、可用的加权依据和不可识别误差。先验证空间口径，再下沉社区家庭结构并接目标产品成交与融资。PA9、TAZ、土地登记TR和PUMA均不能直接替代社区人口单元。
 
 ## 接续规则
 
-先读本文件、AGENTS、范围卡及本轮来源。只接续独立研究，不读旧宏观／旧市场结论锚定判断。先完成公共B再接家庭A；私人A/C、私人链接、账号信息不进入公开仓库。按真实产物和commit保存；阶段报告不等于全项目完成。
+先读AGENTS、README、STATUS、范围卡和本轮来源；按模块串行，不从旧宏观结论锚定。先完成独立公共B再接私人A/C；私人入口和家庭资料不进公开仓库。按真实文件与commit接续，阶段完成不宣称全项目完成。

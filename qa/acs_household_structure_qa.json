@@ -1,0 +1,1253 @@
+{
+  "status": "pass",
+  "retrieved_date": "2026-10-11",
+  "raw_files_verified": 32,
+  "detailed_rows": 2781,
+  "derived_rows": 305,
+  "arithmetic_checks": 133,
+  "table_coverage": [
+    {
+      "dataset": "ACS2024_1YR",
+      "table_id": "B01001",
+      "geography_count": 4,
+      "expected_geography_count": 4,
+      "status": "pass",
+      "missing_geographies": ""
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "table_id": "B01002",
+      "geography_count": 4,
+      "expected_geography_count": 4,
+      "status": "pass",
+      "missing_geographies": ""
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "table_id": "B11001",
+      "geography_count": 4,
+      "expected_geography_count": 4,
+      "status": "pass",
+      "missing_geographies": ""
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "table_id": "B11005",
+      "geography_count": 4,
+      "expected_geography_count": 4,
+      "status": "pass",
+      "missing_geographies": ""
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "table_id": "B25003",
+      "geography_count": 4,
+      "expected_geography_count": 4,
+      "status": "pass",
+      "missing_geographies": ""
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "table_id": "B25007",
+      "geography_count": 4,
+      "expected_geography_count": 4,
+      "status": "pass",
+      "missing_geographies": ""
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "table_id": "B25115",
+      "geography_count": 4,
+      "expected_geography_count": 4,
+      "status": "pass",
+      "missing_geographies": ""
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "table_id": "B19001",
+      "geography_count": 4,
+      "expected_geography_count": 4,
+      "status": "pass",
+      "missing_geographies": ""
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "table_id": "B19013",
+      "geography_count": 4,
+      "expected_geography_count": 4,
+      "status": "pass",
+      "missing_geographies": ""
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "table_id": "B25118",
+      "geography_count": 4,
+      "expected_geography_count": 4,
+      "status": "pass",
+      "missing_geographies": ""
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "table_id": "B25119",
+      "geography_count": 4,
+      "expected_geography_count": 4,
+      "status": "pass",
+      "missing_geographies": ""
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "table_id": "B07001",
+      "geography_count": 2,
+      "expected_geography_count": 4,
+      "status": "partial_official_availability",
+      "missing_geographies": "Lake Forest;Tustin"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "table_id": "B07010",
+      "geography_count": 2,
+      "expected_geography_count": 4,
+      "status": "partial_official_availability",
+      "missing_geographies": "Lake Forest;Tustin"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "table_id": "B07011",
+      "geography_count": 4,
+      "expected_geography_count": 4,
+      "status": "pass",
+      "missing_geographies": ""
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "table_id": "B01001",
+      "geography_count": 5,
+      "expected_geography_count": 5,
+      "status": "pass",
+      "missing_geographies": ""
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "table_id": "B01002",
+      "geography_count": 5,
+      "expected_geography_count": 5,
+      "status": "pass",
+      "missing_geographies": ""
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "table_id": "B11001",
+      "geography_count": 5,
+      "expected_geography_count": 5,
+      "status": "pass",
+      "missing_geographies": ""
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "table_id": "B11005",
+      "geography_count": 5,
+      "expected_geography_count": 5,
+      "status": "pass",
+      "missing_geographies": ""
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "table_id": "B25003",
+      "geography_count": 5,
+      "expected_geography_count": 5,
+      "status": "pass",
+      "missing_geographies": ""
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "table_id": "B25007",
+      "geography_count": 5,
+      "expected_geography_count": 5,
+      "status": "pass",
+      "missing_geographies": ""
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "table_id": "B25115",
+      "geography_count": 5,
+      "expected_geography_count": 5,
+      "status": "pass",
+      "missing_geographies": ""
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "table_id": "B19001",
+      "geography_count": 5,
+      "expected_geography_count": 5,
+      "status": "pass",
+      "missing_geographies": ""
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "table_id": "B19013",
+      "geography_count": 5,
+      "expected_geography_count": 5,
+      "status": "pass",
+      "missing_geographies": ""
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "table_id": "B25118",
+      "geography_count": 5,
+      "expected_geography_count": 5,
+      "status": "pass",
+      "missing_geographies": ""
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "table_id": "B25119",
+      "geography_count": 5,
+      "expected_geography_count": 5,
+      "status": "pass",
+      "missing_geographies": ""
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "table_id": "B07001",
+      "geography_count": 5,
+      "expected_geography_count": 5,
+      "status": "pass",
+      "missing_geographies": ""
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "table_id": "B07010",
+      "geography_count": 5,
+      "expected_geography_count": 5,
+      "status": "pass",
+      "missing_geographies": ""
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "table_id": "B07011",
+      "geography_count": 5,
+      "expected_geography_count": 5,
+      "status": "pass",
+      "missing_geographies": ""
+    }
+  ],
+  "checks": [
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Orange County",
+      "check": "family_nonfamily_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Orange County",
+      "check": "presence_under18_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Orange County",
+      "check": "owner_renter_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Orange County",
+      "check": "population_sex_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Orange County",
+      "check": "tenure_family_owner_renter",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Orange County",
+      "check": "owner_age_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Orange County",
+      "check": "renter_age_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Orange County",
+      "check": "income_brackets_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Orange County",
+      "check": "owner_income_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Orange County",
+      "check": "renter_income_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Orange County",
+      "check": "mobility_categories_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Orange County",
+      "check": "cross_table_household_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Orange County",
+      "check": "cross_table_owner_tenure",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Orange County",
+      "check": "cross_table_renter_tenure",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Orange County",
+      "check": "own_children_subset_of_renters",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Irvine",
+      "check": "family_nonfamily_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Irvine",
+      "check": "presence_under18_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Irvine",
+      "check": "owner_renter_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Irvine",
+      "check": "population_sex_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Irvine",
+      "check": "tenure_family_owner_renter",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Irvine",
+      "check": "owner_age_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Irvine",
+      "check": "renter_age_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Irvine",
+      "check": "income_brackets_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Irvine",
+      "check": "owner_income_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Irvine",
+      "check": "renter_income_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Irvine",
+      "check": "mobility_categories_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Irvine",
+      "check": "cross_table_household_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Irvine",
+      "check": "cross_table_owner_tenure",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Irvine",
+      "check": "cross_table_renter_tenure",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Irvine",
+      "check": "own_children_subset_of_renters",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Lake Forest",
+      "check": "family_nonfamily_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Lake Forest",
+      "check": "presence_under18_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Lake Forest",
+      "check": "owner_renter_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Lake Forest",
+      "check": "population_sex_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Lake Forest",
+      "check": "tenure_family_owner_renter",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Lake Forest",
+      "check": "owner_age_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Lake Forest",
+      "check": "renter_age_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Lake Forest",
+      "check": "income_brackets_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Lake Forest",
+      "check": "owner_income_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Lake Forest",
+      "check": "renter_income_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Lake Forest",
+      "check": "cross_table_household_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Lake Forest",
+      "check": "cross_table_owner_tenure",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Lake Forest",
+      "check": "cross_table_renter_tenure",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Lake Forest",
+      "check": "own_children_subset_of_renters",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Tustin",
+      "check": "family_nonfamily_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Tustin",
+      "check": "presence_under18_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Tustin",
+      "check": "owner_renter_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Tustin",
+      "check": "population_sex_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Tustin",
+      "check": "tenure_family_owner_renter",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Tustin",
+      "check": "owner_age_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Tustin",
+      "check": "renter_age_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Tustin",
+      "check": "income_brackets_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Tustin",
+      "check": "owner_income_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Tustin",
+      "check": "renter_income_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Tustin",
+      "check": "cross_table_household_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Tustin",
+      "check": "cross_table_owner_tenure",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Tustin",
+      "check": "cross_table_renter_tenure",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Tustin",
+      "check": "own_children_subset_of_renters",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Orange County",
+      "check": "family_nonfamily_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Orange County",
+      "check": "presence_under18_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Orange County",
+      "check": "owner_renter_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Orange County",
+      "check": "population_sex_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Orange County",
+      "check": "tenure_family_owner_renter",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Orange County",
+      "check": "owner_age_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Orange County",
+      "check": "renter_age_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Orange County",
+      "check": "income_brackets_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Orange County",
+      "check": "owner_income_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Orange County",
+      "check": "renter_income_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Orange County",
+      "check": "mobility_categories_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Orange County",
+      "check": "cross_table_household_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Orange County",
+      "check": "cross_table_owner_tenure",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Orange County",
+      "check": "cross_table_renter_tenure",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Orange County",
+      "check": "own_children_subset_of_renters",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Irvine",
+      "check": "family_nonfamily_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Irvine",
+      "check": "presence_under18_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Irvine",
+      "check": "owner_renter_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Irvine",
+      "check": "population_sex_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Irvine",
+      "check": "tenure_family_owner_renter",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Irvine",
+      "check": "owner_age_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Irvine",
+      "check": "renter_age_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Irvine",
+      "check": "income_brackets_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Irvine",
+      "check": "owner_income_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Irvine",
+      "check": "renter_income_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Irvine",
+      "check": "mobility_categories_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Irvine",
+      "check": "cross_table_household_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Irvine",
+      "check": "cross_table_owner_tenure",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Irvine",
+      "check": "cross_table_renter_tenure",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Irvine",
+      "check": "own_children_subset_of_renters",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Lake Forest",
+      "check": "family_nonfamily_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Lake Forest",
+      "check": "presence_under18_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Lake Forest",
+      "check": "owner_renter_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Lake Forest",
+      "check": "population_sex_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Lake Forest",
+      "check": "tenure_family_owner_renter",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Lake Forest",
+      "check": "owner_age_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Lake Forest",
+      "check": "renter_age_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Lake Forest",
+      "check": "income_brackets_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Lake Forest",
+      "check": "owner_income_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Lake Forest",
+      "check": "renter_income_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Lake Forest",
+      "check": "mobility_categories_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Lake Forest",
+      "check": "cross_table_household_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Lake Forest",
+      "check": "cross_table_owner_tenure",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Lake Forest",
+      "check": "cross_table_renter_tenure",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Lake Forest",
+      "check": "own_children_subset_of_renters",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Tustin",
+      "check": "family_nonfamily_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Tustin",
+      "check": "presence_under18_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Tustin",
+      "check": "owner_renter_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Tustin",
+      "check": "population_sex_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Tustin",
+      "check": "tenure_family_owner_renter",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Tustin",
+      "check": "owner_age_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Tustin",
+      "check": "renter_age_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Tustin",
+      "check": "income_brackets_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Tustin",
+      "check": "owner_income_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Tustin",
+      "check": "renter_income_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Tustin",
+      "check": "mobility_categories_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Tustin",
+      "check": "cross_table_household_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Tustin",
+      "check": "cross_table_owner_tenure",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Tustin",
+      "check": "cross_table_renter_tenure",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Tustin",
+      "check": "own_children_subset_of_renters",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Aliso Viejo",
+      "check": "family_nonfamily_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Aliso Viejo",
+      "check": "presence_under18_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Aliso Viejo",
+      "check": "owner_renter_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Aliso Viejo",
+      "check": "population_sex_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Aliso Viejo",
+      "check": "tenure_family_owner_renter",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Aliso Viejo",
+      "check": "owner_age_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Aliso Viejo",
+      "check": "renter_age_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Aliso Viejo",
+      "check": "income_brackets_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Aliso Viejo",
+      "check": "owner_income_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Aliso Viejo",
+      "check": "renter_income_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Aliso Viejo",
+      "check": "mobility_categories_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Aliso Viejo",
+      "check": "cross_table_household_total",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Aliso Viejo",
+      "check": "cross_table_owner_tenure",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Aliso Viejo",
+      "check": "cross_table_renter_tenure",
+      "status": "pass"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Aliso Viejo",
+      "check": "own_children_subset_of_renters",
+      "status": "pass"
+    }
+  ],
+  "known_unavailable": [
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Aliso Viejo",
+      "reason": "Not present in standard 1-year geography file; never filled with zero"
+    }
+  ],
+  "sentinel_cells": [
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Orange County",
+      "variable_id": "B01001_001",
+      "estimate_raw": "3170435",
+      "moe_raw": "-555555555",
+      "moe_status": "controlled_sampling_moe_treated_as_zero"
+    },
+    {
+      "dataset": "ACS2024_1YR",
+      "geography": "Lake Forest",
+      "variable_id": "B07011_006",
+      "estimate_raw": "-666666666",
+      "moe_raw": "-222222222",
+      "moe_status": "unavailable_or_not_applicable"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Orange County",
+      "variable_id": "B01001_001",
+      "estimate_raw": "3165820",
+      "moe_raw": "-555555555",
+      "moe_status": "controlled_sampling_moe_treated_as_zero"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Orange County",
+      "variable_id": "B01001_002",
+      "estimate_raw": "1568413",
+      "moe_raw": "-555555555",
+      "moe_status": "controlled_sampling_moe_treated_as_zero"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Orange County",
+      "variable_id": "B01001_003",
+      "estimate_raw": "84888",
+      "moe_raw": "-555555555",
+      "moe_status": "controlled_sampling_moe_treated_as_zero"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Orange County",
+      "variable_id": "B01001_006",
+      "estimate_raw": "63496",
+      "moe_raw": "-555555555",
+      "moe_status": "controlled_sampling_moe_treated_as_zero"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Orange County",
+      "variable_id": "B01001_011",
+      "estimate_raw": "112269",
+      "moe_raw": "-555555555",
+      "moe_status": "controlled_sampling_moe_treated_as_zero"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Orange County",
+      "variable_id": "B01001_012",
+      "estimate_raw": "115990",
+      "moe_raw": "-555555555",
+      "moe_status": "controlled_sampling_moe_treated_as_zero"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Orange County",
+      "variable_id": "B01001_015",
+      "estimate_raw": "99590",
+      "moe_raw": "-555555555",
+      "moe_status": "controlled_sampling_moe_treated_as_zero"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Orange County",
+      "variable_id": "B01001_016",
+      "estimate_raw": "108514",
+      "moe_raw": "-555555555",
+      "moe_status": "controlled_sampling_moe_treated_as_zero"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Orange County",
+      "variable_id": "B01001_026",
+      "estimate_raw": "1597407",
+      "moe_raw": "-555555555",
+      "moe_status": "controlled_sampling_moe_treated_as_zero"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Orange County",
+      "variable_id": "B01001_027",
+      "estimate_raw": "80302",
+      "moe_raw": "-555555555",
+      "moe_status": "controlled_sampling_moe_treated_as_zero"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Orange County",
+      "variable_id": "B01001_030",
+      "estimate_raw": "60402",
+      "moe_raw": "-555555555",
+      "moe_status": "controlled_sampling_moe_treated_as_zero"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Orange County",
+      "variable_id": "B01001_035",
+      "estimate_raw": "108880",
+      "moe_raw": "-555555555",
+      "moe_status": "controlled_sampling_moe_treated_as_zero"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Orange County",
+      "variable_id": "B01001_036",
+      "estimate_raw": "111163",
+      "moe_raw": "-555555555",
+      "moe_status": "controlled_sampling_moe_treated_as_zero"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Orange County",
+      "variable_id": "B01001_039",
+      "estimate_raw": "103059",
+      "moe_raw": "-555555555",
+      "moe_status": "controlled_sampling_moe_treated_as_zero"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Orange County",
+      "variable_id": "B01001_040",
+      "estimate_raw": "110847",
+      "moe_raw": "-555555555",
+      "moe_status": "controlled_sampling_moe_treated_as_zero"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Orange County",
+      "variable_id": "B07001_003",
+      "estimate_raw": "499943",
+      "moe_raw": "-555555555",
+      "moe_status": "controlled_sampling_moe_treated_as_zero"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Orange County",
+      "variable_id": "B07001_006",
+      "estimate_raw": "221149",
+      "moe_raw": "-555555555",
+      "moe_status": "controlled_sampling_moe_treated_as_zero"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Orange County",
+      "variable_id": "B07001_007",
+      "estimate_raw": "227153",
+      "moe_raw": "-555555555",
+      "moe_status": "controlled_sampling_moe_treated_as_zero"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Orange County",
+      "variable_id": "B07001_010",
+      "estimate_raw": "202649",
+      "moe_raw": "-555555555",
+      "moe_status": "controlled_sampling_moe_treated_as_zero"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Orange County",
+      "variable_id": "B07001_011",
+      "estimate_raw": "219361",
+      "moe_raw": "-555555555",
+      "moe_status": "controlled_sampling_moe_treated_as_zero"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Orange County",
+      "variable_id": "B07001_016",
+      "estimate_raw": "219098",
+      "moe_raw": "-555555555",
+      "moe_status": "controlled_sampling_moe_treated_as_zero"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Orange County",
+      "variable_id": "B07010_001",
+      "estimate_raw": "2624585",
+      "moe_raw": "-555555555",
+      "moe_status": "controlled_sampling_moe_treated_as_zero"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Aliso Viejo",
+      "variable_id": "B07011_006",
+      "estimate_raw": "-666666666",
+      "moe_raw": "-222222222",
+      "moe_status": "unavailable_or_not_applicable"
+    },
+    {
+      "dataset": "ACS2024_5YR",
+      "geography": "Lake Forest",
+      "variable_id": "B07011_006",
+      "estimate_raw": "-666666666",
+      "moe_raw": "-222222222",
+      "moe_status": "unavailable_or_not_applicable"
+    }
+  ],
+  "unique_cell_keys": true,
+  "scope": "Arithmetic/extraction and geography identity; no independent buyer-demand validation"
+}

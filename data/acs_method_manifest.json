@@ -1,0 +1,79 @@
+[
+  {
+    "filename": "release_status.html",
+    "url": "https://www.census.gov/programs-surveys/acs/news/updates.html",
+    "access": "download_failed",
+    "reason": "HTTP Error 403: Forbidden",
+    "retrieved_date": "2026-10-11"
+  },
+  {
+    "filename": "comparison_2024.html",
+    "url": "https://www.census.gov/programs-surveys/acs/guidance/comparing-acs-data/2024.html",
+    "access": "download_failed",
+    "reason": "HTTP Error 403: Forbidden",
+    "retrieved_date": "2026-10-11"
+  },
+  {
+    "filename": "derived_moe_handbook.pdf",
+    "url": "https://www.census.gov/content/dam/Census/library/publications/2020/acs/acs_general_handbook_2020_ch08.pdf",
+    "access": "download_failed",
+    "reason": "HTTP Error 403: Forbidden",
+    "retrieved_date": "2026-10-11"
+  },
+  {
+    "filename": "VRE_2024_documentation.pdf",
+    "url": "https://www2.census.gov/programs-surveys/acs/replicate_estimates/2024/documentation/5-year/2020-2024_Variance_Replicate_Table_Documentation.pdf",
+    "sha256": "15ab1cbec7e2047c91967749041e9e4a70350dac1dcf065c792f434f21b0501d",
+    "bytes": 367571,
+    "access": "downloaded",
+    "retrieved_date": "2026-10-11"
+  },
+  {
+    "filename": "Census_DS027.pdf",
+    "url": "https://www2.census.gov/foia/ds_policies/ds027.pdf",
+    "sha256": "ce11f92f99d636b9a096b704bdf717112d724132f74bf8a9ec2a69b6ca6716c5",
+    "bytes": 331504,
+    "access": "downloaded",
+    "retrieved_date": "2026-10-11"
+  },
+  {
+    "filename": "ACS_2024_accuracy.pdf",
+    "url": "https://www2.census.gov/programs-surveys/acs/tech_docs/accuracy/ACS_Accuracy_of_Data_2024.pdf",
+    "sha256": "9161b0600bc050e0965ebc9955325ee900f457b2b98c3f1553f8bf5e948de825",
+    "bytes": 426525,
+    "access": "downloaded",
+    "retrieved_date": "2026-10-11"
+  },
+  {
+    "filename": "ACS_2020_2024_accuracy.pdf",
+    "url": "https://www2.census.gov/programs-surveys/acs/tech_docs/accuracy/MultiyearACSAccuracyofData2024.pdf",
+    "sha256": "4d3258202e02828c55e95312573f48c83e2fee26f5967fcf817c273b154741ad",
+    "bytes": 387987,
+    "access": "downloaded",
+    "retrieved_date": "2026-10-11"
+  },
+  {
+    "filename": "notes_annotation.html",
+    "url": "https://www.census.gov/data/developers/data-sets/acs-1year/notes-on-acs-estimate-and-annotation-values.html",
+    "access": "download_failed",
+    "reason": "HTTP Error 403: Forbidden",
+    "retrieved_date": "2026-10-11"
+  },
+  {
+    "filename": "2024_ACSSubjectDefinitions.pdf",
+    "url": "https://www2.census.gov/programs-surveys/acs/tech_docs/subject_definitions/2024_ACSSubjectDefinitions.pdf",
+    "access": "downloaded",
+    "sha256": "6e0c5b1a5d3ebf7e300e583ac6424cbd5f09de50d69e7ef03aa6d070d9c4a7a8",
+    "bytes": 1170567
+  },
+  {
+    "filename": "VRE_2024_availability",
+    "url": "https://www2.census.gov/programs-surveys/acs/replicate_estimates/2024/data/5-year/160/",
+    "access": "web_read_and_bulk_listing"
+  },
+  {
+    "filename": "Census_citation_policy",
+    "url": "https://www.census.gov/about/policies/citation.html",
+    "access": "web_read"
+  }
+]

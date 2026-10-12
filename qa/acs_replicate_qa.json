@@ -1,0 +1,1179 @@
+{
+  "status": "pass",
+  "raw_files_verified": 6,
+  "independent_core_cell_checks": 195,
+  "derived_replicate_metrics": 25,
+  "checks": [
+    {
+      "geography": "Orange County",
+      "variable_id": "B25003_001",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Orange County",
+      "variable_id": "B25003_002",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Orange County",
+      "variable_id": "B25003_003",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Orange County",
+      "variable_id": "B11005_001",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Orange County",
+      "variable_id": "B11005_002",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Orange County",
+      "variable_id": "B11005_003",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Orange County",
+      "variable_id": "B11005_004",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Orange County",
+      "variable_id": "B11005_005",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Orange County",
+      "variable_id": "B11005_006",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Orange County",
+      "variable_id": "B11005_007",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Orange County",
+      "variable_id": "B11005_008",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Orange County",
+      "variable_id": "B11005_009",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Orange County",
+      "variable_id": "B11005_010",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Orange County",
+      "variable_id": "B11005_011",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Orange County",
+      "variable_id": "B11005_012",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Orange County",
+      "variable_id": "B11005_013",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Orange County",
+      "variable_id": "B11005_014",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Orange County",
+      "variable_id": "B11005_015",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Orange County",
+      "variable_id": "B11005_016",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Orange County",
+      "variable_id": "B11005_017",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Orange County",
+      "variable_id": "B11005_018",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Orange County",
+      "variable_id": "B11005_019",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Orange County",
+      "variable_id": "B19001_001",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Orange County",
+      "variable_id": "B19001_002",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Orange County",
+      "variable_id": "B19001_003",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Orange County",
+      "variable_id": "B19001_004",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Orange County",
+      "variable_id": "B19001_005",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Orange County",
+      "variable_id": "B19001_006",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Orange County",
+      "variable_id": "B19001_007",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Orange County",
+      "variable_id": "B19001_008",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Orange County",
+      "variable_id": "B19001_009",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Orange County",
+      "variable_id": "B19001_010",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Orange County",
+      "variable_id": "B19001_011",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Orange County",
+      "variable_id": "B19001_012",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Orange County",
+      "variable_id": "B19001_013",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Orange County",
+      "variable_id": "B19001_014",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Orange County",
+      "variable_id": "B19001_015",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Orange County",
+      "variable_id": "B19001_016",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Orange County",
+      "variable_id": "B19001_017",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Aliso Viejo",
+      "variable_id": "B25003_001",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Aliso Viejo",
+      "variable_id": "B25003_002",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Aliso Viejo",
+      "variable_id": "B25003_003",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Irvine",
+      "variable_id": "B25003_001",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Irvine",
+      "variable_id": "B25003_002",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Irvine",
+      "variable_id": "B25003_003",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Lake Forest",
+      "variable_id": "B25003_001",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Lake Forest",
+      "variable_id": "B25003_002",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Lake Forest",
+      "variable_id": "B25003_003",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Tustin",
+      "variable_id": "B25003_001",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Tustin",
+      "variable_id": "B25003_002",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Tustin",
+      "variable_id": "B25003_003",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Aliso Viejo",
+      "variable_id": "B11005_001",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Aliso Viejo",
+      "variable_id": "B11005_002",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Aliso Viejo",
+      "variable_id": "B11005_003",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Aliso Viejo",
+      "variable_id": "B11005_004",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Aliso Viejo",
+      "variable_id": "B11005_005",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Aliso Viejo",
+      "variable_id": "B11005_006",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Aliso Viejo",
+      "variable_id": "B11005_007",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Aliso Viejo",
+      "variable_id": "B11005_008",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Aliso Viejo",
+      "variable_id": "B11005_009",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Aliso Viejo",
+      "variable_id": "B11005_010",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Aliso Viejo",
+      "variable_id": "B11005_011",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Aliso Viejo",
+      "variable_id": "B11005_012",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Aliso Viejo",
+      "variable_id": "B11005_013",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Aliso Viejo",
+      "variable_id": "B11005_014",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Aliso Viejo",
+      "variable_id": "B11005_015",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Aliso Viejo",
+      "variable_id": "B11005_016",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Aliso Viejo",
+      "variable_id": "B11005_017",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Aliso Viejo",
+      "variable_id": "B11005_018",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Aliso Viejo",
+      "variable_id": "B11005_019",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Irvine",
+      "variable_id": "B11005_001",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Irvine",
+      "variable_id": "B11005_002",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Irvine",
+      "variable_id": "B11005_003",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Irvine",
+      "variable_id": "B11005_004",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Irvine",
+      "variable_id": "B11005_005",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Irvine",
+      "variable_id": "B11005_006",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Irvine",
+      "variable_id": "B11005_007",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Irvine",
+      "variable_id": "B11005_008",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Irvine",
+      "variable_id": "B11005_009",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Irvine",
+      "variable_id": "B11005_010",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Irvine",
+      "variable_id": "B11005_011",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Irvine",
+      "variable_id": "B11005_012",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Irvine",
+      "variable_id": "B11005_013",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Irvine",
+      "variable_id": "B11005_014",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Irvine",
+      "variable_id": "B11005_015",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Irvine",
+      "variable_id": "B11005_016",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Irvine",
+      "variable_id": "B11005_017",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Irvine",
+      "variable_id": "B11005_018",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Irvine",
+      "variable_id": "B11005_019",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Lake Forest",
+      "variable_id": "B11005_001",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Lake Forest",
+      "variable_id": "B11005_002",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Lake Forest",
+      "variable_id": "B11005_003",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Lake Forest",
+      "variable_id": "B11005_004",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Lake Forest",
+      "variable_id": "B11005_005",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Lake Forest",
+      "variable_id": "B11005_006",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Lake Forest",
+      "variable_id": "B11005_007",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Lake Forest",
+      "variable_id": "B11005_008",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Lake Forest",
+      "variable_id": "B11005_009",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Lake Forest",
+      "variable_id": "B11005_010",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Lake Forest",
+      "variable_id": "B11005_011",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Lake Forest",
+      "variable_id": "B11005_012",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Lake Forest",
+      "variable_id": "B11005_013",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Lake Forest",
+      "variable_id": "B11005_014",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Lake Forest",
+      "variable_id": "B11005_015",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Lake Forest",
+      "variable_id": "B11005_016",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Lake Forest",
+      "variable_id": "B11005_017",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Lake Forest",
+      "variable_id": "B11005_018",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Lake Forest",
+      "variable_id": "B11005_019",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Tustin",
+      "variable_id": "B11005_001",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Tustin",
+      "variable_id": "B11005_002",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Tustin",
+      "variable_id": "B11005_003",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Tustin",
+      "variable_id": "B11005_004",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Tustin",
+      "variable_id": "B11005_005",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Tustin",
+      "variable_id": "B11005_006",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Tustin",
+      "variable_id": "B11005_007",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Tustin",
+      "variable_id": "B11005_008",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Tustin",
+      "variable_id": "B11005_009",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Tustin",
+      "variable_id": "B11005_010",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Tustin",
+      "variable_id": "B11005_011",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Tustin",
+      "variable_id": "B11005_012",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Tustin",
+      "variable_id": "B11005_013",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Tustin",
+      "variable_id": "B11005_014",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Tustin",
+      "variable_id": "B11005_015",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Tustin",
+      "variable_id": "B11005_016",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Tustin",
+      "variable_id": "B11005_017",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Tustin",
+      "variable_id": "B11005_018",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Tustin",
+      "variable_id": "B11005_019",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Aliso Viejo",
+      "variable_id": "B19001_001",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Aliso Viejo",
+      "variable_id": "B19001_002",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Aliso Viejo",
+      "variable_id": "B19001_003",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Aliso Viejo",
+      "variable_id": "B19001_004",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Aliso Viejo",
+      "variable_id": "B19001_005",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Aliso Viejo",
+      "variable_id": "B19001_006",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Aliso Viejo",
+      "variable_id": "B19001_007",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Aliso Viejo",
+      "variable_id": "B19001_008",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Aliso Viejo",
+      "variable_id": "B19001_009",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Aliso Viejo",
+      "variable_id": "B19001_010",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Aliso Viejo",
+      "variable_id": "B19001_011",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Aliso Viejo",
+      "variable_id": "B19001_012",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Aliso Viejo",
+      "variable_id": "B19001_013",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Aliso Viejo",
+      "variable_id": "B19001_014",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Aliso Viejo",
+      "variable_id": "B19001_015",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Aliso Viejo",
+      "variable_id": "B19001_016",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Aliso Viejo",
+      "variable_id": "B19001_017",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Irvine",
+      "variable_id": "B19001_001",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Irvine",
+      "variable_id": "B19001_002",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Irvine",
+      "variable_id": "B19001_003",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Irvine",
+      "variable_id": "B19001_004",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Irvine",
+      "variable_id": "B19001_005",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Irvine",
+      "variable_id": "B19001_006",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Irvine",
+      "variable_id": "B19001_007",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Irvine",
+      "variable_id": "B19001_008",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Irvine",
+      "variable_id": "B19001_009",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Irvine",
+      "variable_id": "B19001_010",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Irvine",
+      "variable_id": "B19001_011",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Irvine",
+      "variable_id": "B19001_012",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Irvine",
+      "variable_id": "B19001_013",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Irvine",
+      "variable_id": "B19001_014",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Irvine",
+      "variable_id": "B19001_015",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Irvine",
+      "variable_id": "B19001_016",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Irvine",
+      "variable_id": "B19001_017",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Lake Forest",
+      "variable_id": "B19001_001",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Lake Forest",
+      "variable_id": "B19001_002",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Lake Forest",
+      "variable_id": "B19001_003",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Lake Forest",
+      "variable_id": "B19001_004",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Lake Forest",
+      "variable_id": "B19001_005",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Lake Forest",
+      "variable_id": "B19001_006",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Lake Forest",
+      "variable_id": "B19001_007",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Lake Forest",
+      "variable_id": "B19001_008",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Lake Forest",
+      "variable_id": "B19001_009",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Lake Forest",
+      "variable_id": "B19001_010",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Lake Forest",
+      "variable_id": "B19001_011",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Lake Forest",
+      "variable_id": "B19001_012",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Lake Forest",
+      "variable_id": "B19001_013",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Lake Forest",
+      "variable_id": "B19001_014",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Lake Forest",
+      "variable_id": "B19001_015",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Lake Forest",
+      "variable_id": "B19001_016",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Lake Forest",
+      "variable_id": "B19001_017",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Tustin",
+      "variable_id": "B19001_001",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Tustin",
+      "variable_id": "B19001_002",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Tustin",
+      "variable_id": "B19001_003",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Tustin",
+      "variable_id": "B19001_004",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Tustin",
+      "variable_id": "B19001_005",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Tustin",
+      "variable_id": "B19001_006",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Tustin",
+      "variable_id": "B19001_007",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Tustin",
+      "variable_id": "B19001_008",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Tustin",
+      "variable_id": "B19001_009",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Tustin",
+      "variable_id": "B19001_010",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Tustin",
+      "variable_id": "B19001_011",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Tustin",
+      "variable_id": "B19001_012",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Tustin",
+      "variable_id": "B19001_013",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Tustin",
+      "variable_id": "B19001_014",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Tustin",
+      "variable_id": "B19001_015",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Tustin",
+      "variable_id": "B19001_016",
+      "estimate_match": true,
+      "published_moe_match": true
+    },
+    {
+      "geography": "Tustin",
+      "variable_id": "B19001_017",
+      "estimate_match": true,
+      "published_moe_match": true
+    }
+  ],
+  "limitation": "Same ACS survey, independent publication/extraction check, not independent measurement of households; VRE unavailable for B25007/B25115/B25118 in this geography list"
+}
