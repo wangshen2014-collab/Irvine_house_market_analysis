@@ -1,0 +1,16 @@
+{
+  "report_id": "S13-20261012-GATE-v1",
+  "verdict": "insufficient_evidence_to_complete",
+  "audited_commit": "ff33e18ce3e781dccf5194331561c97c71285a97",
+  "native_document_report_saved": true,
+  "native_tables": 3,
+  "native_cells": 117,
+  "cell_readback_mismatches": 0,
+  "preexisting_tab_bodies_unchanged_before_execution_append": 19,
+  "pdf_layout_review": "audit section pages 145-150 rendered and inspected; repeated table headers, no clipping",
+  "public_content_check": "new audit files contain no private Drive URL, personal financial inputs or raw evidence",
+  "full_step13_review_completed": false,
+  "step12_synthesis_completed": false,
+  "eligible_for_A_C_integration": false,
+  "publication_note": "The containing commit publishes this report and QA; final PR/merge receipt is recorded separately after successful merge."
+}

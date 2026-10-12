@@ -1,0 +1,1490 @@
+{
+  "audit_scope": "step11 synthetic financing only; step12 absent",
+  "audited_commit": "ff33e18ce3e781dccf5194331561c97c71285a97",
+  "generated_at_utc": "2026-10-12T22:44:27.185619+00:00",
+  "method": "44-digit Decimal; monthly balance iteration; bisection to zero terminal balance; no production imports",
+  "passed": true,
+  "checks": [
+    {
+      "family": "equal_payment",
+      "row": "4.5",
+      "field": "PI_per_100k",
+      "recomputed": 506.68530982588067,
+      "recorded": 506.6853098258857,
+      "absolute_error": 5.008676576281772e-12,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "equal_payment",
+      "row": "4.5",
+      "field": "fixed_cash_equal_PI_price_index",
+      "recomputed": 121.78746857705636,
+      "recorded": 121.78746857705569,
+      "absolute_error": 6.673412301528137e-13,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "equal_payment",
+      "row": "4.5",
+      "field": "fixed_fraction_equal_PI_price_index",
+      "recomputed": 136.31244762842726,
+      "recorded": 136.31244762842613,
+      "absolute_error": 1.132235383588023e-12,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "equal_payment",
+      "row": "5.5",
+      "field": "PI_per_100k",
+      "recomputed": 567.7890013470029,
+      "recorded": 567.7890013470005,
+      "absolute_error": 2.435836097761894e-12,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "equal_payment",
+      "row": "5.5",
+      "field": "fixed_cash_equal_PI_price_index",
+      "recomputed": 112.98575484471918,
+      "recorded": 112.9857548447196,
+      "absolute_error": 4.247961526337585e-13,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "equal_payment",
+      "row": "5.5",
+      "field": "fixed_fraction_equal_PI_price_index",
+      "recomputed": 121.64292474119863,
+      "recorded": 121.64292474119935,
+      "absolute_error": 7.246602543895974e-13,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "equal_payment",
+      "row": "6.5",
+      "field": "PI_per_100k",
+      "recomputed": 632.0680234929637,
+      "recorded": 632.0680234929654,
+      "absolute_error": 1.6679541683237614e-12,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "equal_payment",
+      "row": "6.5",
+      "field": "fixed_cash_equal_PI_price_index",
+      "recomputed": 105.56336868115842,
+      "recorded": 105.56336868115834,
+      "absolute_error": 7.846551864817344e-14,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "equal_payment",
+      "row": "6.5",
+      "field": "fixed_fraction_equal_PI_price_index",
+      "recomputed": 109.27228113526404,
+      "recorded": 109.27228113526392,
+      "absolute_error": 1.107758644136224e-13,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "equal_payment",
+      "row": "7.375",
+      "field": "PI_per_100k",
+      "recomputed": 690.6751475973381,
+      "recorded": 690.6751475973392,
+      "absolute_error": 1.1696688713873815e-12,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "equal_payment",
+      "row": "7.375",
+      "field": "fixed_cash_equal_PI_price_index",
+      "recomputed": 100.0,
+      "recorded": 100.0,
+      "absolute_error": 0.0,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "equal_payment",
+      "row": "7.375",
+      "field": "fixed_fraction_equal_PI_price_index",
+      "recomputed": 100.0,
+      "recorded": 100.0,
+      "absolute_error": 0.0,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "equal_payment",
+      "row": "8.5",
+      "field": "PI_per_100k",
+      "recomputed": 768.9134835843336,
+      "recorded": 768.9134835843337,
+      "absolute_error": 1.3215078464784005e-13,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "equal_payment",
+      "row": "8.5",
+      "field": "fixed_cash_equal_PI_price_index",
+      "recomputed": 93.89489161077397,
+      "recorded": 93.89489161077404,
+      "absolute_error": 7.791030489382165e-14,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "equal_payment",
+      "row": "8.5",
+      "field": "fixed_fraction_equal_PI_price_index",
+      "recomputed": 89.82481935128993,
+      "recorded": 89.82481935129007,
+      "absolute_error": 1.3318384148970276e-13,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "points",
+      "row": 12,
+      "field": "monthly_PI_saving",
+      "recomputed": 16.95662429620415,
+      "recorded": 16.956624296203017,
+      "absolute_error": 1.1323428175590407e-12,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "points",
+      "row": 12,
+      "field": "cash_saving_net_cost",
+      "recomputed": -796.5205084455503,
+      "recorded": -796.5205084455638,
+      "absolute_error": 1.3592113810708488e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "points",
+      "row": 12,
+      "field": "remaining_balance_saving",
+      "recomputed": 46.980892413023604,
+      "recorded": 46.98089241304842,
+      "absolute_error": 2.4815424249506145e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "points",
+      "row": 12,
+      "field": "interest_saving_net_cost",
+      "recomputed": -749.5396160325266,
+      "recorded": -749.5396160325154,
+      "absolute_error": 1.1203310438797657e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "points",
+      "row": 24,
+      "field": "monthly_PI_saving",
+      "recomputed": 16.95662429620415,
+      "recorded": 16.956624296203017,
+      "absolute_error": 1.1323428175590407e-12,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "points",
+      "row": 24,
+      "field": "cash_saving_net_cost",
+      "recomputed": -593.0410168911004,
+      "recorded": -593.0410168911276,
+      "absolute_error": 2.7184227621416977e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "points",
+      "row": 24,
+      "field": "remaining_balance_saving",
+      "recomputed": 94.89738906074925,
+      "recorded": 94.89738906075945,
+      "absolute_error": 1.0195429996234963e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "points",
+      "row": 24,
+      "field": "interest_saving_net_cost",
+      "recomputed": -498.14362783035114,
+      "recorded": -498.14362783036813,
+      "absolute_error": 1.6968797625182016e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "points",
+      "row": 36,
+      "field": "monthly_PI_saving",
+      "recomputed": 16.95662429620415,
+      "recorded": 16.956624296203017,
+      "absolute_error": 1.1323428175590407e-12,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "points",
+      "row": 36,
+      "field": "cash_saving_net_cost",
+      "recomputed": -389.5615253366506,
+      "recorded": -389.5615253366914,
+      "absolute_error": 4.077634143212547e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "points",
+      "row": 36,
+      "field": "remaining_balance_saving",
+      "recomputed": 143.62585870179507,
+      "recorded": 143.62585870182374,
+      "absolute_error": 2.868370578937886e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "points",
+      "row": 36,
+      "field": "interest_saving_net_cost",
+      "recomputed": -245.93566663485558,
+      "recorded": -245.9356666348649,
+      "absolute_error": 9.332635642746606e-12,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "points",
+      "row": 60,
+      "field": "monthly_PI_saving",
+      "recomputed": 16.95662429620415,
+      "recorded": 16.956624296203017,
+      "absolute_error": 1.1323428175590407e-12,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "points",
+      "row": 60,
+      "field": "cash_saving_net_cost",
+      "recomputed": 17.39745777224896,
+      "recorded": 17.397457772181042,
+      "absolute_error": 6.791856905354245e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "points",
+      "row": 60,
+      "field": "remaining_balance_saving",
+      "recomputed": 242.90237028730857,
+      "recorded": 242.90237028733827,
+      "absolute_error": 2.970083885245169e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "points",
+      "row": 60,
+      "field": "interest_saving_net_cost",
+      "recomputed": 260.2998280595575,
+      "recorded": 260.2998280595202,
+      "absolute_error": 3.7329730201090755e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "points",
+      "row": 84,
+      "field": "monthly_PI_saving",
+      "recomputed": 16.95662429620415,
+      "recorded": 16.956624296203017,
+      "absolute_error": 1.1323428175590407e-12,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "points",
+      "row": 84,
+      "field": "cash_saving_net_cost",
+      "recomputed": 424.35644088114856,
+      "recorded": 424.35644088105346,
+      "absolute_error": 9.508479667495942e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "points",
+      "row": 84,
+      "field": "remaining_balance_saving",
+      "recomputed": 343.2917740442017,
+      "recorded": 343.29177404423535,
+      "absolute_error": 3.364508341014022e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "points",
+      "row": 84,
+      "field": "interest_saving_net_cost",
+      "recomputed": 767.6482149253502,
+      "recorded": 767.6482149252915,
+      "absolute_error": 5.874971326481921e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "points",
+      "row": 120,
+      "field": "monthly_PI_saving",
+      "recomputed": 16.95662429620415,
+      "recorded": 16.956624296203017,
+      "absolute_error": 1.1323428175590407e-12,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "points",
+      "row": 120,
+      "field": "cash_saving_net_cost",
+      "recomputed": 1034.7949155444978,
+      "recorded": 1034.794915544362,
+      "absolute_error": 1.359211381070849e-10,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "points",
+      "row": 120,
+      "field": "remaining_balance_saving",
+      "recomputed": 491.28982975233174,
+      "recorded": 491.28982975240797,
+      "absolute_error": 7.620659697278796e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "points",
+      "row": 120,
+      "field": "interest_saving_net_cost",
+      "recomputed": 1526.0847452968296,
+      "recorded": 1526.0847452967719,
+      "absolute_error": 5.7784541134296925e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 1,
+      "field": "rate_pct",
+      "recomputed": 6.125,
+      "recorded": 6.125,
+      "absolute_error": 0.0,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 1,
+      "field": "payment",
+      "recomputed": 607.6105395806918,
+      "recorded": 607.6105395806909,
+      "absolute_error": 8.835690888477352e-13,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 1,
+      "field": "balance",
+      "recomputed": 99902.80612708598,
+      "recorded": 99902.80612708598,
+      "absolute_error": 5.116902422181068e-12,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 1,
+      "field": "cumulative_payments",
+      "recomputed": 607.6105395806918,
+      "recorded": 607.6105395806909,
+      "absolute_error": 8.835690888477352e-13,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 1,
+      "field": "cumulative_interest",
+      "recomputed": 510.4166666666667,
+      "recorded": 510.4166666666667,
+      "absolute_error": 3.3333333333333334e-14,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 60,
+      "field": "rate_pct",
+      "recomputed": 6.125,
+      "recorded": 6.125,
+      "absolute_error": 0.0,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 60,
+      "field": "payment",
+      "recomputed": 607.6105395806918,
+      "recorded": 607.6105395806909,
+      "absolute_error": 8.835690888477352e-13,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 60,
+      "field": "balance",
+      "recomputed": 93196.95145836668,
+      "recorded": 93196.95145836673,
+      "absolute_error": 6.149706517829691e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 60,
+      "field": "cumulative_payments",
+      "recomputed": 36456.63237484151,
+      "recorded": 36456.632374841465,
+      "absolute_error": 4.2014145330864116e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 60,
+      "field": "cumulative_interest",
+      "recomputed": 29653.583833208177,
+      "recorded": 29653.58383320819,
+      "absolute_error": 1.4482919847432792e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 61,
+      "field": "rate_pct",
+      "recomputed": 8.125,
+      "recorded": 8.125,
+      "absolute_error": 0.0,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 61,
+      "field": "payment",
+      "recomputed": 727.0434758021189,
+      "recorded": 727.0434758021175,
+      "absolute_error": 1.45769254630083e-12,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 61,
+      "field": "balance",
+      "recomputed": 93100.9290080639,
+      "recorded": 93100.92900806398,
+      "absolute_error": 7.280343577007578e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 61,
+      "field": "cumulative_payments",
+      "recomputed": 37183.67585064362,
+      "recorded": 37183.67585064358,
+      "absolute_error": 4.5971837877164944e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 61,
+      "field": "cumulative_interest",
+      "recomputed": 30284.604858707535,
+      "recorded": 30284.60485870755,
+      "absolute_error": 1.6831597892910846e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 72,
+      "field": "rate_pct",
+      "recomputed": 8.125,
+      "recorded": 8.125,
+      "absolute_error": 0.0,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 72,
+      "field": "payment",
+      "recomputed": 727.0434758021189,
+      "recorded": 727.0434758021175,
+      "absolute_error": 1.45769254630083e-12,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 72,
+      "field": "balance",
+      "recomputed": 92000.78865174172,
+      "recorded": 92000.78865174181,
+      "absolute_error": 9.240984309059923e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 72,
+      "field": "cumulative_payments",
+      "recomputed": 45181.154084466936,
+      "recorded": 45181.15408446684,
+      "absolute_error": 9.450645588647408e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 72,
+      "field": "cumulative_interest",
+      "recomputed": 37181.94273620865,
+      "recorded": 37181.942736208664,
+      "absolute_error": 1.1903387204125154e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 73,
+      "field": "rate_pct",
+      "recomputed": 10.125,
+      "recorded": 10.125,
+      "absolute_error": 0.0,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 73,
+      "field": "payment",
+      "recomputed": 852.035772707745,
+      "recorded": 852.0357727077436,
+      "absolute_error": 1.3744925650928225e-12,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 73,
+      "field": "balance",
+      "recomputed": 91925.00953328304,
+      "recorded": 91925.00953328314,
+      "absolute_error": 9.664216870676898e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 73,
+      "field": "cumulative_payments",
+      "recomputed": 46033.18985717468,
+      "recorded": 46033.189857174584,
+      "absolute_error": 9.54809484515669e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 73,
+      "field": "cumulative_interest",
+      "recomputed": 37958.199390457725,
+      "recorded": 37958.19939045774,
+      "absolute_error": 1.7161220255202084e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 84,
+      "field": "rate_pct",
+      "recomputed": 10.125,
+      "recorded": 10.125,
+      "absolute_error": 0.0,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 84,
+      "field": "payment",
+      "recomputed": 852.035772707745,
+      "recorded": 852.0357727077436,
+      "absolute_error": 1.3744925650928225e-12,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 84,
+      "field": "balance",
+      "recomputed": 91048.03003379753,
+      "recorded": 91048.03003379764,
+      "absolute_error": 1.0726864670498011e-10,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 84,
+      "field": "cumulative_payments",
+      "recomputed": 55405.583356959876,
+      "recorded": 55405.58335695975,
+      "absolute_error": 1.2420036666758794e-10,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 84,
+      "field": "cumulative_interest",
+      "recomputed": 46453.613390757404,
+      "recorded": 46453.613390757426,
+      "absolute_error": 1.9068280037392164e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 85,
+      "field": "rate_pct",
+      "recomputed": 12.125,
+      "recorded": 12.125,
+      "absolute_error": 0.0,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 85,
+      "field": "payment",
+      "recomputed": 981.1538787103825,
+      "recorded": 981.153878710385,
+      "absolute_error": 2.5081803859920576e-12,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 85,
+      "field": "balance",
+      "recomputed": 90986.84062522031,
+      "recorded": 90986.84062522041,
+      "absolute_error": 9.719015993673629e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 85,
+      "field": "cumulative_payments",
+      "recomputed": 56386.737235670254,
+      "recorded": 56386.73723567014,
+      "absolute_error": 1.1669218628159588e-10,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 85,
+      "field": "cumulative_interest",
+      "recomputed": 47373.57786089057,
+      "recorded": 47373.57786089059,
+      "absolute_error": 2.0497973655140403e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 96,
+      "field": "rate_pct",
+      "recomputed": 12.125,
+      "recorded": 12.125,
+      "absolute_error": 0.0,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 96,
+      "field": "payment",
+      "recomputed": 981.1538787103825,
+      "recorded": 981.153878710385,
+      "absolute_error": 2.5081803859920576e-12,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 96,
+      "field": "balance",
+      "recomputed": 90271.54532951163,
+      "recorded": 90271.54532951172,
+      "absolute_error": 8.70862623129388e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 96,
+      "field": "cumulative_payments",
+      "recomputed": 67179.42990148446,
+      "recorded": 67179.42990148437,
+      "absolute_error": 9.410220203568325e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 96,
+      "field": "cumulative_interest",
+      "recomputed": 57450.9752309961,
+      "recorded": 57450.97523099612,
+      "absolute_error": 2.298406027725554e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 120,
+      "field": "rate_pct",
+      "recomputed": 12.125,
+      "recorded": 12.125,
+      "absolute_error": 0.0,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 120,
+      "field": "payment",
+      "recomputed": 981.1538787103825,
+      "recorded": 981.153878710385,
+      "absolute_error": 2.5081803859920576e-12,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 120,
+      "field": "balance",
+      "recomputed": 88407.1265910963,
+      "recorded": 88407.12659109633,
+      "absolute_error": 3.950079612070525e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 120,
+      "field": "cumulative_payments",
+      "recomputed": 90727.12299053364,
+      "recorded": 90727.12299053345,
+      "absolute_error": 1.9390587277187387e-10,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 120,
+      "field": "cumulative_interest",
+      "recomputed": 79134.24958162993,
+      "recorded": 79134.24958162996,
+      "absolute_error": 2.5594923348831387e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 360,
+      "field": "rate_pct",
+      "recomputed": 12.125,
+      "recorded": 12.125,
+      "absolute_error": 0.0,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 360,
+      "field": "payment",
+      "recomputed": 981.1538787103825,
+      "recorded": 981.1538787103643,
+      "absolute_error": 1.8191819614007943e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 360,
+      "field": "balance",
+      "recomputed": 1.2e-40,
+      "recorded": -1.0027179087046534e-10,
+      "absolute_error": 1.0027179087046534e-10,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 360,
+      "field": "cumulative_payments",
+      "recomputed": 326204.05388102547,
+      "recorded": 326204.0538810233,
+      "absolute_error": 2.14194258013378e-09,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "arm",
+      "row": 360,
+      "field": "cumulative_interest",
+      "recomputed": 226204.05388102544,
+      "recorded": 226204.05388102477,
+      "absolute_error": 6.7194258013378e-10,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "324/12",
+      "field": "refi_balance",
+      "recomputed": 96944.47299468557,
+      "recorded": 96944.47299468554,
+      "absolute_error": 2.6516663474080314e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "324/12",
+      "field": "upfront_cash_fee",
+      "recomputed": 1938.8894598937113,
+      "recorded": 1938.8894598937109,
+      "absolute_error": 4.303332694816063e-13,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "324/12",
+      "field": "old_payment",
+      "recomputed": 690.6751475973381,
+      "recorded": 690.6751475973392,
+      "absolute_error": 1.1696688713873815e-12,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "324/12",
+      "field": "new_payment",
+      "recomputed": 575.0133297966419,
+      "recorded": 575.0133297966389,
+      "absolute_error": 2.9800837547174713e-12,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "324/12",
+      "field": "cash_saving_net_cost",
+      "recomputed": -550.9476462853576,
+      "recorded": -550.9476462853072,
+      "absolute_error": 5.032736478273984e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "324/12",
+      "field": "interest_saving_net_cost",
+      "recomputed": -120.3195249907935,
+      "recorded": -120.31952499077624,
+      "absolute_error": 1.7250872783104e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "324/12",
+      "field": "remaining_balance_extra",
+      "recomputed": -430.62812129456404,
+      "recorded": -430.6281212945323,
+      "absolute_error": 3.173649199963584e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "324/12",
+      "field": "new_lifetime_interest",
+      "recomputed": 89359.84585942641,
+      "recorded": 89359.84585942548,
+      "absolute_error": 9.226304730543804e-10,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "324/12",
+      "field": "old_remaining_lifetime_interest",
+      "recomputed": 126834.27482685195,
+      "recorded": 126834.27482685236,
+      "absolute_error": 4.046893778035919e-10,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "324/24",
+      "field": "refi_balance",
+      "recomputed": 96944.47299468557,
+      "recorded": 96944.47299468554,
+      "absolute_error": 2.6516663474080314e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "324/24",
+      "field": "upfront_cash_fee",
+      "recomputed": 1938.8894598937113,
+      "recorded": 1938.8894598937109,
+      "absolute_error": 4.303332694816063e-13,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "324/24",
+      "field": "old_payment",
+      "recomputed": 690.6751475973381,
+      "recorded": 690.6751475973392,
+      "absolute_error": 1.1696688713873815e-12,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "324/24",
+      "field": "new_payment",
+      "recomputed": 575.0133297966419,
+      "recorded": 575.0133297966389,
+      "absolute_error": 2.9800837547174713e-12,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "324/24",
+      "field": "cash_saving_net_cost",
+      "recomputed": 836.9941673229963,
+      "recorded": 836.9941673230965,
+      "absolute_error": 1.0022439629599807e-10,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "324/24",
+      "field": "interest_saving_net_cost",
+      "recomputed": 1699.11994628467,
+      "recorded": 1699.1199462847148,
+      "absolute_error": 4.478861431508123e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "324/24",
+      "field": "remaining_balance_extra",
+      "recomputed": -862.1257789616737,
+      "recorded": -862.1257789616211,
+      "absolute_error": 5.2635781980916846e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "324/24",
+      "field": "new_lifetime_interest",
+      "recomputed": 89359.84585942641,
+      "recorded": 89359.84585942548,
+      "absolute_error": 9.226304730543804e-10,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "324/24",
+      "field": "old_remaining_lifetime_interest",
+      "recomputed": 126834.27482685195,
+      "recorded": 126834.27482685236,
+      "absolute_error": 4.046893778035919e-10,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "324/60",
+      "field": "refi_balance",
+      "recomputed": 96944.47299468557,
+      "recorded": 96944.47299468554,
+      "absolute_error": 2.6516663474080314e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "324/60",
+      "field": "upfront_cash_fee",
+      "recomputed": 1938.8894598937113,
+      "recorded": 1938.8894598937109,
+      "absolute_error": 4.303332694816063e-13,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "324/60",
+      "field": "old_payment",
+      "recomputed": 690.6751475973381,
+      "recorded": 690.6751475973392,
+      "absolute_error": 1.1696688713873815e-12,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "324/60",
+      "field": "new_payment",
+      "recomputed": 575.0133297966419,
+      "recorded": 575.0133297966389,
+      "absolute_error": 2.9800837547174713e-12,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "324/60",
+      "field": "cash_saving_net_cost",
+      "recomputed": 5000.819608148057,
+      "recorded": 5000.819608148307,
+      "absolute_error": 2.493154908357728e-10,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "324/60",
+      "field": "interest_saving_net_cost",
+      "recomputed": 7144.081446121059,
+      "recorded": 7144.081446121178,
+      "absolute_error": 1.188382553922537e-10,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "324/60",
+      "field": "remaining_balance_extra",
+      "recomputed": -2143.2618379730015,
+      "recorded": -2143.261837972881,
+      "absolute_error": 1.2047723544351906e-10,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "324/60",
+      "field": "new_lifetime_interest",
+      "recomputed": 89359.84585942641,
+      "recorded": 89359.84585942548,
+      "absolute_error": 9.226304730543804e-10,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "324/60",
+      "field": "old_remaining_lifetime_interest",
+      "recomputed": 126834.27482685195,
+      "recorded": 126834.27482685236,
+      "absolute_error": 4.046893778035919e-10,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "360/12",
+      "field": "refi_balance",
+      "recomputed": 96944.47299468557,
+      "recorded": 96944.47299468554,
+      "absolute_error": 2.6516663474080314e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "360/12",
+      "field": "upfront_cash_fee",
+      "recomputed": 1938.8894598937113,
+      "recorded": 1938.8894598937109,
+      "absolute_error": 4.303332694816063e-13,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "360/12",
+      "field": "old_payment",
+      "recomputed": 690.6751475973381,
+      "recorded": 690.6751475973392,
+      "absolute_error": 1.1696688713873815e-12,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "360/12",
+      "field": "new_payment",
+      "recomputed": 550.4400550776402,
+      "recorded": 550.4400550776376,
+      "absolute_error": 2.5286385459168353e-12,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "360/12",
+      "field": "cash_saving_net_cost",
+      "recomputed": -256.0683496573365,
+      "recorded": -256.06834965729104,
+      "absolute_error": 4.547002227713221e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "360/12",
+      "field": "interest_saving_net_cost",
+      "recomputed": -127.86768644965018,
+      "recorded": -127.86768644962604,
+      "absolute_error": 2.414113846067946e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "360/12",
+      "field": "remaining_balance_extra",
+      "recomputed": -128.20066320768632,
+      "recorded": -128.20066320766637,
+      "absolute_error": 1.995888381645275e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "360/12",
+      "field": "new_lifetime_interest",
+      "recomputed": 101213.94683326488,
+      "recorded": 101213.94683326398,
+      "absolute_error": 8.997932130559804e-10,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "360/12",
+      "field": "old_remaining_lifetime_interest",
+      "recomputed": 126834.27482685195,
+      "recorded": 126834.27482685236,
+      "absolute_error": 4.046893778035919e-10,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "360/24",
+      "field": "refi_balance",
+      "recomputed": 96944.47299468557,
+      "recorded": 96944.47299468554,
+      "absolute_error": 2.6516663474080314e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "360/24",
+      "field": "upfront_cash_fee",
+      "recomputed": 1938.8894598937113,
+      "recorded": 1938.8894598937109,
+      "absolute_error": 4.303332694816063e-13,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "360/24",
+      "field": "old_payment",
+      "recomputed": 690.6751475973381,
+      "recorded": 690.6751475973392,
+      "absolute_error": 1.1696688713873815e-12,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "360/24",
+      "field": "new_payment",
+      "recomputed": 550.4400550776402,
+      "recorded": 550.4400550776376,
+      "absolute_error": 2.5286385459168353e-12,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "360/24",
+      "field": "cash_saving_net_cost",
+      "recomputed": 1426.7527605790383,
+      "recorded": 1426.7527605791288,
+      "absolute_error": 9.048971128478281e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "360/24",
+      "field": "interest_saving_net_cost",
+      "recomputed": 1666.9643375344397,
+      "recorded": 1666.9643375344754,
+      "absolute_error": 3.571006481280405e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "360/24",
+      "field": "remaining_balance_extra",
+      "recomputed": -240.21157695540137,
+      "recorded": -240.2115769553493,
+      "absolute_error": 5.207964647197876e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "360/24",
+      "field": "new_lifetime_interest",
+      "recomputed": 101213.94683326488,
+      "recorded": 101213.94683326398,
+      "absolute_error": 8.997932130559804e-10,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "360/24",
+      "field": "old_remaining_lifetime_interest",
+      "recomputed": 126834.27482685195,
+      "recorded": 126834.27482685236,
+      "absolute_error": 4.046893778035919e-10,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "360/60",
+      "field": "refi_balance",
+      "recomputed": 96944.47299468557,
+      "recorded": 96944.47299468554,
+      "absolute_error": 2.6516663474080314e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "360/60",
+      "field": "upfront_cash_fee",
+      "recomputed": 1938.8894598937113,
+      "recorded": 1938.8894598937109,
+      "absolute_error": 4.303332694816063e-13,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "360/60",
+      "field": "old_payment",
+      "recomputed": 690.6751475973381,
+      "recorded": 690.6751475973392,
+      "absolute_error": 1.1696688713873815e-12,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "360/60",
+      "field": "new_payment",
+      "recomputed": 550.4400550776402,
+      "recorded": 550.4400550776376,
+      "absolute_error": 2.5286385459168353e-12,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "360/60",
+      "field": "cash_saving_net_cost",
+      "recomputed": 6475.216091288163,
+      "recorded": 6475.216091288388,
+      "absolute_error": 2.2522877830773462e-10,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "360/60",
+      "field": "interest_saving_net_cost",
+      "recomputed": 6925.850540383148,
+      "recorded": 6925.8505403832605,
+      "absolute_error": 1.1294649502743946e-10,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "360/60",
+      "field": "remaining_balance_extra",
+      "recomputed": -450.6344490949848,
+      "recorded": -450.63444909488317,
+      "absolute_error": 1.0161228328029516e-10,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "360/60",
+      "field": "new_lifetime_interest",
+      "recomputed": 101213.94683326488,
+      "recorded": 101213.94683326398,
+      "absolute_error": 8.997932130559804e-10,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    {
+      "family": "refinance",
+      "row": "360/60",
+      "field": "old_remaining_lifetime_interest",
+      "recomputed": 126834.27482685195,
+      "recorded": 126834.27482685236,
+      "absolute_error": 4.046893778035919e-10,
+      "tolerance": 1e-06,
+      "passed": true
+    }
+  ],
+  "source_hashes": [
+    {
+      "evidence_id": "JS-01",
+      "source_url": "https://www.consumerfinance.gov/owning-a-home/compare/compare-loan-estimates/",
+      "sha256": "acdd461b26da5e32619c60f35ccc40fa481964e63c846eb4cc6945529dd31521",
+      "matches_manifest": true
+    },
+    {
+      "evidence_id": "JS-02",
+      "source_url": "https://www.consumerfinance.gov/ask-cfpb/how-should-i-use-lender-credits-and-points-also-called-discount-points-en-136/",
+      "sha256": "5c87c835b95e5aec6bf97cbab74688659113a32757f3514bf1061d72932b72aa",
+      "matches_manifest": true
+    },
+    {
+      "evidence_id": "JS-06",
+      "source_url": "https://www.cusocal.org/loans/personal/rates/",
+      "sha256": "a212bbf032c351b8e0d26df909cde710e7b6dd2385c91d38a2e36583ebe56a60",
+      "matches_manifest": true
+    },
+    {
+      "evidence_id": "JS-29",
+      "source_url": "https://www.schoolsfirstfcu.org/rates/mortgage-purchase",
+      "sha256": "2b96bee868ddc5e1f96e86552d6876542160401ee1ae5d0f9a0bcce3e2516497",
+      "matches_manifest": true
+    }
+  ],
+  "summary": {
+    "families": [
+      "equal_payment",
+      "points",
+      "arm",
+      "refinance"
+    ],
+    "comparison_count": 143,
+    "max_absolute_error": 2.14194258013378e-09,
+    "fixed_payment_per_100k": 690.6751475973381,
+    "points_monthly_saving": 16.95662429620415,
+    "points_simple_cash_months": 58.97400228557618,
+    "points_interest_break_even_month": 48,
+    "refinance_initial_balance": 96944.47299468557,
+    "extended_term_extra_interest": 11854.100973838476
+  },
+  "step12_completed": false,
+  "full_step13_completed": false,
+  "eligible_for_A_C_integration": false,
+  "limitations": [
+    "Synthetic inputs, not personal loan eligibility",
+    "No market equilibrium price or buy-rent break-even",
+    "No tax, discounting, prepaid interest, real closing-cost or insurance audit",
+    "Four frozen HTML source hashes checked in this run; remaining domain originals not audited"
+  ]
+}

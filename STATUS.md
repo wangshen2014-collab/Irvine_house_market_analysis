@@ -1,5 +1,27 @@
 # STATUS
 
+最后更新：2026-10-12（America/Los_Angeles）；步骤13前置验收与有限融资抽核。
+
+## 当前有效状态
+
+**证据不足，无法完成步骤13完整审核；步骤12尚未形成可审版本。不得接入家庭A/C。**
+
+本次被检查基线为步骤11发布commit `ff33e18ce3e781dccf5194331561c97c71285a97`，不是步骤12版本。V2执行tab、原有19个tab目录、main与全部可见分支、最近PR及指定档案一致：综合主报告、统一A参数表和步骤12审阅包缺失。S13-001为未关闭重大前置缺件；不能把phase12定价文件当作步骤12综合。
+
+已完成：保存带时间初步判断；四份冻结HTML原件及指纹核对；用逐月余额递推与二分法独立复核等PI、点数、ARM和再融资四类算例，一致。该结果不验收市场方向、合理房价或等待收益，不代表完整公共B通过。其他领域按实际读取等级列覆盖／缺口，未读原件没有声称已核验。
+
+产物：
+- `reports/2026-10-12_step13_independent_review.md`
+- `reports/2026-10-12_step13_preliminary.md`
+- `qa/step13_gate.json`、`qa/step13_issues.csv`、`qa/step13_coverage.csv`
+- `scripts/audit_step13_financing.py`、`qa/step13_financing_independent.json`
+
+## 唯一下一项动作
+
+先完成并冻结步骤12“独立公共B综合报告＋统一A参数表＋审阅包”，再对该版本重启步骤13完整审核。复用已完成的步骤1—11，不全量重跑；输入不变的融资算术可复用本轮抽核。步骤12要求见 `docs/step12_independent_synthesis_prompt.md`。重大问题处理并复核完成前不接A/C。
+
+## 以下保留步骤11历史交接
+
 最后更新：2026-10-12（America/Los_Angeles）；阶段十四／步骤11联合情景。
 
 ## 当前完成边界

@@ -1,0 +1,3 @@
+id,severity,status,location,mechanism,impact,minimum_fix,recheck
+S13-001,major,open_missing_prerequisite,STATUS; docs/step12_independent_synthesis_prompt.md; V2 execution step11 handoff,"No step12 synthesis, consolidated A parameter table or review packet",Blocks full step13 review and A/C integration,"Complete and freeze step12 using existing evidence, explicitly retaining unknown inputs",All final action claims and key parameters
+S13-002,important,clarified_here_carry_forward,reports/*_phase12.md; reports/*_phase13.md; reports/*_phase14.md; PR10-12,Phase number differs from execution step number,Can select wrong review target,Preserve files; include step-to-phase-to-commit mapping in review packet,Target identity only

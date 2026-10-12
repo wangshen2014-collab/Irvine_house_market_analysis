@@ -4,7 +4,7 @@
 
 ## 项目状态
 
-2026-10-11启动；截至2026-10-12，已串行推进至步骤11联合情景，各模块覆盖与限制见STATUS。步骤12独立公共B综合及步骤13最终独立审阅仍待完成；尚未接入家庭A/C或形成家庭最终买／等结论。
+2026-10-11启动；截至2026-10-12，已完成步骤11受限基线。步骤13前置验收确认步骤12综合报告、统一A参数表和审阅包尚缺，故完整独立审核无法完成，A/C保持未接入。四类融资算术经本轮独立抽核可保留，不能代替市场综合验收。见[步骤13审核记录](reports/2026-10-12_step13_independent_review.md)和[当前状态](STATUS.md)。
 
 ## 工作方式
 
@@ -223,3 +223,16 @@ python scripts/chart_joint_scenarios.py --private-out /path/to/derived
 ```
 
 43份冻结输入先核SHA-256；同URL变版应登记新版本，不直接替换。144项算术／提取复核、13份输出逐字节复跑通过，3处来源月供差异保留。所有公开数值敏感性都是虚构归一化边界；银行价目不等于个人批准，ARM／再融资可用性、全部费用及目标品质未认证。正式报告含12张原生表与2张原创图，交付记录见QA。
+
+## 步骤13前置验收和有限融资抽核
+
+本轮判断为证据不足，无法完成完整审核。先补齐步骤12成套版本，再重审最终行动与参数；不重做全部前序研究。
+
+```bash
+# 只需Python标准库；无原件时仅复算公开虚构算例。
+python scripts/audit_step13_financing.py --out /tmp/step13_financing.json
+# 如已有指定步骤11冻结证据包，可另外核对四份已读HTML的SHA。
+python scripts/audit_step13_financing.py --evidence-dir /path/to/step11-evidence --out /tmp/step13_financing_with_sources.json
+```
+
+脚本使用Decimal逐月余额和二分法，不导入生产build/audit代码；输出中的`eligible_for_A_C_integration`始终为false，不将算术通过改成市场结论通过。完整范围和未读原件见公开覆盖表及审核报告。
