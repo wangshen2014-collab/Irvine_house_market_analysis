@@ -1,0 +1,452 @@
+{
+  "as_of": "2026-10-12",
+  "assignment_year": "2026-27",
+  "dashboard_year": "2025",
+  "dashboard_observation": "2024-25; prior 2023-24",
+  "files": [
+    {
+      "filename": "cde_directory.txt",
+      "url": "https://www.cde.ca.gov/schooldirectory/report?rid=dl1&tp=txt",
+      "resolved_url": "https://sd.cde.ca.gov/schooldirectory/report?rid=dl1&tp=txt",
+      "access": "direct HTTPS",
+      "http": 200,
+      "content_type": "text/csv",
+      "bytes": 8795706,
+      "sha256": "aa172fe64c447884251f98eaa10220d6e1f02f942a4a8cb1208acbf47f139703",
+      "retrieved_at_utc": "2026-10-12T07:51:00.534208+00:00"
+    },
+    {
+      "filename": "cde_directory_schema.html",
+      "url": "https://www.cde.ca.gov/ds/si/ds/fspubschls.asp",
+      "resolved_url": "https://www.cde.ca.gov/ds/si/ds/fspubschls.asp",
+      "access": "direct HTTPS",
+      "http": 200,
+      "content_type": "text/html",
+      "bytes": 59524,
+      "sha256": "ecf6c0f1407a25919f36a786fd41af755ce0924ae51dbf84046e116ad94fa52e",
+      "retrieved_at_utc": "2026-10-12T07:51:05.371688+00:00"
+    },
+    {
+      "filename": "academic_downloads.html",
+      "url": "https://www.cde.ca.gov/TA/AC/cm/acaddatafiles.asp",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "filename": "elpi_downloads.html",
+      "url": "https://www.cde.ca.gov/TA/AC/cm/elpidatafiles.asp",
+      "resolved_url": "https://www.cde.ca.gov/TA/AC/cm/elpidatafiles.asp",
+      "access": "direct HTTPS",
+      "http": 200,
+      "content_type": "text/html",
+      "bytes": 50807,
+      "sha256": "6bad29ea88d173e5abb460c3abe675069da9c0d59bba028f25a460090e7b80bf",
+      "retrieved_at_utc": "2026-10-12T07:51:14.295579+00:00"
+    },
+    {
+      "filename": "cci_downloads.html",
+      "url": "https://www.cde.ca.gov/TA/AC/cm/ccidatafiles.asp",
+      "resolved_url": "https://www.cde.ca.gov/TA/AC/cm/ccidatafiles.asp",
+      "access": "direct HTTPS",
+      "http": 200,
+      "content_type": "text/html",
+      "bytes": 50250,
+      "sha256": "63bc09705aca5cb7e14b34421dd5b1b91ed7a16a1fc57253a58d0fd3db62160a",
+      "retrieved_at_utc": "2026-10-12T07:51:19.328657+00:00"
+    },
+    {
+      "filename": "iusd_elementary_2026.pdf",
+      "url": "https://iusd.org/sites/default/files/documents/IUSD_ElementarySchoolAttendance__2026-2027.pdf",
+      "resolved_url": "https://iusd.org/sites/default/files/documents/IUSD_ElementarySchoolAttendance__2026-2027.pdf",
+      "access": "direct HTTPS",
+      "http": 200,
+      "content_type": "application/pdf",
+      "bytes": 1120637,
+      "sha256": "f49d076775b204daa4e970c726f4e356af38b6ee03ce9ae8e85915c74e13ecda",
+      "retrieved_at_utc": "2026-10-12T07:51:22.981047+00:00"
+    },
+    {
+      "filename": "iusd_middle_2026.pdf",
+      "url": "https://iusd.org/sites/default/files/documents/IUSD_MiddleSchoolAttendance__2026-2027.pdf",
+      "resolved_url": "https://iusd.org/sites/default/files/documents/IUSD_MiddleSchoolAttendance__2026-2027.pdf",
+      "access": "direct HTTPS",
+      "http": 200,
+      "content_type": "application/pdf",
+      "bytes": 998843,
+      "sha256": "31229726e146c0975fc9c78608795bac838ab676bc9e28516b4fd1301aeb483c",
+      "retrieved_at_utc": "2026-10-12T07:51:26.558538+00:00"
+    },
+    {
+      "filename": "iusd_high_2026.pdf",
+      "url": "https://iusd.org/sites/default/files/documents/IUSD_HighSchoolAttendance__2026-2027.pdf",
+      "resolved_url": "https://iusd.org/sites/default/files/documents/IUSD_HighSchoolAttendance__2026-2027.pdf",
+      "access": "direct HTTPS",
+      "http": 200,
+      "content_type": "application/pdf",
+      "bytes": 933925,
+      "sha256": "8a1864a716e3390d44bc2770603af9d4a56954e67e4a7769050df647b7dd7858",
+      "retrieved_at_utc": "2026-10-12T07:51:30.491790+00:00"
+    },
+    {
+      "filename": "iusd_high_2028.pdf",
+      "url": "https://iusd.org/sites/default/files/documents/IUSD_HighSchoolAttendance__2028-2029.pdf",
+      "resolved_url": "https://iusd.org/sites/default/files/documents/IUSD_HighSchoolAttendance__2028-2029.pdf",
+      "access": "direct HTTPS",
+      "http": 200,
+      "content_type": "application/pdf",
+      "bytes": 2702023,
+      "sha256": "07a087b2d6a6cf8f0da31fee60d97d6a16cf8826ee2bd6ff5f09d60a455f5718",
+      "retrieved_at_utc": "2026-10-12T07:51:35.693547+00:00"
+    },
+    {
+      "filename": "iusd_capacity_2026.pdf",
+      "url": "https://iusd.org/sites/default/files/documents/Irvine%20USD%202026%20Fee%20Justification%20Study.pdf",
+      "resolved_url": "https://iusd.org/sites/default/files/documents/Irvine%20USD%202026%20Fee%20Justification%20Study.pdf",
+      "access": "direct HTTPS",
+      "http": 200,
+      "content_type": "application/pdf",
+      "bytes": 1032791,
+      "sha256": "2b388bb3599ce8535d355e0827bd3c42616edfb7fe6b571f8480e799fd56483d",
+      "retrieved_at_utc": "2026-10-12T07:51:39.623225+00:00"
+    },
+    {
+      "filename": "tusd_enrollment.html",
+      "url": "https://www.tustin.k12.ca.us/departments/administrative-services/enrollment",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "filename": "svusd_boundaries.html",
+      "url": "https://www.svusd.org/about/school-boundaries",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "filename": "cusd_locator.html",
+      "url": "https://www.capousd.org/Schools/School-Locator/index.html",
+      "resolved_url": "https://www.capousd.org/Schools/School-Locator/index.html",
+      "access": "direct HTTPS",
+      "http": 200,
+      "content_type": "text/html",
+      "bytes": 122699,
+      "sha256": "86087f49c6e47cfbd253bd0e77ea2537630fbea09447b4da361174dc2c149672",
+      "retrieved_at_utc": "2026-10-12T07:51:50.531940+00:00"
+    },
+    {
+      "filename": "ela2025.txt",
+      "url": "https://www3.cde.ca.gov/researchfiles/cadashboard/eladownload2025.txt",
+      "resolved_url": "https://www3.cde.ca.gov/researchfiles/cadashboard/eladownload2025.txt",
+      "access": "direct HTTPS",
+      "http": 200,
+      "content_type": "text/plain",
+      "bytes": 26632258,
+      "sha256": "3ed9b3f9af3f55bc8ba5390ef0532b0bf594e1c835d655520c0f0ab76c66fd04",
+      "retrieved_at_utc": "2026-10-12T07:52:47.331760+00:00"
+    },
+    {
+      "filename": "elpi2025.txt",
+      "url": "https://www3.cde.ca.gov/researchfiles/cadashboard/elpidownload2025.txt",
+      "resolved_url": "https://www3.cde.ca.gov/researchfiles/cadashboard/elpidownload2025.txt",
+      "access": "direct HTTPS",
+      "http": 200,
+      "content_type": "text/plain",
+      "bytes": 2751244,
+      "sha256": "4b7d3a8e1bc6b699438056b1e2d0da3b6fd137359fde76b8ab29992edb657eb6",
+      "retrieved_at_utc": "2026-10-12T07:52:51.433327+00:00"
+    },
+    {
+      "filename": "cci2025.txt",
+      "url": "https://www3.cde.ca.gov/researchfiles/cadashboard/ccidownload2025.txt",
+      "resolved_url": "https://www3.cde.ca.gov/researchfiles/cadashboard/ccidownload2025.txt",
+      "access": "direct HTTPS",
+      "http": 200,
+      "content_type": "text/plain",
+      "bytes": 10928110,
+      "sha256": "a515082440741da7f03d14c5ae73f084d978301faadcf8889ff42484a5c73eb4",
+      "retrieved_at_utc": "2026-10-12T07:52:57.449827+00:00"
+    },
+    {
+      "filename": "math_downloads.html",
+      "url": "https://www.cde.ca.gov/ta/ac/cm/mathdatafiles.asp",
+      "resolved_url": "https://www.cde.ca.gov/ta/ac/cm/mathdatafiles.asp",
+      "access": "direct HTTPS",
+      "http": 200,
+      "content_type": "text/html",
+      "bytes": 50720,
+      "sha256": "fc9422026b3729a8b4acd299ed1d8832287b04aff12e000314eed98c06ed44b0",
+      "retrieved_at_utc": "2026-10-12T07:53:03.946979+00:00"
+    },
+    {
+      "filename": "iusd_sarc.html",
+      "url": "https://iusd.org/about/departments/education-services/data-and-assessment/school-accountability-report-cards",
+      "resolved_url": "https://iusd.org/about/departments/education-services/data-and-assessment/school-accountability-report-cards",
+      "access": "direct HTTPS",
+      "http": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 130464,
+      "sha256": "d8ea53d975a9744118ee7c2cef3a0df870b489bfab68cfc37250696d1d1027e1",
+      "retrieved_at_utc": "2026-10-12T07:53:08.847483+00:00"
+    },
+    {
+      "filename": "cde_release.html",
+      "url": "https://www.cde.ca.gov/ta/aC/cm/alignrelease.asp",
+      "resolved_url": "https://www.cde.ca.gov/ta/aC/cm/alignrelease.asp",
+      "access": "direct HTTPS",
+      "http": 200,
+      "content_type": "text/html",
+      "bytes": 52138,
+      "sha256": "55b7769e442e80132471ec25bce843d3825299ca0543da098cc92aa785fcbdcc",
+      "retrieved_at_utc": "2026-10-12T07:53:15.115454+00:00"
+    },
+    {
+      "filename": "iusd_woodbury_approval.html",
+      "url": "https://iusd.org/about/business-services/facilities-planning-construction-services/proposed-adjustment/boundary-5",
+      "resolved_url": "https://iusd.org/about/business-services/facilities-planning-construction-services/proposed-adjustment/boundary-5",
+      "access": "direct HTTPS",
+      "http": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 111206,
+      "sha256": "1ec991c59eed95a02d0b2c3cc8892ee3f92f8334ee5649baaf46992038dad866",
+      "retrieved_at_utc": "2026-10-12T07:53:19.312805+00:00"
+    },
+    {
+      "filename": "math2025.txt",
+      "url": "https://www3.cde.ca.gov/researchfiles/cadashboard/mathdownload2025.txt",
+      "resolved_url": "https://www3.cde.ca.gov/researchfiles/cadashboard/mathdownload2025.txt",
+      "access": "direct HTTPS",
+      "http": 200,
+      "content_type": "text/plain",
+      "bytes": 26972402,
+      "sha256": "5e9137a1698f645a511f4b1bf23fbfe64782df87af8aabeecc4f4552bdb2332b",
+      "retrieved_at_utc": "2026-10-12T08:03:48.798959+00:00"
+    },
+    {
+      "filename": "academic_schema.html",
+      "url": "https://www.cde.ca.gov/ta/ac/cm/fsems.asp",
+      "resolved_url": "https://www.cde.ca.gov/ta/ac/cm/fsems.asp",
+      "access": "direct HTTPS",
+      "http": 200,
+      "content_type": "text/html",
+      "bytes": 71227,
+      "sha256": "5b9aa730d62bda0c53e06b8016c4c328fa58e20eeb81111b8c3011c3c46d780d",
+      "retrieved_at_utc": "2026-10-12T08:03:53.960395+00:00"
+    },
+    {
+      "filename": "elpi_schema.html",
+      "url": "https://www.cde.ca.gov/ta/ac/cm/fselpi.asp",
+      "resolved_url": "https://www.cde.ca.gov/ta/ac/cm/fselpi.asp",
+      "access": "direct HTTPS",
+      "http": 200,
+      "content_type": "text/html",
+      "bytes": 63779,
+      "sha256": "9d7eb1b068c9a1b2ff7e4fc3e278cb26e34567041d400ae2e1d090f2899eff58",
+      "retrieved_at_utc": "2026-10-12T08:03:59.070848+00:00"
+    },
+    {
+      "filename": "cci_schema.html",
+      "url": "https://www.cde.ca.gov/ta/ac/cm/fscci.asp",
+      "resolved_url": "https://www.cde.ca.gov/ta/ac/cm/fscci.asp",
+      "access": "direct HTTPS",
+      "http": 200,
+      "content_type": "text/html",
+      "bytes": 92624,
+      "sha256": "8f8f98e9fe2ff6afd935f09a3cd1fd55b6119bec6de0d3c686195f2fa8a57901",
+      "retrieved_at_utc": "2026-10-12T08:04:05.215683+00:00"
+    },
+    {
+      "filename": "cde_policy.html",
+      "url": "https://www.cde.ca.gov/re/di/ws/webpolicy.asp",
+      "resolved_url": "https://www.cde.ca.gov/re/di/ws/webpolicy.asp",
+      "access": "direct HTTPS",
+      "http": 200,
+      "content_type": "text/html",
+      "bytes": 42252,
+      "sha256": "2c772951137eeda3a6a7c7dd7422d73e8ed9a57898857d7f02e782dfa2a6558f",
+      "retrieved_at_utc": "2026-10-12T08:04:09.740390+00:00"
+    },
+    {
+      "filename": "stonegate_sarc.pdf",
+      "url": "https://iusd.org/sites/default/files/documents/2025_School_Accountability_Report_Card_Stonegate_Elementary_School_20260211.pdf",
+      "resolved_url": "https://iusd.org/sites/default/files/documents/2025_School_Accountability_Report_Card_Stonegate_Elementary_School_20260211.pdf",
+      "access": "direct HTTPS",
+      "http": 200,
+      "content_type": "application/pdf",
+      "bytes": 281582,
+      "sha256": "aa014125c4bff0b634aa72f1e5549faae078ea1036a37119f43e8141bb263b49",
+      "retrieved_at_utc": "2026-10-12T08:04:13.868604+00:00"
+    },
+    {
+      "filename": "canyonview_sarc.pdf",
+      "url": "https://iusd.org/sites/default/files/documents/2025_School_Accountability_Report_Card_Canyon_View_Elementary_School_20260210%20%281%29.pdf",
+      "resolved_url": "https://iusd.org/sites/default/files/documents/2025_School_Accountability_Report_Card_Canyon_View_Elementary_School_20260210%20%281%29.pdf",
+      "access": "direct HTTPS",
+      "http": 200,
+      "content_type": "application/pdf",
+      "bytes": 284556,
+      "sha256": "cde711303336fa9ed34419ca9f03098252caa22c023086ebd7bb437cda931abf",
+      "retrieved_at_utc": "2026-10-12T08:04:18.785536+00:00"
+    },
+    {
+      "filename": "northwood_sarc.pdf",
+      "url": "https://iusd.org/sites/default/files/documents/2025_School_Accountability_Report_Card_Northwood_High_School_20260204.pdf",
+      "resolved_url": "https://iusd.org/sites/default/files/documents/2025_School_Accountability_Report_Card_Northwood_High_School_20260204.pdf",
+      "access": "direct HTTPS",
+      "http": 200,
+      "content_type": "application/pdf",
+      "bytes": 308155,
+      "sha256": "6ed62f771607d985a51a7049421e8e65a689455029173c551a2c0a39456f75a1",
+      "retrieved_at_utc": "2026-10-12T08:04:24.847844+00:00"
+    },
+    {
+      "filename": "university_sarc.pdf",
+      "url": "https://iusd.org/sites/default/files/documents/2025_School_Accountability_Report_Card_University_High_School_20260204.pdf",
+      "resolved_url": "https://iusd.org/sites/default/files/documents/2025_School_Accountability_Report_Card_University_High_School_20260204.pdf",
+      "access": "direct HTTPS",
+      "http": 200,
+      "content_type": "application/pdf",
+      "bytes": 302405,
+      "sha256": "6f0bd4b2334c9186f4383da8703a2286cad870eceee64cfc425a1192faea2a07",
+      "retrieved_at_utc": "2026-10-12T08:04:28.843397+00:00"
+    },
+    {
+      "filename": "irvine_sarc.pdf",
+      "url": "https://iusd.org/sites/default/files/documents/2025_School_Accountability_Report_Card_Irvine_High_School_20260204.pdf",
+      "resolved_url": "https://iusd.org/sites/default/files/documents/2025_School_Accountability_Report_Card_Irvine_High_School_20260204.pdf",
+      "access": "direct HTTPS",
+      "http": 200,
+      "content_type": "application/pdf",
+      "bytes": 811945,
+      "sha256": "bbcfd89d8496803225cba5a3a822fead085a0aee447f3ec33d7f43933e14bfaf",
+      "retrieved_at_utc": "2026-10-12T08:04:32.721896+00:00"
+    },
+    {
+      "filename": "sierravista_sarc.pdf",
+      "url": "https://iusd.org/sites/default/files/documents/2025_School_Accountability_Report_Card_Sierra_Vista_Middle_School_20260204.pdf",
+      "resolved_url": "https://iusd.org/sites/default/files/documents/2025_School_Accountability_Report_Card_Sierra_Vista_Middle_School_20260204.pdf",
+      "access": "direct HTTPS",
+      "http": 200,
+      "content_type": "application/pdf",
+      "bytes": 279726,
+      "sha256": "eb8653f5dec6ba02910c600b11133c4092ee8647f09f13c32ccf20db0ca1483a",
+      "retrieved_at_utc": "2026-10-12T08:04:36.212640+00:00"
+    },
+    {
+      "filename": "stonegate_spsa.pdf",
+      "url": "https://stonegate.iusd.org/sites/stonegate/files/documents/2026-27_School_Plan_for_Student_Achievement_%28Elementary_Middle%29_Stonegate_Elementary_School_20260603%20%282%29.pdf",
+      "resolved_url": "https://stonegate.iusd.org/sites/stonegate/files/documents/2026-27_School_Plan_for_Student_Achievement_%28Elementary_Middle%29_Stonegate_Elementary_School_20260603%20%282%29.pdf",
+      "access": "direct HTTPS",
+      "http": 200,
+      "content_type": "application/pdf",
+      "bytes": 808655,
+      "sha256": "3920064a6190d113ca548d4c88431f715aad868d17aabb08c67cb369d241c557",
+      "retrieved_at_utc": "2026-10-12T08:04:59.288712+00:00"
+    },
+    {
+      "filename": "cde_copyright.html",
+      "url": "https://www.cde.ca.gov/re/cr/index.asp",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "filename": "iusd_programs.html",
+      "url": "https://iusd.org/about/departments/education-services/advanced-learning-and-differentiation/elementary-school",
+      "resolved_url": "https://iusd.org/about/departments/education-services/advanced-learning-and-differentiation/elementary-school",
+      "access": "direct HTTPS",
+      "http": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 151244,
+      "sha256": "10ef0ee5ae2309fa171235385662a5bb87307d1836089f368a9f4fd34133f84d",
+      "retrieved_at_utc": "2026-10-12T08:05:07.545314+00:00"
+    },
+    {
+      "filename": "iusd_english.html",
+      "url": "https://iusd.org/about/departments/education-services/academics/language-development-programs/programs-english",
+      "resolved_url": "https://iusd.org/about/departments/education-services/academics/language-development-programs/programs-english",
+      "access": "direct HTTPS",
+      "http": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 109814,
+      "sha256": "683bb37badef7f9a583665d130a0c28b0d07b3e49903d5035d33710f05412b31",
+      "retrieved_at_utc": "2026-10-12T08:05:11.127928+00:00"
+    },
+    {
+      "filename": "iusd_lcap.pdf",
+      "url": "https://iusd.org/sites/default/files/documents/Final_2026_Local_Control_and_Accountability_Plan_Irvine_Unified_School_District_20260610.pdf",
+      "resolved_url": "https://iusd.org/sites/default/files/documents/Final_2026_Local_Control_and_Accountability_Plan_Irvine_Unified_School_District_20260610.pdf",
+      "access": "direct HTTPS",
+      "http": 200,
+      "content_type": "application/pdf",
+      "bytes": 1844189,
+      "sha256": "eadd662ae18e7019219ef809d7b083c2c8da447334d7003c9dfcf58c7549dba0",
+      "retrieved_at_utc": "2026-10-12T08:05:15.294353+00:00"
+    },
+    {
+      "filename": "canyonview_spsa_page.html",
+      "url": "https://canyonview.iusd.org/parents/school-plan-student-achievement-spsa",
+      "resolved_url": "https://canyonview.iusd.org/parents/school-plan-student-achievement-spsa",
+      "access": "direct HTTPS",
+      "http": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 96102,
+      "sha256": "da878147719d944b0e5e0183f129b28dc69776fe1fedb182712f19cbd33c5102",
+      "retrieved_at_utc": "2026-10-12T08:05:19.016641+00:00"
+    },
+    {
+      "filename": "irvine_districts.html",
+      "url": "https://cityofirvine.gov/economic-development/k-12-school-districts-irvine",
+      "resolved_url": "https://cityofirvine.gov/economic-development/k-12-school-districts-irvine",
+      "access": "direct HTTPS",
+      "http": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 77363,
+      "sha256": "8471f37a3b007ef8e949e73ed6f130988b6421a1797e5cd166c67463d180a4ec",
+      "retrieved_at_utc": "2026-10-12T08:05:24.610434+00:00"
+    },
+    {
+      "filename": "canyonview_spsa.pdf",
+      "url": "https://canyonview.iusd.org/sites/canyonview/files/documents/2026-27_School_Plan_for_Student_Achievement_%28Elementary_Middle%29_Canyon_View_Elementary_School_20260916.pdf",
+      "resolved_url": "https://canyonview.iusd.org/sites/canyonview/files/documents/2026-27_School_Plan_for_Student_Achievement_%28Elementary_Middle%29_Canyon_View_Elementary_School_20260916.pdf",
+      "access": "direct HTTPS",
+      "http": 200,
+      "bytes": 680088,
+      "sha256": "a3848784d2cac918ed5e21889ad291258e8361118418d6a8935c8606fa5b7804",
+      "retrieved_at_utc": "2026-10-12T08:10:30.153653+00:00"
+    },
+    {
+      "filename": "cde_download_page.html",
+      "url": "https://www.cde.ca.gov/ds/si/ds/pubschls.asp",
+      "access": "direct HTTPS/curl saved bytes",
+      "bytes": 46822,
+      "sha256": "25e0391c29eea1a421dabf39e094ac7473adb215053a8a8ebb7af6a13860f841",
+      "retrieved_date": "2026-10-12"
+    },
+    {
+      "filename": "iusd_boundaries.html",
+      "url": "https://iusd.org/about/iusd-enrollment/school-boundaries-assignments",
+      "access": "direct HTTPS/curl saved bytes",
+      "bytes": 116481,
+      "sha256": "1d76f00ba788572225b625a74281e6f2d4e20e05802334f92336c83c292f0977",
+      "retrieved_date": "2026-10-12"
+    },
+    {
+      "filename": "iusd_schools.html",
+      "url": "https://iusd.org/schools",
+      "access": "direct HTTPS/curl saved bytes",
+      "bytes": 303016,
+      "sha256": "c09b5a48f47b26a656f7a6b390afd9f214953a4ec65921a7ff70f5177a6bb2e1",
+      "retrieved_date": "2026-10-12"
+    },
+    {
+      "filename": "ela_downloads.html",
+      "url": "https://www.cde.ca.gov/ta/ac/cm/eladatafiles.asp",
+      "access": "direct HTTPS/curl saved bytes",
+      "bytes": 50714,
+      "sha256": "201a2a296ba6dd9a4477e1b6bbdef8568101180b56ff5d57f81cc1082499cfbe",
+      "retrieved_date": "2026-10-12"
+    }
+  ],
+  "version_rule": "Exact SHA-256 required; download replacement never silently accepted",
+  "publication": "Original factual extracts and analysis only; raw school/district PDFs and HTML private; copyright page access blocked, no general redistribution license asserted",
+  "parent_search_coverage": {
+    "file": "school_parent_search_coverage_20261012.json",
+    "CDS_queries": 51,
+    "source_text_deep_read_schools": 2,
+    "candidate_links_are_not_verified_experiences": true
+  }
+}

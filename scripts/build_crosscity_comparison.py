@@ -81,6 +81,19 @@ def main():
     pilot = json.loads(paths['pilot'].read_text())
     hist = read_csv(paths['history_summary'])
     broker = json.loads(paths['broker_notes'].read_text())
+    # Review supplement changes publication metadata only; frozen notes stay immutable.
+    versions = json.loads((ROOT/'data/crosscity_source_versions_20261012.json').read_text())
+    for b in broker:
+        b['historical_page_status'] = '旧版本未独立核验；冻结研究笔记不是网页原件'
+        if b['broker_id'] == 'B13':
+            b['evidence_limit'] = '冻结笔记记8月25日更新；2026-10-12原HTML回查显示7月10日发布、10月11日更新，页末资料截止7月10日。旧版本未独立核验；不作库存序列。'
+            b['current_page_review_date'] = '2026-10-12'
+            b['current_page_updated'] = versions['visible_updated']
+            b['current_page_data_as_of'] = versions['footer_data_as_of']
+        else:
+            b['current_page_review_date'] = ''
+            b['current_page_updated'] = ''
+            b['current_page_data_as_of'] = ''
     buyers = json.loads(paths['buyer_notes'].read_text())
     notes = json.loads(paths['property_notes'].read_text())
     raw = {r['record_id']: r for r in pilot['records'] if r['transaction_type']=='sale'}

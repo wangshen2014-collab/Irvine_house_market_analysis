@@ -1,0 +1,9 @@
+issue_id,status,action,remaining_impact,blocks_school,implementation
+B58-001,修复来源版本记录,新增当前HTML原件指纹及显示/结构化日期；保留五份冻结输入；13条增加旧版本未独立核验状态,库存不进入估值；旧版本仍无法认证,false,5079cf2f335c48d9a1a3178625c7e9d5aedb2187 (local snapshot eac4409; identical tree)
+B58-002,接受并保留缺口,复核既有冲突分支和定义，无确认计算错误；不重写历史22→21→20的版本递进,交易文书、真实DOM及净租金未取得,false,5079cf2f335c48d9a1a3178625c7e9d5aedb2187 (local snapshot eac4409; identical tree)
+B58-003,接受方法限制,保持核心区和贷款样本标签，不以面积覆盖率替代住房分母,目标四卧产品交集未识别,false,5079cf2f335c48d9a1a3178625c7e9d5aedb2187 (local snapshot eac4409; identical tree)
+B58-004,接受并保留缺口,保持每字段有效分母及估值减首抵命名；不补现金或财富来源,雇主、股票、现金来源未识别,false,5079cf2f335c48d9a1a3178625c7e9d5aedb2187 (local snapshot eac4409; identical tree)
+B58-005,接受方法限制,定向复算代理配对及对照复用；不输出城市溢价均值,品质认证0；新样本估值时再做联合及留一对照检验,false,5079cf2f335c48d9a1a3178625c7e9d5aedb2187 (local snapshot eac4409; identical tree)
+B58-006,接受并保留缺口,定向复算8套HOA及5个虚拟成本情景，未知成本继续空值,真实全成本0；留给租赁全成本模块,false,5079cf2f335c48d9a1a3178625c7e9d5aedb2187 (local snapshot eac4409; identical tree)
+B58-007,修订核验口径并保留缺口,明确13个登记来源、6机构不等于独立意见；2015历史佐证登记1而此次独立认证0,长期来源8至12目标未达，五条日期仍未核,false,5079cf2f335c48d9a1a3178625c7e9d5aedb2187 (local snapshot eac4409; identical tree)
+B58-008,接受并保留缺口,保留三条证词及五门槛，已核验流向仍为0,不能认证流向或计算外流率,false,5079cf2f335c48d9a1a3178625c7e9d5aedb2187 (local snapshot eac4409; identical tree)
