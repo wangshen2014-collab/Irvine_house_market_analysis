@@ -1,0 +1,233 @@
+{
+  "phase": 7,
+  "retrieval_date_local": "2026-10-11",
+  "timezone": "America/Los_Angeles",
+  "frozen_inputs": true,
+  "years": {
+    "2023": {
+      "dataset": "One Year",
+      "freeze_date": "2025-05-19"
+    },
+    "2024": {
+      "dataset": "One Year",
+      "freeze_date": "2026-06-02"
+    },
+    "2025": {
+      "dataset": "Snapshot",
+      "freeze_date": "2026-06-02",
+      "note": "Static FAQ freeze date; FFIEC release describes submissions as of June 1. Both recorded; no silent reconciliation."
+    }
+  },
+  "files": [
+    {
+      "filename": "hmda_2023_purchase_oc.csv",
+      "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2023&counties=06059&loan_purposes=1",
+      "bytes": 11392837,
+      "sha256": "6b3b9dae33ff051c92efcb4926ca66fc1f28f690a8ab63becd57564e28941121",
+      "retrieved_at_utc": "2026-10-12T04:02:34.422935+00:00",
+      "content_type": "text/plain; charset=UTF-8"
+    },
+    {
+      "filename": "hmda_2024_purchase_oc.csv",
+      "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2024&counties=06059&loan_purposes=1",
+      "bytes": 10873516,
+      "sha256": "f1f6cb128f31cfcf2742e71cbeca0bd4df67620884b27feb19d1c58f37aa4a59",
+      "retrieved_at_utc": "2026-10-12T04:02:22.929655+00:00",
+      "content_type": "text/csv; charset=UTF-8"
+    },
+    {
+      "filename": "hmda_2023_aggregate_purchase.json",
+      "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/aggregations?years=2023&counties=06059&loan_purposes=1",
+      "bytes": 143,
+      "sha256": "51cd4ad72a7e773c8d6c619488913c37343202f28b3e63fb8119e9a713349624",
+      "retrieved_at_utc": "2026-10-12T04:02:18.008676+00:00",
+      "content_type": "application/json"
+    },
+    {
+      "filename": "hmda_2024_aggregate_purchase.json",
+      "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/aggregations?years=2024&counties=06059&loan_purposes=1",
+      "bytes": 145,
+      "sha256": "e2f871d64152992a3eb88d04160cfa1c09e1a3f997e484b948f80425a906fff9",
+      "retrieved_at_utc": "2026-10-12T04:02:21.100024+00:00",
+      "content_type": "application/json"
+    },
+    {
+      "filename": "hmda_2025_aggregate_purchase.json",
+      "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/aggregations?years=2025&counties=06059&loan_purposes=1",
+      "bytes": 146,
+      "sha256": "b3c276705cd49424390fce9beb1e60275ac866cca3dc68d24a254e8b264ca672",
+      "retrieved_at_utc": "2026-10-12T04:02:23.962603+00:00",
+      "content_type": "application/json"
+    },
+    {
+      "filename": "hmda_static_faq.html",
+      "url": "https://ffiec.cfpb.gov/documentation/faq/static-dataset-faq",
+      "bytes": 37810,
+      "sha256": "7856561115eddc1eea53b54d6106ba2a7de698cdb2364bac74772e2d78292044",
+      "retrieved_at_utc": "2026-10-12T04:02:23.872691+00:00",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "filename": "qcew_api.html",
+      "url": "https://www.bls.gov/cew/additional-resources/open-data/csv-data-slices.htm",
+      "bytes": 95634,
+      "sha256": "c28cf24968b0c0ca1726bb79425a193a1a38a4487f5fdf47260ce25887893352",
+      "retrieved_at_utc": "2026-10-12T04:02:28.655878+00:00",
+      "content_type": "text/html"
+    },
+    {
+      "filename": "qcew_2025_a_oc.csv",
+      "url": "https://data.bls.gov/cew/data/api/2025/a/area/06059.csv",
+      "bytes": 421196,
+      "sha256": "a4bd1505f1ba15e2b89a4d832b9d254f87eb3328231bd581c391e9b33bd68198",
+      "retrieved_at_utc": "2026-10-12T04:02:28.430278+00:00",
+      "content_type": "text/csv"
+    },
+    {
+      "filename": "qcew_2026_1_oc.csv",
+      "url": "https://data.bls.gov/cew/data/api/2026/1/area/06059.csv",
+      "bytes": 448899,
+      "sha256": "8bb950b560249a1760aef01e1ae6b238997e340e31663a046a6d31a78815d9e0",
+      "retrieved_at_utc": "2026-10-12T04:02:31.174794+00:00",
+      "content_type": "text/csv"
+    },
+    {
+      "filename": "bls_eag.html",
+      "url": "https://www.bls.gov/eag/eag.ca_santaana_md.htm",
+      "bytes": 100067,
+      "sha256": "7524fc4306d8dd5ad60937b873a4a5601388fe5d1afab08574474737695b1a27",
+      "retrieved_at_utc": "2026-10-12T04:02:33.300646+00:00",
+      "content_type": "text/html"
+    },
+    {
+      "filename": "places2024.geojson",
+      "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_ACS2024/MapServer/28/query?where=STATE%3D%2706%27+AND+BASENAME+IN+%28%27Irvine%27%2C%27Lake+Forest%27%2C%27Tustin%27%2C%27Aliso+Viejo%27%29&outFields=%2A&outSR=4326&f=geojson",
+      "bytes": 147697,
+      "sha256": "1a007e90eb6d604998619a42cb1004b1bf38b95c25cf07209866d3c35b205274",
+      "retrieved_at_utc": "2026-10-12T04:02:35.193330+00:00",
+      "content_type": "application/geo+json;charset=UTF-8"
+    },
+    {
+      "filename": "cfpb_privacy.html",
+      "url": "https://www.consumerfinance.gov/privacy/website-privacy-policy/",
+      "sha256": "06391d4555a155e8843f85f748471b3769b0f9de64c40086b49d5bad3df0d230",
+      "bytes": 159571,
+      "retrieved_at_utc": "2026-10-12T04:04:40.634597+00:00",
+      "content_type": "text/html; charset=utf-8"
+    },
+    {
+      "filename": "bls_qcew_overview.html",
+      "url": "https://www.bls.gov/cew/overview.htm",
+      "sha256": "944ba79a709139e00242b7263da45488c8f8d2b660ebe9368330b9140fb9a85f",
+      "bytes": 77954,
+      "retrieved_at_utc": "2026-10-12T04:04:42.213312+00:00",
+      "content_type": "text/html"
+    },
+    {
+      "filename": "bls_qcew_release_2026q1.html",
+      "url": "https://www.bls.gov/regions/west/news-release/2026/countyemploymentandwages_california_20260904.htm",
+      "sha256": "c62e5b610923818ec4a453769646a083bf857b2e34eecccfef52a8748982d7ce",
+      "bytes": 235727,
+      "retrieved_at_utc": "2026-10-12T04:04:42.244165+00:00",
+      "content_type": "text/html"
+    },
+    {
+      "filename": "bls_copyright.html",
+      "url": "https://www.bls.gov/bls/linksite.htm",
+      "sha256": "e30595e21e573b9432d11ecdf7c3e4003313cf1f4b7b6ec8387652cb93f12833",
+      "bytes": 46818,
+      "retrieved_at_utc": "2026-10-12T04:04:42.563351+00:00",
+      "content_type": "text/html"
+    },
+    {
+      "filename": "cfpb_ModifiedLarEntity.scala",
+      "url": "https://raw.githubusercontent.com/cfpb/hmda-platform/94254a13e45795a4bdb3bbfe2c81098ae27a66a6/data-browser/src/main/scala/hmda/dataBrowser/models/ModifiedLarEntity.scala",
+      "bytes": 12351,
+      "sha256": "8fb42c63902dbdd00e6d39ad72a086a5acdbf88fe38b2fc2e54fc92002a81b1d",
+      "retrieved_at_utc": "2026-10-12T04:05:21.111736+00:00"
+    },
+    {
+      "filename": "cfpb_Public_File_LAR_Spec.csv",
+      "url": "https://raw.githubusercontent.com/cfpb/hmda-platform/94254a13e45795a4bdb3bbfe2c81098ae27a66a6/docs/spec/Public_File_LAR_Spec.csv",
+      "bytes": 35415,
+      "sha256": "5e26cd5d2d191f0b68443ffa310ca733ac4a072dc586dea08aa976387ed5b069",
+      "retrieved_at_utc": "2026-10-12T04:05:21.184264+00:00"
+    },
+    {
+      "filename": "cfpb_ModifiedLoanApplicationRegister.scala",
+      "url": "https://raw.githubusercontent.com/cfpb/hmda-platform/94254a13e45795a4bdb3bbfe2c81098ae27a66a6/common/src/main/scala/hmda/model/modifiedlar/ModifiedLoanApplicationRegister.scala",
+      "bytes": 10075,
+      "sha256": "3b9d6a61fed339d042919c3334f45afc797a078b7d88a631c13cb36361ca7f97",
+      "retrieved_at_utc": "2026-10-12T04:05:24.131353+00:00"
+    },
+    {
+      "filename": "hmda_privacy_summary.pdf",
+      "url": "https://files-prod.consumerfinance.gov/f/documents/HMDA_Data_Disclosure_Policy_Guidance.Executive_Summary.FINAL.12212018.pdf",
+      "bytes": 191217,
+      "sha256": "68198b4e6f9a7bca1709645c3c11a8d552b6ea62161385ff8674032117c4d77c",
+      "retrieved_at_utc": "2026-10-12T04:06:05.764343+00:00"
+    },
+    {
+      "filename": "hmda_api_documentation.html",
+      "url": "https://ffiec.cfpb.gov/documentation/api/data-browser/",
+      "bytes": 58898,
+      "sha256": "15efce6c842f767c6c107ca036b022103928a6a51def2ec9335c4a37218779a9",
+      "retrieved_at_utc": "2026-10-12T04:00:52.896654+00:00"
+    },
+    {
+      "filename": "hmda_fields.html",
+      "url": "https://ffiec.cfpb.gov/documentation/publications/loan-level-datasets/lar-data-fields/",
+      "bytes": 115155,
+      "sha256": "a76febeb7de8df12f435b1e5f83a05ee233382f55508dcfa2b19ac7fc5584c57",
+      "retrieved_at_utc": "2026-10-12T04:00:53.018468+00:00"
+    },
+    {
+      "filename": "hmda_2025_purchase_oc.csv",
+      "url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2025&counties=06059&loan_purposes=1",
+      "bytes": 10987886,
+      "sha256": "f2f93c2ae7ac0b01a4c7de613c2e89e46409829e29a34fe58d7c17f582a1127e",
+      "retrieved_at_utc": "2026-10-12T04:00:57.161542+00:00"
+    },
+    {
+      "filename": "irvine_acfr_2025.pdf",
+      "url": "https://cityofirvine.gov/sites/default/files/legacy-documents/2025-annual-comprehensive-financial-report.pdf",
+      "bytes": 8558620,
+      "sha256": "18373ebdb6faaed76f5e8c4b1d09c5b12fa26c587f5a8ad93118f3277666efe0",
+      "retrieved_at_utc": "2026-10-12T04:00:58.226195+00:00"
+    },
+    {
+      "filename": "oc_tracts_2024.geojson",
+      "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_ACS2024/MapServer/8/query?where=STATE%3D%2706%27+AND+COUNTY%3D%27059%27&outFields=GEOID%2CSTATE%2CCOUNTY%2CTRACT%2CNAME%2CAREALAND%2CAREAWATER%2CINTPTLAT%2CINTPTLON&outSR=4326&f=geojson",
+      "sha256": "e85f1ee7d9811c7e1c7d162e2bce3eb02e6767edff7f46ce38ba1c03e4a65334",
+      "bytes": 5440958,
+      "retrieved_at_utc": "2026-10-12T00:55:43.737641+00:00",
+      "reused_from": "phase4 official raw snapshot"
+    },
+    {
+      "filename": "acs_household_metrics_2024.csv",
+      "url": "https://github.com/wangshen2014-collab/Irvine_house_market_analysis/blob/a7e43301abd2ea10151039f221b1cef4b851b07f/data/clean/acs_household_metrics_2024.csv",
+      "sha256": "c63a62f267b8bfcfd42e685b566941f18c82998194b131de54c81987aab766a9",
+      "bytes": 67127,
+      "downloadable": false,
+      "reused_from": "new independent B phase3 standardized ACS output; not old B"
+    }
+  ],
+  "failed_downloads": [
+    {
+      "filename": "hmda_2025_census.pdf",
+      "url": "https://www.ffiec.gov/sites/default/files/data/census/cen2025_10JULY25.pdf",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "filename": "broadcom_locations.html",
+      "url": "https://www.broadcom.com/company/contact/locations",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "filename": "edd_oc_geography.html",
+      "url": "https://labormarketinfo.edd.ca.gov/geography/orange-county.html",
+      "error": "HTTP Error 502: Bad Gateway"
+    }
+  ],
+  "publication": "Original aggregate research only; no individual loan record output; official raw downloads in designated research archive."
+}

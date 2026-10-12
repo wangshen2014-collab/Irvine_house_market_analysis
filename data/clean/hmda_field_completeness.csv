@@ -1,0 +1,85 @@
+year,geography,scenario,field,total_n,blank_n,not_applicable_n,exempt_n,available_n
+2023,Orange County,county,income,12911,0,421,0,12490
+2023,Orange County,county,property_value,12911,0,122,0,12789
+2023,Orange County,county,loan_to_value_ratio,12911,0,178,0,12733
+2023,Orange County,county,debt_to_income_ratio,12911,0,403,0,12508
+2023,Irvine,core_99999,income,928,0,117,0,811
+2023,Irvine,core_99999,property_value,928,0,15,0,913
+2023,Irvine,core_99999,loan_to_value_ratio,928,0,16,0,912
+2023,Irvine,core_99999,debt_to_income_ratio,928,0,122,0,806
+2023,Lake Forest,core_99999,income,419,0,30,0,389
+2023,Lake Forest,core_99999,property_value,419,0,9,0,410
+2023,Lake Forest,core_99999,loan_to_value_ratio,419,0,14,0,405
+2023,Lake Forest,core_99999,debt_to_income_ratio,419,0,36,0,383
+2023,Tustin,core_99999,income,281,0,10,0,271
+2023,Tustin,core_99999,property_value,281,0,3,0,278
+2023,Tustin,core_99999,loan_to_value_ratio,281,0,3,0,278
+2023,Tustin,core_99999,debt_to_income_ratio,281,0,10,0,271
+2023,Aliso Viejo,core_99999,income,80,0,1,0,79
+2023,Aliso Viejo,core_99999,property_value,80,0,1,0,79
+2023,Aliso Viejo,core_99999,loan_to_value_ratio,80,0,1,0,79
+2023,Aliso Viejo,core_99999,debt_to_income_ratio,80,0,2,0,78
+2023,06059052429,whole_tract_proxy,income,19,0,6,0,13
+2023,06059052429,whole_tract_proxy,property_value,19,0,0,0,19
+2023,06059052429,whole_tract_proxy,loan_to_value_ratio,19,0,0,0,19
+2023,06059052429,whole_tract_proxy,debt_to_income_ratio,19,0,6,0,13
+2023,06059052437,whole_tract_proxy,income,89,0,31,0,58
+2023,06059052437,whole_tract_proxy,property_value,89,0,1,0,88
+2023,06059052437,whole_tract_proxy,loan_to_value_ratio,89,0,1,0,88
+2023,06059052437,whole_tract_proxy,debt_to_income_ratio,89,0,29,0,60
+2024,Orange County,county,income,13025,0,344,0,12681
+2024,Orange County,county,property_value,13025,0,89,0,12936
+2024,Orange County,county,loan_to_value_ratio,13025,0,179,0,12846
+2024,Orange County,county,debt_to_income_ratio,13025,0,362,0,12663
+2024,Irvine,core_99999,income,796,0,59,0,737
+2024,Irvine,core_99999,property_value,796,0,12,0,784
+2024,Irvine,core_99999,loan_to_value_ratio,796,0,15,0,781
+2024,Irvine,core_99999,debt_to_income_ratio,796,0,71,0,725
+2024,Lake Forest,core_99999,income,312,0,20,0,292
+2024,Lake Forest,core_99999,property_value,312,0,4,0,308
+2024,Lake Forest,core_99999,loan_to_value_ratio,312,0,3,0,309
+2024,Lake Forest,core_99999,debt_to_income_ratio,312,0,22,0,290
+2024,Tustin,core_99999,income,269,0,10,0,259
+2024,Tustin,core_99999,property_value,269,0,4,0,265
+2024,Tustin,core_99999,loan_to_value_ratio,269,0,6,0,263
+2024,Tustin,core_99999,debt_to_income_ratio,269,0,12,0,257
+2024,Aliso Viejo,core_99999,income,99,0,2,0,97
+2024,Aliso Viejo,core_99999,property_value,99,0,2,0,97
+2024,Aliso Viejo,core_99999,loan_to_value_ratio,99,0,1,0,98
+2024,Aliso Viejo,core_99999,debt_to_income_ratio,99,0,2,0,97
+2024,06059052429,whole_tract_proxy,income,14,0,1,0,13
+2024,06059052429,whole_tract_proxy,property_value,14,0,1,0,13
+2024,06059052429,whole_tract_proxy,loan_to_value_ratio,14,0,1,0,13
+2024,06059052429,whole_tract_proxy,debt_to_income_ratio,14,0,2,0,12
+2024,06059052437,whole_tract_proxy,income,53,0,17,0,36
+2024,06059052437,whole_tract_proxy,property_value,53,0,1,0,52
+2024,06059052437,whole_tract_proxy,loan_to_value_ratio,53,0,1,0,52
+2024,06059052437,whole_tract_proxy,debt_to_income_ratio,53,0,18,0,35
+2025,Orange County,county,income,12367,0,414,0,11953
+2025,Orange County,county,property_value,12367,0,142,0,12225
+2025,Orange County,county,loan_to_value_ratio,12367,0,263,0,12104
+2025,Orange County,county,debt_to_income_ratio,12367,0,517,0,11850
+2025,Irvine,core_99999,income,1002,0,87,0,915
+2025,Irvine,core_99999,property_value,1002,0,16,0,986
+2025,Irvine,core_99999,loan_to_value_ratio,1002,0,26,0,976
+2025,Irvine,core_99999,debt_to_income_ratio,1002,0,98,0,904
+2025,Lake Forest,core_99999,income,306,0,17,0,289
+2025,Lake Forest,core_99999,property_value,306,0,6,0,300
+2025,Lake Forest,core_99999,loan_to_value_ratio,306,0,7,0,299
+2025,Lake Forest,core_99999,debt_to_income_ratio,306,0,21,0,285
+2025,Tustin,core_99999,income,184,0,4,0,180
+2025,Tustin,core_99999,property_value,184,0,4,0,180
+2025,Tustin,core_99999,loan_to_value_ratio,184,0,7,0,177
+2025,Tustin,core_99999,debt_to_income_ratio,184,0,7,0,177
+2025,Aliso Viejo,core_99999,income,81,0,2,0,79
+2025,Aliso Viejo,core_99999,property_value,81,0,0,0,81
+2025,Aliso Viejo,core_99999,loan_to_value_ratio,81,0,0,0,81
+2025,Aliso Viejo,core_99999,debt_to_income_ratio,81,0,1,0,80
+2025,06059052429,whole_tract_proxy,income,20,0,0,0,20
+2025,06059052429,whole_tract_proxy,property_value,20,0,0,0,20
+2025,06059052429,whole_tract_proxy,loan_to_value_ratio,20,0,0,0,20
+2025,06059052429,whole_tract_proxy,debt_to_income_ratio,20,0,0,0,20
+2025,06059052437,whole_tract_proxy,income,46,0,14,0,32
+2025,06059052437,whole_tract_proxy,property_value,46,0,1,0,45
+2025,06059052437,whole_tract_proxy,loan_to_value_ratio,46,0,2,0,44
+2025,06059052437,whole_tract_proxy,debt_to_income_ratio,46,0,15,0,31

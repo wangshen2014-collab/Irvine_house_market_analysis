@@ -1,0 +1,19 @@
+period,geography,ownership,naics,industry,disclosure_code,employment,employment_measure,avg_annual_pay_usd,avg_weekly_wage_usd,employment_yoy_percent_unadjusted,wage_yoy_percent_unadjusted
+2025_annual,Orange County workplace,all,10,All industries,,1663220,annual_average_jobs,84864,,,
+2025_annual,Orange County workplace,private,10,All industries,,1501121,annual_average_jobs,83742,,,
+2025_annual,Orange County workplace,private,31-33,Manufacturing,,149494,annual_average_jobs,120574,,,
+2025_annual,Orange County workplace,private,334,Computer and electronic product manufacturing,,32053,annual_average_jobs,213196,,,
+2025_annual,Orange County workplace,private,51,Information,,21641,annual_average_jobs,173323,,,
+2025_annual,Orange County workplace,private,52,Finance and insurance,,61463,annual_average_jobs,159455,,,
+2025_annual,Orange County workplace,private,54,Professional scientific and technical services,,137225,annual_average_jobs,131061,,,
+2025_annual,Orange County workplace,private,55,Management of companies,,38557,annual_average_jobs,156138,,,
+2025_annual,Orange County workplace,private,62,Health care and social assistance,,238351,annual_average_jobs,65092,,,
+2026_Q1,Orange County workplace,all,10,All industries,,1663154,March_jobs,,1766,0.6,4.2
+2026_Q1,Orange County workplace,private,10,All industries,,1491823,March_jobs,,1744,0.3,4.9
+2026_Q1,Orange County workplace,private,31-33,Manufacturing,,146025,March_jobs,,2757,-3.2,12.0
+2026_Q1,Orange County workplace,private,334,Computer and electronic product manufacturing,,30929,March_jobs,,5205,-4.9,14.7
+2026_Q1,Orange County workplace,private,51,Information,,20693,March_jobs,,3755,-4.4,6.4
+2026_Q1,Orange County workplace,private,52,Finance and insurance,,61331,March_jobs,,3780,1.0,6.5
+2026_Q1,Orange County workplace,private,54,Professional scientific and technical services,,136701,March_jobs,,2574,1.7,3.7
+2026_Q1,Orange County workplace,private,55,Management of companies,,38127,March_jobs,,3855,-0.9,5.3
+2026_Q1,Orange County workplace,private,62,Health care and social assistance,,243445,March_jobs,,1247,3.7,1.1

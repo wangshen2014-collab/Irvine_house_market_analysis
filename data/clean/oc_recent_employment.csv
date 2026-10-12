@@ -1,0 +1,193 @@
+period,geography,series,value,preliminary,seasonally_adjusted
+2026-03,Anaheim-Santa Ana-Irvine MD,Civilian Labor Force(1),1615.6,False,False
+2026-04,Anaheim-Santa Ana-Irvine MD,Civilian Labor Force(1),1605.7,False,False
+2026-05,Anaheim-Santa Ana-Irvine MD,Civilian Labor Force(1),1598.5,False,False
+2026-06,Anaheim-Santa Ana-Irvine MD,Civilian Labor Force(1),1598.1,False,False
+2026-07,Anaheim-Santa Ana-Irvine MD,Civilian Labor Force(1),1603.9,False,False
+2026-08,Anaheim-Santa Ana-Irvine MD,Civilian Labor Force(1),1601.9,True,False
+2026-03,Anaheim-Santa Ana-Irvine MD,Employment(1),1554.3,False,False
+2026-04,Anaheim-Santa Ana-Irvine MD,Employment(1),1546.5,False,False
+2026-05,Anaheim-Santa Ana-Irvine MD,Employment(1),1543.2,False,False
+2026-06,Anaheim-Santa Ana-Irvine MD,Employment(1),1533.2,False,False
+2026-07,Anaheim-Santa Ana-Irvine MD,Employment(1),1535.8,False,False
+2026-08,Anaheim-Santa Ana-Irvine MD,Employment(1),1530.8,True,False
+2026-03,Anaheim-Santa Ana-Irvine MD,Unemployment(1),61.3,False,False
+2026-04,Anaheim-Santa Ana-Irvine MD,Unemployment(1),59.1,False,False
+2026-05,Anaheim-Santa Ana-Irvine MD,Unemployment(1),55.3,False,False
+2026-06,Anaheim-Santa Ana-Irvine MD,Unemployment(1),64.9,False,False
+2026-07,Anaheim-Santa Ana-Irvine MD,Unemployment(1),68.1,False,False
+2026-08,Anaheim-Santa Ana-Irvine MD,Unemployment(1),71.1,True,False
+2026-03,Anaheim-Santa Ana-Irvine MD,Unemployment Rate(2),3.8,False,False
+2026-04,Anaheim-Santa Ana-Irvine MD,Unemployment Rate(2),3.7,False,False
+2026-05,Anaheim-Santa Ana-Irvine MD,Unemployment Rate(2),3.5,False,False
+2026-06,Anaheim-Santa Ana-Irvine MD,Unemployment Rate(2),4.1,False,False
+2026-07,Anaheim-Santa Ana-Irvine MD,Unemployment Rate(2),4.2,False,False
+2026-08,Anaheim-Santa Ana-Irvine MD,Unemployment Rate(2),4.4,True,False
+2026-03,Anaheim-Santa Ana-Irvine MD,Total Nonfarm(3),1681.7,False,False
+2026-04,Anaheim-Santa Ana-Irvine MD,Total Nonfarm(3),1688.7,False,False
+2026-05,Anaheim-Santa Ana-Irvine MD,Total Nonfarm(3),1694.9,False,False
+2026-06,Anaheim-Santa Ana-Irvine MD,Total Nonfarm(3),1699.3,False,False
+2026-07,Anaheim-Santa Ana-Irvine MD,Total Nonfarm(3),1691.1,False,False
+2026-08,Anaheim-Santa Ana-Irvine MD,Total Nonfarm(3),1685.7,True,False
+2026-03,Anaheim-Santa Ana-Irvine MD,Total Nonfarm(3) | year_over_year_percent,-0.1,False,False
+2026-04,Anaheim-Santa Ana-Irvine MD,Total Nonfarm(3) | year_over_year_percent,-0.5,False,False
+2026-05,Anaheim-Santa Ana-Irvine MD,Total Nonfarm(3) | year_over_year_percent,-0.4,False,False
+2026-06,Anaheim-Santa Ana-Irvine MD,Total Nonfarm(3) | year_over_year_percent,0.3,False,False
+2026-07,Anaheim-Santa Ana-Irvine MD,Total Nonfarm(3) | year_over_year_percent,0.6,False,False
+2026-08,Anaheim-Santa Ana-Irvine MD,Total Nonfarm(3) | year_over_year_percent,0.3,True,False
+2026-03,Anaheim-Santa Ana-Irvine MD,Mining and Logging(3),0.3,False,False
+2026-04,Anaheim-Santa Ana-Irvine MD,Mining and Logging(3),0.3,False,False
+2026-05,Anaheim-Santa Ana-Irvine MD,Mining and Logging(3),0.3,False,False
+2026-06,Anaheim-Santa Ana-Irvine MD,Mining and Logging(3),0.3,False,False
+2026-07,Anaheim-Santa Ana-Irvine MD,Mining and Logging(3),0.3,False,False
+2026-08,Anaheim-Santa Ana-Irvine MD,Mining and Logging(3),0.3,True,False
+2026-03,Anaheim-Santa Ana-Irvine MD,Mining and Logging(3) | year_over_year_percent,-25.0,False,False
+2026-04,Anaheim-Santa Ana-Irvine MD,Mining and Logging(3) | year_over_year_percent,0.0,False,False
+2026-05,Anaheim-Santa Ana-Irvine MD,Mining and Logging(3) | year_over_year_percent,0.0,False,False
+2026-06,Anaheim-Santa Ana-Irvine MD,Mining and Logging(3) | year_over_year_percent,0.0,False,False
+2026-07,Anaheim-Santa Ana-Irvine MD,Mining and Logging(3) | year_over_year_percent,0.0,False,False
+2026-08,Anaheim-Santa Ana-Irvine MD,Mining and Logging(3) | year_over_year_percent,0.0,True,False
+2026-03,Anaheim-Santa Ana-Irvine MD,Construction(3),99.6,False,False
+2026-04,Anaheim-Santa Ana-Irvine MD,Construction(3),101.8,False,False
+2026-05,Anaheim-Santa Ana-Irvine MD,Construction(3),103.1,False,False
+2026-06,Anaheim-Santa Ana-Irvine MD,Construction(3),104.4,False,False
+2026-07,Anaheim-Santa Ana-Irvine MD,Construction(3),103.9,False,False
+2026-08,Anaheim-Santa Ana-Irvine MD,Construction(3),103.9,True,False
+2026-03,Anaheim-Santa Ana-Irvine MD,Construction(3) | year_over_year_percent,-2.6,False,False
+2026-04,Anaheim-Santa Ana-Irvine MD,Construction(3) | year_over_year_percent,-3.1,False,False
+2026-05,Anaheim-Santa Ana-Irvine MD,Construction(3) | year_over_year_percent,-2.2,False,False
+2026-06,Anaheim-Santa Ana-Irvine MD,Construction(3) | year_over_year_percent,-1.3,False,False
+2026-07,Anaheim-Santa Ana-Irvine MD,Construction(3) | year_over_year_percent,-1.4,False,False
+2026-08,Anaheim-Santa Ana-Irvine MD,Construction(3) | year_over_year_percent,-1.6,True,False
+2026-03,Anaheim-Santa Ana-Irvine MD,Manufacturing(3),147.4,False,False
+2026-04,Anaheim-Santa Ana-Irvine MD,Manufacturing(3),146.8,False,False
+2026-05,Anaheim-Santa Ana-Irvine MD,Manufacturing(3),147.2,False,False
+2026-06,Anaheim-Santa Ana-Irvine MD,Manufacturing(3),147.1,False,False
+2026-07,Anaheim-Santa Ana-Irvine MD,Manufacturing(3),147.9,False,False
+2026-08,Anaheim-Santa Ana-Irvine MD,Manufacturing(3),148.0,True,False
+2026-03,Anaheim-Santa Ana-Irvine MD,Manufacturing(3) | year_over_year_percent,-2.6,False,False
+2026-04,Anaheim-Santa Ana-Irvine MD,Manufacturing(3) | year_over_year_percent,-2.7,False,False
+2026-05,Anaheim-Santa Ana-Irvine MD,Manufacturing(3) | year_over_year_percent,-2.1,False,False
+2026-06,Anaheim-Santa Ana-Irvine MD,Manufacturing(3) | year_over_year_percent,-2.1,False,False
+2026-07,Anaheim-Santa Ana-Irvine MD,Manufacturing(3) | year_over_year_percent,-1.5,False,False
+2026-08,Anaheim-Santa Ana-Irvine MD,Manufacturing(3) | year_over_year_percent,-0.9,True,False
+2026-03,Anaheim-Santa Ana-Irvine MD,"Trade, Transportation, and Utilities(3)",253.3,False,False
+2026-04,Anaheim-Santa Ana-Irvine MD,"Trade, Transportation, and Utilities(3)",253.6,False,False
+2026-05,Anaheim-Santa Ana-Irvine MD,"Trade, Transportation, and Utilities(3)",254.3,False,False
+2026-06,Anaheim-Santa Ana-Irvine MD,"Trade, Transportation, and Utilities(3)",255.4,False,False
+2026-07,Anaheim-Santa Ana-Irvine MD,"Trade, Transportation, and Utilities(3)",256.5,False,False
+2026-08,Anaheim-Santa Ana-Irvine MD,"Trade, Transportation, and Utilities(3)",255.6,True,False
+2026-03,Anaheim-Santa Ana-Irvine MD,"Trade, Transportation, and Utilities(3) | year_over_year_percent",-0.5,False,False
+2026-04,Anaheim-Santa Ana-Irvine MD,"Trade, Transportation, and Utilities(3) | year_over_year_percent",-0.5,False,False
+2026-05,Anaheim-Santa Ana-Irvine MD,"Trade, Transportation, and Utilities(3) | year_over_year_percent",0.0,False,False
+2026-06,Anaheim-Santa Ana-Irvine MD,"Trade, Transportation, and Utilities(3) | year_over_year_percent",0.6,False,False
+2026-07,Anaheim-Santa Ana-Irvine MD,"Trade, Transportation, and Utilities(3) | year_over_year_percent",0.7,False,False
+2026-08,Anaheim-Santa Ana-Irvine MD,"Trade, Transportation, and Utilities(3) | year_over_year_percent",0.1,True,False
+2026-03,Anaheim-Santa Ana-Irvine MD,Information(3),21.7,False,False
+2026-04,Anaheim-Santa Ana-Irvine MD,Information(3),21.4,False,False
+2026-05,Anaheim-Santa Ana-Irvine MD,Information(3),21.4,False,False
+2026-06,Anaheim-Santa Ana-Irvine MD,Information(3),21.6,False,False
+2026-07,Anaheim-Santa Ana-Irvine MD,Information(3),21.6,False,False
+2026-08,Anaheim-Santa Ana-Irvine MD,Information(3),21.5,True,False
+2026-03,Anaheim-Santa Ana-Irvine MD,Information(3) | year_over_year_percent,-2.7,False,False
+2026-04,Anaheim-Santa Ana-Irvine MD,Information(3) | year_over_year_percent,-4.0,False,False
+2026-05,Anaheim-Santa Ana-Irvine MD,Information(3) | year_over_year_percent,-4.5,False,False
+2026-06,Anaheim-Santa Ana-Irvine MD,Information(3) | year_over_year_percent,-4.0,False,False
+2026-07,Anaheim-Santa Ana-Irvine MD,Information(3) | year_over_year_percent,-5.3,False,False
+2026-08,Anaheim-Santa Ana-Irvine MD,Information(3) | year_over_year_percent,-5.3,True,False
+2026-03,Anaheim-Santa Ana-Irvine MD,Financial Activities(3),103.4,False,False
+2026-04,Anaheim-Santa Ana-Irvine MD,Financial Activities(3),103.3,False,False
+2026-05,Anaheim-Santa Ana-Irvine MD,Financial Activities(3),103.4,False,False
+2026-06,Anaheim-Santa Ana-Irvine MD,Financial Activities(3),103.5,False,False
+2026-07,Anaheim-Santa Ana-Irvine MD,Financial Activities(3),104.0,False,False
+2026-08,Anaheim-Santa Ana-Irvine MD,Financial Activities(3),103.8,True,False
+2026-03,Anaheim-Santa Ana-Irvine MD,Financial Activities(3) | year_over_year_percent,1.4,False,False
+2026-04,Anaheim-Santa Ana-Irvine MD,Financial Activities(3) | year_over_year_percent,0.7,False,False
+2026-05,Anaheim-Santa Ana-Irvine MD,Financial Activities(3) | year_over_year_percent,0.2,False,False
+2026-06,Anaheim-Santa Ana-Irvine MD,Financial Activities(3) | year_over_year_percent,0.4,False,False
+2026-07,Anaheim-Santa Ana-Irvine MD,Financial Activities(3) | year_over_year_percent,-0.2,False,False
+2026-08,Anaheim-Santa Ana-Irvine MD,Financial Activities(3) | year_over_year_percent,-0.3,True,False
+2026-03,Anaheim-Santa Ana-Irvine MD,Professional and Business Services(3),316.0,False,False
+2026-04,Anaheim-Santa Ana-Irvine MD,Professional and Business Services(3),316.9,False,False
+2026-05,Anaheim-Santa Ana-Irvine MD,Professional and Business Services(3),316.4,False,False
+2026-06,Anaheim-Santa Ana-Irvine MD,Professional and Business Services(3),318.8,False,False
+2026-07,Anaheim-Santa Ana-Irvine MD,Professional and Business Services(3),317.5,False,False
+2026-08,Anaheim-Santa Ana-Irvine MD,Professional and Business Services(3),316.7,True,False
+2026-03,Anaheim-Santa Ana-Irvine MD,Professional and Business Services(3) | year_over_year_percent,1.2,False,False
+2026-04,Anaheim-Santa Ana-Irvine MD,Professional and Business Services(3) | year_over_year_percent,0.1,False,False
+2026-05,Anaheim-Santa Ana-Irvine MD,Professional and Business Services(3) | year_over_year_percent,-0.3,False,False
+2026-06,Anaheim-Santa Ana-Irvine MD,Professional and Business Services(3) | year_over_year_percent,1.3,False,False
+2026-07,Anaheim-Santa Ana-Irvine MD,Professional and Business Services(3) | year_over_year_percent,-0.2,False,False
+2026-08,Anaheim-Santa Ana-Irvine MD,Professional and Business Services(3) | year_over_year_percent,-1.1,True,False
+2026-03,Anaheim-Santa Ana-Irvine MD,Education and Health Services(3),294.5,False,False
+2026-04,Anaheim-Santa Ana-Irvine MD,Education and Health Services(3),295.3,False,False
+2026-05,Anaheim-Santa Ana-Irvine MD,Education and Health Services(3),295.3,False,False
+2026-06,Anaheim-Santa Ana-Irvine MD,Education and Health Services(3),293.7,False,False
+2026-07,Anaheim-Santa Ana-Irvine MD,Education and Health Services(3),293.1,False,False
+2026-08,Anaheim-Santa Ana-Irvine MD,Education and Health Services(3),294.9,True,False
+2026-03,Anaheim-Santa Ana-Irvine MD,Education and Health Services(3) | year_over_year_percent,5.1,False,False
+2026-04,Anaheim-Santa Ana-Irvine MD,Education and Health Services(3) | year_over_year_percent,4.2,False,False
+2026-05,Anaheim-Santa Ana-Irvine MD,Education and Health Services(3) | year_over_year_percent,3.8,False,False
+2026-06,Anaheim-Santa Ana-Irvine MD,Education and Health Services(3) | year_over_year_percent,4.7,False,False
+2026-07,Anaheim-Santa Ana-Irvine MD,Education and Health Services(3) | year_over_year_percent,4.7,False,False
+2026-08,Anaheim-Santa Ana-Irvine MD,Education and Health Services(3) | year_over_year_percent,3.5,True,False
+2026-03,Anaheim-Santa Ana-Irvine MD,Leisure and Hospitality(3),236.6,False,False
+2026-04,Anaheim-Santa Ana-Irvine MD,Leisure and Hospitality(3),239.9,False,False
+2026-05,Anaheim-Santa Ana-Irvine MD,Leisure and Hospitality(3),243.8,False,False
+2026-06,Anaheim-Santa Ana-Irvine MD,Leisure and Hospitality(3),246.2,False,False
+2026-07,Anaheim-Santa Ana-Irvine MD,Leisure and Hospitality(3),245.5,False,False
+2026-08,Anaheim-Santa Ana-Irvine MD,Leisure and Hospitality(3),245.1,True,False
+2026-03,Anaheim-Santa Ana-Irvine MD,Leisure and Hospitality(3) | year_over_year_percent,1.8,False,False
+2026-04,Anaheim-Santa Ana-Irvine MD,Leisure and Hospitality(3) | year_over_year_percent,1.7,False,False
+2026-05,Anaheim-Santa Ana-Irvine MD,Leisure and Hospitality(3) | year_over_year_percent,2.6,False,False
+2026-06,Anaheim-Santa Ana-Irvine MD,Leisure and Hospitality(3) | year_over_year_percent,3.4,False,False
+2026-07,Anaheim-Santa Ana-Irvine MD,Leisure and Hospitality(3) | year_over_year_percent,3.1,False,False
+2026-08,Anaheim-Santa Ana-Irvine MD,Leisure and Hospitality(3) | year_over_year_percent,2.1,True,False
+2026-03,Anaheim-Santa Ana-Irvine MD,Other Services(3),55.9,False,False
+2026-04,Anaheim-Santa Ana-Irvine MD,Other Services(3),55.9,False,False
+2026-05,Anaheim-Santa Ana-Irvine MD,Other Services(3),56.5,False,False
+2026-06,Anaheim-Santa Ana-Irvine MD,Other Services(3),56.7,False,False
+2026-07,Anaheim-Santa Ana-Irvine MD,Other Services(3),57.1,False,False
+2026-08,Anaheim-Santa Ana-Irvine MD,Other Services(3),56.6,True,False
+2026-03,Anaheim-Santa Ana-Irvine MD,Other Services(3) | year_over_year_percent,1.3,False,False
+2026-04,Anaheim-Santa Ana-Irvine MD,Other Services(3) | year_over_year_percent,0.0,False,False
+2026-05,Anaheim-Santa Ana-Irvine MD,Other Services(3) | year_over_year_percent,0.7,False,False
+2026-06,Anaheim-Santa Ana-Irvine MD,Other Services(3) | year_over_year_percent,1.1,False,False
+2026-07,Anaheim-Santa Ana-Irvine MD,Other Services(3) | year_over_year_percent,2.1,False,False
+2026-08,Anaheim-Santa Ana-Irvine MD,Other Services(3) | year_over_year_percent,1.3,True,False
+2026-03,Anaheim-Santa Ana-Irvine MD,Government(3),153.0,False,False
+2026-04,Anaheim-Santa Ana-Irvine MD,Government(3),153.5,False,False
+2026-05,Anaheim-Santa Ana-Irvine MD,Government(3),153.2,False,False
+2026-06,Anaheim-Santa Ana-Irvine MD,Government(3),151.6,False,False
+2026-07,Anaheim-Santa Ana-Irvine MD,Government(3),143.7,False,False
+2026-08,Anaheim-Santa Ana-Irvine MD,Government(3),139.3,True,False
+2026-03,Anaheim-Santa Ana-Irvine MD,Government(3) | year_over_year_percent,-9.7,False,False
+2026-04,Anaheim-Santa Ana-Irvine MD,Government(3) | year_over_year_percent,-9.9,False,False
+2026-05,Anaheim-Santa Ana-Irvine MD,Government(3) | year_over_year_percent,-9.9,False,False
+2026-06,Anaheim-Santa Ana-Irvine MD,Government(3) | year_over_year_percent,-10.0,False,False
+2026-07,Anaheim-Santa Ana-Irvine MD,Government(3) | year_over_year_percent,-5.2,False,False
+2026-08,Anaheim-Santa Ana-Irvine MD,Government(3) | year_over_year_percent,-2.7,True,False
+2026-03,Anaheim-Santa Ana-Irvine MD,"CPI-U, All items(4)",352.221,False,False
+2026-04,Anaheim-Santa Ana-Irvine MD,"CPI-U, All items(4)",355.166,False,False
+2026-05,Anaheim-Santa Ana-Irvine MD,"CPI-U, All items(4)",355.336,False,False
+2026-06,Anaheim-Santa Ana-Irvine MD,"CPI-U, All items(4)",354.325,False,False
+2026-07,Anaheim-Santa Ana-Irvine MD,"CPI-U, All items(4)",355.311,False,False
+2026-08,Anaheim-Santa Ana-Irvine MD,"CPI-U, All items(4)",356.993,False,False
+2026-03,Anaheim-Santa Ana-Irvine MD,"CPI-U, All items, 12-month % change(4)",3.4,False,False
+2026-04,Anaheim-Santa Ana-Irvine MD,"CPI-U, All items, 12-month % change(4)",3.7,False,False
+2026-05,Anaheim-Santa Ana-Irvine MD,"CPI-U, All items, 12-month % change(4)",3.6,False,False
+2026-06,Anaheim-Santa Ana-Irvine MD,"CPI-U, All items, 12-month % change(4)",3.3,False,False
+2026-07,Anaheim-Santa Ana-Irvine MD,"CPI-U, All items, 12-month % change(4)",3.4,False,False
+2026-08,Anaheim-Santa Ana-Irvine MD,"CPI-U, All items, 12-month % change(4)",3.6,False,False
+2026-03,Anaheim-Santa Ana-Irvine MD,"CPI-W, All items(5)",340.105,False,False
+2026-04,Anaheim-Santa Ana-Irvine MD,"CPI-W, All items(5)",342.767,False,False
+2026-05,Anaheim-Santa Ana-Irvine MD,"CPI-W, All items(5)",343.428,False,False
+2026-06,Anaheim-Santa Ana-Irvine MD,"CPI-W, All items(5)",341.981,False,False
+2026-07,Anaheim-Santa Ana-Irvine MD,"CPI-W, All items(5)",342.467,False,False
+2026-08,Anaheim-Santa Ana-Irvine MD,"CPI-W, All items(5)",344.411,False,False
+2026-03,Anaheim-Santa Ana-Irvine MD,"CPI-W, All items, 12-month % change(5)",3.6,False,False
+2026-04,Anaheim-Santa Ana-Irvine MD,"CPI-W, All items, 12-month % change(5)",3.9,False,False
+2026-05,Anaheim-Santa Ana-Irvine MD,"CPI-W, All items, 12-month % change(5)",3.9,False,False
+2026-06,Anaheim-Santa Ana-Irvine MD,"CPI-W, All items, 12-month % change(5)",3.6,False,False
+2026-07,Anaheim-Santa Ana-Irvine MD,"CPI-W, All items, 12-month % change(5)",3.7,False,False
+2026-08,Anaheim-Santa Ana-Irvine MD,"CPI-W, All items, 12-month % change(5)",4.0,False,False

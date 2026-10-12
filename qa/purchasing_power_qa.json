@@ -1,0 +1,3681 @@
+{
+  "status": "pass",
+  "checks_passed": 716,
+  "checks": [
+    {
+      "check": "input_fingerprint",
+      "status": "pass",
+      "filename": "hmda_2023_purchase_oc.csv"
+    },
+    {
+      "check": "input_fingerprint",
+      "status": "pass",
+      "filename": "hmda_2024_purchase_oc.csv"
+    },
+    {
+      "check": "input_fingerprint",
+      "status": "pass",
+      "filename": "hmda_2023_aggregate_purchase.json"
+    },
+    {
+      "check": "input_fingerprint",
+      "status": "pass",
+      "filename": "hmda_2024_aggregate_purchase.json"
+    },
+    {
+      "check": "input_fingerprint",
+      "status": "pass",
+      "filename": "hmda_2025_aggregate_purchase.json"
+    },
+    {
+      "check": "input_fingerprint",
+      "status": "pass",
+      "filename": "hmda_static_faq.html"
+    },
+    {
+      "check": "input_fingerprint",
+      "status": "pass",
+      "filename": "qcew_api.html"
+    },
+    {
+      "check": "input_fingerprint",
+      "status": "pass",
+      "filename": "qcew_2025_a_oc.csv"
+    },
+    {
+      "check": "input_fingerprint",
+      "status": "pass",
+      "filename": "qcew_2026_1_oc.csv"
+    },
+    {
+      "check": "input_fingerprint",
+      "status": "pass",
+      "filename": "bls_eag.html"
+    },
+    {
+      "check": "input_fingerprint",
+      "status": "pass",
+      "filename": "places2024.geojson"
+    },
+    {
+      "check": "input_fingerprint",
+      "status": "pass",
+      "filename": "cfpb_privacy.html"
+    },
+    {
+      "check": "input_fingerprint",
+      "status": "pass",
+      "filename": "bls_qcew_overview.html"
+    },
+    {
+      "check": "input_fingerprint",
+      "status": "pass",
+      "filename": "bls_qcew_release_2026q1.html"
+    },
+    {
+      "check": "input_fingerprint",
+      "status": "pass",
+      "filename": "bls_copyright.html"
+    },
+    {
+      "check": "input_fingerprint",
+      "status": "pass",
+      "filename": "cfpb_ModifiedLarEntity.scala"
+    },
+    {
+      "check": "input_fingerprint",
+      "status": "pass",
+      "filename": "cfpb_Public_File_LAR_Spec.csv"
+    },
+    {
+      "check": "input_fingerprint",
+      "status": "pass",
+      "filename": "cfpb_ModifiedLoanApplicationRegister.scala"
+    },
+    {
+      "check": "input_fingerprint",
+      "status": "pass",
+      "filename": "hmda_privacy_summary.pdf"
+    },
+    {
+      "check": "input_fingerprint",
+      "status": "pass",
+      "filename": "hmda_api_documentation.html"
+    },
+    {
+      "check": "input_fingerprint",
+      "status": "pass",
+      "filename": "hmda_fields.html"
+    },
+    {
+      "check": "input_fingerprint",
+      "status": "pass",
+      "filename": "hmda_2025_purchase_oc.csv"
+    },
+    {
+      "check": "input_fingerprint",
+      "status": "pass",
+      "filename": "irvine_acfr_2025.pdf"
+    },
+    {
+      "check": "input_fingerprint",
+      "status": "pass",
+      "filename": "oc_tracts_2024.geojson"
+    },
+    {
+      "check": "input_fingerprint",
+      "status": "pass",
+      "filename": "acs_household_metrics_2024.csv"
+    },
+    {
+      "check": "valid_geojson",
+      "status": "pass",
+      "filename": "oc_tracts_2024.geojson"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059021807"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099417"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099504"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059110117"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059042330"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099241"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099242"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099405"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099407"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099408"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099410"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059042331"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059042332"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059042333"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059089001"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059021817"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059021823"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059021826"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099411"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099412"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059110201"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059087503"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059074602"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059074802"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059075303"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059075401"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059075403"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059075404"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059087504"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059087601"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059087602"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059087701"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059087703"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059089003"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059089004"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059011707"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059011708"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059011709"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059021827"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059021828"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059021830"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059042334"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059042335"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059042337"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059052417"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059074106"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059074107"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059021903"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059021914"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059021919"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059021922"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059052408"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059052415"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059052416"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099902"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059063908"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059074004"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059074005"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059074006"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059074102"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059074103"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059001303"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059001304"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059001401"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059042338"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099801"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099802"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099803"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059110114"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059075902"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059052526"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059052527"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059062605"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059032034"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059032035"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059032036"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059052523"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059052524"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059062658"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059042341"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059042115"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059075517"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059052437"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059052534"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059021920"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059021822"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059052439"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059052433"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059052431"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059001603"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059021831"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059021832"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059087302"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059062656"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059062657"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059062652"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059001710"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059076105"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059076104"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059076002"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099419"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059001604"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059087301"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059001709"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059001903"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059011000"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059011101"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059011102"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059032037"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059032038"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059032039"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059001801"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059001802"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059032041"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059075814"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059063910"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059052530"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059063909"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059042340"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059032062"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059076001"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059032064"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059042116"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099416"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059001505"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059011714"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059032065"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059032066"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059062655"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059052432"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059052429"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059062653"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099418"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059042311"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059074407"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059032044"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059052430"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059052434"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059075516"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059075518"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059052435"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059062651"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059062650"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059062654"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059052531"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059052532"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059032063"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059042206"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059042112"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059021923"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059052438"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059052436"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059052535"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059052533"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059052529"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059042315"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059075813"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099311"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059086303"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059021921"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059001902"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059063004"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059062626"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059042339"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059042336"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059042319"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059052421"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059032049"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059032053"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059011710"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059042106"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059042107"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059042108"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059042109"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059042329"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059063007"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059052422"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059032033"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059062701"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059062702"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059062800"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059063005"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059063006"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059063008"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059042201"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059052522"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059052410"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059110001"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059021917"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059075703"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059075512"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059052419"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059087801"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059076201"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059087704"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059062631"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099202"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099203"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099225"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059088101"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059088104"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059088105"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059088106"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099223"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099224"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099239"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099305"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059052518"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059052519"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059052520"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059052521"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059001504"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059001506"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059001507"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059001705"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059032031"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059032032"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059110102"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059074801"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059075809"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059110606"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059062639"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059110607"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059062637"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099511"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059086501"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059086502"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059088107"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059088201"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059088202"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059088203"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059088301"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059063605"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059063701"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059063702"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059063802"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059086402"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059086404"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059086406"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059086407"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059075505"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059075506"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059075507"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059075513"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059075514"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059075405"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059110108"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059110109"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059110304"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059110401"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059110402"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059110106"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099226"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059110202"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099246"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099701"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059021912"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099415"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059021915"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059021820"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059001602"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059062643"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059042320"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059075702"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059074805"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059042317"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059062647"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059052411"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059021913"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059075604"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059042111"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059021924"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099603"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099406"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059087403"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059110113"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059087902"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059062900"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059062619"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059062620"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059074110"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059062610"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059042203"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059076206"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059088001"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059088002"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059021905"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059089106"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059021916"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059021918"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059021816"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059001704"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059110118"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059062633"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059062630"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059052513"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059110015"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099604"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099605"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059110104"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059021825"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059001708"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059062634"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059021812"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059042325"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059042113"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059011300"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059980000"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059062648"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059087505"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059074406"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059074408"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059074502"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059075002"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059075003"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099250"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059075811"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059110110"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059075812"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059075815"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059075816"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059075901"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059088701"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059088801"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099247"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099248"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099249"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059063400"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059063604"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059011722"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059042312"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059042313"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059063202"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059063301"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059063302"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059011717"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059011718"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059011720"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059011721"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059074405"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059074806"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059075806"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059075807"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059075808"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059075810"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059086802"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059086901"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059074901"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059074902"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059086902"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059088903"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059088904"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059088905"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059088902"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099235"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099237"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099238"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059086803"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059086903"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099234"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059088601"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059088602"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059088502"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059063902"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059063903"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059063904"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059063905"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059063906"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059021824"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059021829"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059110203"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059110301"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059110302"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059074003"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099243"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099244"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099510"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059110500"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059110603"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059110604"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059110605"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059075603"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059075606"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059076202"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059076204"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059076205"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059001202"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059001301"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059074601"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059075100"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059075201"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059075202"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059990100"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059062649"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059032058"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059032061"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059062611"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059062614"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059001201"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059063500"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059063601"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059063603"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059032040"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059042323"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059062632"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059052425"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059052427"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059110003"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099904"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059052428"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059087001"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059087002"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059110007"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059032002"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099306"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099251"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059032003"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059032012"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059032013"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059052424"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099307"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099903"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099905"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099906"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099212"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099214"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099245"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059087803"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059087805"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059087806"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059087802"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099204"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099233"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099502"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059001101"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059001102"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059062628"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059011711"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059011712"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059011715"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059011716"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059042114"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059042305"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059042307"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059063010"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059063101"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059063102"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059075301"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059075302"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059062622"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059087200"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059087401"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059087405"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059110116"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059076102"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059076103"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059063103"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059063201"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059075004"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059052514"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059087101"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059087102"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059087103"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059087105"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059087106"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059032046"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059001901"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059075504"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059021813"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059032057"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059052528"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059032043"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059042205"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059032020"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059032022"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059052502"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059089107"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059042324"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059052423"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059052506"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059052505"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059052511"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059001706"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059021802"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059086405"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059074501"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059032011"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059021821"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059075605"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059032014"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059032015"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099309"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099310"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099402"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099404"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059110004"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059110005"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059042327"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059042328"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059063806"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059074108"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059074109"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059074111"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099240"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099308"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059021809"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059021810"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059021814"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059042326"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059074803"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059075607"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059075701"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059075805"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059086601"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059074200"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059086701"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059086702"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059086801"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059086602"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059088402"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059088403"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059088501"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059088302"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059088401"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059011200"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059011401"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059011402"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059011403"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059011502"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059032042"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059032045"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059032047"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059032050"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059088802"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059088901"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059063009"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099702"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099227"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099229"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099230"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099231"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099232"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059087901"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059110115"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059087404"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099512"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099215"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099216"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099217"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099220"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099222"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059011601"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059011602"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059032051"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059032054"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059032055"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059062638"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059062640"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059062641"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059062642"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059062646"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059011503"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059011504"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059062635"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059062636"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059032048"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059062625"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059062627"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059062629"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059032059"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059110111"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099703"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059063808"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059062645"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059088702"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059074701"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059074702"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099508"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099509"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099506"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059001103"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059110012"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059110014"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059089102"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059089104"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059089105"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059086306"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059001402"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059001403"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059001404"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059001501"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059001503"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059110006"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059110008"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059110010"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059110011"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059032027"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059032028"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059032029"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059032030"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099513"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099514"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099601"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059099602"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059063803"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059063805"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059110303"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059063807"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059074300"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059074403"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059076208"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059086301"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059086304"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "06059086305"
+    },
+    {
+      "check": "unique_oc_tracts",
+      "status": "pass"
+    },
+    {
+      "check": "valid_geojson",
+      "status": "pass",
+      "filename": "places2024.geojson"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "0600947"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "0680854"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "0639496"
+    },
+    {
+      "check": "valid_source_geometry",
+      "status": "pass",
+      "id": "0636770"
+    },
+    {
+      "check": "four_city_names",
+      "status": "pass"
+    },
+    {
+      "check": "nested_geography_scenarios",
+      "status": "pass",
+      "city": "Irvine"
+    },
+    {
+      "check": "nested_geography_scenarios",
+      "status": "pass",
+      "city": "Lake Forest"
+    },
+    {
+      "check": "nested_geography_scenarios",
+      "status": "pass",
+      "city": "Tustin"
+    },
+    {
+      "check": "nested_geography_scenarios",
+      "status": "pass",
+      "city": "Aliso Viejo"
+    },
+    {
+      "check": "core_tract_sets_disjoint",
+      "status": "pass",
+      "city": "Irvine",
+      "other": "Lake Forest"
+    },
+    {
+      "check": "core_tract_sets_disjoint",
+      "status": "pass",
+      "city": "Irvine",
+      "other": "Tustin"
+    },
+    {
+      "check": "core_tract_sets_disjoint",
+      "status": "pass",
+      "city": "Irvine",
+      "other": "Aliso Viejo"
+    },
+    {
+      "check": "core_tract_sets_disjoint",
+      "status": "pass",
+      "city": "Lake Forest",
+      "other": "Tustin"
+    },
+    {
+      "check": "core_tract_sets_disjoint",
+      "status": "pass",
+      "city": "Lake Forest",
+      "other": "Aliso Viejo"
+    },
+    {
+      "check": "core_tract_sets_disjoint",
+      "status": "pass",
+      "city": "Tustin",
+      "other": "Aliso Viejo"
+    },
+    {
+      "check": "api_count_matches_csv",
+      "status": "pass",
+      "year": 2023,
+      "count": 29627
+    },
+    {
+      "check": "api_amount_matches_csv",
+      "status": "pass",
+      "year": 2023,
+      "sum_usd": "25093615000.0"
+    },
+    {
+      "check": "request_filters_verified",
+      "status": "pass",
+      "year": 2023
+    },
+    {
+      "check": "direct_vs_staged_filter",
+      "status": "pass",
+      "year": 2023
+    },
+    {
+      "check": "all_nonmissing_tracts_match",
+      "status": "pass",
+      "year": 2023,
+      "unknown_tracts": []
+    },
+    {
+      "check": "loan_dollar_midpoints",
+      "status": "pass",
+      "year": 2023
+    },
+    {
+      "check": "property_dollar_midpoints",
+      "status": "pass",
+      "year": 2023
+    },
+    {
+      "check": "value_bands_partition_valid",
+      "status": "pass",
+      "year": 2023,
+      "geography": "Orange County",
+      "mode": "county"
+    },
+    {
+      "check": "value_bands_partition_valid",
+      "status": "pass",
+      "year": 2023,
+      "geography": "Irvine",
+      "mode": "core_99999"
+    },
+    {
+      "check": "value_bands_partition_valid",
+      "status": "pass",
+      "year": 2023,
+      "geography": "Irvine",
+      "mode": "majority_50"
+    },
+    {
+      "check": "value_bands_partition_valid",
+      "status": "pass",
+      "year": 2023,
+      "geography": "Lake Forest",
+      "mode": "core_99999"
+    },
+    {
+      "check": "value_bands_partition_valid",
+      "status": "pass",
+      "year": 2023,
+      "geography": "Lake Forest",
+      "mode": "majority_50"
+    },
+    {
+      "check": "value_bands_partition_valid",
+      "status": "pass",
+      "year": 2023,
+      "geography": "Tustin",
+      "mode": "core_99999"
+    },
+    {
+      "check": "value_bands_partition_valid",
+      "status": "pass",
+      "year": 2023,
+      "geography": "Tustin",
+      "mode": "majority_50"
+    },
+    {
+      "check": "value_bands_partition_valid",
+      "status": "pass",
+      "year": 2023,
+      "geography": "Aliso Viejo",
+      "mode": "core_99999"
+    },
+    {
+      "check": "value_bands_partition_valid",
+      "status": "pass",
+      "year": 2023,
+      "geography": "Aliso Viejo",
+      "mode": "majority_50"
+    },
+    {
+      "check": "api_count_matches_csv",
+      "status": "pass",
+      "year": 2024,
+      "count": 28522
+    },
+    {
+      "check": "api_amount_matches_csv",
+      "status": "pass",
+      "year": 2024,
+      "sum_usd": "27374830000.0"
+    },
+    {
+      "check": "request_filters_verified",
+      "status": "pass",
+      "year": 2024
+    },
+    {
+      "check": "direct_vs_staged_filter",
+      "status": "pass",
+      "year": 2024
+    },
+    {
+      "check": "all_nonmissing_tracts_match",
+      "status": "pass",
+      "year": 2024,
+      "unknown_tracts": []
+    },
+    {
+      "check": "loan_dollar_midpoints",
+      "status": "pass",
+      "year": 2024
+    },
+    {
+      "check": "property_dollar_midpoints",
+      "status": "pass",
+      "year": 2024
+    },
+    {
+      "check": "value_bands_partition_valid",
+      "status": "pass",
+      "year": 2024,
+      "geography": "Orange County",
+      "mode": "county"
+    },
+    {
+      "check": "value_bands_partition_valid",
+      "status": "pass",
+      "year": 2024,
+      "geography": "Irvine",
+      "mode": "core_99999"
+    },
+    {
+      "check": "value_bands_partition_valid",
+      "status": "pass",
+      "year": 2024,
+      "geography": "Irvine",
+      "mode": "majority_50"
+    },
+    {
+      "check": "value_bands_partition_valid",
+      "status": "pass",
+      "year": 2024,
+      "geography": "Lake Forest",
+      "mode": "core_99999"
+    },
+    {
+      "check": "value_bands_partition_valid",
+      "status": "pass",
+      "year": 2024,
+      "geography": "Lake Forest",
+      "mode": "majority_50"
+    },
+    {
+      "check": "value_bands_partition_valid",
+      "status": "pass",
+      "year": 2024,
+      "geography": "Tustin",
+      "mode": "core_99999"
+    },
+    {
+      "check": "value_bands_partition_valid",
+      "status": "pass",
+      "year": 2024,
+      "geography": "Tustin",
+      "mode": "majority_50"
+    },
+    {
+      "check": "value_bands_partition_valid",
+      "status": "pass",
+      "year": 2024,
+      "geography": "Aliso Viejo",
+      "mode": "core_99999"
+    },
+    {
+      "check": "value_bands_partition_valid",
+      "status": "pass",
+      "year": 2024,
+      "geography": "Aliso Viejo",
+      "mode": "majority_50"
+    },
+    {
+      "check": "api_count_matches_csv",
+      "status": "pass",
+      "year": 2025,
+      "count": 28853
+    },
+    {
+      "check": "api_amount_matches_csv",
+      "status": "pass",
+      "year": 2025,
+      "sum_usd": "27615175000.0"
+    },
+    {
+      "check": "request_filters_verified",
+      "status": "pass",
+      "year": 2025
+    },
+    {
+      "check": "direct_vs_staged_filter",
+      "status": "pass",
+      "year": 2025
+    },
+    {
+      "check": "all_nonmissing_tracts_match",
+      "status": "pass",
+      "year": 2025,
+      "unknown_tracts": []
+    },
+    {
+      "check": "loan_dollar_midpoints",
+      "status": "pass",
+      "year": 2025
+    },
+    {
+      "check": "property_dollar_midpoints",
+      "status": "pass",
+      "year": 2025
+    },
+    {
+      "check": "value_bands_partition_valid",
+      "status": "pass",
+      "year": 2025,
+      "geography": "Orange County",
+      "mode": "county"
+    },
+    {
+      "check": "value_bands_partition_valid",
+      "status": "pass",
+      "year": 2025,
+      "geography": "Irvine",
+      "mode": "core_99999"
+    },
+    {
+      "check": "value_bands_partition_valid",
+      "status": "pass",
+      "year": 2025,
+      "geography": "Irvine",
+      "mode": "majority_50"
+    },
+    {
+      "check": "value_bands_partition_valid",
+      "status": "pass",
+      "year": 2025,
+      "geography": "Lake Forest",
+      "mode": "core_99999"
+    },
+    {
+      "check": "value_bands_partition_valid",
+      "status": "pass",
+      "year": 2025,
+      "geography": "Lake Forest",
+      "mode": "majority_50"
+    },
+    {
+      "check": "value_bands_partition_valid",
+      "status": "pass",
+      "year": 2025,
+      "geography": "Tustin",
+      "mode": "core_99999"
+    },
+    {
+      "check": "value_bands_partition_valid",
+      "status": "pass",
+      "year": 2025,
+      "geography": "Tustin",
+      "mode": "majority_50"
+    },
+    {
+      "check": "value_bands_partition_valid",
+      "status": "pass",
+      "year": 2025,
+      "geography": "Aliso Viejo",
+      "mode": "core_99999"
+    },
+    {
+      "check": "value_bands_partition_valid",
+      "status": "pass",
+      "year": 2025,
+      "geography": "Aliso Viejo",
+      "mode": "majority_50"
+    },
+    {
+      "check": "qcew_area",
+      "status": "pass",
+      "filename": "qcew_2025_a_oc.csv"
+    },
+    {
+      "check": "qcew_area",
+      "status": "pass",
+      "filename": "qcew_2026_1_oc.csv"
+    },
+    {
+      "check": "decimal_vs_float_payment",
+      "status": "pass",
+      "loan": 1000000,
+      "rate": 5
+    },
+    {
+      "check": "decimal_vs_float_payment",
+      "status": "pass",
+      "loan": 1000000,
+      "rate": 6
+    },
+    {
+      "check": "decimal_vs_float_payment",
+      "status": "pass",
+      "loan": 1000000,
+      "rate": 7
+    },
+    {
+      "check": "decimal_vs_float_payment",
+      "status": "pass",
+      "loan": 1500000,
+      "rate": 5
+    },
+    {
+      "check": "decimal_vs_float_payment",
+      "status": "pass",
+      "loan": 1500000,
+      "rate": 6
+    },
+    {
+      "check": "decimal_vs_float_payment",
+      "status": "pass",
+      "loan": 1500000,
+      "rate": 7
+    },
+    {
+      "check": "decimal_vs_float_payment",
+      "status": "pass",
+      "loan": 2000000,
+      "rate": 5
+    },
+    {
+      "check": "decimal_vs_float_payment",
+      "status": "pass",
+      "loan": 2000000,
+      "rate": 6
+    },
+    {
+      "check": "decimal_vs_float_payment",
+      "status": "pass",
+      "loan": 2000000,
+      "rate": 7
+    }
+  ],
+  "output_rows": {
+    "hmda_tract_city_crosswalk.csv": 105,
+    "hmda_geography_coverage.csv": 4,
+    "hmda_filter_funnel.csv": 30,
+    "hmda_purchase_summary.csv": 57,
+    "hmda_value_bands.csv": 135,
+    "hmda_filter_sensitivity.csv": 45,
+    "hmda_field_completeness.csv": 84,
+    "hmda_acquisition_checks.csv": 3,
+    "oc_employment_wages.csv": 18,
+    "oc_recent_employment.csv": 192,
+    "purchasing_financing_scenarios.csv": 9
+  },
+  "limitations": [
+    "No borrower identity, address, prior city, cash buyer, bedroom, built year, floor area or HOA.",
+    "Statistical QA is not causal identification or independent model review.",
+    "Exact public-row duplicates are retained; privacy modifications can make distinct loans identical.",
+    "City core excludes mixed growth tracts; overlapping scenarios are not additive city totals."
+  ]
+}

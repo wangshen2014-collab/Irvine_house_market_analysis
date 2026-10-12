@@ -1,0 +1,5 @@
+city,core_tracts,near95_tracts,majority_tracts,overlapping_tracts,core_area_share_of_city,geographic_vintage,warning
+Irvine,43,44,48,52,0.66978776,ACS2024 TIGERweb; 2020 tract coding; constant across loan years,area not population/household/loan coverage; not citywide totals
+Lake Forest,9,10,13,17,0.561562,ACS2024 TIGERweb; 2020 tract coding; constant across loan years,area not population/household/loan coverage; not citywide totals
+Tustin,10,11,15,24,0.69192551,ACS2024 TIGERweb; 2020 tract coding; constant across loan years,area not population/household/loan coverage; not citywide totals
+Aliso Viejo,3,7,9,12,0.25994197,ACS2024 TIGERweb; 2020 tract coding; constant across loan years,area not population/household/loan coverage; not citywide totals
