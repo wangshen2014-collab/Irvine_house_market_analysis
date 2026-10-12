@@ -1,0 +1,4587 @@
+{
+  "status": "pass",
+  "detailed_rows": 1452,
+  "metric_rows": 276,
+  "geo_count": 11,
+  "custom_complete_BG_regions": 1,
+  "reused_bulk_files_verified": 13,
+  "VRE_E_M_cell_pairs_checked": 429,
+  "SDR_metric_rows": 65,
+  "checks": [
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B01001_001"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B01001_002"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B01001_003"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B01001_004"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B01001_005"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B01001_006"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B01001_007"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B01001_008"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B01001_009"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B01001_010"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B01001_011"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B01001_012"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B01001_013"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B01001_014"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B01001_015"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B01001_016"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B01001_017"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B01001_018"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B01001_019"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B01001_020"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B01001_021"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B01001_022"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B01001_023"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B01001_024"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B01001_025"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B01001_026"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B01001_027"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B01001_028"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B01001_029"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B01001_030"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B01001_031"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B01001_032"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B01001_033"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B01001_034"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B01001_035"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B01001_036"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B01001_037"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B01001_038"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B01001_039"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B01001_040"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B01001_041"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B01001_042"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B01001_043"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B01001_044"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B01001_045"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B01001_046"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B01001_047"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B01001_048"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B01001_049"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B11001_001"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B11001_002"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B11001_003"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B11001_004"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B11001_005"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B11001_006"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B11001_007"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B11001_008"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B11001_009"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B11005_001"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B11005_002"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B11005_003"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B11005_004"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B11005_005"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B11005_006"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B11005_007"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B11005_008"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B11005_009"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B11005_010"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B11005_011"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B11005_012"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B11005_013"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B11005_014"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B11005_015"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B11005_016"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B11005_017"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B11005_018"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B11005_019"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B25003_001"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B25003_002"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B25003_003"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B25007_001"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B25007_002"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B25007_003"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B25007_004"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B25007_005"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B25007_006"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B25007_007"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B25007_008"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B25007_009"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B25007_010"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B25007_011"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B25007_012"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B25007_013"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B25007_014"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B25007_015"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B25007_016"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B25007_017"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B25007_018"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B25007_019"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B25007_020"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B25007_021"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B19001_001"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B19001_002"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B19001_003"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B19001_004"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B19001_005"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B19001_006"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B19001_007"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B19001_008"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B19001_009"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B19001_010"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B19001_011"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B19001_012"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B19001_013"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B19001_014"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B19001_015"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B19001_016"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B19001_017"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B01001_001"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B01001_002"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B01001_003"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B01001_004"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B01001_005"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B01001_006"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B01001_007"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B01001_008"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B01001_009"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B01001_010"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B01001_011"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B01001_012"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B01001_013"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B01001_014"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B01001_015"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B01001_016"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B01001_017"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B01001_018"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B01001_019"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B01001_020"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B01001_021"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B01001_022"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B01001_023"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B01001_024"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B01001_025"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B01001_026"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B01001_027"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B01001_028"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B01001_029"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B01001_030"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B01001_031"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B01001_032"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B01001_033"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B01001_034"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B01001_035"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B01001_036"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B01001_037"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B01001_038"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B01001_039"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B01001_040"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B01001_041"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B01001_042"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B01001_043"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B01001_044"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B01001_045"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B01001_046"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B01001_047"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B01001_048"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B01001_049"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B11001_001"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B11001_002"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B11001_003"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B11001_004"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B11001_005"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B11001_006"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B11001_007"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B11001_008"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B11001_009"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B11005_001"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B11005_002"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B11005_003"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B11005_004"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B11005_005"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B11005_006"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B11005_007"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B11005_008"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B11005_009"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B11005_010"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B11005_011"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B11005_012"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B11005_013"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B11005_014"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B11005_015"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B11005_016"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B11005_017"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B11005_018"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B11005_019"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B25003_001"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B25003_002"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B25003_003"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B25007_001"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B25007_002"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B25007_003"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B25007_004"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B25007_005"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B25007_006"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B25007_007"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B25007_008"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B25007_009"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B25007_010"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B25007_011"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B25007_012"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B25007_013"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B25007_014"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B25007_015"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B25007_016"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B25007_017"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B25007_018"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B25007_019"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B25007_020"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B25007_021"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B19001_001"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B19001_002"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B19001_003"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B19001_004"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B19001_005"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B19001_006"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B19001_007"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B19001_008"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B19001_009"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B19001_010"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B19001_011"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B19001_012"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B19001_013"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B19001_014"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B19001_015"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B19001_016"
+    },
+    {
+      "check": "BG_sum_to_tract",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B19001_017"
+    },
+    {
+      "check": "tenure",
+      "status": "pass",
+      "geo_id": "1400000US06059052429"
+    },
+    {
+      "check": "children",
+      "status": "pass",
+      "geo_id": "1400000US06059052429"
+    },
+    {
+      "check": "family",
+      "status": "pass",
+      "geo_id": "1400000US06059052429"
+    },
+    {
+      "check": "population",
+      "status": "pass",
+      "geo_id": "1400000US06059052429"
+    },
+    {
+      "check": "income",
+      "status": "pass",
+      "geo_id": "1400000US06059052429"
+    },
+    {
+      "check": "owner_age",
+      "status": "pass",
+      "geo_id": "1400000US06059052429"
+    },
+    {
+      "check": "renter_age",
+      "status": "pass",
+      "geo_id": "1400000US06059052429"
+    },
+    {
+      "check": "owner_income",
+      "status": "pass",
+      "geo_id": "1400000US06059052429"
+    },
+    {
+      "check": "renter_income",
+      "status": "pass",
+      "geo_id": "1400000US06059052429"
+    },
+    {
+      "check": "cross_table_HH_total",
+      "status": "pass",
+      "geo_id": "1400000US06059052429"
+    },
+    {
+      "check": "tenure",
+      "status": "pass",
+      "geo_id": "1400000US06059052437"
+    },
+    {
+      "check": "children",
+      "status": "pass",
+      "geo_id": "1400000US06059052437"
+    },
+    {
+      "check": "family",
+      "status": "pass",
+      "geo_id": "1400000US06059052437"
+    },
+    {
+      "check": "population",
+      "status": "pass",
+      "geo_id": "1400000US06059052437"
+    },
+    {
+      "check": "income",
+      "status": "pass",
+      "geo_id": "1400000US06059052437"
+    },
+    {
+      "check": "owner_age",
+      "status": "pass",
+      "geo_id": "1400000US06059052437"
+    },
+    {
+      "check": "renter_age",
+      "status": "pass",
+      "geo_id": "1400000US06059052437"
+    },
+    {
+      "check": "owner_income",
+      "status": "pass",
+      "geo_id": "1400000US06059052437"
+    },
+    {
+      "check": "renter_income",
+      "status": "pass",
+      "geo_id": "1400000US06059052437"
+    },
+    {
+      "check": "cross_table_HH_total",
+      "status": "pass",
+      "geo_id": "1400000US06059052437"
+    },
+    {
+      "check": "tenure",
+      "status": "pass",
+      "geo_id": "1500000US060590524291"
+    },
+    {
+      "check": "children",
+      "status": "pass",
+      "geo_id": "1500000US060590524291"
+    },
+    {
+      "check": "family",
+      "status": "pass",
+      "geo_id": "1500000US060590524291"
+    },
+    {
+      "check": "population",
+      "status": "pass",
+      "geo_id": "1500000US060590524291"
+    },
+    {
+      "check": "income",
+      "status": "pass",
+      "geo_id": "1500000US060590524291"
+    },
+    {
+      "check": "owner_age",
+      "status": "pass",
+      "geo_id": "1500000US060590524291"
+    },
+    {
+      "check": "renter_age",
+      "status": "pass",
+      "geo_id": "1500000US060590524291"
+    },
+    {
+      "check": "cross_table_HH_total",
+      "status": "pass",
+      "geo_id": "1500000US060590524291"
+    },
+    {
+      "check": "tenure",
+      "status": "pass",
+      "geo_id": "1500000US060590524292"
+    },
+    {
+      "check": "children",
+      "status": "pass",
+      "geo_id": "1500000US060590524292"
+    },
+    {
+      "check": "family",
+      "status": "pass",
+      "geo_id": "1500000US060590524292"
+    },
+    {
+      "check": "population",
+      "status": "pass",
+      "geo_id": "1500000US060590524292"
+    },
+    {
+      "check": "income",
+      "status": "pass",
+      "geo_id": "1500000US060590524292"
+    },
+    {
+      "check": "owner_age",
+      "status": "pass",
+      "geo_id": "1500000US060590524292"
+    },
+    {
+      "check": "renter_age",
+      "status": "pass",
+      "geo_id": "1500000US060590524292"
+    },
+    {
+      "check": "cross_table_HH_total",
+      "status": "pass",
+      "geo_id": "1500000US060590524292"
+    },
+    {
+      "check": "tenure",
+      "status": "pass",
+      "geo_id": "1500000US060590524293"
+    },
+    {
+      "check": "children",
+      "status": "pass",
+      "geo_id": "1500000US060590524293"
+    },
+    {
+      "check": "family",
+      "status": "pass",
+      "geo_id": "1500000US060590524293"
+    },
+    {
+      "check": "population",
+      "status": "pass",
+      "geo_id": "1500000US060590524293"
+    },
+    {
+      "check": "income",
+      "status": "pass",
+      "geo_id": "1500000US060590524293"
+    },
+    {
+      "check": "owner_age",
+      "status": "pass",
+      "geo_id": "1500000US060590524293"
+    },
+    {
+      "check": "renter_age",
+      "status": "pass",
+      "geo_id": "1500000US060590524293"
+    },
+    {
+      "check": "cross_table_HH_total",
+      "status": "pass",
+      "geo_id": "1500000US060590524293"
+    },
+    {
+      "check": "tenure",
+      "status": "pass",
+      "geo_id": "1500000US060590524294"
+    },
+    {
+      "check": "children",
+      "status": "pass",
+      "geo_id": "1500000US060590524294"
+    },
+    {
+      "check": "family",
+      "status": "pass",
+      "geo_id": "1500000US060590524294"
+    },
+    {
+      "check": "population",
+      "status": "pass",
+      "geo_id": "1500000US060590524294"
+    },
+    {
+      "check": "income",
+      "status": "pass",
+      "geo_id": "1500000US060590524294"
+    },
+    {
+      "check": "owner_age",
+      "status": "pass",
+      "geo_id": "1500000US060590524294"
+    },
+    {
+      "check": "renter_age",
+      "status": "pass",
+      "geo_id": "1500000US060590524294"
+    },
+    {
+      "check": "cross_table_HH_total",
+      "status": "pass",
+      "geo_id": "1500000US060590524294"
+    },
+    {
+      "check": "tenure",
+      "status": "pass",
+      "geo_id": "1500000US060590524371"
+    },
+    {
+      "check": "children",
+      "status": "pass",
+      "geo_id": "1500000US060590524371"
+    },
+    {
+      "check": "family",
+      "status": "pass",
+      "geo_id": "1500000US060590524371"
+    },
+    {
+      "check": "population",
+      "status": "pass",
+      "geo_id": "1500000US060590524371"
+    },
+    {
+      "check": "income",
+      "status": "pass",
+      "geo_id": "1500000US060590524371"
+    },
+    {
+      "check": "owner_age",
+      "status": "pass",
+      "geo_id": "1500000US060590524371"
+    },
+    {
+      "check": "renter_age",
+      "status": "pass",
+      "geo_id": "1500000US060590524371"
+    },
+    {
+      "check": "cross_table_HH_total",
+      "status": "pass",
+      "geo_id": "1500000US060590524371"
+    },
+    {
+      "check": "tenure",
+      "status": "pass",
+      "geo_id": "1500000US060590524372"
+    },
+    {
+      "check": "children",
+      "status": "pass",
+      "geo_id": "1500000US060590524372"
+    },
+    {
+      "check": "family",
+      "status": "pass",
+      "geo_id": "1500000US060590524372"
+    },
+    {
+      "check": "population",
+      "status": "pass",
+      "geo_id": "1500000US060590524372"
+    },
+    {
+      "check": "income",
+      "status": "pass",
+      "geo_id": "1500000US060590524372"
+    },
+    {
+      "check": "owner_age",
+      "status": "pass",
+      "geo_id": "1500000US060590524372"
+    },
+    {
+      "check": "renter_age",
+      "status": "pass",
+      "geo_id": "1500000US060590524372"
+    },
+    {
+      "check": "cross_table_HH_total",
+      "status": "pass",
+      "geo_id": "1500000US060590524372"
+    },
+    {
+      "check": "tenure",
+      "status": "pass",
+      "geo_id": "1500000US060590524373"
+    },
+    {
+      "check": "children",
+      "status": "pass",
+      "geo_id": "1500000US060590524373"
+    },
+    {
+      "check": "family",
+      "status": "pass",
+      "geo_id": "1500000US060590524373"
+    },
+    {
+      "check": "population",
+      "status": "pass",
+      "geo_id": "1500000US060590524373"
+    },
+    {
+      "check": "income",
+      "status": "pass",
+      "geo_id": "1500000US060590524373"
+    },
+    {
+      "check": "owner_age",
+      "status": "pass",
+      "geo_id": "1500000US060590524373"
+    },
+    {
+      "check": "renter_age",
+      "status": "pass",
+      "geo_id": "1500000US060590524373"
+    },
+    {
+      "check": "cross_table_HH_total",
+      "status": "pass",
+      "geo_id": "1500000US060590524373"
+    },
+    {
+      "check": "tenure",
+      "status": "pass",
+      "geo_id": "1500000US060590524374"
+    },
+    {
+      "check": "children",
+      "status": "pass",
+      "geo_id": "1500000US060590524374"
+    },
+    {
+      "check": "family",
+      "status": "pass",
+      "geo_id": "1500000US060590524374"
+    },
+    {
+      "check": "population",
+      "status": "pass",
+      "geo_id": "1500000US060590524374"
+    },
+    {
+      "check": "income",
+      "status": "pass",
+      "geo_id": "1500000US060590524374"
+    },
+    {
+      "check": "owner_age",
+      "status": "pass",
+      "geo_id": "1500000US060590524374"
+    },
+    {
+      "check": "renter_age",
+      "status": "pass",
+      "geo_id": "1500000US060590524374"
+    },
+    {
+      "check": "cross_table_HH_total",
+      "status": "pass",
+      "geo_id": "1500000US060590524374"
+    },
+    {
+      "check": "tenure",
+      "status": "pass",
+      "geo_id": "1500000US060590524375"
+    },
+    {
+      "check": "children",
+      "status": "pass",
+      "geo_id": "1500000US060590524375"
+    },
+    {
+      "check": "family",
+      "status": "pass",
+      "geo_id": "1500000US060590524375"
+    },
+    {
+      "check": "population",
+      "status": "pass",
+      "geo_id": "1500000US060590524375"
+    },
+    {
+      "check": "income",
+      "status": "pass",
+      "geo_id": "1500000US060590524375"
+    },
+    {
+      "check": "owner_age",
+      "status": "pass",
+      "geo_id": "1500000US060590524375"
+    },
+    {
+      "check": "renter_age",
+      "status": "pass",
+      "geo_id": "1500000US060590524375"
+    },
+    {
+      "check": "cross_table_HH_total",
+      "status": "pass",
+      "geo_id": "1500000US060590524375"
+    },
+    {
+      "check": "tenure",
+      "status": "pass",
+      "geo_id": "CUSTOM_SG_BG123"
+    },
+    {
+      "check": "children",
+      "status": "pass",
+      "geo_id": "CUSTOM_SG_BG123"
+    },
+    {
+      "check": "family",
+      "status": "pass",
+      "geo_id": "CUSTOM_SG_BG123"
+    },
+    {
+      "check": "population",
+      "status": "pass",
+      "geo_id": "CUSTOM_SG_BG123"
+    },
+    {
+      "check": "income",
+      "status": "pass",
+      "geo_id": "CUSTOM_SG_BG123"
+    },
+    {
+      "check": "owner_age",
+      "status": "pass",
+      "geo_id": "CUSTOM_SG_BG123"
+    },
+    {
+      "check": "renter_age",
+      "status": "pass",
+      "geo_id": "CUSTOM_SG_BG123"
+    },
+    {
+      "check": "cross_table_HH_total",
+      "status": "pass",
+      "geo_id": "CUSTOM_SG_BG123"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B25003_001"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B25003_002"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B25003_003"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B25003_001"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B25003_002"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B25003_003"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B11005_001"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B11005_002"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B11005_003"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B11005_004"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B11005_005"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B11005_006"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B11005_007"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B11005_008"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B11005_009"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B11005_010"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B11005_011"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B11005_012"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B11005_013"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B11005_014"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B11005_015"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B11005_016"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B11005_017"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B11005_018"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B11005_019"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B11005_001"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B11005_002"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B11005_003"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B11005_004"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B11005_005"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B11005_006"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B11005_007"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B11005_008"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B11005_009"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B11005_010"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B11005_011"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B11005_012"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B11005_013"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B11005_014"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B11005_015"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B11005_016"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B11005_017"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B11005_018"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B11005_019"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B19001_001"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B19001_002"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B19001_003"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B19001_004"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B19001_005"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B19001_006"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B19001_007"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B19001_008"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B19001_009"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B19001_010"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B19001_011"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B19001_012"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B19001_013"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B19001_014"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B19001_015"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B19001_016"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052429",
+      "variable": "B19001_017"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B19001_001"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B19001_002"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B19001_003"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B19001_004"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B19001_005"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B19001_006"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B19001_007"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B19001_008"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B19001_009"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B19001_010"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B19001_011"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B19001_012"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B19001_013"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B19001_014"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B19001_015"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B19001_016"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1400000US06059052437",
+      "variable": "B19001_017"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524291",
+      "variable": "B25003_001"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524291",
+      "variable": "B25003_002"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524291",
+      "variable": "B25003_003"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524292",
+      "variable": "B25003_001"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524292",
+      "variable": "B25003_002"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524292",
+      "variable": "B25003_003"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524293",
+      "variable": "B25003_001"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524293",
+      "variable": "B25003_002"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524293",
+      "variable": "B25003_003"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524294",
+      "variable": "B25003_001"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524294",
+      "variable": "B25003_002"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524294",
+      "variable": "B25003_003"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524371",
+      "variable": "B25003_001"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524371",
+      "variable": "B25003_002"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524371",
+      "variable": "B25003_003"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524372",
+      "variable": "B25003_001"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524372",
+      "variable": "B25003_002"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524372",
+      "variable": "B25003_003"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524373",
+      "variable": "B25003_001"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524373",
+      "variable": "B25003_002"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524373",
+      "variable": "B25003_003"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524374",
+      "variable": "B25003_001"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524374",
+      "variable": "B25003_002"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524374",
+      "variable": "B25003_003"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524375",
+      "variable": "B25003_001"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524375",
+      "variable": "B25003_002"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524375",
+      "variable": "B25003_003"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524291",
+      "variable": "B11005_001"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524291",
+      "variable": "B11005_002"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524291",
+      "variable": "B11005_003"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524291",
+      "variable": "B11005_004"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524291",
+      "variable": "B11005_005"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524291",
+      "variable": "B11005_006"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524291",
+      "variable": "B11005_007"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524291",
+      "variable": "B11005_008"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524291",
+      "variable": "B11005_009"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524291",
+      "variable": "B11005_010"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524291",
+      "variable": "B11005_011"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524291",
+      "variable": "B11005_012"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524291",
+      "variable": "B11005_013"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524291",
+      "variable": "B11005_014"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524291",
+      "variable": "B11005_015"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524291",
+      "variable": "B11005_016"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524291",
+      "variable": "B11005_017"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524291",
+      "variable": "B11005_018"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524291",
+      "variable": "B11005_019"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524292",
+      "variable": "B11005_001"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524292",
+      "variable": "B11005_002"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524292",
+      "variable": "B11005_003"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524292",
+      "variable": "B11005_004"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524292",
+      "variable": "B11005_005"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524292",
+      "variable": "B11005_006"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524292",
+      "variable": "B11005_007"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524292",
+      "variable": "B11005_008"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524292",
+      "variable": "B11005_009"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524292",
+      "variable": "B11005_010"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524292",
+      "variable": "B11005_011"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524292",
+      "variable": "B11005_012"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524292",
+      "variable": "B11005_013"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524292",
+      "variable": "B11005_014"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524292",
+      "variable": "B11005_015"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524292",
+      "variable": "B11005_016"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524292",
+      "variable": "B11005_017"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524292",
+      "variable": "B11005_018"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524292",
+      "variable": "B11005_019"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524293",
+      "variable": "B11005_001"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524293",
+      "variable": "B11005_002"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524293",
+      "variable": "B11005_003"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524293",
+      "variable": "B11005_004"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524293",
+      "variable": "B11005_005"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524293",
+      "variable": "B11005_006"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524293",
+      "variable": "B11005_007"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524293",
+      "variable": "B11005_008"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524293",
+      "variable": "B11005_009"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524293",
+      "variable": "B11005_010"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524293",
+      "variable": "B11005_011"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524293",
+      "variable": "B11005_012"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524293",
+      "variable": "B11005_013"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524293",
+      "variable": "B11005_014"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524293",
+      "variable": "B11005_015"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524293",
+      "variable": "B11005_016"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524293",
+      "variable": "B11005_017"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524293",
+      "variable": "B11005_018"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524293",
+      "variable": "B11005_019"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524294",
+      "variable": "B11005_001"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524294",
+      "variable": "B11005_002"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524294",
+      "variable": "B11005_003"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524294",
+      "variable": "B11005_004"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524294",
+      "variable": "B11005_005"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524294",
+      "variable": "B11005_006"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524294",
+      "variable": "B11005_007"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524294",
+      "variable": "B11005_008"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524294",
+      "variable": "B11005_009"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524294",
+      "variable": "B11005_010"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524294",
+      "variable": "B11005_011"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524294",
+      "variable": "B11005_012"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524294",
+      "variable": "B11005_013"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524294",
+      "variable": "B11005_014"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524294",
+      "variable": "B11005_015"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524294",
+      "variable": "B11005_016"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524294",
+      "variable": "B11005_017"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524294",
+      "variable": "B11005_018"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524294",
+      "variable": "B11005_019"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524371",
+      "variable": "B11005_001"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524371",
+      "variable": "B11005_002"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524371",
+      "variable": "B11005_003"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524371",
+      "variable": "B11005_004"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524371",
+      "variable": "B11005_005"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524371",
+      "variable": "B11005_006"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524371",
+      "variable": "B11005_007"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524371",
+      "variable": "B11005_008"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524371",
+      "variable": "B11005_009"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524371",
+      "variable": "B11005_010"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524371",
+      "variable": "B11005_011"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524371",
+      "variable": "B11005_012"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524371",
+      "variable": "B11005_013"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524371",
+      "variable": "B11005_014"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524371",
+      "variable": "B11005_015"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524371",
+      "variable": "B11005_016"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524371",
+      "variable": "B11005_017"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524371",
+      "variable": "B11005_018"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524371",
+      "variable": "B11005_019"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524372",
+      "variable": "B11005_001"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524372",
+      "variable": "B11005_002"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524372",
+      "variable": "B11005_003"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524372",
+      "variable": "B11005_004"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524372",
+      "variable": "B11005_005"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524372",
+      "variable": "B11005_006"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524372",
+      "variable": "B11005_007"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524372",
+      "variable": "B11005_008"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524372",
+      "variable": "B11005_009"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524372",
+      "variable": "B11005_010"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524372",
+      "variable": "B11005_011"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524372",
+      "variable": "B11005_012"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524372",
+      "variable": "B11005_013"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524372",
+      "variable": "B11005_014"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524372",
+      "variable": "B11005_015"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524372",
+      "variable": "B11005_016"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524372",
+      "variable": "B11005_017"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524372",
+      "variable": "B11005_018"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524372",
+      "variable": "B11005_019"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524373",
+      "variable": "B11005_001"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524373",
+      "variable": "B11005_002"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524373",
+      "variable": "B11005_003"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524373",
+      "variable": "B11005_004"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524373",
+      "variable": "B11005_005"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524373",
+      "variable": "B11005_006"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524373",
+      "variable": "B11005_007"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524373",
+      "variable": "B11005_008"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524373",
+      "variable": "B11005_009"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524373",
+      "variable": "B11005_010"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524373",
+      "variable": "B11005_011"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524373",
+      "variable": "B11005_012"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524373",
+      "variable": "B11005_013"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524373",
+      "variable": "B11005_014"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524373",
+      "variable": "B11005_015"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524373",
+      "variable": "B11005_016"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524373",
+      "variable": "B11005_017"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524373",
+      "variable": "B11005_018"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524373",
+      "variable": "B11005_019"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524374",
+      "variable": "B11005_001"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524374",
+      "variable": "B11005_002"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524374",
+      "variable": "B11005_003"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524374",
+      "variable": "B11005_004"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524374",
+      "variable": "B11005_005"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524374",
+      "variable": "B11005_006"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524374",
+      "variable": "B11005_007"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524374",
+      "variable": "B11005_008"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524374",
+      "variable": "B11005_009"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524374",
+      "variable": "B11005_010"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524374",
+      "variable": "B11005_011"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524374",
+      "variable": "B11005_012"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524374",
+      "variable": "B11005_013"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524374",
+      "variable": "B11005_014"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524374",
+      "variable": "B11005_015"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524374",
+      "variable": "B11005_016"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524374",
+      "variable": "B11005_017"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524374",
+      "variable": "B11005_018"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524374",
+      "variable": "B11005_019"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524375",
+      "variable": "B11005_001"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524375",
+      "variable": "B11005_002"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524375",
+      "variable": "B11005_003"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524375",
+      "variable": "B11005_004"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524375",
+      "variable": "B11005_005"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524375",
+      "variable": "B11005_006"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524375",
+      "variable": "B11005_007"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524375",
+      "variable": "B11005_008"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524375",
+      "variable": "B11005_009"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524375",
+      "variable": "B11005_010"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524375",
+      "variable": "B11005_011"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524375",
+      "variable": "B11005_012"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524375",
+      "variable": "B11005_013"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524375",
+      "variable": "B11005_014"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524375",
+      "variable": "B11005_015"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524375",
+      "variable": "B11005_016"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524375",
+      "variable": "B11005_017"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524375",
+      "variable": "B11005_018"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524375",
+      "variable": "B11005_019"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524291",
+      "variable": "B19001_001"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524291",
+      "variable": "B19001_002"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524291",
+      "variable": "B19001_003"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524291",
+      "variable": "B19001_004"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524291",
+      "variable": "B19001_005"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524291",
+      "variable": "B19001_006"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524291",
+      "variable": "B19001_007"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524291",
+      "variable": "B19001_008"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524291",
+      "variable": "B19001_009"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524291",
+      "variable": "B19001_010"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524291",
+      "variable": "B19001_011"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524291",
+      "variable": "B19001_012"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524291",
+      "variable": "B19001_013"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524291",
+      "variable": "B19001_014"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524291",
+      "variable": "B19001_015"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524291",
+      "variable": "B19001_016"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524291",
+      "variable": "B19001_017"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524292",
+      "variable": "B19001_001"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524292",
+      "variable": "B19001_002"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524292",
+      "variable": "B19001_003"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524292",
+      "variable": "B19001_004"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524292",
+      "variable": "B19001_005"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524292",
+      "variable": "B19001_006"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524292",
+      "variable": "B19001_007"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524292",
+      "variable": "B19001_008"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524292",
+      "variable": "B19001_009"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524292",
+      "variable": "B19001_010"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524292",
+      "variable": "B19001_011"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524292",
+      "variable": "B19001_012"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524292",
+      "variable": "B19001_013"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524292",
+      "variable": "B19001_014"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524292",
+      "variable": "B19001_015"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524292",
+      "variable": "B19001_016"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524292",
+      "variable": "B19001_017"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524293",
+      "variable": "B19001_001"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524293",
+      "variable": "B19001_002"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524293",
+      "variable": "B19001_003"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524293",
+      "variable": "B19001_004"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524293",
+      "variable": "B19001_005"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524293",
+      "variable": "B19001_006"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524293",
+      "variable": "B19001_007"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524293",
+      "variable": "B19001_008"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524293",
+      "variable": "B19001_009"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524293",
+      "variable": "B19001_010"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524293",
+      "variable": "B19001_011"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524293",
+      "variable": "B19001_012"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524293",
+      "variable": "B19001_013"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524293",
+      "variable": "B19001_014"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524293",
+      "variable": "B19001_015"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524293",
+      "variable": "B19001_016"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524293",
+      "variable": "B19001_017"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524294",
+      "variable": "B19001_001"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524294",
+      "variable": "B19001_002"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524294",
+      "variable": "B19001_003"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524294",
+      "variable": "B19001_004"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524294",
+      "variable": "B19001_005"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524294",
+      "variable": "B19001_006"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524294",
+      "variable": "B19001_007"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524294",
+      "variable": "B19001_008"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524294",
+      "variable": "B19001_009"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524294",
+      "variable": "B19001_010"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524294",
+      "variable": "B19001_011"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524294",
+      "variable": "B19001_012"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524294",
+      "variable": "B19001_013"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524294",
+      "variable": "B19001_014"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524294",
+      "variable": "B19001_015"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524294",
+      "variable": "B19001_016"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524294",
+      "variable": "B19001_017"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524371",
+      "variable": "B19001_001"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524371",
+      "variable": "B19001_002"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524371",
+      "variable": "B19001_003"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524371",
+      "variable": "B19001_004"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524371",
+      "variable": "B19001_005"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524371",
+      "variable": "B19001_006"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524371",
+      "variable": "B19001_007"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524371",
+      "variable": "B19001_008"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524371",
+      "variable": "B19001_009"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524371",
+      "variable": "B19001_010"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524371",
+      "variable": "B19001_011"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524371",
+      "variable": "B19001_012"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524371",
+      "variable": "B19001_013"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524371",
+      "variable": "B19001_014"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524371",
+      "variable": "B19001_015"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524371",
+      "variable": "B19001_016"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524371",
+      "variable": "B19001_017"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524372",
+      "variable": "B19001_001"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524372",
+      "variable": "B19001_002"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524372",
+      "variable": "B19001_003"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524372",
+      "variable": "B19001_004"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524372",
+      "variable": "B19001_005"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524372",
+      "variable": "B19001_006"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524372",
+      "variable": "B19001_007"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524372",
+      "variable": "B19001_008"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524372",
+      "variable": "B19001_009"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524372",
+      "variable": "B19001_010"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524372",
+      "variable": "B19001_011"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524372",
+      "variable": "B19001_012"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524372",
+      "variable": "B19001_013"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524372",
+      "variable": "B19001_014"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524372",
+      "variable": "B19001_015"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524372",
+      "variable": "B19001_016"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524372",
+      "variable": "B19001_017"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524373",
+      "variable": "B19001_001"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524373",
+      "variable": "B19001_002"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524373",
+      "variable": "B19001_003"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524373",
+      "variable": "B19001_004"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524373",
+      "variable": "B19001_005"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524373",
+      "variable": "B19001_006"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524373",
+      "variable": "B19001_007"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524373",
+      "variable": "B19001_008"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524373",
+      "variable": "B19001_009"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524373",
+      "variable": "B19001_010"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524373",
+      "variable": "B19001_011"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524373",
+      "variable": "B19001_012"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524373",
+      "variable": "B19001_013"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524373",
+      "variable": "B19001_014"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524373",
+      "variable": "B19001_015"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524373",
+      "variable": "B19001_016"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524373",
+      "variable": "B19001_017"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524374",
+      "variable": "B19001_001"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524374",
+      "variable": "B19001_002"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524374",
+      "variable": "B19001_003"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524374",
+      "variable": "B19001_004"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524374",
+      "variable": "B19001_005"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524374",
+      "variable": "B19001_006"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524374",
+      "variable": "B19001_007"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524374",
+      "variable": "B19001_008"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524374",
+      "variable": "B19001_009"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524374",
+      "variable": "B19001_010"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524374",
+      "variable": "B19001_011"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524374",
+      "variable": "B19001_012"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524374",
+      "variable": "B19001_013"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524374",
+      "variable": "B19001_014"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524374",
+      "variable": "B19001_015"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524374",
+      "variable": "B19001_016"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524374",
+      "variable": "B19001_017"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524375",
+      "variable": "B19001_001"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524375",
+      "variable": "B19001_002"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524375",
+      "variable": "B19001_003"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524375",
+      "variable": "B19001_004"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524375",
+      "variable": "B19001_005"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524375",
+      "variable": "B19001_006"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524375",
+      "variable": "B19001_007"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524375",
+      "variable": "B19001_008"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524375",
+      "variable": "B19001_009"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524375",
+      "variable": "B19001_010"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524375",
+      "variable": "B19001_011"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524375",
+      "variable": "B19001_012"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524375",
+      "variable": "B19001_013"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524375",
+      "variable": "B19001_014"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524375",
+      "variable": "B19001_015"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524375",
+      "variable": "B19001_016"
+    },
+    {
+      "check": "VRE_published_E_M_match",
+      "status": "pass",
+      "geo_id": "1500000US060590524375",
+      "variable": "B19001_017"
+    }
+  ],
+  "replicate_nonpositive_denominators": [],
+  "open_ended_cells": [
+    {
+      "geo_id": "1500000US060590524293",
+      "variable_id": "B19013_001",
+      "raw": "250001",
+      "display": "250,000+"
+    },
+    {
+      "geo_id": "1400000US06059052429",
+      "variable_id": "B25119_002",
+      "raw": "250001",
+      "display": "250,000+"
+    }
+  ],
+  "high_uncertainty_metric_count": 55,
+  "table_coverage": [
+    {
+      "table_id": "B01001",
+      "available_geographies": 11,
+      "missing_geographies": "",
+      "status": "complete"
+    },
+    {
+      "table_id": "B01002",
+      "available_geographies": 11,
+      "missing_geographies": "",
+      "status": "complete"
+    },
+    {
+      "table_id": "B11001",
+      "available_geographies": 11,
+      "missing_geographies": "",
+      "status": "complete"
+    },
+    {
+      "table_id": "B11005",
+      "available_geographies": 11,
+      "missing_geographies": "",
+      "status": "complete"
+    },
+    {
+      "table_id": "B25003",
+      "available_geographies": 11,
+      "missing_geographies": "",
+      "status": "complete"
+    },
+    {
+      "table_id": "B25007",
+      "available_geographies": 11,
+      "missing_geographies": "",
+      "status": "complete"
+    },
+    {
+      "table_id": "B25115",
+      "available_geographies": 2,
+      "missing_geographies": "1500000US060590524291;1500000US060590524292;1500000US060590524293;1500000US060590524294;1500000US060590524371;1500000US060590524372;1500000US060590524373;1500000US060590524374;1500000US060590524375",
+      "status": "tract_only_no_BG_rows_in_official_file"
+    },
+    {
+      "table_id": "B19001",
+      "available_geographies": 11,
+      "missing_geographies": "",
+      "status": "complete"
+    },
+    {
+      "table_id": "B19013",
+      "available_geographies": 11,
+      "missing_geographies": "",
+      "status": "complete"
+    },
+    {
+      "table_id": "B25118",
+      "available_geographies": 2,
+      "missing_geographies": "1500000US060590524291;1500000US060590524292;1500000US060590524293;1500000US060590524294;1500000US060590524371;1500000US060590524372;1500000US060590524373;1500000US060590524374;1500000US060590524375",
+      "status": "tract_only_no_BG_rows_in_official_file"
+    },
+    {
+      "table_id": "B25119",
+      "available_geographies": 2,
+      "missing_geographies": "1500000US060590524291;1500000US060590524292;1500000US060590524293;1500000US060590524294;1500000US060590524371;1500000US060590524372;1500000US060590524373;1500000US060590524374;1500000US060590524375",
+      "status": "tract_only_no_BG_rows_in_official_file"
+    }
+  ],
+  "limitation": "Same ACS survey across formats; no exact Reserve estimates; no spatial allocation, causal inference or independent model review"
+}

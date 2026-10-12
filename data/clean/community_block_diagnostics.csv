@@ -1,0 +1,976 @@
+community,block_geoid,bg_geoid,census2020_population,census2020_housing_units,block_area_fraction_in_mask,internal_point_in_mask,area_majority_in_mask,inside_with_10m_tolerance,allocation_status,source_ids
+Stonegate,060590524292000,060590524292,403,130,0.8243443581651355,True,True,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375011,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375030,060590524375,591,211,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375050,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524292007,060590524292,26,10,1.0,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524292002,060590524292,52,9,1.0,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524292019,060590524292,30,10,1.0,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524292003,060590524292,27,6,1.0000000000000002,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524292020,060590524292,20,6,1.0,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375048,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524292004,060590524292,0,0,1.0000000000000002,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375008,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524372007,060590524372,351,118,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524371004,060590524371,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524373005,060590524373,17,2,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524371016,060590524371,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524373019,060590524373,24,6,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375009,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375051,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375005,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375004,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524373008,060590524373,17,4,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524374002,060590524374,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375045,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524373022,060590524373,35,11,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524293002,060590524293,30,10,1.0000000000000002,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375029,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524292017,060590524292,382,114,0.9002111181801676,True,True,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524371007,060590524371,15,6,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375013,060590524375,177,92,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375028,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375012,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375021,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375010,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524292013,060590524292,60,12,0.9999999999999999,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524373015,060590524373,58,13,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524373021,060590524373,23,6,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375036,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375003,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524291000,060590524291,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375015,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375049,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375053,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375014,060590524375,355,193,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375037,060590524375,14,3,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375024,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524294011,060590524294,404,228,0.9659915528410724,True,True,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524294007,060590524294,43,12,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524294008,060590524294,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524292016,060590524292,37,10,0.9999999999999998,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524293011,060590524293,96,26,1.0000000000000002,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524293000,060590524293,676,215,0.6767414468034172,True,True,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375059,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375055,060590524375,18,7,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375056,060590524375,13,8,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375057,060590524375,8,4,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375017,060590524375,34,13,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375033,060590524375,28,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375041,060590524375,44,15,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524371011,060590524371,67,18,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524372003,060590524372,54,17,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375038,060590524375,16,3,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375031,060590524375,29,8,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524371010,060590524371,171,58,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524371001,060590524371,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524371002,060590524371,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524292010,060590524292,54,12,1.0,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375006,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375007,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375027,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524294001,060590524294,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524372010,060590524372,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375019,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375022,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375026,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375058,060590524375,17,3,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524374001,060590524374,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375046,060590524375,10,3,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524293001,060590524293,40,10,1.0,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524293007,060590524293,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524371014,060590524371,133,40,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524373001,060590524373,97,34,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524292009,060590524292,32,10,1.0,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375023,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375025,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524372011,060590524372,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375052,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524373020,060590524373,18,3,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524373026,060590524373,32,8,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524373018,060590524373,24,7,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524372005,060590524372,47,22,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524372006,060590524372,55,19,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524372002,060590524372,71,19,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524372001,060590524372,60,17,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524371008,060590524371,50,12,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524371009,060590524371,39,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375042,060590524375,54,19,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524373024,060590524373,37,15,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524371013,060590524371,13,8,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524292005,060590524292,62,14,1.0000000000000002,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524292008,060590524292,41,10,1.0,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524292006,060590524292,47,13,1.0000000000000002,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524292001,060590524292,38,10,1.0000000000000002,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524293003,060590524293,43,6,1.0000000000000002,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524294004,060590524294,46,18,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524294006,060590524294,74,19,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524294003,060590524294,54,16,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524372009,060590524372,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524373009,060590524373,73,23,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524373007,060590524373,46,15,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524373023,060590524373,41,15,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375039,060590524375,24,6,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375018,060590524375,285,117,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524293004,060590524293,42,8,1.0,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524294005,060590524294,54,13,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524294010,060590524294,592,299,0.856558649910711,True,True,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375002,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375047,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524372012,060590524372,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524294000,060590524294,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375044,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524373014,060590524373,88,23,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524373016,060590524373,62,14,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524373013,060590524373,39,13,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524373006,060590524373,9,4,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375035,060590524375,324,118,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375060,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524373010,060590524373,52,14,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524373011,060590524373,153,50,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524373017,060590524373,78,23,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375001,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375054,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524292024,060590524292,231,107,1.0000000000000004,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524371012,060590524371,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524372000,060590524372,150,58,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524372008,060590524372,129,53,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524372004,060590524372,382,143,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524371000,060590524371,459,145,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524371005,060590524371,151,51,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524371006,060590524371,34,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524373025,060590524373,147,38,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524373012,060590524373,333,103,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524373004,060590524373,92,26,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524291012,060590524291,34,12,1.0000000000000002,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524291003,060590524291,60,12,1.0,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524291005,060590524291,79,34,0.9999999999999998,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524291006,060590524291,25,8,1.0,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524291001,060590524291,1454,530,0.7586738226193875,True,True,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524291019,060590524291,325,138,0.9999999999999999,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524291010,060590524291,53,16,1.0000000000000002,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524291011,060590524291,55,15,0.9999999999999998,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524293009,060590524293,42,15,0.9303581850955835,True,True,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524373003,060590524373,444,137,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524373002,060590524373,18,7,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524373000,060590524373,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524374000,060590524374,1024,499,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375034,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375032,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524294009,060590524294,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524294002,060590524294,407,161,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524292021,060590524292,188,60,1.0,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524292014,060590524292,34,10,1.0000000000000002,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524292011,060590524292,245,71,1.0000000000000002,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524292012,060590524292,45,13,0.9999999999999998,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524292015,060590524292,33,10,1.0,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524293010,060590524293,46,14,0.9999999999999998,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524293006,060590524293,77,16,0.9999999999999998,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524291014,060590524291,307,93,0.9999999999999998,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524293008,060590524293,50,14,0.9999999999999998,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524293012,060590524293,63,14,1.0000000000000002,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524293013,060590524293,0,0,0.9999999999999998,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524291020,060590524291,73,26,0.9999999999999998,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524291013,060590524291,27,10,1.0,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524291016,060590524291,43,12,0.9999999999999999,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524291015,060590524291,46,14,0.9999999999999999,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524291009,060590524291,49,12,0.9999999999999998,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524291004,060590524291,26,8,0.9999999999999999,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524291002,060590524291,64,18,1.0,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524291007,060590524291,56,18,1.0000000000000002,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524291017,060590524291,62,14,1.0000000000000002,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524291008,060590524291,143,45,1.0,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375016,060590524375,43,8,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375043,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524371003,060590524371,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524371015,060590524371,43,11,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375040,060590524375,40,15,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375020,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524293005,060590524293,23,8,0.9999999999999999,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524291018,060590524291,0,0,0.1991577260131229,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524375000,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524371017,060590524371,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524292022,060590524292,154,52,1.0000000000000004,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524292025,060590524292,989,356,0.8801696528264932,True,True,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524292023,060590524292,240,82,1.0000000000000002,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate,060590524292018,060590524292,171,60,1.0000000000000002,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524292000,060590524292,403,130,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375011,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375030,060590524375,591,211,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375050,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524292007,060590524292,26,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524292002,060590524292,52,9,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524292019,060590524292,30,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524292003,060590524292,27,6,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524292020,060590524292,20,6,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375048,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524292004,060590524292,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375008,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524372007,060590524372,351,118,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524371004,060590524371,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524373005,060590524373,17,2,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524371016,060590524371,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524373019,060590524373,24,6,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375009,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375051,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375005,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375004,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524373008,060590524373,17,4,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524374002,060590524374,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375045,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524373022,060590524373,35,11,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524293002,060590524293,30,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375029,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524292017,060590524292,382,114,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524371007,060590524371,15,6,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375013,060590524375,177,92,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375028,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375012,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375021,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375010,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524292013,060590524292,60,12,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524373015,060590524373,58,13,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524373021,060590524373,23,6,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375036,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375003,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524291000,060590524291,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375015,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375049,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375053,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375014,060590524375,355,193,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375037,060590524375,14,3,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375024,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524294011,060590524294,404,228,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524294007,060590524294,43,12,0.9999999999999998,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524294008,060590524294,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524292016,060590524292,37,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524293011,060590524293,96,26,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524293000,060590524293,676,215,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375059,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375055,060590524375,18,7,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375056,060590524375,13,8,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375057,060590524375,8,4,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375017,060590524375,34,13,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375033,060590524375,28,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375041,060590524375,44,15,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524371011,060590524371,67,18,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524372003,060590524372,54,17,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375038,060590524375,16,3,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375031,060590524375,29,8,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524371010,060590524371,171,58,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524371001,060590524371,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524371002,060590524371,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524292010,060590524292,54,12,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375006,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375007,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375027,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524294001,060590524294,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524372010,060590524372,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375019,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375022,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375026,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375058,060590524375,17,3,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524374001,060590524374,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375046,060590524375,10,3,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524293001,060590524293,40,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524293007,060590524293,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524371014,060590524371,133,40,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524373001,060590524373,97,34,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524292009,060590524292,32,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375023,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375025,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524372011,060590524372,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375052,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524373020,060590524373,18,3,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524373026,060590524373,32,8,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524373018,060590524373,24,7,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524372005,060590524372,47,22,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524372006,060590524372,55,19,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524372002,060590524372,71,19,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524372001,060590524372,60,17,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524371008,060590524371,50,12,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524371009,060590524371,39,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375042,060590524375,54,19,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524373024,060590524373,37,15,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524371013,060590524371,13,8,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524292005,060590524292,62,14,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524292008,060590524292,41,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524292006,060590524292,47,13,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524292001,060590524292,38,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524293003,060590524293,43,6,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524294004,060590524294,46,18,0.9999999999999999,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524294006,060590524294,74,19,0.9999999999999997,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524294003,060590524294,54,16,0.9999999999999999,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524372009,060590524372,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524373009,060590524373,73,23,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524373007,060590524373,46,15,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524373023,060590524373,41,15,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375039,060590524375,24,6,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375018,060590524375,285,117,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524293004,060590524293,42,8,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524294005,060590524294,54,13,0.9999999999999997,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524294010,060590524294,592,299,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375002,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375047,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524372012,060590524372,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524294000,060590524294,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375044,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524373014,060590524373,88,23,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524373016,060590524373,62,14,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524373013,060590524373,39,13,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524373006,060590524373,9,4,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375035,060590524375,324,118,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375060,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524373010,060590524373,52,14,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524373011,060590524373,153,50,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524373017,060590524373,78,23,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375001,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375054,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524292024,060590524292,231,107,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524371012,060590524371,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524372000,060590524372,150,58,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524372008,060590524372,129,53,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524372004,060590524372,382,143,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524371000,060590524371,459,145,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524371005,060590524371,151,51,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524371006,060590524371,34,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524373025,060590524373,147,38,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524373012,060590524373,333,103,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524373004,060590524373,92,26,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524291012,060590524291,34,12,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524291003,060590524291,60,12,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524291005,060590524291,79,34,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524291006,060590524291,25,8,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524291001,060590524291,1454,530,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524291019,060590524291,325,138,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524291010,060590524291,53,16,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524291011,060590524291,55,15,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524293009,060590524293,42,15,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524373003,060590524373,444,137,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524373002,060590524373,18,7,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524373000,060590524373,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524374000,060590524374,1024,499,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375034,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375032,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524294009,060590524294,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524294002,060590524294,407,161,0.45041550728476804,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524292021,060590524292,188,60,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524292014,060590524292,34,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524292011,060590524292,245,71,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524292012,060590524292,45,13,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524292015,060590524292,33,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524293010,060590524293,46,14,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524293006,060590524293,77,16,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524291014,060590524291,307,93,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524293008,060590524293,50,14,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524293012,060590524293,63,14,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524293013,060590524293,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524291020,060590524291,73,26,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524291013,060590524291,27,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524291016,060590524291,43,12,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524291015,060590524291,46,14,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524291009,060590524291,49,12,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524291004,060590524291,26,8,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524291002,060590524291,64,18,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524291007,060590524291,56,18,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524291017,060590524291,62,14,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524291008,060590524291,143,45,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375016,060590524375,43,8,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375043,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524371003,060590524371,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524371015,060590524371,43,11,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375040,060590524375,40,15,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375020,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524293005,060590524293,23,8,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524291018,060590524291,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524375000,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524371017,060590524371,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524292022,060590524292,154,52,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524292025,060590524292,989,356,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524292023,060590524292,240,82,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Stonegate East,060590524292018,060590524292,171,60,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524292000,060590524292,403,130,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375011,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375030,060590524375,591,211,0.18781559733329226,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375050,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524292007,060590524292,26,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524292002,060590524292,52,9,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524292019,060590524292,30,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524292003,060590524292,27,6,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524292020,060590524292,20,6,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375048,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524292004,060590524292,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375008,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524372007,060590524372,351,118,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524371004,060590524371,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524373005,060590524373,17,2,1.0,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524371016,060590524371,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524373019,060590524373,24,6,1.0000000000000002,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375009,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375051,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375005,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375004,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524373008,060590524373,17,4,0.9999999999999998,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524374002,060590524374,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375045,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524373022,060590524373,35,11,1.0000000000000004,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524293002,060590524293,30,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375029,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524292017,060590524292,382,114,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524371007,060590524371,15,6,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375013,060590524375,177,92,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375028,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375012,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375021,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375010,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524292013,060590524292,60,12,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524373015,060590524373,58,13,0.9999999999999997,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524373021,060590524373,23,6,1.0,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375036,060590524375,0,0,1.0,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375003,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524291000,060590524291,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375015,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375049,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375053,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375014,060590524375,355,193,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375037,060590524375,14,3,0.9999999999999996,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375024,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524294011,060590524294,404,228,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524294007,060590524294,43,12,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524294008,060590524294,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524292016,060590524292,37,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524293011,060590524293,96,26,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524293000,060590524293,676,215,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375059,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375055,060590524375,18,7,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375056,060590524375,13,8,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375057,060590524375,8,4,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375017,060590524375,34,13,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375033,060590524375,28,10,0.9999999999999999,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375041,060590524375,44,15,1.0,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524371011,060590524371,67,18,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524372003,060590524372,54,17,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375038,060590524375,16,3,1.0000000000000002,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375031,060590524375,29,8,1.0000000000000002,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524371010,060590524371,171,58,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524371001,060590524371,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524371002,060590524371,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524292010,060590524292,54,12,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375006,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375007,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375027,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524294001,060590524294,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524372010,060590524372,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375019,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375022,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375026,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375058,060590524375,17,3,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524374001,060590524374,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375046,060590524375,10,3,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524293001,060590524293,40,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524293007,060590524293,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524371014,060590524371,133,40,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524373001,060590524373,97,34,0.5980720953792209,True,True,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524292009,060590524292,32,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375023,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375025,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524372011,060590524372,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375052,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524373020,060590524373,18,3,1.0000000000000002,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524373026,060590524373,32,8,1.0,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524373018,060590524373,24,7,1.0000000000000002,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524372005,060590524372,47,22,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524372006,060590524372,55,19,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524372002,060590524372,71,19,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524372001,060590524372,60,17,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524371008,060590524371,50,12,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524371009,060590524371,39,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375042,060590524375,54,19,1.0,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524373024,060590524373,37,15,1.0,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524371013,060590524371,13,8,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524292005,060590524292,62,14,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524292008,060590524292,41,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524292006,060590524292,47,13,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524292001,060590524292,38,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524293003,060590524293,43,6,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524294004,060590524294,46,18,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524294006,060590524294,74,19,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524294003,060590524294,54,16,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524372009,060590524372,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524373009,060590524373,73,23,1.0000000000000002,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524373007,060590524373,46,15,1.0000000000000002,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524373023,060590524373,41,15,1.0000000000000002,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375039,060590524375,24,6,0.9999999999999998,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375018,060590524375,285,117,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524293004,060590524293,42,8,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524294005,060590524294,54,13,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524294010,060590524294,592,299,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375002,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375047,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524372012,060590524372,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524294000,060590524294,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375044,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524373014,060590524373,88,23,1.0000000000000004,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524373016,060590524373,62,14,1.0,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524373013,060590524373,39,13,1.0000000000000002,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524373006,060590524373,9,4,1.0000000000000002,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375035,060590524375,324,118,0.4311763508512233,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375060,060590524375,0,0,1.0000000000000002,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524373010,060590524373,52,14,1.0,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524373011,060590524373,153,50,1.0000000000000002,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524373017,060590524373,78,23,0.8941316828193455,True,True,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375001,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375054,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524292024,060590524292,231,107,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524371012,060590524371,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524372000,060590524372,150,58,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524372008,060590524372,129,53,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524372004,060590524372,382,143,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524371000,060590524371,459,145,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524371005,060590524371,151,51,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524371006,060590524371,34,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524373025,060590524373,147,38,0.9283795442198051,True,True,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524373012,060590524373,333,103,0.6563389678668289,False,True,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524373004,060590524373,92,26,0.9999999999999998,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524291012,060590524291,34,12,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524291003,060590524291,60,12,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524291005,060590524291,79,34,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524291006,060590524291,25,8,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524291001,060590524291,1454,530,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524291019,060590524291,325,138,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524291010,060590524291,53,16,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524291011,060590524291,55,15,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524293009,060590524293,42,15,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524373003,060590524373,444,137,0.9999999999999996,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524373002,060590524373,18,7,1.0000000000000002,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524373000,060590524373,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524374000,060590524374,1024,499,0.13183672770323046,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375034,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375032,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524294009,060590524294,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524294002,060590524294,407,161,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524292021,060590524292,188,60,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524292014,060590524292,34,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524292011,060590524292,245,71,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524292012,060590524292,45,13,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524292015,060590524292,33,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524293010,060590524293,46,14,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524293006,060590524293,77,16,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524291014,060590524291,307,93,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524293008,060590524293,50,14,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524293012,060590524293,63,14,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524293013,060590524293,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524291020,060590524291,73,26,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524291013,060590524291,27,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524291016,060590524291,43,12,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524291015,060590524291,46,14,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524291009,060590524291,49,12,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524291004,060590524291,26,8,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524291002,060590524291,64,18,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524291007,060590524291,56,18,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524291017,060590524291,62,14,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524291008,060590524291,143,45,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375016,060590524375,43,8,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375043,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524371003,060590524371,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524371015,060590524371,43,11,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375040,060590524375,40,15,0.9999999999999996,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375020,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524293005,060590524293,23,8,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524291018,060590524291,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524375000,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524371017,060590524371,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524292022,060590524292,154,52,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524292025,060590524292,989,356,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524292023,060590524292,240,82,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Groves at Orchard Hills,060590524292018,060590524292,171,60,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524292000,060590524292,403,130,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375011,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375030,060590524375,591,211,2.383066277532125e-05,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375050,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524292007,060590524292,26,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524292002,060590524292,52,9,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524292019,060590524292,30,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524292003,060590524292,27,6,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524292020,060590524292,20,6,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375048,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524292004,060590524292,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375008,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524372007,060590524372,351,118,0.8194668218494844,True,True,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524371004,060590524371,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524373005,060590524373,17,2,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524371016,060590524371,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524373019,060590524373,24,6,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375009,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375051,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375005,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375004,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524373008,060590524373,17,4,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524374002,060590524374,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375045,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524373022,060590524373,35,11,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524293002,060590524293,30,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375029,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524292017,060590524292,382,114,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524371007,060590524371,15,6,1.0,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375013,060590524375,177,92,0.00018899436539099592,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375028,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375012,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375021,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375010,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524292013,060590524292,60,12,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524373015,060590524373,58,13,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524373021,060590524373,23,6,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375036,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375003,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524291000,060590524291,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375015,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375049,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375053,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375014,060590524375,355,193,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375037,060590524375,14,3,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375024,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524294011,060590524294,404,228,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524294007,060590524294,43,12,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524294008,060590524294,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524292016,060590524292,37,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524293011,060590524293,96,26,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524293000,060590524293,676,215,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375059,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375055,060590524375,18,7,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375056,060590524375,13,8,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375057,060590524375,8,4,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375017,060590524375,34,13,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375033,060590524375,28,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375041,060590524375,44,15,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524371011,060590524371,67,18,1.0000000000000002,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524372003,060590524372,54,17,0.9999954123251787,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375038,060590524375,16,3,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375031,060590524375,29,8,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524371010,060590524371,171,58,0.9489719192384006,True,True,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524371001,060590524371,0,0,1.0000000000000002,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524371002,060590524371,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524292010,060590524292,54,12,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375006,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375007,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375027,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524294001,060590524294,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524372010,060590524372,0,0,0.11515386425626017,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375019,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375022,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375026,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375058,060590524375,17,3,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524374001,060590524374,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375046,060590524375,10,3,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524293001,060590524293,40,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524293007,060590524293,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524371014,060590524371,133,40,0.9046902056145658,True,True,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524373001,060590524373,97,34,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524292009,060590524292,32,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375023,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375025,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524372011,060590524372,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375052,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524373020,060590524373,18,3,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524373026,060590524373,32,8,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524373018,060590524373,24,7,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524372005,060590524372,47,22,1.0000000000000004,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524372006,060590524372,55,19,1.0000000000000002,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524372002,060590524372,71,19,0.9999962061340064,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524372001,060590524372,60,17,1.0,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524371008,060590524371,50,12,0.9999999999999998,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524371009,060590524371,39,10,1.0,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375042,060590524375,54,19,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524373024,060590524373,37,15,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524371013,060590524371,13,8,1.0000000000000002,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524292005,060590524292,62,14,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524292008,060590524292,41,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524292006,060590524292,47,13,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524292001,060590524292,38,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524293003,060590524293,43,6,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524294004,060590524294,46,18,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524294006,060590524294,74,19,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524294003,060590524294,54,16,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524372009,060590524372,0,0,0.264269943291605,True,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524373009,060590524373,73,23,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524373007,060590524373,46,15,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524373023,060590524373,41,15,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375039,060590524375,24,6,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375018,060590524375,285,117,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524293004,060590524293,42,8,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524294005,060590524294,54,13,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524294010,060590524294,592,299,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375002,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375047,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524372012,060590524372,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524294000,060590524294,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375044,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524373014,060590524373,88,23,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524373016,060590524373,62,14,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524373013,060590524373,39,13,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524373006,060590524373,9,4,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375035,060590524375,324,118,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375060,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524373010,060590524373,52,14,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524373011,060590524373,153,50,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524373017,060590524373,78,23,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375001,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375054,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524292024,060590524292,231,107,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524371012,060590524371,0,0,0.08678836475662216,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524372000,060590524372,150,58,0.9073101024703845,True,True,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524372008,060590524372,129,53,0.9999972221464946,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524372004,060590524372,382,143,0.9519651713080117,True,True,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524371000,060590524371,459,145,0.9485279565727179,True,True,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524371005,060590524371,151,51,0.9612545578404542,True,True,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524371006,060590524371,34,10,1.0000000000000002,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524373025,060590524373,147,38,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524373012,060590524373,333,103,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524373004,060590524373,92,26,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524291012,060590524291,34,12,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524291003,060590524291,60,12,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524291005,060590524291,79,34,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524291006,060590524291,25,8,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524291001,060590524291,1454,530,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524291019,060590524291,325,138,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524291010,060590524291,53,16,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524291011,060590524291,55,15,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524293009,060590524293,42,15,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524373003,060590524373,444,137,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524373002,060590524373,18,7,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524373000,060590524373,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524374000,060590524374,1024,499,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375034,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375032,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524294009,060590524294,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524294002,060590524294,407,161,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524292021,060590524292,188,60,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524292014,060590524292,34,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524292011,060590524292,245,71,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524292012,060590524292,45,13,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524292015,060590524292,33,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524293010,060590524293,46,14,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524293006,060590524293,77,16,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524291014,060590524291,307,93,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524293008,060590524293,50,14,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524293012,060590524293,63,14,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524293013,060590524293,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524291020,060590524291,73,26,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524291013,060590524291,27,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524291016,060590524291,43,12,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524291015,060590524291,46,14,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524291009,060590524291,49,12,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524291004,060590524291,26,8,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524291002,060590524291,64,18,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524291007,060590524291,56,18,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524291017,060590524291,62,14,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524291008,060590524291,143,45,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375016,060590524375,43,8,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375043,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524371003,060590524371,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524371015,060590524371,43,11,1.0000000000000004,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375040,060590524375,40,15,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375020,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524293005,060590524293,23,8,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524291018,060590524291,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524375000,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524371017,060590524371,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524292022,060590524292,154,52,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524292025,060590524292,989,356,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524292023,060590524292,240,82,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Orchard Hills Village II,060590524292018,060590524292,171,60,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524292000,060590524292,403,130,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375011,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375030,060590524375,591,211,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375050,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524292007,060590524292,26,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524292002,060590524292,52,9,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524292019,060590524292,30,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524292003,060590524292,27,6,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524292020,060590524292,20,6,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375048,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524292004,060590524292,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375008,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524372007,060590524372,351,118,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524371004,060590524371,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524373005,060590524373,17,2,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524371016,060590524371,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524373019,060590524373,24,6,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375009,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375051,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375005,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375004,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524373008,060590524373,17,4,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524374002,060590524374,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375045,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524373022,060590524373,35,11,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524293002,060590524293,30,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375029,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524292017,060590524292,382,114,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524371007,060590524371,15,6,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375013,060590524375,177,92,0.07887827261203378,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375028,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375012,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375021,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375010,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524292013,060590524292,60,12,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524373015,060590524373,58,13,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524373021,060590524373,23,6,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375036,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375003,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524291000,060590524291,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375015,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375049,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375053,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375014,060590524375,355,193,0.9741597866699874,True,True,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375037,060590524375,14,3,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375024,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524294011,060590524294,404,228,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524294007,060590524294,43,12,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524294008,060590524294,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524292016,060590524292,37,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524293011,060590524293,96,26,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524293000,060590524293,676,215,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375059,060590524375,0,0,1.0000000000000004,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375055,060590524375,18,7,0.9999999999999997,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375056,060590524375,13,8,1.0,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375057,060590524375,8,4,1.0,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375017,060590524375,34,13,0.9999999999999998,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375033,060590524375,28,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375041,060590524375,44,15,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524371011,060590524371,67,18,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524372003,060590524372,54,17,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375038,060590524375,16,3,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375031,060590524375,29,8,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524371010,060590524371,171,58,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524371001,060590524371,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524371002,060590524371,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524292010,060590524292,54,12,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375006,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375007,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375027,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524294001,060590524294,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524372010,060590524372,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375019,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375022,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375026,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375058,060590524375,17,3,1.0,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524374001,060590524374,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375046,060590524375,10,3,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524293001,060590524293,40,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524293007,060590524293,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524371014,060590524371,133,40,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524373001,060590524373,97,34,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524292009,060590524292,32,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375023,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375025,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524372011,060590524372,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375052,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524373020,060590524373,18,3,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524373026,060590524373,32,8,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524373018,060590524373,24,7,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524372005,060590524372,47,22,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524372006,060590524372,55,19,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524372002,060590524372,71,19,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524372001,060590524372,60,17,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524371008,060590524371,50,12,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524371009,060590524371,39,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375042,060590524375,54,19,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524373024,060590524373,37,15,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524371013,060590524371,13,8,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524292005,060590524292,62,14,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524292008,060590524292,41,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524292006,060590524292,47,13,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524292001,060590524292,38,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524293003,060590524293,43,6,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524294004,060590524294,46,18,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524294006,060590524294,74,19,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524294003,060590524294,54,16,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524372009,060590524372,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524373009,060590524373,73,23,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524373007,060590524373,46,15,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524373023,060590524373,41,15,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375039,060590524375,24,6,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375018,060590524375,285,117,0.6636001011545788,False,True,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524293004,060590524293,42,8,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524294005,060590524294,54,13,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524294010,060590524294,592,299,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375002,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375047,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524372012,060590524372,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524294000,060590524294,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375044,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524373014,060590524373,88,23,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524373016,060590524373,62,14,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524373013,060590524373,39,13,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524373006,060590524373,9,4,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375035,060590524375,324,118,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375060,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524373010,060590524373,52,14,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524373011,060590524373,153,50,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524373017,060590524373,78,23,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375001,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375054,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524292024,060590524292,231,107,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524371012,060590524371,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524372000,060590524372,150,58,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524372008,060590524372,129,53,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524372004,060590524372,382,143,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524371000,060590524371,459,145,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524371005,060590524371,151,51,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524371006,060590524371,34,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524373025,060590524373,147,38,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524373012,060590524373,333,103,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524373004,060590524373,92,26,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524291012,060590524291,34,12,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524291003,060590524291,60,12,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524291005,060590524291,79,34,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524291006,060590524291,25,8,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524291001,060590524291,1454,530,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524291019,060590524291,325,138,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524291010,060590524291,53,16,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524291011,060590524291,55,15,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524293009,060590524293,42,15,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524373003,060590524373,444,137,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524373002,060590524373,18,7,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524373000,060590524373,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524374000,060590524374,1024,499,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375034,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375032,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524294009,060590524294,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524294002,060590524294,407,161,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524292021,060590524292,188,60,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524292014,060590524292,34,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524292011,060590524292,245,71,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524292012,060590524292,45,13,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524292015,060590524292,33,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524293010,060590524293,46,14,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524293006,060590524293,77,16,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524291014,060590524291,307,93,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524293008,060590524293,50,14,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524293012,060590524293,63,14,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524293013,060590524293,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524291020,060590524291,73,26,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524291013,060590524291,27,10,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524291016,060590524291,43,12,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524291015,060590524291,46,14,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524291009,060590524291,49,12,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524291004,060590524291,26,8,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524291002,060590524291,64,18,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524291007,060590524291,56,18,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524291017,060590524291,62,14,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524291008,060590524291,143,45,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375016,060590524375,43,8,1.0,True,True,True,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375043,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524371003,060590524371,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524371015,060590524371,43,11,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375040,060590524375,40,15,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375020,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524293005,060590524293,23,8,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524291018,060590524291,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524375000,060590524375,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524371017,060590524371,0,0,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524292022,060590524292,154,52,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524292025,060590524292,989,356,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524292023,060590524292,240,82,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101
+Reserve at Orchard Hills,060590524292018,060590524292,171,60,0.0,False,False,False,diagnostic_only;no_ACS_weighting,SRC-097;SRC-101

@@ -1,0 +1,360 @@
+{
+  "status": "pass",
+  "checks": [
+    {
+      "check": "block_sum_equals_2020_tract_HU100",
+      "status": "pass",
+      "geoid": "06059052429",
+      "block_sum": 3354,
+      "tract_published": 3354
+    },
+    {
+      "check": "block_sum_equals_2020_tract_POP100",
+      "status": "pass",
+      "geoid": "06059052429",
+      "block_sum": 9524,
+      "tract_published": 9524
+    },
+    {
+      "check": "block_union_equals_2020_tract",
+      "status": "pass",
+      "geoid": "06059052429",
+      "symmetric_difference_m2": 0.0
+    },
+    {
+      "check": "2020_vs_ACS2024_tract_boundary",
+      "status": "pass",
+      "geoid": "06059052429",
+      "symmetric_difference_m2": 0.0,
+      "relative_difference": 0.0
+    },
+    {
+      "check": "ACS2024_BG_union_equals_tract",
+      "status": "pass",
+      "geoid": "06059052429",
+      "symmetric_difference_m2": 0.0
+    },
+    {
+      "check": "block_sum_equals_2020_tract_HU100",
+      "status": "pass",
+      "geoid": "06059052437",
+      "block_sum": 2804,
+      "tract_published": 2804
+    },
+    {
+      "check": "block_sum_equals_2020_tract_POP100",
+      "status": "pass",
+      "geoid": "06059052437",
+      "block_sum": 7679,
+      "tract_published": 7679
+    },
+    {
+      "check": "block_union_equals_2020_tract",
+      "status": "pass",
+      "geoid": "06059052437",
+      "symmetric_difference_m2": 0.0
+    },
+    {
+      "check": "2020_vs_ACS2024_tract_boundary",
+      "status": "pass",
+      "geoid": "06059052437",
+      "symmetric_difference_m2": 0.0,
+      "relative_difference": 0.0
+    },
+    {
+      "check": "ACS2024_BG_union_equals_tract",
+      "status": "pass",
+      "geoid": "06059052437",
+      "symmetric_difference_m2": 0.0
+    },
+    {
+      "check": "county_tracts_cover_mask",
+      "status": "pass",
+      "community": "Stonegate",
+      "uncovered_m2": -6.984919309616089e-10
+    },
+    {
+      "check": "county_tracts_cover_mask",
+      "status": "pass",
+      "community": "Stonegate East",
+      "uncovered_m2": -1.4551915228366852e-11
+    },
+    {
+      "check": "county_tracts_cover_mask",
+      "status": "pass",
+      "community": "Groves at Orchard Hills",
+      "uncovered_m2": -3.725290298461914e-09
+    },
+    {
+      "check": "county_tracts_cover_mask",
+      "status": "pass",
+      "community": "Orchard Hills Village II",
+      "uncovered_m2": 5.820766091346741e-10
+    },
+    {
+      "check": "county_tracts_cover_mask",
+      "status": "pass",
+      "community": "Reserve at Orchard Hills",
+      "uncovered_m2": 4.656612873077393e-10
+    },
+    {
+      "check": "county_tracts_cover_mask",
+      "status": "pass",
+      "community": "PA1",
+      "uncovered_m2": 2.60770320892334e-08
+    },
+    {
+      "check": "county_tracts_cover_mask",
+      "status": "pass",
+      "community": "PA9",
+      "uncovered_m2": -8.381903171539307e-08
+    },
+    {
+      "check": "UTM_vs_ellipsoidal_area",
+      "status": "pass",
+      "object_id": 114,
+      "relative_difference": 0.0006857068580196937
+    },
+    {
+      "check": "UTM_vs_ellipsoidal_area",
+      "status": "pass",
+      "object_id": 125,
+      "relative_difference": 0.0006850922912290145
+    },
+    {
+      "check": "UTM_vs_ellipsoidal_area",
+      "status": "pass",
+      "object_id": 126,
+      "relative_difference": 0.0006858719299102062
+    },
+    {
+      "check": "UTM_vs_ellipsoidal_area",
+      "status": "pass",
+      "object_id": 144,
+      "relative_difference": 0.0006817604570719327
+    },
+    {
+      "check": "UTM_vs_ellipsoidal_area",
+      "status": "pass",
+      "object_id": 145,
+      "relative_difference": 0.0006845561918130813
+    },
+    {
+      "check": "UTM_vs_ellipsoidal_area",
+      "status": "pass",
+      "object_id": 146,
+      "relative_difference": 0.0006833238759143558
+    },
+    {
+      "check": "UTM_vs_ellipsoidal_area",
+      "status": "pass",
+      "object_id": 147,
+      "relative_difference": 0.0006838747169326987
+    },
+    {
+      "check": "UTM_vs_ellipsoidal_area",
+      "status": "pass",
+      "object_id": 157,
+      "relative_difference": 0.0006812348662232135
+    },
+    {
+      "check": "UTM_vs_ellipsoidal_area",
+      "status": "pass",
+      "object_id": 175,
+      "relative_difference": 0.0006824926852426931
+    },
+    {
+      "check": "UTM_vs_ellipsoidal_area",
+      "status": "pass",
+      "object_id": 176,
+      "relative_difference": 0.0006827971247536638
+    },
+    {
+      "check": "UTM_vs_ellipsoidal_area",
+      "status": "pass",
+      "object_id": 180,
+      "relative_difference": 0.0006811282960273905
+    },
+    {
+      "check": "UTM_vs_ellipsoidal_area",
+      "status": "pass",
+      "object_id": 181,
+      "relative_difference": 0.0006799437211132517
+    },
+    {
+      "check": "UTM_vs_ellipsoidal_area",
+      "status": "pass",
+      "object_id": 213,
+      "relative_difference": 0.0006856018099300147
+    },
+    {
+      "check": "UTM_vs_ellipsoidal_area",
+      "status": "pass",
+      "object_id": 278,
+      "relative_difference": 0.0006840594566712471
+    },
+    {
+      "check": "UTM_vs_ellipsoidal_area",
+      "status": "pass",
+      "object_id": 285,
+      "relative_difference": 0.0006811641290589876
+    },
+    {
+      "check": "UTM_vs_ellipsoidal_area",
+      "status": "pass",
+      "object_id": 336,
+      "relative_difference": 0.0006838300467209132
+    },
+    {
+      "check": "UTM_vs_ellipsoidal_area",
+      "status": "pass",
+      "object_id": 338,
+      "relative_difference": 0.0006784423748241052
+    },
+    {
+      "check": "cross_HOA_overlap_below_10m2_and_0.001pct",
+      "status": "pass",
+      "first": "Stonegate",
+      "second": "Stonegate East",
+      "overlap_m2": 0.0,
+      "note": "Positive seam overlap retained; this is not proof of disjoint legal boundaries"
+    },
+    {
+      "check": "cross_HOA_overlap_below_10m2_and_0.001pct",
+      "status": "pass",
+      "first": "Groves at Orchard Hills",
+      "second": "Stonegate",
+      "overlap_m2": 0.0,
+      "note": "Positive seam overlap retained; this is not proof of disjoint legal boundaries"
+    },
+    {
+      "check": "cross_HOA_overlap_below_10m2_and_0.001pct",
+      "status": "pass",
+      "first": "Groves at Orchard Hills",
+      "second": "Stonegate East",
+      "overlap_m2": 0.0,
+      "note": "Positive seam overlap retained; this is not proof of disjoint legal boundaries"
+    },
+    {
+      "check": "cross_HOA_overlap_below_10m2_and_0.001pct",
+      "status": "pass",
+      "first": "Groves at Orchard Hills",
+      "second": "Orchard Hills Village II",
+      "overlap_m2": 0.0001336629601136896,
+      "note": "Positive seam overlap retained; this is not proof of disjoint legal boundaries"
+    },
+    {
+      "check": "cross_HOA_overlap_below_10m2_and_0.001pct",
+      "status": "pass",
+      "first": "Groves at Orchard Hills",
+      "second": "Reserve at Orchard Hills",
+      "overlap_m2": 0.0,
+      "note": "Positive seam overlap retained; this is not proof of disjoint legal boundaries"
+    },
+    {
+      "check": "cross_HOA_overlap_below_10m2_and_0.001pct",
+      "status": "pass",
+      "first": "Orchard Hills Village II",
+      "second": "Stonegate",
+      "overlap_m2": 0.0,
+      "note": "Positive seam overlap retained; this is not proof of disjoint legal boundaries"
+    },
+    {
+      "check": "cross_HOA_overlap_below_10m2_and_0.001pct",
+      "status": "pass",
+      "first": "Orchard Hills Village II",
+      "second": "Stonegate East",
+      "overlap_m2": 0.0,
+      "note": "Positive seam overlap retained; this is not proof of disjoint legal boundaries"
+    },
+    {
+      "check": "cross_HOA_overlap_below_10m2_and_0.001pct",
+      "status": "pass",
+      "first": "Orchard Hills Village II",
+      "second": "Reserve at Orchard Hills",
+      "overlap_m2": 1.5184298775836875,
+      "note": "Positive seam overlap retained; this is not proof of disjoint legal boundaries"
+    },
+    {
+      "check": "cross_HOA_overlap_below_10m2_and_0.001pct",
+      "status": "pass",
+      "first": "Reserve at Orchard Hills",
+      "second": "Stonegate",
+      "overlap_m2": 0.0,
+      "note": "Positive seam overlap retained; this is not proof of disjoint legal boundaries"
+    },
+    {
+      "check": "cross_HOA_overlap_below_10m2_and_0.001pct",
+      "status": "pass",
+      "first": "Reserve at Orchard Hills",
+      "second": "Stonegate East",
+      "overlap_m2": 0.0,
+      "note": "Positive seam overlap retained; this is not proof of disjoint legal boundaries"
+    },
+    {
+      "check": "repair_preserves_area",
+      "status": "pass",
+      "source": "HOA",
+      "object_id": 338,
+      "delta_m2": 0.0
+    },
+    {
+      "check": "repair_preserves_area",
+      "status": "pass",
+      "source": "HOA",
+      "object_id": 181,
+      "delta_m2": 5.820766091346741e-11
+    },
+    {
+      "check": "repair_preserves_area",
+      "status": "pass",
+      "source": "Census2020_block",
+      "object_id": "060590524371014",
+      "delta_m2": 0.0
+    }
+  ],
+  "repairs": [
+    {
+      "source": "HOA",
+      "object_id": 338,
+      "reason": "Ring Self-intersection[-117.759204901266 33.7477481178658]",
+      "area_before_m2": 1957645.5651562072,
+      "area_after_m2": 1957645.5651562072,
+      "area_change_m2": 0.0,
+      "method": "shapely.make_valid; no buffer/simplification"
+    },
+    {
+      "source": "HOA",
+      "object_id": 181,
+      "reason": "Ring Self-intersection[-117.759700179748 33.7323009142489]",
+      "area_before_m2": 488896.24775579723,
+      "area_after_m2": 488896.2477557973,
+      "area_change_m2": 5.820766091346741e-11,
+      "method": "shapely.make_valid; no buffer/simplification"
+    },
+    {
+      "source": "Census2020_block",
+      "object_id": "060590524371014",
+      "reason": "Ring Self-intersection[-117.757783999782 33.7329389998624]",
+      "area_before_m2": 47851.25553857677,
+      "area_after_m2": 47851.25553857677,
+      "area_change_m2": 0.0,
+      "method": "shapely.make_valid; no buffer/simplification"
+    }
+  ],
+  "source_snapshots": 21,
+  "tract_count": 614,
+  "target_BG_count": 9,
+  "block_count": 195,
+  "crosswalk_rows": 39,
+  "block_diagnostic_rows": 975,
+  "projection": "EPSG:26911",
+  "area_unit": "square_metres",
+  "intersection_floor_m2": 1,
+  "environment": {
+    "python": "3.12.14",
+    "shapely": "2.2.0",
+    "pyproj": "3.8.0"
+  },
+  "inference_limit": "HOA masks incomplete as legal village limits; census area shares never population weights"
+}

@@ -1,0 +1,46 @@
+community,bg_geoid,blocks,total_2020_housing_units,housing_internal_point_in_mask,housing_area_majority_in_mask,housing_with_any_overlap,housing_blocks_cross_mask,note
+Stonegate,060590524291,21,1035,1035,1035,1035,1,housing_units_not_households;2020_location_audit_not_current_allocation
+Stonegate,060590524292,26,1197,1197,1197,1197,3,housing_units_not_households;2020_location_audit_not_current_allocation
+Stonegate,060590524293,14,356,356,356,356,2,housing_units_not_households;2020_location_audit_not_current_allocation
+Stonegate,060590524294,12,766,527,527,527,2,housing_units_not_households;2020_location_audit_not_current_allocation
+Stonegate,060590524371,18,369,0,0,0,0,housing_units_not_households;2020_location_audit_not_current_allocation
+Stonegate,060590524372,13,466,0,0,0,0,housing_units_not_households;2020_location_audit_not_current_allocation
+Stonegate,060590524373,27,614,0,0,0,0,housing_units_not_households;2020_location_audit_not_current_allocation
+Stonegate,060590524374,3,499,0,0,0,0,housing_units_not_households;2020_location_audit_not_current_allocation
+Stonegate,060590524375,61,856,0,0,0,0,housing_units_not_households;2020_location_audit_not_current_allocation
+Stonegate East,060590524291,21,1035,0,0,0,0,housing_units_not_households;2020_location_audit_not_current_allocation
+Stonegate East,060590524292,26,1197,0,0,0,0,housing_units_not_households;2020_location_audit_not_current_allocation
+Stonegate East,060590524293,14,356,0,0,0,0,housing_units_not_households;2020_location_audit_not_current_allocation
+Stonegate East,060590524294,12,766,78,78,239,1,housing_units_not_households;2020_location_audit_not_current_allocation
+Stonegate East,060590524371,18,369,0,0,0,0,housing_units_not_households;2020_location_audit_not_current_allocation
+Stonegate East,060590524372,13,466,0,0,0,0,housing_units_not_households;2020_location_audit_not_current_allocation
+Stonegate East,060590524373,27,614,0,0,0,0,housing_units_not_households;2020_location_audit_not_current_allocation
+Stonegate East,060590524374,3,499,0,0,0,0,housing_units_not_households;2020_location_audit_not_current_allocation
+Stonegate East,060590524375,61,856,0,0,0,0,housing_units_not_households;2020_location_audit_not_current_allocation
+Groves at Orchard Hills,060590524291,21,1035,0,0,0,0,housing_units_not_households;2020_location_audit_not_current_allocation
+Groves at Orchard Hills,060590524292,26,1197,0,0,0,0,housing_units_not_households;2020_location_audit_not_current_allocation
+Groves at Orchard Hills,060590524293,14,356,0,0,0,0,housing_units_not_households;2020_location_audit_not_current_allocation
+Groves at Orchard Hills,060590524294,12,766,0,0,0,0,housing_units_not_households;2020_location_audit_not_current_allocation
+Groves at Orchard Hills,060590524371,18,369,0,0,0,0,housing_units_not_households;2020_location_audit_not_current_allocation
+Groves at Orchard Hills,060590524372,13,466,0,0,0,0,housing_units_not_households;2020_location_audit_not_current_allocation
+Groves at Orchard Hills,060590524373,27,614,511,614,614,4,housing_units_not_households;2020_location_audit_not_current_allocation
+Groves at Orchard Hills,060590524374,3,499,0,0,499,1,housing_units_not_households;2020_location_audit_not_current_allocation
+Groves at Orchard Hills,060590524375,61,856,79,79,408,2,housing_units_not_households;2020_location_audit_not_current_allocation
+Orchard Hills Village II,060590524291,21,1035,0,0,0,0,housing_units_not_households;2020_location_audit_not_current_allocation
+Orchard Hills Village II,060590524292,26,1197,0,0,0,0,housing_units_not_households;2020_location_audit_not_current_allocation
+Orchard Hills Village II,060590524293,14,356,0,0,0,0,housing_units_not_households;2020_location_audit_not_current_allocation
+Orchard Hills Village II,060590524294,12,766,0,0,0,0,housing_units_not_households;2020_location_audit_not_current_allocation
+Orchard Hills Village II,060590524371,18,369,369,369,369,4,housing_units_not_households;2020_location_audit_not_current_allocation
+Orchard Hills Village II,060590524372,13,466,466,466,466,6,housing_units_not_households;2020_location_audit_not_current_allocation
+Orchard Hills Village II,060590524373,27,614,0,0,0,0,housing_units_not_households;2020_location_audit_not_current_allocation
+Orchard Hills Village II,060590524374,3,499,0,0,0,0,housing_units_not_households;2020_location_audit_not_current_allocation
+Orchard Hills Village II,060590524375,61,856,0,0,303,2,housing_units_not_households;2020_location_audit_not_current_allocation
+Reserve at Orchard Hills,060590524291,21,1035,0,0,0,0,housing_units_not_households;2020_location_audit_not_current_allocation
+Reserve at Orchard Hills,060590524292,26,1197,0,0,0,0,housing_units_not_households;2020_location_audit_not_current_allocation
+Reserve at Orchard Hills,060590524293,14,356,0,0,0,0,housing_units_not_households;2020_location_audit_not_current_allocation
+Reserve at Orchard Hills,060590524294,12,766,0,0,0,0,housing_units_not_households;2020_location_audit_not_current_allocation
+Reserve at Orchard Hills,060590524371,18,369,0,0,0,0,housing_units_not_households;2020_location_audit_not_current_allocation
+Reserve at Orchard Hills,060590524372,13,466,0,0,0,0,housing_units_not_households;2020_location_audit_not_current_allocation
+Reserve at Orchard Hills,060590524373,27,614,0,0,0,0,housing_units_not_households;2020_location_audit_not_current_allocation
+Reserve at Orchard Hills,060590524374,3,499,0,0,0,0,housing_units_not_households;2020_location_audit_not_current_allocation
+Reserve at Orchard Hills,060590524375,61,856,236,353,445,3,housing_units_not_households;2020_location_audit_not_current_allocation

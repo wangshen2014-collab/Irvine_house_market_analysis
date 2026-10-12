@@ -1,0 +1,194 @@
+{
+  "retrieved_date": "2026-10-11",
+  "files": [
+    {
+      "filename": "hoa_targets.geojson",
+      "url": "https://gis.cityofirvine.org/arcgis/rest/services/Parcel_Pro/MapServer/9/query?where=MASTER_ID+IN+%28%279.4%27%2C%279.3%27%2C%271.1%27%2C%271.2%27%2C%271.3%27%29&outFields=OBJECTID%2CMASTER_ID%2CMASTER_HOA%2CSUB_HOA%2CEditDate&outSR=4326&f=geojson",
+      "sha256": "fac7555ca67195b799b081b3b5e64fa89f599f7b35acb1fdfcb6fa5e75b084dd",
+      "bytes": 462631,
+      "retrieved_date": "2026-10-11",
+      "retrieved_timezone": "America/Los_Angeles",
+      "publication": "link_only_raw_municipal_material_private"
+    },
+    {
+      "filename": "pa_1_9.geojson",
+      "url": "https://services2.arcgis.com/3mkVbLdbLBFHrfbK/arcgis/rest/services/PlanAreas/FeatureServer/0/query?where=PLANAREA+IN+%281%2C9%29&outFields=OBJECTID%2CPLANAREA%2CPA_NO%2CPA&outSR=4326&f=geojson",
+      "sha256": "6687709357fac49255feb16580510e60cb2b45119912928928a0a11064e66acd",
+      "bytes": 29056,
+      "retrieved_date": "2026-10-11",
+      "retrieved_timezone": "America/Los_Angeles",
+      "publication": "link_only_raw_municipal_material_private"
+    },
+    {
+      "filename": "oc_tracts_2024.geojson",
+      "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_ACS2024/MapServer/8/query?where=STATE%3D%2706%27+AND+COUNTY%3D%27059%27&outFields=GEOID%2CSTATE%2CCOUNTY%2CTRACT%2CNAME%2CAREALAND%2CAREAWATER%2CINTPTLAT%2CINTPTLON&outSR=4326&f=geojson",
+      "sha256": "e85f1ee7d9811c7e1c7d162e2bce3eb02e6767edff7f46ce38ba1c03e4a65334",
+      "bytes": 5440958,
+      "retrieved_date": "2026-10-11",
+      "retrieved_timezone": "America/Los_Angeles",
+      "publication": "federal_statistics_and_geometry"
+    },
+    {
+      "filename": "target_bgs_2024.geojson",
+      "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_ACS2024/MapServer/10/query?where=STATE%3D%2706%27+AND+COUNTY%3D%27059%27+AND+TRACT+IN+%28%27052429%27%2C%27052437%27%29&outFields=GEOID%2CSTATE%2CCOUNTY%2CTRACT%2CBLKGRP%2CNAME%2CAREALAND%2CAREAWATER%2CINTPTLAT%2CINTPTLON&outSR=4326&f=geojson",
+      "sha256": "9546815e4b023e32cf434fbac6aaddac1b4a5ec0d879bfc30e5e04553a71629d",
+      "bytes": 65597,
+      "retrieved_date": "2026-10-11",
+      "retrieved_timezone": "America/Los_Angeles",
+      "publication": "federal_statistics_and_geometry"
+    },
+    {
+      "filename": "target_blocks_2020.geojson",
+      "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/Census2020/tigerWMS_Census2020/MapServer/10/query?where=STATE%3D%2706%27+AND+COUNTY%3D%27059%27+AND+TRACT+IN+%28%27052429%27%2C%27052437%27%29&outFields=GEOID%2CSTATE%2CCOUNTY%2CTRACT%2CBLKGRP%2CBLOCK%2CNAME%2CAREALAND%2CAREAWATER%2CINTPTLAT%2CINTPTLON%2CHU100%2CPOP100&outSR=4326&f=geojson",
+      "sha256": "12c28b6f81315a2ebade9d30337f15998525da28f088d28c24dccc69db88af12",
+      "bytes": 371892,
+      "retrieved_date": "2026-10-11",
+      "retrieved_timezone": "America/Los_Angeles",
+      "publication": "federal_statistics_and_geometry"
+    },
+    {
+      "filename": "tracts_2020_targets.geojson",
+      "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/Census2020/tigerWMS_Census2020/MapServer/6/query?where=STATE%3D%2706%27+AND+COUNTY%3D%27059%27+AND+TRACT+IN+%28%27052429%27%2C%27052437%27%29&outFields=GEOID%2CTRACT%2CNAME%2CHU100%2CPOP100&outSR=4326&f=geojson",
+      "sha256": "b6469e9452fd02b61bd95b1a49ab0c00c545441aa682e82224cbdb6a8d62de4a",
+      "bytes": 35108,
+      "retrieved_date": "2026-10-11",
+      "retrieved_timezone": "America/Los_Angeles",
+      "publication": "federal_statistics_and_geometry"
+    },
+    {
+      "filename": "hoa_schema.json",
+      "url": "https://gis.cityofirvine.org/arcgis/rest/services/Parcel_Pro/MapServer/9?f=pjson",
+      "sha256": "0da77eacd96c60b9bb55a4c95d69d8e7af40430cb63fefb4a30679a841a5b649",
+      "bytes": 81276,
+      "retrieved_date": "2026-10-11",
+      "retrieved_timezone": "America/Los_Angeles",
+      "publication": "link_only_raw_municipal_material_private"
+    },
+    {
+      "filename": "pa_schema.json",
+      "url": "https://services2.arcgis.com/3mkVbLdbLBFHrfbK/arcgis/rest/services/PlanAreas/FeatureServer/0?f=pjson",
+      "sha256": "b06f4f845379013ef5a11f75cf558902f4d773bdcdc4faf8d0224e9805a8c24d",
+      "bytes": 32105,
+      "retrieved_date": "2026-10-11",
+      "retrieved_timezone": "America/Los_Angeles",
+      "publication": "link_only_raw_municipal_material_private"
+    },
+    {
+      "filename": "pa_item.json",
+      "url": "https://www.arcgis.com/sharing/rest/content/items/6a83e6acf99843d992802a12840b6454?f=pjson",
+      "sha256": "5b8080d8945af15b2bf00a120260774e1dea95009db0af7f480b349fb3430271",
+      "bytes": 2829,
+      "retrieved_date": "2026-10-11",
+      "retrieved_timezone": "America/Los_Angeles",
+      "publication": "link_only_raw_municipal_material_private"
+    },
+    {
+      "filename": "tiger2024_tract_schema.json",
+      "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_ACS2024/MapServer/8?f=pjson",
+      "sha256": "3c1c8150e5525fbcc00a55b336247b53ac57a5175e691260ca0424041430d833",
+      "bytes": 7437,
+      "retrieved_date": "2026-10-11",
+      "retrieved_timezone": "America/Los_Angeles",
+      "publication": "federal_statistics_and_geometry"
+    },
+    {
+      "filename": "bgs_schema_2024.json",
+      "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/tigerWMS_ACS2024/MapServer/10?f=pjson",
+      "sha256": "732934a4a0ac7300ec213c509185ac248d239578e23b2c6b9703b8d624abb0fa",
+      "bytes": 7578,
+      "retrieved_date": "2026-10-11",
+      "retrieved_timezone": "America/Los_Angeles",
+      "publication": "federal_statistics_and_geometry"
+    },
+    {
+      "filename": "blocks2020_schema.json",
+      "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/Census2020/tigerWMS_Census2020/MapServer/10?f=pjson",
+      "sha256": "dc466bb36d924ae639d1c3c5593d24814a9edbac6518bed517d24d94b84cea11",
+      "bytes": 8166,
+      "retrieved_date": "2026-10-11",
+      "retrieved_timezone": "America/Los_Angeles",
+      "publication": "federal_statistics_and_geometry"
+    },
+    {
+      "filename": "vre_140_B25003_06.csv.zip",
+      "url": "https://www2.census.gov/programs-surveys/acs/replicate_estimates/2024/data/5-year/140/B25003_06.csv.zip",
+      "sha256": "a24a25a36015a6d075d88b5b83b500866645604dc2c0f347a691751490ed4fcb",
+      "bytes": 4292147,
+      "retrieved_date": "2026-10-11",
+      "retrieved_timezone": "America/Los_Angeles",
+      "publication": "federal_statistics_and_geometry"
+    },
+    {
+      "filename": "vre_140_B11005_06.csv.zip",
+      "url": "https://www2.census.gov/programs-surveys/acs/replicate_estimates/2024/data/5-year/140/B11005_06.csv.zip",
+      "sha256": "8297d598329592161b51d445ca28359a0124b02988d4dd55b3e0f8e3dbff7a60",
+      "bytes": 18674400,
+      "retrieved_date": "2026-10-11",
+      "retrieved_timezone": "America/Los_Angeles",
+      "publication": "federal_statistics_and_geometry"
+    },
+    {
+      "filename": "vre_140_B19001_06.csv.zip",
+      "url": "https://www2.census.gov/programs-surveys/acs/replicate_estimates/2024/data/5-year/140/B19001_06.csv.zip",
+      "sha256": "65da30a9a7d3ca3af040280c10950f936f2d8121e33fdec6610eec2ec3719c6b",
+      "bytes": 16648244,
+      "retrieved_date": "2026-10-11",
+      "retrieved_timezone": "America/Los_Angeles",
+      "publication": "federal_statistics_and_geometry"
+    },
+    {
+      "filename": "vre_150_B25003_06.csv.zip",
+      "url": "https://www2.census.gov/programs-surveys/acs/replicate_estimates/2024/data/5-year/150/B25003_06.csv.zip",
+      "sha256": "ba51ecca9429815781c80fd5a1b0c72fae7e3806e0f919c8468eae2814e62d46",
+      "bytes": 10267067,
+      "retrieved_date": "2026-10-11",
+      "retrieved_timezone": "America/Los_Angeles",
+      "publication": "federal_statistics_and_geometry"
+    },
+    {
+      "filename": "vre_150_B11005_06.csv.zip",
+      "url": "https://www2.census.gov/programs-surveys/acs/replicate_estimates/2024/data/5-year/150/B11005_06.csv.zip",
+      "sha256": "3463fd7ac4446bbab5b23cf106f499ed953b410597ed5617376705fd59dbc503",
+      "bytes": 39640674,
+      "retrieved_date": "2026-10-11",
+      "retrieved_timezone": "America/Los_Angeles",
+      "publication": "federal_statistics_and_geometry"
+    },
+    {
+      "filename": "vre_150_B19001_06.csv.zip",
+      "url": "https://www2.census.gov/programs-surveys/acs/replicate_estimates/2024/data/5-year/150/B19001_06.csv.zip",
+      "sha256": "76ccd082be33f8c2cc030031090b5de6a0537ef0bd12254c6754ba24e9013891",
+      "bytes": 33092180,
+      "retrieved_date": "2026-10-11",
+      "retrieved_timezone": "America/Los_Angeles",
+      "publication": "federal_statistics_and_geometry"
+    },
+    {
+      "filename": "fresco_staff_20200604.pdf",
+      "url": "https://irvine.granicus.com/MetaViewer.php?event_id=1634&meta_id=105426&view_id=",
+      "sha256": "e6dd9892b7d0c0c4c22f1a2720b9017cf98a9ce4604e1f4b3d5b1f776e111e76",
+      "bytes": 212811,
+      "retrieved_date": "2026-10-11",
+      "retrieved_timezone": "America/Los_Angeles",
+      "publication": "link_only_raw_municipal_material_private"
+    },
+    {
+      "filename": "fresco_vicinity_20200604.pdf",
+      "url": "https://irvine.granicus.com/MetaViewer.php?view_id=&event_id=1634&meta_id=105428",
+      "sha256": "9d20c02778d6c8d4c5b9a29ff17f08fdedacc8203600ffddaddb8bc3f60601ac",
+      "bytes": 158556,
+      "retrieved_date": "2026-10-11",
+      "retrieved_timezone": "America/Los_Angeles",
+      "publication": "link_only_raw_municipal_material_private"
+    },
+    {
+      "filename": "fresco_resolution_20200604.pdf",
+      "url": "https://irvine.granicus.com/MetaViewer.php?view_id=&event_id=1634&meta_id=105440",
+      "sha256": "e14cba1675b5632e778b4ad0e3480fcf31ccb79683bbd68fc91c75740f032da5",
+      "bytes": 243298,
+      "retrieved_date": "2026-10-11",
+      "retrieved_timezone": "America/Los_Angeles",
+      "publication": "link_only_raw_municipal_material_private"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+geo_id,official_name,sumlevel,state,county,tract,block_group,geography_basis,status
+1400000US06059052429,"Census Tract 524.29, Orange County, California",140,06,059,052429,,ACS2024;2020 statistical definitions,pass
+1400000US06059052437,"Census Tract 524.37, Orange County, California",140,06,059,052437,,ACS2024;2020 statistical definitions,pass
+1500000US060590524291,"Block Group 1, Census Tract 524.29, Orange County, California",150,06,059,052429,1,ACS2024;2020 statistical definitions,pass
+1500000US060590524292,"Block Group 2, Census Tract 524.29, Orange County, California",150,06,059,052429,2,ACS2024;2020 statistical definitions,pass
+1500000US060590524293,"Block Group 3, Census Tract 524.29, Orange County, California",150,06,059,052429,3,ACS2024;2020 statistical definitions,pass
+1500000US060590524294,"Block Group 4, Census Tract 524.29, Orange County, California",150,06,059,052429,4,ACS2024;2020 statistical definitions,pass
+1500000US060590524371,"Block Group 1, Census Tract 524.37, Orange County, California",150,06,059,052437,1,ACS2024;2020 statistical definitions,pass
+1500000US060590524372,"Block Group 2, Census Tract 524.37, Orange County, California",150,06,059,052437,2,ACS2024;2020 statistical definitions,pass
+1500000US060590524373,"Block Group 3, Census Tract 524.37, Orange County, California",150,06,059,052437,3,ACS2024;2020 statistical definitions,pass
+1500000US060590524374,"Block Group 4, Census Tract 524.37, Orange County, California",150,06,059,052437,4,ACS2024;2020 statistical definitions,pass
+1500000US060590524375,"Block Group 5, Census Tract 524.37, Orange County, California",150,06,059,052437,5,ACS2024;2020 statistical definitions,pass
