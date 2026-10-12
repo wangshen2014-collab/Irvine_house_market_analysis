@@ -1,0 +1,21 @@
+{
+  "as_of": "2026-10-12",
+  "remediation_commit": "eac4409",
+  "school_data_report_commit": "eed183198bcd04bf0dff2070af927a92aebd0f1b",
+  "formal_document_updated": true,
+  "new_tabs": 2,
+  "native_tables": 9,
+  "native_cells_verified": 483,
+  "unrelated_original_tabs_text_unchanged": 10,
+  "existing_authorized_changed_tabs": 2,
+  "pdf_pages": 108,
+  "new_pages_visually_checked": "93-108",
+  "archive_uploaded_to_designated_private_folder": true,
+  "archive_file_count": 84,
+  "archive_size_bytes": 27625648,
+  "archive_sha256_local": "95f969f2ccdad14eb95b8c1d729356907d23d8635bbb8f402bf7ad6945f36790",
+  "remote_parent_and_size_verified": true,
+  "raw_archive_links_omitted_from_public_repository": true,
+  "school_completion": "official baseline restricted; exact address assignments, grade seats, full program and firsthand context validation remain incomplete",
+  "next_action": "Public B supply pipeline; no household A/C integration"
+}
