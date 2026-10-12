@@ -1,0 +1,70 @@
+{
+  "reproduced_files": [
+    {
+      "path": "analysis.json",
+      "equal": true
+    },
+    {
+      "path": "correlations.csv",
+      "equal": true
+    },
+    {
+      "path": "county_annual.csv",
+      "equal": true
+    },
+    {
+      "path": "county_comparisons.csv",
+      "equal": true
+    },
+    {
+      "path": "county_quality_sensitivity.csv",
+      "equal": true
+    },
+    {
+      "path": "coverage.csv",
+      "equal": true
+    },
+    {
+      "path": "cycles.csv",
+      "equal": true
+    },
+    {
+      "path": "lockin.csv",
+      "equal": true
+    },
+    {
+      "path": "method_break_sensitivity.csv",
+      "equal": true
+    },
+    {
+      "path": "quarterly_comparisons.csv",
+      "equal": true
+    },
+    {
+      "path": "snapshots.csv",
+      "equal": true
+    },
+    {
+      "path": "synthetic.csv",
+      "equal": true
+    },
+    {
+      "path": "data/clean/rate_coverage_20261012.csv",
+      "equal": true
+    },
+    {
+      "path": "data/clean/rate_fhfa_lockin_2024q2.csv",
+      "equal": true
+    },
+    {
+      "path": "data/clean/rate_synthetic_buying_power.csv",
+      "equal": true
+    },
+    {
+      "path": "qa/rate_build_checks.json",
+      "equal": true
+    }
+  ],
+  "all_byte_identical": true,
+  "changed_frozen_input_rejected_before_outputs": true
+}

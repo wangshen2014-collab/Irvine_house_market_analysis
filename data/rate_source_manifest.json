@@ -1,0 +1,304 @@
+{
+  "version": "rate_transmission_step10_v1",
+  "as_of": "2026-10-12",
+  "inputs": [
+    {
+      "path": "raw/fhfa_lockin_aug2024.pdf",
+      "sha256": "73bdf4e072c81717b803552797aab5f2111bdc676072a4c895e2c18f89444d87",
+      "bytes": 10879927,
+      "url": "https://www.fhfa.gov/sites/default/files/2024-08/wp2403.pdf",
+      "retrieved_at": "2026-10-12T20:53:53.079471+00:00",
+      "kind": "original_download_bytes",
+      "public_storage": "raw_private_link_only"
+    },
+    {
+      "path": "raw/census_contract_closing.pdf",
+      "sha256": "70e63c9d6524b534988d65353c29bd0657de236fa204b88fdbf8b71f3d8e05c6",
+      "bytes": 37648,
+      "url": "https://www.census.gov/construction/pdf/nrs_vs_existing.pdf",
+      "retrieved_at": "2026-10-12T20:53:59.744650+00:00",
+      "kind": "original_download_bytes",
+      "public_storage": "raw_private_link_only"
+    },
+    {
+      "path": "raw/pmms_latest.pdf",
+      "sha256": "a6ac19da050715518049126f704c973e0ceee0087904fefb987512dc285ff26a",
+      "bytes": 83488,
+      "url": "https://freddiemac.gcs-web.com/node/32136/pdf",
+      "retrieved_at": "2026-10-12T20:53:59.751408+00:00",
+      "kind": "original_download_bytes",
+      "public_storage": "raw_private_link_only"
+    },
+    {
+      "path": "raw/MORTGAGE30US.html",
+      "sha256": "6a184f6c8ec7fd7eef58d448dcedafb612cf42646ae7d21ef8e57fc0f337fa50",
+      "bytes": 230654,
+      "url": "https://fred.stlouisfed.org/data/MORTGAGE30US",
+      "retrieved_at": "2026-10-12T20:58:11.986372+00:00",
+      "kind": "original_download_bytes",
+      "public_storage": "raw_private_link_only",
+      "series": "MORTGAGE30US"
+    },
+    {
+      "path": "raw/FEDFUNDS.html",
+      "sha256": "c2ac7c5055be188ad85192297df6f12048b675ce56bf8f44d44b2bd817aecae3",
+      "bytes": 151472,
+      "url": "https://fred.stlouisfed.org/data/FEDFUNDS",
+      "retrieved_at": "2026-10-12T20:58:11.987358+00:00",
+      "kind": "original_download_bytes",
+      "public_storage": "raw_private_link_only",
+      "series": "FEDFUNDS"
+    },
+    {
+      "path": "raw/GS10.html",
+      "sha256": "66a1b458d4f7a2531fdca4c0453f9d2b355db80174ee9a7ac410a8b88350ba8a",
+      "bytes": 150362,
+      "url": "https://fred.stlouisfed.org/data/GS10",
+      "retrieved_at": "2026-10-12T20:58:11.988000+00:00",
+      "kind": "original_download_bytes",
+      "public_storage": "raw_private_link_only",
+      "series": "GS10"
+    },
+    {
+      "path": "raw/TB3MS.html",
+      "sha256": "f41f4926e20649e3222321b218d38be743e3ba8a942e85c706b2a852aa75cb43",
+      "bytes": 169224,
+      "url": "https://fred.stlouisfed.org/data/TB3MS",
+      "retrieved_at": "2026-10-12T20:58:11.988642+00:00",
+      "kind": "original_download_bytes",
+      "public_storage": "raw_private_link_only",
+      "series": "TB3MS"
+    },
+    {
+      "path": "raw/DFII10.html",
+      "sha256": "6cf579f39abd3997147b0ba94dc621ad34ca105678a416eb059f6471dd15fd28",
+      "bytes": 342840,
+      "url": "https://fred.stlouisfed.org/data/DFII10",
+      "retrieved_at": "2026-10-12T20:58:16.399234+00:00",
+      "kind": "original_download_bytes",
+      "public_storage": "raw_private_link_only",
+      "series": "DFII10"
+    },
+    {
+      "path": "raw/T10YIE.html",
+      "sha256": "ad3b0898e7f59144fe0d7244ee9831dee4da1626ded521848b36fbea4000598d",
+      "bytes": 336302,
+      "url": "https://fred.stlouisfed.org/data/T10YIE",
+      "retrieved_at": "2026-10-12T20:58:16.440735+00:00",
+      "kind": "original_download_bytes",
+      "public_storage": "raw_private_link_only",
+      "series": "T10YIE"
+    },
+    {
+      "path": "raw/ATNHPIUS11244Q.html",
+      "sha256": "6913f51716328da8e984f4bf703d63e6d79d32fcde632791e305e8bf16be0fc7",
+      "bytes": 60411,
+      "url": "https://fred.stlouisfed.org/data/ATNHPIUS11244Q",
+      "retrieved_at": "2026-10-12T20:58:16.489936+00:00",
+      "kind": "original_download_bytes",
+      "public_storage": "raw_private_link_only",
+      "series": "ATNHPIUS11244Q"
+    },
+    {
+      "path": "raw/USSTHPI.html",
+      "sha256": "3d069723b73f930fcb4dd283a9829afb5d643cd8ec8e31ffbf97912d699edf9e",
+      "bytes": 60447,
+      "url": "https://fred.stlouisfed.org/data/USSTHPI",
+      "retrieved_at": "2026-10-12T20:58:16.721006+00:00",
+      "kind": "original_download_bytes",
+      "public_storage": "raw_private_link_only",
+      "series": "USSTHPI"
+    },
+    {
+      "path": "raw/HSN1F.html",
+      "sha256": "888e5a2bc67b02830666d0479504e46925ad0d8b267758776a8ecf5c6286039d",
+      "bytes": 133833,
+      "url": "https://fred.stlouisfed.org/data/HSN1F",
+      "retrieved_at": "2026-10-12T20:58:20.583502+00:00",
+      "kind": "original_download_bytes",
+      "public_storage": "raw_private_link_only",
+      "series": "HSN1F"
+    },
+    {
+      "path": "raw/EXHOSLUSM495S.html",
+      "sha256": "4518073eda41134df41656b09bfafb35b57a54fb7510a07c30a4b5e3e15888d9",
+      "bytes": 35354,
+      "url": "https://fred.stlouisfed.org/data/EXHOSLUSM495S",
+      "retrieved_at": "2026-10-12T20:58:20.689483+00:00",
+      "kind": "original_download_bytes",
+      "public_storage": "raw_private_link_only",
+      "series": "EXHOSLUSM495S"
+    },
+    {
+      "path": "raw/HOUST1F.html",
+      "sha256": "54bebb30a3bec24ede290864523814998abf52e801ae36a1d0a40ed808640fa6",
+      "bytes": 140292,
+      "url": "https://fred.stlouisfed.org/data/HOUST1F",
+      "retrieved_at": "2026-10-12T20:58:20.877846+00:00",
+      "kind": "original_download_bytes",
+      "public_storage": "raw_private_link_only",
+      "series": "HOUST1F"
+    },
+    {
+      "path": "raw/CPIAUCSL.html",
+      "sha256": "e6dabdb3bf3550bbc95c628d93eeff883fd1dc48c2eed670497850184040ae68",
+      "bytes": 163863,
+      "url": "https://fred.stlouisfed.org/data/CPIAUCSL",
+      "retrieved_at": "2026-10-12T20:58:21.935062+00:00",
+      "kind": "original_download_bytes",
+      "public_storage": "raw_private_link_only",
+      "series": "CPIAUCSL"
+    },
+    {
+      "path": "raw/DSPIC96.html",
+      "sha256": "b815edbf6430f7ac31334a7685286ba994cb267a44ce18e5b8ea08c1dd3f535e",
+      "bytes": 141903,
+      "url": "https://fred.stlouisfed.org/data/DSPIC96",
+      "retrieved_at": "2026-10-12T20:58:26.054387+00:00",
+      "kind": "original_download_bytes",
+      "public_storage": "raw_private_link_only",
+      "series": "DSPIC96"
+    },
+    {
+      "path": "raw/UNRATE.html",
+      "sha256": "d6a425f6808558234c4da8de63233b63de70fb808d7eeabefd5df05f628a9988",
+      "bytes": 156609,
+      "url": "https://fred.stlouisfed.org/data/UNRATE",
+      "retrieved_at": "2026-10-12T20:58:26.507406+00:00",
+      "kind": "original_download_bytes",
+      "public_storage": "raw_private_link_only",
+      "series": "UNRATE"
+    },
+    {
+      "path": "raw/SP500.html",
+      "sha256": "d637cad90a07aa5c3bc7efa142cda3cf4ec61a46b8f56848ae3b0c78d99c23b5",
+      "bytes": 226678,
+      "url": "https://fred.stlouisfed.org/data/SP500",
+      "retrieved_at": "2026-10-12T20:58:26.560179+00:00",
+      "kind": "original_download_bytes",
+      "public_storage": "raw_private_link_only",
+      "series": "SP500"
+    },
+    {
+      "path": "raw/fed_lockin_may2025.pdf",
+      "sha256": "c8c18c6a5a77e6e1597a1a6513e63f8ef07a4b705ddb0abcf86b71e2824654ba",
+      "bytes": 2690953,
+      "url": "https://www.federalreserve.gov/econres/feds/files/2024088r1pap.pdf",
+      "retrieved_at": "2026-10-12T20:58:28.498165+00:00",
+      "kind": "original_download_bytes",
+      "public_storage": "raw_private_link_only"
+    },
+    {
+      "path": "raw/fhfa_lockin_page.html",
+      "sha256": "4f10c4941417390e810f4074097855c887d817ffa71b407e27988f46b9f682f8",
+      "bytes": 84312,
+      "url": "https://www.fhfa.gov/research/papers/wp2403",
+      "retrieved_at": "2026-10-12T20:58:28.538424+00:00",
+      "kind": "original_download_bytes",
+      "public_storage": "raw_private_link_only"
+    },
+    {
+      "path": "raw/dallas_mortgage.html",
+      "sha256": "ef6d6ba4af40ad7f31ededb2d6fe37b151ec65a61bfcbb8cbd0077af2cf8cc3d",
+      "bytes": 71438,
+      "url": "https://www.dallasfed.org/research/economics/2026/0507",
+      "retrieved_at": "2026-10-12T20:58:28.565063+00:00",
+      "kind": "original_download_bytes",
+      "public_storage": "raw_private_link_only"
+    },
+    {
+      "path": "raw/toll_oct_event.html",
+      "sha256": "8d071353554a664faf103311efe5a558dfc4407d2d24b813dc6d5466af360ff9",
+      "bytes": 609691,
+      "url": "https://www.tollbrothers.com/blog/toll-brothers-national-sales-event",
+      "retrieved_at": "2026-10-12T20:58:33.691374+00:00",
+      "kind": "original_download_bytes",
+      "public_storage": "raw_private_link_only"
+    },
+    {
+      "path": "raw/fhfa_lockin_data.xlsx",
+      "sha256": "2321416994bc649d5fbef0f013e50af6892cb0d94f121b3116e7b01df9331c62",
+      "bytes": 48573120,
+      "url": "https://www.fhfa.gov/document/wp2403-lock-in-data.xlsx",
+      "retrieved_at": "2026-10-12T20:59:06.960196+00:00",
+      "kind": "original_download_bytes",
+      "public_storage": "raw_private_link_only",
+      "reuse_basis": "Readme explicitly says data free to use with paper citation; selected aggregate extract published with version and modeled flag"
+    },
+    {
+      "path": "raw/dallas_chart_data.xlsx",
+      "sha256": "c8a19e9b7a1ca9bc0661d9b8a4b7db15399e8aeafdbb298d35bb4068862fadf6",
+      "bytes": 842987,
+      "url": "https://www.dallasfed.org/-/media/documents/research/economics/2026/0507data.xlsx",
+      "retrieved_at": "2026-10-12T20:59:06.960646+00:00",
+      "kind": "original_download_bytes",
+      "public_storage": "raw_private_link_only"
+    },
+    {
+      "path": "private/frozen/pricing_analysis.json",
+      "sha256": "da2694e72946de9950ef4544680abb293694682264550a4874c5603958667040",
+      "bytes": 548408,
+      "kind": "frozen_same_project_step9_derivative_not_new_raw",
+      "public_storage": "private"
+    },
+    {
+      "path": "private/frozen/pricing_source_manifest.json",
+      "sha256": "add94bcb5807dea673ca180679c477376417d98e8d4827b559b19ba1478e48e8",
+      "bytes": 3410,
+      "kind": "upstream_original_source_fingerprints",
+      "public_storage": "private"
+    },
+    {
+      "path": "private/fhfa_selected.json",
+      "sha256": "af6ed8ef401f47a447e6c8e34ec5f28ea64e0d90d03012891b68f63d670dd84b",
+      "bytes": 208853,
+      "kind": "official_workbook_selected_rows_by_FIPS_06059_CA_US",
+      "public_storage": "private"
+    },
+    {
+      "path": "raw/nar_2023.pdf",
+      "sha256": "1147ff215cfba39731336453b75377e8d4c685801b706ba82d7d27f9a3ee49a6",
+      "bytes": 2953883,
+      "url": "https://www.nar.realtor/sites/default/files/documents/2023-12-research-update-01-26-2024.pdf",
+      "retrieved_at": "2026-10-12T21:09:07.656534+00:00",
+      "kind": "original_download_bytes",
+      "public_storage": "raw_private_link_only"
+    },
+    {
+      "path": "raw/nar_2021.html",
+      "sha256": "0ddaabb0fee07a32051db3d3fb13f7a5cc1b499fbe61d79d766c08851538526d",
+      "bytes": 86447,
+      "url": "https://www.globenewswire.com/news-release/2022/01/20/2370344/0/en/annual-existing-home-sales-hit-highest-mark-since-2006.html",
+      "retrieved_at": "2026-10-12T21:09:07.657456+00:00",
+      "kind": "original_download_bytes",
+      "public_storage": "raw_private_link_only"
+    },
+    {
+      "path": "raw/freddie_2021.html",
+      "sha256": "2e5f1a67b5db5503e0f0a95634adab113b13d8f37dfa9899a58eb5863be70752",
+      "bytes": 50732,
+      "url": "https://freddiemac.gcs-web.com/news-releases/news-release-details/mortgage-rates-continue-move-sideways-heading-2022",
+      "retrieved_at": "2026-10-12T21:09:07.657991+00:00",
+      "kind": "original_download_bytes",
+      "public_storage": "raw_private_link_only"
+    },
+    {
+      "path": "raw/freddie_2023.html",
+      "sha256": "4a7323a5f1184d9468d451edbef007cafb20a537958714efdbf29bb254540d00",
+      "bytes": 50273,
+      "url": "https://freddiemac.gcs-web.com/news-releases/news-release-details/heading-new-year-mortgage-rates-remain-downward-trend",
+      "retrieved_at": "2026-10-12T21:09:07.658607+00:00",
+      "kind": "original_download_bytes",
+      "public_storage": "raw_private_link_only"
+    },
+    {
+      "path": "private/pmms_release_checks.json",
+      "sha256": "b739a900a4b7536c1ad444d148a0e6308dd55599fd13d6ecea1537d96ec814d0",
+      "bytes": 744,
+      "kind": "hand_transcribed_original_release_checks_with_URLs",
+      "public_storage": "private_workpaper"
+    }
+  ],
+  "failed_downloads_preserved_privately": true,
+  "source_vintage_policy": "current downloaded vintage, not historical real-time release backtest"
+}

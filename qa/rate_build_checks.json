@@ -1,0 +1,15 @@
+{
+  "frozen_inputs": 32,
+  "fred_series": 15,
+  "fred_date_ranges_verified": true,
+  "zhvi_series": 19,
+  "cycle_rows": 114,
+  "correlation_rows": 570,
+  "synthetic_rows": 18,
+  "county_months": 123,
+  "causal_elasticity_estimated": false,
+  "monthly_cutoff": "2026-08",
+  "quarterly_hpi_end": "2026Q2",
+  "lockin_vintage": "August 2024",
+  "missing_imputed": false
+}

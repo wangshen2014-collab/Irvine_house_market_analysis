@@ -1,0 +1,25 @@
+{
+  "as_of": "2026-10-12",
+  "scope": "Independent public B, step 10 historical transmission; no household A/C or forecasts",
+  "design_timing": "Declared before computing cycle results and correlations; sources and coverage already inspected",
+  "common_month_end": "2026-08",
+  "windows": [
+    ["early_cycle", "2000-01", "2006-12"],
+    ["crisis_recovery", "2006-12", "2012-12"],
+    ["prepandemic", "2012-12", "2019-12"],
+    ["pandemic", "2019-12", "2021-12"],
+    ["hiking", "2021-12", "2023-12"],
+    ["recent", "2023-12", "2026-08"]
+  ],
+  "primary_price_series": ["Irvine|all_home", "Irvine|four_bedroom"],
+  "sensitivity_series": "all 19 previously frozen ZHVI series; missing endpoints stay missing",
+  "lag_months": [0, 1, 2, 6, 12],
+  "lag_interpretation": "corr(mortgage monthly percentage-point change at t, one-month log price change at t+lag), both dates inside named window; 0/1/2 closing timing, 6/12 exploratory longer transmission",
+  "identification": "descriptive only; no causal price elasticity, no pooled-city independent shock count, no p-values or selected best lag",
+  "frequency": "arithmetic mean of nonmissing weekly/daily observations dated in each complete calendar month; quarterly HPI separately compared at same quarter in 2021/2023/2026",
+  "buying_power": "30-year fully amortizing principal and interest only; constant payment; initial price index 100; fixed downpayment percent versus fixed downpayment dollars",
+  "synthetic_downpayment_fractions": [0.2, 0.4, 0.6],
+  "synthetic_rate_pairs_percent": [[3,5],[3,7],[3,7.4],[5,7],[7,6],[0,5]],
+  "housing_quality": "ZHVI modeled smoothed seasonally adjusted index; bedroom count is not no-common-wall or strict repeated identical-property quality control",
+  "exclusions": "2026-10 incomplete month excluded from monthly joins; latest weekly rate separately displayed; no imputation; no pending-stock-to-sales-flow substitution"
+}
