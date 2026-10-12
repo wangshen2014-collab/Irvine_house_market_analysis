@@ -196,3 +196,16 @@ python scripts/chart_asset_pricing.py --private-out /path/to/pricing-evidence/pr
 ```
 
 前两支只需标准库，图形需requirements中的matplotlib。build／audit可加 `--public-out /tmp/pricing-public` 隔离复跑。公开只有覆盖计数与9个虚构条件，私人输出含供应商和逐屋数值，不得提交。137项独立算术核对保留一项来源同比字段差异；11份复跑输出逐字节相同，变更输入在输出前被拒。下一步为步骤10利率历史传导；没有进入A/C。
+# 步骤10：利率历史传导（2026-10-12）
+
+见 `reports/2026-10-12_rate_transmission_phase13.md`。15条FRED利率／宏观系列、同项目19条ZHVI序列、橙县挂牌历史及FHFA 2024Q2当地锁定暴露；历史观察与机械购买力分开，未估计Irvine因果房价弹性。原始与供应商长序列保留既定私人档案，公开目录仅含代码、设计、指纹、来源链接、原创分析与获准统计摘取。
+
+取得本阶段证据包并解压为 `EVIDENCE_DIR` 后（其中city四卧原CSV复用步骤9同指纹原件），执行：
+
+```bash
+python scripts/build_rate_transmission.py --evidence-dir EVIDENCE_DIR --private-out PRIVATE_OUTPUT
+python scripts/audit_rate_transmission.py --evidence-dir EVIDENCE_DIR --analysis PRIVATE_OUTPUT/analysis.json
+python scripts/chart_rate_transmission.py --analysis PRIVATE_OUTPUT/analysis.json --out PRIVATE_OUTPUT
+```
+
+build／audit使用Python标准库，chart需matplotlib。若需从原工作簿重建FHFA选取，用含openpyxl的Python运行 `scripts/extract_rate_workbooks.py --evidence-dir EVIDENCE_DIR`；只读取官方工作簿，结果应与manifest指纹相同。设计见 `data/rate_analysis_design.json`。所有缺失值保持缺失；月度价格对齐截至2026-08，10月最新周值单列，FHFA锁定估计截至2024Q2。完整公共B和步骤11联合情景尚未完成。

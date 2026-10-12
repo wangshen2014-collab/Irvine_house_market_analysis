@@ -1,0 +1,4 @@
+geography,year,quarter,fixed_rate_pct,predicted_new_rate_pct,rate_delta_pp,share_new_rate_over_old_by_gt2_pct,reorigination_PI_change_pct,model_relative_sale_probability_change_pct,model_cumulative_sales_change,source_vintage,not_current_observation
+US,2024,2,4.11,6.65,-2.54,73.5,31.2,-44.9,-1719350,FHFA WP24-03 August 2024 developmental aggregates,True
+CA,2024,2,3.79,6.6,-2.81,81.39999999999999,35.8,-67.4,-230370,FHFA WP24-03 August 2024 developmental aggregates,True
+"Orange County, CA (06059)",2024,2,3.62,6.55,-2.93,85.2,37.3,-79.3,-20420,FHFA WP24-03 August 2024 developmental aggregates,True

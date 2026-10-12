@@ -1,0 +1,480 @@
+{
+  "checks": [
+    {
+      "check": "full mortgage date span",
+      "pass": true
+    },
+    {
+      "check": "PMMS original-release 2012-12-27",
+      "pass": true
+    },
+    {
+      "check": "PMMS original-release 2021-12-30",
+      "pass": true
+    },
+    {
+      "check": "PMMS original-release 2023-12-28",
+      "pass": true
+    },
+    {
+      "check": "PMMS original-release 2026-10-08",
+      "pass": true
+    },
+    {
+      "check": "independent monthly mean 2000-01",
+      "pass": true
+    },
+    {
+      "check": "independent monthly mean 2006-12",
+      "pass": true
+    },
+    {
+      "check": "independent monthly mean 2012-12",
+      "pass": true
+    },
+    {
+      "check": "independent monthly mean 2019-12",
+      "pass": true
+    },
+    {
+      "check": "independent monthly mean 2021-12",
+      "pass": true
+    },
+    {
+      "check": "independent monthly mean 2023-12",
+      "pass": true
+    },
+    {
+      "check": "independent monthly mean 2026-08",
+      "pass": true
+    },
+    {
+      "check": "360 discounted payments fixed dollars 0",
+      "pass": true
+    },
+    {
+      "check": "360 discounted payments fixed ratio 0",
+      "pass": true
+    },
+    {
+      "check": "360 discounted payments fixed dollars 1",
+      "pass": true
+    },
+    {
+      "check": "360 discounted payments fixed ratio 1",
+      "pass": true
+    },
+    {
+      "check": "360 discounted payments fixed dollars 2",
+      "pass": true
+    },
+    {
+      "check": "360 discounted payments fixed ratio 2",
+      "pass": true
+    },
+    {
+      "check": "360 discounted payments fixed dollars 3",
+      "pass": true
+    },
+    {
+      "check": "360 discounted payments fixed ratio 3",
+      "pass": true
+    },
+    {
+      "check": "360 discounted payments fixed dollars 4",
+      "pass": true
+    },
+    {
+      "check": "360 discounted payments fixed ratio 4",
+      "pass": true
+    },
+    {
+      "check": "360 discounted payments fixed dollars 5",
+      "pass": true
+    },
+    {
+      "check": "360 discounted payments fixed ratio 5",
+      "pass": true
+    },
+    {
+      "check": "360 discounted payments fixed dollars 6",
+      "pass": true
+    },
+    {
+      "check": "360 discounted payments fixed ratio 6",
+      "pass": true
+    },
+    {
+      "check": "360 discounted payments fixed dollars 7",
+      "pass": true
+    },
+    {
+      "check": "360 discounted payments fixed ratio 7",
+      "pass": true
+    },
+    {
+      "check": "360 discounted payments fixed dollars 8",
+      "pass": true
+    },
+    {
+      "check": "360 discounted payments fixed ratio 8",
+      "pass": true
+    },
+    {
+      "check": "360 discounted payments fixed dollars 9",
+      "pass": true
+    },
+    {
+      "check": "360 discounted payments fixed ratio 9",
+      "pass": true
+    },
+    {
+      "check": "360 discounted payments fixed dollars 10",
+      "pass": true
+    },
+    {
+      "check": "360 discounted payments fixed ratio 10",
+      "pass": true
+    },
+    {
+      "check": "360 discounted payments fixed dollars 11",
+      "pass": true
+    },
+    {
+      "check": "360 discounted payments fixed ratio 11",
+      "pass": true
+    },
+    {
+      "check": "360 discounted payments fixed dollars 12",
+      "pass": true
+    },
+    {
+      "check": "360 discounted payments fixed ratio 12",
+      "pass": true
+    },
+    {
+      "check": "360 discounted payments fixed dollars 13",
+      "pass": true
+    },
+    {
+      "check": "360 discounted payments fixed ratio 13",
+      "pass": true
+    },
+    {
+      "check": "360 discounted payments fixed dollars 14",
+      "pass": true
+    },
+    {
+      "check": "360 discounted payments fixed ratio 14",
+      "pass": true
+    },
+    {
+      "check": "360 discounted payments fixed dollars 15",
+      "pass": true
+    },
+    {
+      "check": "360 discounted payments fixed ratio 15",
+      "pass": true
+    },
+    {
+      "check": "360 discounted payments fixed dollars 16",
+      "pass": true
+    },
+    {
+      "check": "360 discounted payments fixed ratio 16",
+      "pass": true
+    },
+    {
+      "check": "360 discounted payments fixed dollars 17",
+      "pass": true
+    },
+    {
+      "check": "360 discounted payments fixed ratio 17",
+      "pass": true
+    },
+    {
+      "check": "upstream original city four-bedroom hash",
+      "pass": true
+    },
+    {
+      "check": "original CSV cycle early_cycle",
+      "pass": true
+    },
+    {
+      "check": "original CSV cycle crisis_recovery",
+      "pass": true
+    },
+    {
+      "check": "original CSV cycle prepandemic",
+      "pass": true
+    },
+    {
+      "check": "original CSV cycle pandemic",
+      "pass": true
+    },
+    {
+      "check": "original CSV cycle hiking",
+      "pass": true
+    },
+    {
+      "check": "original CSV cycle recent",
+      "pass": true
+    },
+    {
+      "check": "correlation sample early_cycle/0",
+      "pass": true
+    },
+    {
+      "check": "statistics.correlation early_cycle/0",
+      "pass": true
+    },
+    {
+      "check": "correlation sample early_cycle/1",
+      "pass": true
+    },
+    {
+      "check": "statistics.correlation early_cycle/1",
+      "pass": true
+    },
+    {
+      "check": "correlation sample early_cycle/2",
+      "pass": true
+    },
+    {
+      "check": "statistics.correlation early_cycle/2",
+      "pass": true
+    },
+    {
+      "check": "correlation sample early_cycle/6",
+      "pass": true
+    },
+    {
+      "check": "statistics.correlation early_cycle/6",
+      "pass": true
+    },
+    {
+      "check": "correlation sample early_cycle/12",
+      "pass": true
+    },
+    {
+      "check": "statistics.correlation early_cycle/12",
+      "pass": true
+    },
+    {
+      "check": "correlation sample crisis_recovery/0",
+      "pass": true
+    },
+    {
+      "check": "statistics.correlation crisis_recovery/0",
+      "pass": true
+    },
+    {
+      "check": "correlation sample crisis_recovery/1",
+      "pass": true
+    },
+    {
+      "check": "statistics.correlation crisis_recovery/1",
+      "pass": true
+    },
+    {
+      "check": "correlation sample crisis_recovery/2",
+      "pass": true
+    },
+    {
+      "check": "statistics.correlation crisis_recovery/2",
+      "pass": true
+    },
+    {
+      "check": "correlation sample crisis_recovery/6",
+      "pass": true
+    },
+    {
+      "check": "statistics.correlation crisis_recovery/6",
+      "pass": true
+    },
+    {
+      "check": "correlation sample crisis_recovery/12",
+      "pass": true
+    },
+    {
+      "check": "statistics.correlation crisis_recovery/12",
+      "pass": true
+    },
+    {
+      "check": "correlation sample prepandemic/0",
+      "pass": true
+    },
+    {
+      "check": "statistics.correlation prepandemic/0",
+      "pass": true
+    },
+    {
+      "check": "correlation sample prepandemic/1",
+      "pass": true
+    },
+    {
+      "check": "statistics.correlation prepandemic/1",
+      "pass": true
+    },
+    {
+      "check": "correlation sample prepandemic/2",
+      "pass": true
+    },
+    {
+      "check": "statistics.correlation prepandemic/2",
+      "pass": true
+    },
+    {
+      "check": "correlation sample prepandemic/6",
+      "pass": true
+    },
+    {
+      "check": "statistics.correlation prepandemic/6",
+      "pass": true
+    },
+    {
+      "check": "correlation sample prepandemic/12",
+      "pass": true
+    },
+    {
+      "check": "statistics.correlation prepandemic/12",
+      "pass": true
+    },
+    {
+      "check": "correlation sample pandemic/0",
+      "pass": true
+    },
+    {
+      "check": "statistics.correlation pandemic/0",
+      "pass": true
+    },
+    {
+      "check": "correlation sample pandemic/1",
+      "pass": true
+    },
+    {
+      "check": "statistics.correlation pandemic/1",
+      "pass": true
+    },
+    {
+      "check": "correlation sample pandemic/2",
+      "pass": true
+    },
+    {
+      "check": "statistics.correlation pandemic/2",
+      "pass": true
+    },
+    {
+      "check": "correlation sample pandemic/6",
+      "pass": true
+    },
+    {
+      "check": "statistics.correlation pandemic/6",
+      "pass": true
+    },
+    {
+      "check": "correlation sample pandemic/12",
+      "pass": true
+    },
+    {
+      "check": "statistics.correlation pandemic/12",
+      "pass": true
+    },
+    {
+      "check": "correlation sample hiking/0",
+      "pass": true
+    },
+    {
+      "check": "statistics.correlation hiking/0",
+      "pass": true
+    },
+    {
+      "check": "correlation sample hiking/1",
+      "pass": true
+    },
+    {
+      "check": "statistics.correlation hiking/1",
+      "pass": true
+    },
+    {
+      "check": "correlation sample hiking/2",
+      "pass": true
+    },
+    {
+      "check": "statistics.correlation hiking/2",
+      "pass": true
+    },
+    {
+      "check": "correlation sample hiking/6",
+      "pass": true
+    },
+    {
+      "check": "statistics.correlation hiking/6",
+      "pass": true
+    },
+    {
+      "check": "correlation sample hiking/12",
+      "pass": true
+    },
+    {
+      "check": "statistics.correlation hiking/12",
+      "pass": true
+    },
+    {
+      "check": "correlation sample recent/0",
+      "pass": true
+    },
+    {
+      "check": "statistics.correlation recent/0",
+      "pass": true
+    },
+    {
+      "check": "correlation sample recent/1",
+      "pass": true
+    },
+    {
+      "check": "statistics.correlation recent/1",
+      "pass": true
+    },
+    {
+      "check": "correlation sample recent/2",
+      "pass": true
+    },
+    {
+      "check": "statistics.correlation recent/2",
+      "pass": true
+    },
+    {
+      "check": "correlation sample recent/6",
+      "pass": true
+    },
+    {
+      "check": "statistics.correlation recent/6",
+      "pass": true
+    },
+    {
+      "check": "correlation sample recent/12",
+      "pass": true
+    },
+    {
+      "check": "statistics.correlation recent/12",
+      "pass": true
+    },
+    {
+      "check": "five flagged county months retained",
+      "pass": true
+    },
+    {
+      "check": "exact county and historical vintage",
+      "pass": true
+    },
+    {
+      "check": "rate gap direction",
+      "pass": true
+    }
+  ],
+  "passed": 118,
+  "all_passed": true,
+  "source_rate_crosscheck": "4 original Freddie release dates; Dallas chart not treated as identical PMMS series",
+  "causal_validation": false
+}

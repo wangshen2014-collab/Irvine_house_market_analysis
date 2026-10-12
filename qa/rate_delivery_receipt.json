@@ -1,0 +1,42 @@
+{
+  "as_of": "2026-10-12",
+  "step": 10,
+  "phase": 13,
+  "stage_status": "constrained_complete",
+  "native_document": {
+    "title": "宏观分析 V2",
+    "tab": "利率：历史传导与购买力",
+    "native_tables": 9,
+    "exact_cell_readbacks": 219,
+    "original_charts": 2,
+    "previous_tab_bodies_unchanged_before_execution_handoff": 17,
+    "reviewed_body_pages": 9,
+    "pdf_total_pages_before_final_receipt": 149,
+    "visual_issue_resolved": "chart title overlap corrected and page re-rendered",
+    "private_document_url_omitted": true
+  },
+  "verification": {
+    "independent_checks_passed": 118,
+    "reproduced_outputs_byte_identical": 16,
+    "altered_frozen_input_rejected_before_output": true,
+    "workbook_extract_rebuild_matches_frozen_hash": true,
+    "frozen_inputs": 32,
+    "full_fred_series": 15,
+    "causal_elasticity_identified": false,
+    "second_model_independent_review": false
+  },
+  "private_archive": {
+    "file": "rate_phase13_evidence_20261012.zip",
+    "bytes": 90825195,
+    "sha256": "ff002163327ef6dd7a97f33e4ccfa279350b381ecae1ca2f4d2e375aee3960d5",
+    "entries": 88,
+    "local_zip_integrity_and_member_hashes_verified": true,
+    "upload_success": true,
+    "remote_size_and_parent_verified": true,
+    "remote_bytes_redownloaded": false,
+    "private_archive_url_omitted": true,
+    "source_tree_before_this_receipt": "abe5e271442e99f4e5c8693ed550e1683cbfd98f"
+  },
+  "publication": "Release-ready snapshot; canonical PR/merge and final native-document handoff recorded after merge in the private formal receipt",
+  "next_action": "Step 11 joint scenarios; no household A/C integration yet"
+}
