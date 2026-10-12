@@ -1,0 +1,20 @@
+{
+  "status": "pass",
+  "identical_files": [
+    "synthetic.csv",
+    "county_same_season.csv",
+    "listing_timelines.csv",
+    "rent_value.csv",
+    "analysis.json",
+    "zhvi_summary.csv",
+    "county_yoy_reconciliation.json",
+    "qa/pricing_independent_arithmetic.json",
+    "qa/pricing_build_checks.json",
+    "data/clean/pricing_coverage_20261012.csv",
+    "data/clean/pricing_synthetic_conditions.csv"
+  ],
+  "total": 11,
+  "scope": "isolated rebuild from all 8 frozen inputs; no download refresh",
+  "changed_input_rejected_before_outputs": true,
+  "final_code_rerun": true
+}

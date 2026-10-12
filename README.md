@@ -182,3 +182,17 @@ python scripts/report_rental_cost_baseline.py --evidence-dir /path/to/rental-evi
 ```
 
 仅依赖Python标准库。构建先核 `data/rental_source_manifest.json` 中18份已取得输入的SHA-256；失败下载不当原件。公开产物只包括来源链接、覆盖计数和明确虚构的计算情景；逐址价格、实际费用、配对详表和正式文档段落留私有。`--public-out`可指定隔离输出目录；`qa/rental_reproducibility.json`记录复跑与篡改输入拒绝检查。真实保险、MR、附费缺失时完整成本为空，不补零。
+
+## 阶段十二：步骤9市场状态与条件估值（2026-10-12）
+
+[定价报告](reports/2026-10-12_asset_pricing_phase12.md)：19条全房型／四卧模型序列、123个月橙县库存、旧25笔成交与9个新增跟进地址。证据支持议价改善与产品分化；严格目标重复成交、全量新签约及完整租购成本仍缺，不能宣称普遍低估。Zillow实际最后列为2026年8月，县级为9月。
+
+从已授权本轮私人证据包恢复 `raw/`、`private/pricing_notes.json` 与 `private/frozen/`。先核8份输入指纹；变版需重新登记，不静默刷新。
+
+```bash
+python scripts/build_asset_pricing.py --evidence-dir /path/to/pricing-evidence --private-out /path/to/pricing-evidence/private/derived
+python scripts/audit_asset_pricing.py --evidence-dir /path/to/pricing-evidence --private-out /path/to/pricing-evidence/private/derived
+python scripts/chart_asset_pricing.py --private-out /path/to/pricing-evidence/private/derived
+```
+
+前两支只需标准库，图形需requirements中的matplotlib。build／audit可加 `--public-out /tmp/pricing-public` 隔离复跑。公开只有覆盖计数与9个虚构条件，私人输出含供应商和逐屋数值，不得提交。137项独立算术核对保留一项来源同比字段差异；11份复跑输出逐字节相同，变更输入在输出前被拒。下一步为步骤10利率历史传导；没有进入A/C。

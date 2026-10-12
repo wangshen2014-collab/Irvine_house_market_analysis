@@ -1,0 +1,20 @@
+{
+  "status": "pass_with_source_discrepancy_retained",
+  "independent_numerical_checks": 137,
+  "source_yoy_comparisons": 6,
+  "source_yoy_beyond_rounding_tolerance": 1,
+  "source_discrepancy_policy": "median_square_feet YoY differs from current-vintage levels; use level-based calculation, retain source field, no fabricated reconciliation",
+  "controls": [
+    "CA geography",
+    "same August comparison",
+    "county September source YoY comparison",
+    "Decimal amortization versus closed-form balances",
+    "conditional price substituted into annual cost equation",
+    "contingent price stays unknown",
+    "calendar span not DOM",
+    "positive reference-peak change not negative drawdown",
+    "no real full net yield"
+  ],
+  "reviewer": "same-agent serial arithmetic and evidence checks",
+  "independent_model_review": false
+}
