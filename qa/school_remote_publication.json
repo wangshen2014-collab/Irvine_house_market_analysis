@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-12",
+  "method": "GitHub Git Data API publication; author/time metadata changes commit SHA, tree content remains identical",
+  "versions": [
+    {
+      "purpose": "review remediation",
+      "local_commit": "eac4409",
+      "github_commit": "5079cf2f335c48d9a1a3178625c7e9d5aedb2187",
+      "tree": "fe2cd6b44e7cf7a4c9113360f50124662410eeb8"
+    },
+    {
+      "purpose": "school data and report",
+      "local_commit": "eed183198bcd04bf0dff2070af927a92aebd0f1b",
+      "github_commit": "0e0046601aa7ca47b828429ea4d5291106243f42",
+      "tree": "b362ea225e541155a7d9f046eed36c1d18b07020"
+    },
+    {
+      "purpose": "document and archive delivery",
+      "local_commit": "7d027f48a4d1eda8b1401a31a90611adc65b1f0c",
+      "github_commit": "50f333bd9a42215482052979a84c5e98a965e610",
+      "tree": "38968ae2e7288f00e615b2cc416e4004bbce2c46"
+    }
+  ],
+  "all_three_tree_hashes_equal_local": true,
+  "archive_code_snapshot_is_local_school_commit": true,
+  "archive_original_bytes_unchanged": true
+}
