@@ -43,3 +43,16 @@ estimate与moe90为估计与90%抽样MOE；原字符estimate_raw／moe_raw不能
 acs_household_metrics_2024.csv为305项常规指标（包含近似MOE）；acs_replicate_metrics_2024.csv为25项同指标的SDR MOE优先覆盖，报告生成时采用该覆盖。acs_household_metrics_2019.csv为60项历史结构指标；acs_household_window_changes.csv为60项不重叠窗口差值。unit=fraction的展示百分比乘100，差值展示pp也乘100。SDR指标按4/80×平方差之和、再乘1.645计算MOE。无VRE的合计用RSS、子集比例用Census近似公式，并记录方法及负根号时的保守ratio fallback。
 
 差值显著性仅90%名义检验，未经多重比较调整，不能替代实际重要性；城市边界／人口控制变化与非抽样误差另列限制。2019与2024收入保留各自美元基准，本轮不计算实际收入增长。高收入、租买、年龄、有孩边际占比不能相乘构造买家数量。
+
+## 社区地理与ACS阶段四
+
+- `community_boundary_registry.csv`：7条研究范围登记（5组HOA覆盖＋PA1/PA9）。`master_id`是市政HOA分组编号，不是Census；编辑毫秒时间为UTC，非边界生效日。覆盖面不认证完整法律／市场村界。
+- `community_census_crosswalk.csv`：39条面积相交；社区与统计区两种分母分别记录。EPSG:26911平面平方米，略有投影尺度差，仅诊断空间关系，严禁作为户数／收入权重。大于1平方米的交集保留，PA微小跨界也不静默删除。
+- `community_block_diagnostics.csv`：975条社区×2020 block；住房单元包括空置。内部点不是住房坐标；面积多数和10米容差另列。全部是规则敏感性诊断，不能称精确社区户数或现期权重。
+- `community_bg_housing_audit.csv`：45条按BG汇总的诊断；任何交集、内部点和面积多数可能不同。没有把这些不同规则解释为真实值上下界。
+- `community_census_geometries.geojson`：仅2个Census tract和9个BG的WGS84几何，没有市政HOA／PA原始形状。`GEOID`长度区分11位tract与12位BG。
+- `acs_community_detailed_2024.csv`：1,452个官方细项，保留完整GEO_ID、变量、universe、源行与完整源SHA。开放顶档250001在raw保留，但`estimate_status`注明非精确值，显示$250,000+。
+- `acs_community_metrics_2024.csv`：276条（11个官方地理＋1个完整BG聚合代理×23指标），包含明确未发布和不能合成状态。`CUSTOM_SG_BG123`为524.29 BG1–3之和，非全Stonegate或四卧目标房型。收入单位2024美元，share为0–1；其moe90同单位，展示乘100为百分点。
+- `80_replicates_SDR`采用4/80乘80次平方离差，再乘1.645得到90%MOE，分子／分母或完整BG在同一次replicate中运算。单个发布数值保留发布MOE；其他RSS／比例近似明确命名。`CV>30%`仅研究提示线，不是Census官方通过／拒绝标准。
+- `acs_community_geography_check.csv`为11条身份核对；`acs_community_table_coverage.csv`为11表可得性。B25115/B25118/B25119没有9个目标BG行，不下推tract、不填零；合并BG中位数不做加权平均。
+- `community_source_manifest.json`为21份新来源字节和SHA-256；复用13份ACS批量来源继续参见`acs_source_manifest.json`。官方换版后须登记新snapshot，不能覆盖当前快照。
