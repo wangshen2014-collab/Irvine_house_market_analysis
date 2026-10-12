@@ -1,0 +1,4 @@
+year,purchase_records,purchase_loan_amount_sum_usd,strict_originations,exact_public_row_duplicates_retained,missing_tract_n,missing_state_all_n,missing_state_strict_n,unique_lenders,unique_loan_or_household_identifier_available
+2023,29627,25093615000.0,12911,0,5,1,0,374,False
+2024,28522,27374830000.0,13025,0,9,4,1,361,False
+2025,28853,27615175000.0,12367,0,11,8,6,364,False

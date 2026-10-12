@@ -1,0 +1,17 @@
+{
+  "status": "pass",
+  "isolated_outputs_byte_identical": {
+    "oc_employment_wages.csv": true,
+    "hmda_value_bands.csv": true,
+    "hmda_tract_city_crosswalk.csv": true,
+    "purchasing_financing_scenarios.csv": true,
+    "hmda_field_completeness.csv": true,
+    "hmda_filter_funnel.csv": true,
+    "oc_recent_employment.csv": true,
+    "hmda_acquisition_checks.csv": true,
+    "hmda_geography_coverage.csv": true,
+    "hmda_purchase_summary.csv": true,
+    "hmda_filter_sensitivity.csv": true
+  },
+  "qa_byte_identical": true
+}

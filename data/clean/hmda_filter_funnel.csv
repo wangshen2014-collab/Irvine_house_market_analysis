@@ -1,0 +1,31 @@
+year,filter_step,records,excluded_this_step
+2023,all_purchase_records,29627,0
+2023,action_taken=1,16074,13553
+2023,occupancy_type=1,13832,2242
+2023,lien_status=1,13509,323
+2023,construction_method=1,13117,392
+2023,"total_units=('1', '2', '3', '4')",13117,0
+2023,total_units=1,13051,66
+2023,reverse_mortgage=2,12955,96
+2023,open-end_line_of_credit=2,12919,36
+2023,business_or_commercial_purpose=2,12911,8
+2024,all_purchase_records,28522,0
+2024,action_taken=1,16522,12000
+2024,occupancy_type=1,13971,2551
+2024,lien_status=1,13624,347
+2024,construction_method=1,13271,353
+2024,"total_units=('1', '2', '3', '4')",13271,0
+2024,total_units=1,13179,92
+2024,reverse_mortgage=2,13085,94
+2024,open-end_line_of_credit=2,13039,46
+2024,business_or_commercial_purpose=2,13025,14
+2025,all_purchase_records,28853,0
+2025,action_taken=1,16222,12631
+2025,occupancy_type=1,13366,2856
+2025,lien_status=1,13032,334
+2025,construction_method=1,12636,396
+2025,"total_units=('1', '2', '3', '4')",12636,0
+2025,total_units=1,12537,99
+2025,reverse_mortgage=2,12447,90
+2025,open-end_line_of_credit=2,12390,57
+2025,business_or_commercial_purpose=2,12367,23

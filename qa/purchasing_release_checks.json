@@ -1,0 +1,17 @@
+{
+  "status": "pass",
+  "filename": "purchasing_power_phase7_evidence_20261011.zip",
+  "bytes": 15321694,
+  "sha256": "9cb1cf1b4c33a95075d2b9797268690a3d19e0fc20a2163b748fe461fe0193bc",
+  "md5": "d2977afbc7d65ac6da12688f5a3d40c5",
+  "entries": 56,
+  "remote_readback_sha256_identical": true,
+  "raw_inputs_verified": 25,
+  "public_code_matches_archived": true,
+  "native_doc_tables": 11,
+  "native_doc_cells": 268,
+  "native_doc_source_links": 14,
+  "visual_content_pages": 7,
+  "prior_non_execution_tabs_unchanged": 8,
+  "execution_paragraph_replacements": 4
+}
