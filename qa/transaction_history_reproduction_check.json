@@ -1,0 +1,8 @@
+{
+  "version": "history_phase6_v1",
+  "standard_library_only": true,
+  "isolated_archive_layout_reproduction": "passed",
+  "byte_identical_regenerated_outputs": 8,
+  "equal_length_mutation": "rejected_before_output",
+  "python_compile": "passed"
+}

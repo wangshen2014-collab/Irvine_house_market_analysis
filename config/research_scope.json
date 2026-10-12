@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-11-transaction-pilot-phase5",
+  "version": "2026-10-11-transaction-history-phase6",
   "timezone": "America/Los_Angeles",
   "project_type": "independent_public_market_B",
   "primary_city": "Irvine",
@@ -50,6 +50,21 @@
     "sale_source_reviews": 8,
     "lease_source_reviews": 3,
     "title_or_site_verified": 0,
-    "market_pricing_series_accepted": false
+    "market_pricing_series_accepted": false,
+    "status_basis": "phase5_frozen_pilot_snapshot"
+  },
+  "transaction_history_status": {
+    "fixed_sale_cohort": 25,
+    "source_event_observation_rows": 131,
+    "candidate_product_strata": 17,
+    "stable_profile_candidates": 21,
+    "profile_and_price_candidates": 20,
+    "new_three_bed_closed_lease_records": 4,
+    "cumulative_closed_lease_records": 7,
+    "complete_listing_histories_verified": 0,
+    "actual_contract_dom_verified": 0,
+    "signed_new_leases_verified": 0,
+    "same_quality_price_series_accepted": false,
+    "next_module": "actual_purchasing_power_and_cross_city_substitution"
   }
 }

@@ -4,7 +4,7 @@
 
 ## 项目状态
 
-2026-10-11启动。已完成县级历史人口／净迁移、城市家庭数量分解及官方长期预测的阶段研究；已补城市ACS结构及重点社区边界／统计代理区诊断；已补成交／租赁公开字段试采集；实际买家购买力与完整需求／供给／定价研究尚未完成，尚未形成买入／等待结论。
+2026-10-11启动。已完成县级历史人口／净迁移、城市家庭数量分解及官方长期预测的阶段研究；已补城市ACS结构、重点社区统计代理诊断、成交字段试采集，以及25笔售房的公开挂牌时间线和4笔三卧关闭租赁。实际买家购买力与完整需求／供给／定价研究尚未完成，尚未形成买入／等待结论。
 
 ## 工作方式
 
@@ -92,4 +92,17 @@ python scripts/audit_transaction_pilot.py --notes /path/to/pilot_working.json --
 python scripts/report_transaction_pilot.py
 ```
 
-下一步按产品组重建近24个月成交与挂牌时间线，并补三卧关闭租赁基线。源格式一致不等于独立文书核验，完整公共B仍未完成。
+上述下一项已在下方阶段六完成公开可见历史与三卧补采部分。源格式一致不等于独立文书核验，完整公共B仍未完成。
+
+## 成交／租赁阶段六更新
+
+[产品分组、挂牌时间线与三卧租赁](reports/2026-10-11_transaction_history_phase6.md)：延续25笔非随机售房，整理131条来源事件观察、17个候选产品组，新增4笔三卧关闭租赁。跨MLS重新挂牌、旧缓存、日期与价格冲突分别保留；22条较稳定字段候选因新增卧室冲突修正为21条，再排除重大成交价冲突为20条。均未认证同品质关系，不能形成两年价格指数。
+
+812项程序检查通过，等长金额改动的负向指纹核验在输出前拒绝继续。公开45条来源链接及原创方法，逐项字段保留指定研究档案。3份输入的指纹是研究笔记和索引指纹，不是假称取得房源HTML或完整MLS导出。
+
+```bash
+python scripts/build_transaction_history.py --pilot-notes /path/to/pilot_working.json --history-notes /path/to/history_notes.json --source-map /path/to/used_source_references.json --manifest data/transaction_history_input_manifest.json --outdir /path/to/reviewed --public-qa qa/transaction_history_qa.json --source-index data/transaction_history_source_index.csv
+python scripts/report_transaction_history.py
+```
+
+下一项：实际购买力与城市分流，先核对HMDA公开数据年份、用途和地理覆盖，再结合工资／就业及已有家庭结构。完整挂牌史、实际DOM、净租金和产权仍缺；学校、供给与定价模块继续保留，家庭A暂不接入。

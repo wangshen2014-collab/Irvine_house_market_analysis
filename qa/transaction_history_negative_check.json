@@ -1,0 +1,6 @@
+{
+  "test": "equal_length_single_value_mutation",
+  "result": "rejected_before_output",
+  "expected_error": "frozen_sha256_history_notes",
+  "exit_code": 1
+}

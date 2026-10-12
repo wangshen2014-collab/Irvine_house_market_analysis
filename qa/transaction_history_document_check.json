@@ -1,0 +1,14 @@
+{
+  "version": "history_phase6_v1",
+  "native_tables": 8,
+  "checked_cells": 316,
+  "cell_mismatches": 0,
+  "checked_source_links": 32,
+  "source_link_mismatches": 0,
+  "existing_stage_tabs_unchanged": 7,
+  "execution_tab_scoped_paragraph_updates": 6,
+  "new_content_pages_visually_reviewed": 7,
+  "pdf_whole_document_pages_at_review": 64,
+  "review_type": "native_readback_plus_rendered_visual_review",
+  "independent_model_review": false
+}
