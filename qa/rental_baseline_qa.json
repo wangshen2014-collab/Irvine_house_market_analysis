@@ -1,0 +1,23 @@
+{
+  "as_of": "2026-10-12",
+  "observations": 18,
+  "new_observations": 11,
+  "historical_observations": 7,
+  "closed_reported": 12,
+  "asking_reported": 6,
+  "signed_leases": 0,
+  "renewals": 0,
+  "full_effective_rents": 0,
+  "official_school_assignments": 0,
+  "excluded_candidates": 7,
+  "candidate_matches": 8,
+  "same_address_pairs": 2,
+  "strict_same_quality_matches": 0,
+  "known_lease_terms": 15,
+  "unfurnished_consistent": 15,
+  "future_advertised_availability": 2,
+  "cost_properties": 8,
+  "complete_property_costs": 0,
+  "input_fingerprints_verified": 18,
+  "unknowns_not_zero": true
+}

@@ -1,0 +1,14 @@
+﻿city,community,bedrooms,status,observations,sampling
+Aliso Viejo,Glenwood,3,asking_active_reported,1,purposive_not_market_inventory
+Irvine,Eastwood,4,asking_active_reported,2,purposive_not_market_inventory
+Irvine,Portola Springs,3,MLS_closed_reported,1,purposive_not_market_inventory
+Irvine,Reserve,3,MLS_closed_reported,1,purposive_not_market_inventory
+Irvine,Reserve,3,asking_active_reported,1,purposive_not_market_inventory
+Irvine,Reserve,4,MLS_closed_reported,1,purposive_not_market_inventory
+Irvine,Stonegate,3,MLS_closed_reported,3,purposive_not_market_inventory
+Irvine,Stonegate,3,asking_active_reported,1,purposive_not_market_inventory
+Irvine,Stonegate,4,MLS_closed_reported,2,purposive_not_market_inventory
+Irvine,Stonegate,4,asking_active_reported,1,purposive_not_market_inventory
+Lake Forest,Baker Ranch,3,MLS_closed_reported,1,purposive_not_market_inventory
+Lake Forest,Baker Ranch,4,MLS_closed_reported,1,purposive_not_market_inventory
+Tustin,Greenwood / Tustin Legacy,4,MLS_closed_reported,2,purposive_not_market_inventory

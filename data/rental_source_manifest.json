@@ -1,0 +1,214 @@
+{
+  "version": "phase11_v1",
+  "as_of": "2026-10-12",
+  "basis": "Official raw bytes where downloaded; individual listing facts private; failed downloads not acquired.",
+  "files": [
+    {
+      "url": "https://boe.ca.gov/proptaxes/supplemental-assessment/",
+      "retrieved_at": "2026-10-12T19:03:36.705514+00:00",
+      "error": "<urlopen error timed out>",
+      "path": "raw/boe_supplemental.html",
+      "publication": "link_and_fingerprint_only"
+    },
+    {
+      "url": "https://boe.ca.gov/proptaxes/pdf/pub29.pdf",
+      "retrieved_at": "2026-10-12T19:03:36.707883+00:00",
+      "error": "<urlopen error timed out>",
+      "path": "raw/boe_pub29.pdf",
+      "publication": "link_and_fingerprint_only"
+    },
+    {
+      "url": "https://www.octreasurer.gov/property-tax",
+      "retrieved_at": "2026-10-12T19:03:36.709511+00:00",
+      "status": 200,
+      "bytes": 229134,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "1f0cfebcef75371f3992d33b78aaa6be9241b5d5da101f4c37230a58ac5a718d",
+      "path": "raw/oc_property_tax.html",
+      "publication": "link_and_fingerprint_only"
+    },
+    {
+      "url": "https://mello.ocgov.com/",
+      "retrieved_at": "2026-10-12T19:03:36.710335+00:00",
+      "status": 200,
+      "bytes": 2181,
+      "content_type": "text/html",
+      "sha256": "a49f0e493d8901c934b4e5ceae1f4e6cc1311647ef007bacbf2c3ff6fb8acc47",
+      "path": "raw/oc_mello.html",
+      "publication": "link_and_fingerprint_only"
+    },
+    {
+      "url": "https://cityofirvine.gov/community-development/fire-hazard-severity-zone-map",
+      "retrieved_at": "2026-10-12T19:03:41.272962+00:00",
+      "status": 200,
+      "bytes": 94396,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "4c7e7071a890218caca4874ad90ccdf477163909da51188ae51a36dffb678b2f",
+      "path": "raw/irvine_fire2025.html",
+      "publication": "link_and_fingerprint_only"
+    },
+    {
+      "url": "https://legacy.cityofirvine.org/civica/filebank/blobdload.asp?BlobID=36001",
+      "retrieved_at": "2026-10-12T19:03:45.130467+00:00",
+      "error": "HTTP Error 503: Service Unavailable",
+      "path": "raw/irvine_fire2025_map.pdf",
+      "publication": "link_and_fingerprint_only"
+    },
+    {
+      "url": "https://www.insurance.ca.gov/01-consumers/105-type/95-guides/03-res/res-ins-guide.cfm",
+      "retrieved_at": "2026-10-12T19:03:47.457510+00:00",
+      "status": 200,
+      "bytes": 87118,
+      "content_type": "text/html;charset=UTF-8",
+      "sha256": "f4813e8f3dbc2a7b2368cf9ff40a298143ad7a08cc96f20d1f1b5791dd88e76a",
+      "path": "raw/cdi_residential.html",
+      "publication": "link_and_fingerprint_only"
+    },
+    {
+      "url": "https://www.insurance.ca.gov/01-consumers/105-type/5-residential/carriersDICpolicies.cfm",
+      "retrieved_at": "2026-10-12T19:03:51.918482+00:00",
+      "status": 200,
+      "bytes": 51881,
+      "content_type": "text/html;charset=UTF-8",
+      "sha256": "115882fceeac3a442effd4df9f7f508c30657b82610a393605cf084db41dc4c7",
+      "path": "raw/cdi_dic.html",
+      "publication": "link_and_fingerprint_only"
+    },
+    {
+      "url": "https://oag.ca.gov/system/files/media/Know-Your-Rights-Security-Deposits-English.pdf",
+      "retrieved_at": "2026-10-12T19:03:56.280947+00:00",
+      "status": 200,
+      "bytes": 460481,
+      "content_type": "application/pdf",
+      "sha256": "457e0e82439ef2892f40b373d8c730b9cbacb9975512c78e1ffe6439eeb2b7a3",
+      "path": "raw/security_deposits.pdf",
+      "publication": "link_and_fingerprint_only"
+    },
+    {
+      "url": "https://iusd.org/sites/default/files/documents/Irvine%20USD%20CFD%20No.%2009-1%202025%20Final%20Financial%20Statements.pdf",
+      "retrieved_at": "2026-10-12T19:04:01.964286+00:00",
+      "status": 200,
+      "bytes": 600827,
+      "content_type": "application/pdf",
+      "sha256": "17473feed215cf4f7ecf3a33ced5ba0b452843718ffebe389be93ff0e925aeb1",
+      "path": "raw/iusd_cfd091_fy2025.pdf",
+      "publication": "link_and_fingerprint_only"
+    },
+    {
+      "url": "https://iusd.org/business-services/fiscal-services/community-facilities-districts",
+      "retrieved_at": "2026-10-12T19:04:04.368997+00:00",
+      "error": "HTTP Error 404: Not Found",
+      "path": "raw/iusd_cfd.html",
+      "publication": "link_and_fingerprint_only"
+    },
+    {
+      "url": "https://ocauditor.gov/about/central-accounting/property-tax-accounting/direct-charge-special-assessment-documents/",
+      "retrieved_at": "2026-10-12T19:04:06.016846+00:00",
+      "status": 200,
+      "bytes": 59708,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "ce2015c7be4d08b0d8daff41ed0d2be70055e8133b2c54900a023eb518e7ce15",
+      "path": "raw/oc_directcharge.html",
+      "publication": "link_and_fingerprint_only"
+    },
+    {
+      "url": "https://cityofirvine.gov/sites/default/files/legacy-documents/civica-36001-fhsz_city_lra_11x17_irvine.pdf",
+      "retrieved_at": "2026-10-12T19:05:14.526021+00:00",
+      "error": "<urlopen error timed out>",
+      "path": "raw/irvine_fire2025_map_current.pdf",
+      "publication": "link_and_fingerprint_only"
+    },
+    {
+      "url": "https://www.ocassessor.gov/real-property-assessments/buying-or-selling-property",
+      "retrieved_at": "2026-10-12T19:05:34.550309+00:00",
+      "status": 200,
+      "bytes": 105210,
+      "sha256": "47c2a634c16412efeb8a1254d899970c922ee6ec596b8121b5e5d61b4214e48e",
+      "path": "raw/oc_assessor_newbuyer.html",
+      "publication": "link_and_fingerprint_only"
+    },
+    {
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1950.5.&lawCode=CIV",
+      "retrieved_at": "2026-10-12T19:05:39.005564+00:00",
+      "error": "HTTP Error 403: Forbidden",
+      "path": "raw/civil1950_5.html",
+      "publication": "link_and_fingerprint_only"
+    },
+    {
+      "url": "https://www.lakeforestca.gov/departments/fire/fire_risk.php",
+      "retrieved_at": "2026-10-12T19:10:12.932794+00:00",
+      "status": 200,
+      "bytes": 135679,
+      "sha256": "9345d8526ab3dff7b5f6e2637ec28cd5ccc59b3270b0b35becb440cff9407b11",
+      "path": "raw/lakeforest_fire2025.html",
+      "publication": "link_and_fingerprint_only"
+    },
+    {
+      "url": "https://www.tustinca.org/1600/Fire-Hazard-Severity-Zone",
+      "retrieved_at": "2026-10-12T19:10:12.933355+00:00",
+      "error": "<urlopen error timed out>",
+      "path": "raw/tustin_fire2025.html",
+      "publication": "link_and_fingerprint_only"
+    },
+    {
+      "url": "https://avcity.org/DocumentCenter/View/4207/FHSZ_City_LRA_11x17_AlisoViejo",
+      "retrieved_at": "2026-10-12T19:10:12.934560+00:00",
+      "status": 200,
+      "bytes": 1210797,
+      "sha256": "fe3e9909ce227e0da7260d156730a754871045a04c67f1ea6fffcfdca1bae89f",
+      "path": "raw/aliso_fire2025.pdf",
+      "publication": "link_and_fingerprint_only"
+    },
+    {
+      "url": "https://www.cityofirvine.gov/sites/default/files/legacy-documents/civica-36001-fhsz_city_lra_11x17_irvine.pdf",
+      "retrieved_at": "2026-10-12T19:10:12.935405+00:00",
+      "status": 200,
+      "bytes": 2464973,
+      "sha256": "3fddab82781d4fc78fc88717ee3c2baf5aafc275e789189760e01c94e59ad083",
+      "path": "raw/irvine_fire2025_map_www.pdf",
+      "publication": "link_and_fingerprint_only"
+    },
+    {
+      "path": "private/rental_notes.json",
+      "bytes": 112203,
+      "sha256": "bb8f9620fe39720d61f920dcb0e65e4299a836c97b27861841305d9fc5e7a7ec",
+      "publication": "private_research_notes_not_raw_listing",
+      "vintage": "2026-10-12"
+    },
+    {
+      "path": "private/frozen/pilot_working.json",
+      "bytes": 87175,
+      "sha256": "73488a35aa39e9c4d40669c0f9a485085278fc4a28c4bfd5c0b5396ec8d88bfb",
+      "publication": "private_research_notes_not_raw_listing",
+      "vintage": "2026-10-11"
+    },
+    {
+      "path": "private/frozen/history_notes.json",
+      "bytes": 39272,
+      "sha256": "9be2132b111ccb212b662adb78a74239ef9603ff146a77225b0ed10a5136b6e9",
+      "publication": "private_research_notes_not_raw_listing",
+      "vintage": "2026-10-11"
+    },
+    {
+      "path": "private/frozen/property_cost_notes.json",
+      "bytes": 4381,
+      "sha256": "6ccc702ae825d16df9e9b522225d51a1abdd6956981b66fd8df2886673d76ac8",
+      "publication": "private_research_notes_not_raw_listing",
+      "vintage": "2026-10-11"
+    },
+    {
+      "path": "private/report_prose.json",
+      "bytes": 9687,
+      "sha256": "3ead98fdb56a8c89959c8330fa382c1ea8ff60643cb8c3b5d0d711761aca4ac6",
+      "publication": "private_original_synthesis",
+      "vintage": "2026-10-12"
+    },
+    {
+      "path": "private/audit_anchors.json",
+      "bytes": 152,
+      "sha256": "d6539b0d7939c9f8cd4ef38365145be93117bff342f7c92cf91afebc3f95bdbd",
+      "publication": "private_original_synthesis",
+      "vintage": "2026-10-12"
+    }
+  ]
+}
