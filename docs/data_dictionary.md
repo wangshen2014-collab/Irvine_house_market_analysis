@@ -31,3 +31,15 @@ redistribution_status：approved/link_only/restricted/pending。未确认批准�
 county_components_2020_2025.csv有60行：DOF与Census各6地理单元×5完整年度。period_end_exclusive为所示年7月1日，实际覆盖截至6月30日。人数为有符号整数。residual在Census保留，DOF本轮组成相加为零残差；不把两系列拼接或平均。
 
 community_pa_crosswalk_v0_2.csv有11行，父PA和子区分别记录。不同社区共享父PA不重复加总；Reserve与Orchard Hills有包含关系。城市GIS的TRACT／TR.编号是登记／开发tract，不是11位Census statistical tract GEOID，不得直接join。
+
+## ACS城市家庭结构（阶段三）
+
+acs_2024_detailed.csv一行是dataset／GEOID／variable，2,781行；acs_2019_detailed.csv为同类细项1,725行。2024的1YR仅2024期间、5YR为2020–2024；2019_5YR为2015–2019。年份是观测窗口，不是下载年份或年末快照。GEOID、原文件行／列、旧LOGRECNO、完整SHA256、source_id及source_url均保留。
+
+estimate与moe90为估计与90%抽样MOE；原字符estimate_raw／moe_raw不能丢弃。-666666666等未计算单元为空，不补零；只有官方定义为受控制估计的MOE代码-555555555，可按官方说明视为零抽样误差，并保留受控制状态。它不表示没有非抽样误差。负的重复估计值是方差计算伪估计，可正常用于SDR；不可与实质性的负人数混为一谈。
+
+人口／个人／家庭／已入住住房单位按表的Universe区分。B11005为家中任何未成年人，B25115为户主自己的未成年子女；两者不可替代。B07001是现居居民的过去一年居住地，只有迁入侧，非净迁移，也非买房家庭。B07011为个人收入中位数，非家庭收入。B19001最高档≥$200k，B25118最高档≥$150k，不能细分≥$300k／500k家庭。
+
+acs_household_metrics_2024.csv为305项常规指标（包含近似MOE）；acs_replicate_metrics_2024.csv为25项同指标的SDR MOE优先覆盖，报告生成时采用该覆盖。acs_household_metrics_2019.csv为60项历史结构指标；acs_household_window_changes.csv为60项不重叠窗口差值。unit=fraction的展示百分比乘100，差值展示pp也乘100。SDR指标按4/80×平方差之和、再乘1.645计算MOE。无VRE的合计用RSS、子集比例用Census近似公式，并记录方法及负根号时的保守ratio fallback。
+
+差值显著性仅90%名义检验，未经多重比较调整，不能替代实际重要性；城市边界／人口控制变化与非抽样误差另列限制。2019与2024收入保留各自美元基准，本轮不计算实际收入增长。高收入、租买、年龄、有孩边际占比不能相乘构造买家数量。

@@ -1,0 +1,10 @@
+dataset,geo_id,geography,official_name,sumlevel,state,place,county
+ACS2024_1YR,0500000US06059,Orange County,"Orange County, California",050,06,,059
+ACS2024_1YR,1600000US0636770,Irvine,"Irvine city, California",160,06,36770,
+ACS2024_1YR,1600000US0639496,Lake Forest,"Lake Forest city, California",160,06,39496,
+ACS2024_1YR,1600000US0680854,Tustin,"Tustin city, California",160,06,80854,
+ACS2024_5YR,0500000US06059,Orange County,"Orange County, California",050,06,,059
+ACS2024_5YR,1600000US0600947,Aliso Viejo,"Aliso Viejo city, California",160,06,00947,
+ACS2024_5YR,1600000US0636770,Irvine,"Irvine city, California",160,06,36770,
+ACS2024_5YR,1600000US0639496,Lake Forest,"Lake Forest city, California",160,06,39496,
+ACS2024_5YR,1600000US0680854,Tustin,"Tustin city, California",160,06,80854,

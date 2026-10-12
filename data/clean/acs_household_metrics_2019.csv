@@ -1,0 +1,61 @@
+dataset,period_start,period_end,geography,metric,estimate,moe90,unit,moe_method
+ACS2019_5YR,2015-01-01,2019-12-31,Orange County,households_total,1037492.0,2280.0,households,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Orange County,owner_households,595272.0,3760.0,households,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Orange County,renter_households,442220.0,3657.0,households,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Orange County,owner_share,0.5737605687561929,0.0033977061819415013,fraction,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Orange County,family_share,0.7171245657797843,0.0030328380960428893,fraction,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Orange County,households_under18,358276.0,3021.0,households,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Orange County,households_under18_share,0.34532892783751584,0.0028111966968912792,fraction,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Orange County,householders25_44,326704.0,3612.621762653821,households,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Orange County,householders25_44_share,0.31489784981474556,0.003412613467367778,fraction,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Orange County,householders65plus_share,0.2449936963369356,0.0022561725854295684,fraction,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Orange County,renter_with_own_children,153969.0,2803.0906157311433,households,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Orange County,renter_with_own_children_share,0.3481728551399756,0.005647007161507628,fraction,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Irvine,households_total,98281.0,1237.0,households,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Irvine,owner_households,46017.0,988.0,households,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Irvine,renter_households,52264.0,1367.0,households,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Irvine,owner_share,0.4682186790936193,0.008144292939144265,fraction,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Irvine,family_share,0.6612773577802423,0.007391436608889094,fraction,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Irvine,households_under18,34612.0,753.0,households,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Irvine,households_under18_share,0.3521738688047537,0.006249311330797339,fraction,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Irvine,householders25_44,39119.0,1726.5592952458944,households,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Irvine,householders25_44_share,0.3980321730548122,0.01683811149629724,fraction,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Irvine,householders65plus_share,0.161546992806341,0.008526319943819558,fraction,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Irvine,renter_with_own_children,15800.0,1005.9671962842526,households,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Irvine,renter_with_own_children_share,0.30231134241542934,0.017548641488317654,fraction,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Lake Forest,households_total,29338.0,579.0,households,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Lake Forest,owner_households,20337.0,616.0,households,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Lake Forest,renter_households,9001.0,529.0,households,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Lake Forest,owner_share,0.6931965369145817,0.015928010020233634,fraction,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Lake Forest,family_share,0.7347126593496489,0.007724707218405735,fraction,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Lake Forest,households_under18,10020.0,358.0,households,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Lake Forest,households_under18_share,0.3415365737269071,0.010172051792917271,fraction,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Lake Forest,householders25_44,9405.0,706.1678270779546,households,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Lake Forest,householders25_44_share,0.32057399959097416,0.023223726798498757,fraction,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Lake Forest,householders65plus_share,0.2239075601608835,0.01597849032543607,fraction,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Lake Forest,renter_with_own_children,3152.0,394.54910974427503,households,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Lake Forest,renter_with_own_children_share,0.3501833129652261,0.03870202668256512,fraction,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Tustin,households_total,25697.0,680.0,households,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Tustin,owner_households,12759.0,623.0,households,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Tustin,renter_households,12938.0,552.0,households,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Tustin,owner_share,0.49651710316379344,0.020375061759268842,fraction,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Tustin,family_share,0.7043623769311593,0.0024240583334660896,fraction,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Tustin,households_under18,9871.0,361.0,households,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Tustin,households_under18_share,0.38413044324240186,0.009696878471034365,fraction,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Tustin,householders25_44,9890.0,790.6421440828967,households,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Tustin,householders25_44_share,0.3848698291629373,0.02903339334148486,fraction,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Tustin,householders65plus_share,0.174300502004125,0.016385545203132727,fraction,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Tustin,renter_with_own_children,4799.0,484.1363444320205,households,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Tustin,renter_with_own_children_share,0.3709228628845262,0.03390857168983673,fraction,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Aliso Viejo,households_total,18515.0,348.0,households,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Aliso Viejo,owner_households,11136.0,441.0,households,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Aliso Viejo,renter_households,7379.0,394.0,households,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Aliso Viejo,owner_share,0.6014582770726438,0.02096484542392563,fraction,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Aliso Viejo,family_share,0.6913313529570618,0.013430612559671007,fraction,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Aliso Viejo,households_under18,7008.0,304.0,households,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Aliso Viejo,households_under18_share,0.37850391574399134,0.014797827088617842,fraction,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Aliso Viejo,householders25_44,6849.0,563.9015871586105,households,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Aliso Viejo,householders25_44_share,0.36991628409397787,0.029652241981196155,fraction,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Aliso Viejo,householders65plus_share,0.14588171752633,0.01590047143238242,fraction,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Aliso Viejo,renter_with_own_children,2600.0,359.20467702968455,households,published_or_RSS_and_subset_approximation
+ACS2019_5YR,2015-01-01,2019-12-31,Aliso Viejo,renter_with_own_children_share,0.35235126710936443,0.0448967705909824,fraction,published_or_RSS_and_subset_approximation

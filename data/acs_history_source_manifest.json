@@ -1,0 +1,104 @@
+{
+  "retrieved_date": "2026-10-11",
+  "files": [
+    {
+      "filename": "20195ca0001000.zip",
+      "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2019/data/5_year_seq_by_state/California/All_Geographies_Not_Tracts_Block_Groups/20195ca0001000.zip",
+      "sha256": "ea73ab914cefc8bf9bb559add14389c878a10a4c540ea03e3f3c33486f656093",
+      "source_bytes": 3514900,
+      "archive_bytes": 3512395,
+      "retrieved_date": "2026-10-11",
+      "source_id": "SRC-069"
+    },
+    {
+      "filename": "20195ca0002000.zip",
+      "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2019/data/5_year_seq_by_state/California/All_Geographies_Not_Tracts_Block_Groups/20195ca0002000.zip",
+      "sha256": "75109aacb5e78cbe4fc13c5eacfcea7177a1713fe4f336b2955e07b7805489db",
+      "source_bytes": 2164029,
+      "archive_bytes": 2161614,
+      "retrieved_date": "2026-10-11",
+      "source_id": "SRC-070"
+    },
+    {
+      "filename": "20195ca0015000.zip",
+      "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2019/data/5_year_seq_by_state/California/All_Geographies_Not_Tracts_Block_Groups/20195ca0015000.zip",
+      "sha256": "5e5ad5546e35321d2fb26d9df8d2816a4de8a21fffef9f8583e66e7128e2a8f4",
+      "source_bytes": 2100399,
+      "archive_bytes": 2082846,
+      "retrieved_date": "2026-10-11",
+      "source_id": "SRC-071"
+    },
+    {
+      "filename": "20195ca0017000.zip",
+      "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2019/data/5_year_seq_by_state/California/All_Geographies_Not_Tracts_Block_Groups/20195ca0017000.zip",
+      "sha256": "a0ab33533e8dd90e71b01e51babf2c74ac1f9ea955a310450eb25dcfc4e4e9d6",
+      "source_bytes": 2509939,
+      "archive_bytes": 2491420,
+      "retrieved_date": "2026-10-11",
+      "source_id": "SRC-072"
+    },
+    {
+      "filename": "20195ca0035000.zip",
+      "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2019/data/5_year_seq_by_state/California/All_Geographies_Not_Tracts_Block_Groups/20195ca0035000.zip",
+      "sha256": "b859b210d2e76f6420d83df43800f911eda91343ad562841fc127b787282eb46",
+      "source_bytes": 3631249,
+      "archive_bytes": 3615274,
+      "retrieved_date": "2026-10-11",
+      "source_id": "SRC-073"
+    },
+    {
+      "filename": "20195ca0036000.zip",
+      "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2019/data/5_year_seq_by_state/California/All_Geographies_Not_Tracts_Block_Groups/20195ca0036000.zip",
+      "sha256": "c76f9b1cb434d4fe61f8fd4b39c08155399b29e2b44a5eabad3ffe288c890497",
+      "source_bytes": 3044631,
+      "archive_bytes": 3029426,
+      "retrieved_date": "2026-10-11",
+      "source_id": "SRC-074"
+    },
+    {
+      "filename": "20195ca0058000.zip",
+      "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2019/data/5_year_seq_by_state/California/All_Geographies_Not_Tracts_Block_Groups/20195ca0058000.zip",
+      "sha256": "70646105f96e4f6550a7ae97a0d81df1d3e0a144d638e4954e4650a3757a1571",
+      "source_bytes": 3104199,
+      "archive_bytes": 3086998,
+      "retrieved_date": "2026-10-11",
+      "source_id": "SRC-075"
+    },
+    {
+      "filename": "20195ca0111000.zip",
+      "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2019/data/5_year_seq_by_state/California/All_Geographies_Not_Tracts_Block_Groups/20195ca0111000.zip",
+      "sha256": "7ddc26f98ac32d592cf2960d82adda06320583e370e8ed0a018f5e4fec7dba17",
+      "source_bytes": 4364321,
+      "archive_bytes": 4362690,
+      "retrieved_date": "2026-10-11",
+      "source_id": "SRC-076"
+    },
+    {
+      "filename": "20195ca0117000.zip",
+      "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2019/data/5_year_seq_by_state/California/All_Geographies_Not_Tracts_Block_Groups/20195ca0117000.zip",
+      "sha256": "d0338e4595912fdff13f543d218af41b969445e212460f3c93fc3c35591c3f59",
+      "source_bytes": 4714802,
+      "archive_bytes": 4697996,
+      "retrieved_date": "2026-10-11",
+      "source_id": "SRC-077"
+    },
+    {
+      "filename": "ACS_5yr_Seq_Table_Number_Lookup.txt",
+      "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2019/documentation/user_tools/ACS_5yr_Seq_Table_Number_Lookup.txt",
+      "sha256": "19687946ed8c7bf8405d613b746de8c9da2ff1909a3b8a730a19d241d1b3ff2b",
+      "source_bytes": 1621211,
+      "archive_bytes": 210431,
+      "retrieved_date": "2026-10-11",
+      "source_id": "SRC-078"
+    },
+    {
+      "filename": "g20195ca.csv",
+      "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2019/data/5_year_seq_by_state/California/All_Geographies_Not_Tracts_Block_Groups/g20195ca.csv",
+      "sha256": "486367b1637b8243a5aa64dbbdd4936d0dbeecfcc1f096d350d6516bb83af4f5",
+      "source_bytes": 6563959,
+      "archive_bytes": 488914,
+      "retrieved_date": "2026-10-11",
+      "source_id": "SRC-079"
+    }
+  ]
+}

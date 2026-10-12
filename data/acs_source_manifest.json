@@ -1,0 +1,293 @@
+{
+  "retrieved_date": "2026-10-11",
+  "files": [
+    {
+      "filename": "ACS20241YR_Table_Shells.txt",
+      "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/documentation/ACS20241YR_Table_Shells.txt",
+      "sha256": "2e4d8a460131be19ca06e87bb478e12ccb4dd44892369245049ee0e463454ad4",
+      "source_bytes": 7230781,
+      "archive_bytes": 421445,
+      "retrieved_date": "2026-10-11",
+      "source_id": "SRC-037"
+    },
+    {
+      "filename": "ACS20245YR_Table_Shells.txt",
+      "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/documentation/ACS20245YR_Table_Shells.txt",
+      "sha256": "5b46f4af873744a415c4974204010db976e2a61ff916674732f81c496a6b517d",
+      "source_bytes": 5622840,
+      "archive_bytes": 333944,
+      "retrieved_date": "2026-10-11",
+      "source_id": "SRC-038"
+    },
+    {
+      "filename": "Geos20241YR.txt",
+      "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/documentation/Geos20241YR.txt",
+      "sha256": "2155acb3c81672eee9b0bd971cca60cd77d8b66222b34973928f57c087ea4afe",
+      "source_bytes": 1065169,
+      "archive_bytes": 162439,
+      "retrieved_date": "2026-10-11",
+      "source_id": "SRC-039"
+    },
+    {
+      "filename": "Geos20245YR.txt",
+      "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/documentation/Geos20245YR.txt",
+      "sha256": "b87a1d1a4db9f826d0d133d20cbf7d011932f9ec2cfa74eacf8c9cf387aea344",
+      "source_bytes": 90707242,
+      "archive_bytes": 7960401,
+      "retrieved_date": "2026-10-11",
+      "source_id": "SRC-040"
+    },
+    {
+      "filename": "acsdt1y2024-b01001.dat",
+      "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/1YRData/acsdt1y2024-b01001.dat",
+      "sha256": "84db6a3a8eda54d882b9a5e6a5bb48864fcbb573a262127ed026ae5fb6d6953e",
+      "source_bytes": 4001266,
+      "archive_bytes": 1721934,
+      "retrieved_date": "2026-10-11",
+      "source_id": "SRC-041"
+    },
+    {
+      "filename": "acsdt1y2024-b01002.dat",
+      "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/1YRData/acsdt1y2024-b01002.dat",
+      "sha256": "37845103dfeed27eea1080c5679774a78cea2d7d7fdbb7af69d8f3f97c3876f4",
+      "source_bytes": 352110,
+      "archive_bytes": 91011,
+      "retrieved_date": "2026-10-11",
+      "source_id": "SRC-042"
+    },
+    {
+      "filename": "acsdt1y2024-b07001.dat",
+      "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/1YRData/acsdt1y2024-b07001.dat",
+      "sha256": "d78fd11345a5942fd67fe13c43240dbe5115d0fcd35c1a882c546b628ee43281",
+      "source_bytes": 3098187,
+      "archive_bytes": 1334417,
+      "retrieved_date": "2026-10-11",
+      "source_id": "SRC-043"
+    },
+    {
+      "filename": "acsdt1y2024-b07010.dat",
+      "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/1YRData/acsdt1y2024-b07010.dat",
+      "sha256": "e20bbb36468d1d51a190e58a876132444ac3dafee8402899fbdbf240e32bd9dd",
+      "source_bytes": 3438502,
+      "archive_bytes": 1477634,
+      "retrieved_date": "2026-10-11",
+      "source_id": "SRC-044"
+    },
+    {
+      "filename": "acsdt1y2024-b07011.dat",
+      "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/1YRData/acsdt1y2024-b07011.dat",
+      "sha256": "a92a92e1ab2067fd9ca1ee62be36c165c41be15154e49cd29faa72ca04ff155b",
+      "source_bytes": 692368,
+      "archive_bytes": 274844,
+      "retrieved_date": "2026-10-11",
+      "source_id": "SRC-045"
+    },
+    {
+      "filename": "acsdt1y2024-b11001.dat",
+      "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/1YRData/acsdt1y2024-b11001.dat",
+      "sha256": "5bd77eb910b50fa49a17c050bed3f7009f738f18cd509cc55b260a12655250c7",
+      "source_bytes": 919567,
+      "archive_bytes": 386262,
+      "retrieved_date": "2026-10-11",
+      "source_id": "SRC-046"
+    },
+    {
+      "filename": "acsdt1y2024-b11005.dat",
+      "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/1YRData/acsdt1y2024-b11005.dat",
+      "sha256": "642e9340814390d32dbbd6d7942cb023de7cc03ffe9ec8460bd6038e74aced1d",
+      "source_bytes": 1672583,
+      "archive_bytes": 701692,
+      "retrieved_date": "2026-10-11",
+      "source_id": "SRC-047"
+    },
+    {
+      "filename": "acsdt1y2024-b19001.dat",
+      "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/1YRData/acsdt1y2024-b19001.dat",
+      "sha256": "c59b8286c562904a16691eb7164bb6dc955477dbc11ff951007c46c983b8f910",
+      "source_bytes": 1490162,
+      "archive_bytes": 631560,
+      "retrieved_date": "2026-10-11",
+      "source_id": "SRC-048"
+    },
+    {
+      "filename": "acsdt1y2024-b19013.dat",
+      "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/1YRData/acsdt1y2024-b19013.dat",
+      "sha256": "f78748dc0221551890494e08d8239d7aecbfff9777e96a18d24f5df6a570cd86",
+      "source_bytes": 224344,
+      "archive_bytes": 72322,
+      "retrieved_date": "2026-10-11",
+      "source_id": "SRC-049"
+    },
+    {
+      "filename": "acsdt1y2024-b25003.dat",
+      "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/1YRData/acsdt1y2024-b25003.dat",
+      "sha256": "944b9d7aa807cc32c50a50b37af0afac50db914f02dc68bafa628e4227a496ad",
+      "source_bytes": 406711,
+      "archive_bytes": 156531,
+      "retrieved_date": "2026-10-11",
+      "source_id": "SRC-050"
+    },
+    {
+      "filename": "acsdt1y2024-b25007.dat",
+      "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/1YRData/acsdt1y2024-b25007.dat",
+      "sha256": "0e8ac5a49ce0c48264197ae8bac1930ac179942f731472af6a860991d923cff3",
+      "source_bytes": 1787597,
+      "archive_bytes": 764167,
+      "retrieved_date": "2026-10-11",
+      "source_id": "SRC-051"
+    },
+    {
+      "filename": "acsdt1y2024-b25115.dat",
+      "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/1YRData/acsdt1y2024-b25115.dat",
+      "sha256": "c6ce5f51588d1ef4ff8f13ae356c5849d30bfb0b521b269edb6da047ab896d2f",
+      "source_bytes": 2311112,
+      "archive_bytes": 994447,
+      "retrieved_date": "2026-10-11",
+      "source_id": "SRC-052"
+    },
+    {
+      "filename": "acsdt1y2024-b25118.dat",
+      "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/1YRData/acsdt1y2024-b25118.dat",
+      "sha256": "497c00fcac42fb955de740d6426746fb506393d93d9c7bf0bd2f6e4dab44c8e7",
+      "source_bytes": 2057805,
+      "archive_bytes": 878178,
+      "retrieved_date": "2026-10-11",
+      "source_id": "SRC-053"
+    },
+    {
+      "filename": "acsdt1y2024-b25119.dat",
+      "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/1YRData/acsdt1y2024-b25119.dat",
+      "sha256": "680ebf8a1fa2c66b5cbbfd8b54a5f750000365a7f4604b9558279297aaa83b1b",
+      "source_bytes": 412801,
+      "archive_bytes": 162297,
+      "retrieved_date": "2026-10-11",
+      "source_id": "SRC-054"
+    },
+    {
+      "filename": "acsdt5y2024-b01001.dat",
+      "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b01001.dat",
+      "sha256": "1637b18a96881b81e050df1cd3d5ac38a33208b9b69b40e1dbeb3c4e13718f0e",
+      "source_bytes": 200356282,
+      "archive_bytes": 66830478,
+      "retrieved_date": "2026-10-11",
+      "source_id": "SRC-055"
+    },
+    {
+      "filename": "acsdt5y2024-b01002.dat",
+      "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b01002.dat",
+      "sha256": "04784637609550868d9da7321e7a947b34e0a10b654dbf6d344599f97f8de7f8",
+      "source_bytes": 26666521,
+      "archive_bytes": 7057000,
+      "retrieved_date": "2026-10-11",
+      "source_id": "SRC-056"
+    },
+    {
+      "filename": "acsdt5y2024-b07001.dat",
+      "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b07001.dat",
+      "sha256": "8596e29d52725a512f9c6d9067c8a28e39023cd01fc319c17b99bf8b18d8e05a",
+      "source_bytes": 177675708,
+      "archive_bytes": 48805627,
+      "retrieved_date": "2026-10-11",
+      "source_id": "SRC-057"
+    },
+    {
+      "filename": "acsdt5y2024-b07010.dat",
+      "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b07010.dat",
+      "sha256": "73dae27d4e37f5d1c82286023f4b972605fe2735d4e2936765d98d854d6fa249",
+      "source_bytes": 128717636,
+      "archive_bytes": 39337083,
+      "retrieved_date": "2026-10-11",
+      "source_id": "SRC-058"
+    },
+    {
+      "filename": "acsdt5y2024-b07011.dat",
+      "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b07011.dat",
+      "sha256": "bf7e1551a2fb3e01bade1f9652dce2c4e4ede7f8662356879651558fb0e70b73",
+      "source_bytes": 33436146,
+      "archive_bytes": 7248082,
+      "retrieved_date": "2026-10-11",
+      "source_id": "SRC-059"
+    },
+    {
+      "filename": "acsdt5y2024-b11001.dat",
+      "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b11001.dat",
+      "sha256": "77200c3d9c0d99773bc7f78208bc96f25170e5d4d175a5de320620b478ceaff5",
+      "source_bytes": 45827971,
+      "archive_bytes": 15826935,
+      "retrieved_date": "2026-10-11",
+      "source_id": "SRC-060"
+    },
+    {
+      "filename": "acsdt5y2024-b11005.dat",
+      "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b11005.dat",
+      "sha256": "9fb66ba2a95c6e857c1dd5ec1b3b8156b90ba378cca8ef0bd958b47c3f5919a5",
+      "source_bytes": 79144573,
+      "archive_bytes": 25848619,
+      "retrieved_date": "2026-10-11",
+      "source_id": "SRC-061"
+    },
+    {
+      "filename": "acsdt5y2024-b19001.dat",
+      "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b19001.dat",
+      "sha256": "1af421b3b9d0f85dbd938cd518ad5d01c693fa2870f24e1089552ea5c1e6683f",
+      "source_bytes": 68953041,
+      "archive_bytes": 22503088,
+      "retrieved_date": "2026-10-11",
+      "source_id": "SRC-062"
+    },
+    {
+      "filename": "acsdt5y2024-b19013.dat",
+      "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b19013.dat",
+      "sha256": "b25a176b0e6c339b6f3a2a0d3d8446bf06f5f080b4395993ec9a8313efb1c229",
+      "source_bytes": 17917916,
+      "archive_bytes": 4858638,
+      "retrieved_date": "2026-10-11",
+      "source_id": "SRC-063"
+    },
+    {
+      "filename": "acsdt5y2024-b25003.dat",
+      "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b25003.dat",
+      "sha256": "68e963e1ed60fcf6b0658579cefc6498b7a9eb780b9f3e87fd1b9775c4d4ac6c",
+      "source_bytes": 26901770,
+      "archive_bytes": 8266777,
+      "retrieved_date": "2026-10-11",
+      "source_id": "SRC-064"
+    },
+    {
+      "filename": "acsdt5y2024-b25007.dat",
+      "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b25007.dat",
+      "sha256": "aa51069a919dcc472c02cddd327e43c0927333f8fe3c7378ece08e421d343b1f",
+      "source_bytes": 82437896,
+      "archive_bytes": 26593636,
+      "retrieved_date": "2026-10-11",
+      "source_id": "SRC-065"
+    },
+    {
+      "filename": "acsdt5y2024-b25115.dat",
+      "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b25115.dat",
+      "sha256": "fde66874985fa4cae102b5de8cbdcbff3cd18ddb975f040c90a367ba901133df",
+      "source_bytes": 59781395,
+      "archive_bytes": 20977131,
+      "retrieved_date": "2026-10-11",
+      "source_id": "SRC-066"
+    },
+    {
+      "filename": "acsdt5y2024-b25118.dat",
+      "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b25118.dat",
+      "sha256": "e4b2a1e4cb06030e7a7bf5acbb89157ae7423a1a4ada8b9d16288c5a4fe42d51",
+      "source_bytes": 53605933,
+      "archive_bytes": 18280092,
+      "retrieved_date": "2026-10-11",
+      "source_id": "SRC-067"
+    },
+    {
+      "filename": "acsdt5y2024-b25119.dat",
+      "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b25119.dat",
+      "sha256": "6ca979ddec5aebfe6b009e3b5902ea086752eccab6da6f6145d9b55ac147df0c",
+      "source_bytes": 17408736,
+      "archive_bytes": 5622502,
+      "retrieved_date": "2026-10-11",
+      "source_id": "SRC-068"
+    }
+  ]
+}

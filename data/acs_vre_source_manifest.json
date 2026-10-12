@@ -1,0 +1,59 @@
+{
+  "retrieved_date": "2026-10-11",
+  "files": [
+    {
+      "filename": "050_B11005.csv.zip",
+      "url": "https://www2.census.gov/programs-surveys/acs/replicate_estimates/2024/data/5-year/050/B11005.csv.zip",
+      "sha256": "cd3ea8f1f5dbecf29a3b2abdc3b73ed10609816f6648cb6f10e7b3cf386a26b4",
+      "source_bytes": 9660875,
+      "archive_bytes": 9663858,
+      "retrieved_date": "2026-10-11",
+      "source_id": "SRC-080"
+    },
+    {
+      "filename": "050_B19001.csv.zip",
+      "url": "https://www2.census.gov/programs-surveys/acs/replicate_estimates/2024/data/5-year/050/B19001.csv.zip",
+      "sha256": "95cb48eabcaef5c44fc68377f8b596f31cbb079d846bbea9c6bf7e83ba896d0f",
+      "source_bytes": 8691636,
+      "archive_bytes": 8694331,
+      "retrieved_date": "2026-10-11",
+      "source_id": "SRC-081"
+    },
+    {
+      "filename": "050_B25003.csv.zip",
+      "url": "https://www2.census.gov/programs-surveys/acs/replicate_estimates/2024/data/5-year/050/B25003.csv.zip",
+      "sha256": "9aceebd33bd3a840d95341b3c09f2536a15e56c3fa2c4d08d09058aee13b0c35",
+      "source_bytes": 1926518,
+      "archive_bytes": 1927153,
+      "retrieved_date": "2026-10-11",
+      "source_id": "SRC-082"
+    },
+    {
+      "filename": "160_B11005.csv.zip",
+      "url": "https://www2.census.gov/programs-surveys/acs/replicate_estimates/2024/data/5-year/160/B11005.csv.zip",
+      "sha256": "3a8fd9c84e318110d5d2a3c343758c46907b4b5d614655e2899414beb234f9d9",
+      "source_bytes": 53098309,
+      "archive_bytes": 53114544,
+      "retrieved_date": "2026-10-11",
+      "source_id": "SRC-083"
+    },
+    {
+      "filename": "160_B19001.csv.zip",
+      "url": "https://www2.census.gov/programs-surveys/acs/replicate_estimates/2024/data/5-year/160/B19001.csv.zip",
+      "sha256": "e7669099601668ed96d80043d7865a458c2d981146b80655752d6e89610f4fce",
+      "source_bytes": 48215591,
+      "archive_bytes": 48228874,
+      "retrieved_date": "2026-10-11",
+      "source_id": "SRC-084"
+    },
+    {
+      "filename": "160_B25003.csv.zip",
+      "url": "https://www2.census.gov/programs-surveys/acs/replicate_estimates/2024/data/5-year/160/B25003.csv.zip",
+      "sha256": "e8bd5d8a142e36bf8e0206f24599845c7c4751ff785af3280134474f882890b8",
+      "source_bytes": 13032448,
+      "archive_bytes": 13036439,
+      "retrieved_date": "2026-10-11",
+      "source_id": "SRC-085"
+    }
+  ]
+}
