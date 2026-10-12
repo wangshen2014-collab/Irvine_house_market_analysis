@@ -144,3 +144,17 @@ python scripts/report_crosscity_comparison.py --private-dir /path/to/phase8/revi
 ## 阶段五至八独立审阅处理
 
 [2026-10-12处理报告](reports/2026-10-12_review_remediation.md)及[八项状态](qa/review_disposition_20261012.csv)。B58-001当前网页版本已补，原冻结笔记不改；B58-007区分登记与独立认证，其余缺口保留。阶段八原命令自动应用来源版本补记，五张数值／覆盖表不变。学校模块可继续，完整品质／全成本／分流仍未识别。
+
+## 阶段九：学校官方基线（2026-10-12）
+
+[学校报告](reports/2026-10-12_schools_phase9.md)：51条Irvine地址目录、36条比较城市目录、144条学区背景记录；2025 Dashboard统一矩阵及2,310个群体指标槽位。IUSD当前与未来官方地图、15行边界登记、8项项目／待补领域、5组深读体验来源及51校检索登记分别记录。单址分配0条、年级实时余位0条；全市项目与家长体验仍未完整，不能称学校或整个B全部验收。
+
+从指定私有证据包恢复`schools/raw`为`$SCHOOL_INPUT_DIR`。脚本先核5个文件SHA-256，拒绝静默换版；公开仓库不附原PDF、原网页或逐屋底稿。
+
+```bash
+python scripts/build_school_baseline.py --input-dir "$SCHOOL_INPUT_DIR"
+python scripts/audit_school_baseline.py --input-dir "$SCHOOL_INPUT_DIR"
+python scripts/report_school_baseline.py --private-out /tmp/school-report
+```
+
+标准库即可。公开`school_research_notes_20261012.json`是逐项来源支持的原创研究笔记，不是原件；报告脚本重建边界、项目、体验、容量四表及原生Docs内容计划。CDE行政City字段不等于市界覆盖；Virtual C指以课堂为主。ELA/Math为距离标准分数，不是百分比；各字段分母保留，缺失不是零。`qa/school_independent_audit.json`记录13,860字段核对、490个比例复算及两校SPSA四个数值跨格式核对；这些不认证学校因果效果或入学资格。

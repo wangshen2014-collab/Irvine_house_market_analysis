@@ -1,0 +1,708 @@
+[
+  {
+    "cds": "36677360139576",
+    "school": "Excel Academy Charter",
+    "district": "Helendale Elementary",
+    "query": "\"Excel Academy Charter\" \"Helendale Elementary\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://www.trulia.com/schools/CA-irvine-excel_academy_charter-5700316099"
+    ],
+    "stage": "search_only; needs_source_identity_date_and_context_review",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "30736506100838",
+    "school": "Alderwood Elementary",
+    "district": "Irvine Unified",
+    "query": "\"Alderwood Elementary\" \"Irvine Unified\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://www.niche.com/k12/alderwood-elementary-school-irvine-ca/reviews/",
+      "https://www.movoto.com/schools/irvine-ca/alderwood-elementary-school-068450007373/",
+      "https://www.trulia.com/schools/CA-irvine-alderwood_elementary_school-5700046908"
+    ],
+    "stage": "search_only; needs_source_identity_date_and_context_review",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "30736503030467",
+    "school": "Alternative Education-San Joaquin High",
+    "district": "Irvine Unified",
+    "query": "\"Alternative Education-San Joaquin High\" \"Irvine Unified\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://www.trulia.com/schools/CA-irvine-alternative_education_san_joaquin_high_school-5700096875",
+      "https://schoolfactors.org/school/30736503030467",
+      "https://www.greatschools.org/california/irvine/11031-Alternative-Education-San-Joaquin-High-School/"
+    ],
+    "stage": "search_only; needs_source_identity_date_and_context_review",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "30736500133389",
+    "school": "Beacon Park",
+    "district": "Irvine Unified",
+    "query": "\"Beacon Park\" \"Irvine Unified\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://www.niche.com/k12/beacon-park-irvine-ca/reviews/",
+      "https://www.trulia.com/schools/CA-irvine-beacon_park_k_8_school-5700128983?schoolUrl=CA-irvine-beacon_park-5700128983",
+      "https://www.movoto.com/schools/irvine-ca/beacon-park-068450013996/"
+    ],
+    "stage": "search_only; needs_source_identity_date_and_context_review",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "30736506097042",
+    "school": "Bonita Canyon Elementary",
+    "district": "Irvine Unified",
+    "query": "\"Bonita Canyon Elementary\" \"Irvine Unified\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://www.trulia.com/schools/CA-irvine-bonita_canyon_elementary_school-1543251",
+      "https://www.niche.com/k12/bonita-canyon-elementary-school-irvine-ca/",
+      "https://www.movoto.com/schools/irvine-ca/bonita-canyon-elementary-school-068450007051/"
+    ],
+    "stage": "search_only; needs_source_identity_date_and_context_review",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "30736506102719",
+    "school": "Brywood Elementary",
+    "district": "Irvine Unified",
+    "query": "\"Brywood Elementary\" \"Irvine Unified\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://www.trulia.com/schools/CA-irvine-brywood_elementary_school-2894170",
+      "https://www.movoto.com/schools/irvine-ca/brywood-elementary-school-068450009211/",
+      "https://www.realtor.com/local/schools/Brywood-Elementary-School-078625861"
+    ],
+    "stage": "search_only; needs_source_identity_date_and_context_review",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "30736500136689",
+    "school": "Cadence Park",
+    "district": "Irvine Unified",
+    "query": "\"Cadence Park\" \"Irvine Unified\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://www.niche.com/k12/cadence-park-irvine-ca/reviews/",
+      "https://www.homes.com/school/irvine-ca/cadence-park-school/hq627f0e0fjc9/",
+      "https://www.niche.com/k12/cadence-park-irvine-ca/"
+    ],
+    "stage": "search_only; needs_source_identity_date_and_context_review",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "30736506115455",
+    "school": "Canyon View Elementary",
+    "district": "Irvine Unified",
+    "query": "\"Canyon View Elementary\" \"Irvine Unified\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://www.niche.com/k12/canyon-view-elementary-school-irvine-ca/reviews/",
+      "https://www.trulia.com/schools/CA-irvine-canyon_view_elementary_school-4804523",
+      "https://www.niche.com/k12/canyon-view-elementary-school-irvine-ca/"
+    ],
+    "stage": "source_text_read; identity_unverified",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "30736506089437",
+    "school": "College Park Elementary",
+    "district": "Irvine Unified",
+    "query": "\"College Park Elementary\" \"Irvine Unified\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://www.trulia.com/schools/CA-irvine-college_park_elementary_school-1339763",
+      "https://www.movoto.com/schools/irvine-ca/college-park-elementary-school-068450007052/",
+      "https://www.niche.com/k12/college-park-elementary-school-irvine-ca/"
+    ],
+    "stage": "search_only; needs_source_identity_date_and_context_review",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "30736503030129",
+    "school": "Creekside High",
+    "district": "Irvine Unified",
+    "query": "\"Creekside High\" \"Irvine Unified\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://www.niche.com/k12/creekside-high-school-irvine-ca/",
+      "https://www.niche.com/k12/creekside-high-school-irvine-ca/students/",
+      "https://www.greatschools.org/california/irvine/3829-Creekside-High-School/"
+    ],
+    "stage": "search_only; needs_source_identity_date_and_context_review",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "30736506089429",
+    "school": "Culverdale Elementary",
+    "district": "Irvine Unified",
+    "query": "\"Culverdale Elementary\" \"Irvine Unified\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://www.trulia.com/schools/CA-irvine-culverdale_elementary_school-98576",
+      "https://www.homes.com/school/irvine-ca/culverdale-elementary-school/szw7vncxghp6w/",
+      "https://www.niche.com/k12/culverdale-elementary-school-irvine-ca/"
+    ],
+    "stage": "search_only; needs_source_identity_date_and_context_review",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "30736500129155",
+    "school": "Cypress Village Elementary",
+    "district": "Irvine Unified",
+    "query": "\"Cypress Village Elementary\" \"Irvine Unified\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://www.greatschools.org/california/irvine/31848-Cypress-Village-Elementary/",
+      "https://www.trulia.com/schools/CA-irvine-cypress_village_elementary-5700126662",
+      "https://www.homes.com/school/irvine-ca/cypress-village-elementary-school/fpl11bkjmcr88/"
+    ],
+    "stage": "search_only; needs_source_identity_date_and_context_review",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "30736506096184",
+    "school": "Deerfield Elementary",
+    "district": "Irvine Unified",
+    "query": "\"Deerfield Elementary\" \"Irvine Unified\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://www.trulia.com/schools/CA-irvine-deerfield_elementary_school-1543263",
+      "https://www.movoto.com/schools/irvine-ca/deerfield-elementary-school-068450007054/",
+      "https://www.realtor.com/local/schools/Deerfield-Elementary-School-078625931"
+    ],
+    "stage": "search_only; needs_source_identity_date_and_context_review",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "30736506100317",
+    "school": "Eastshore Elementary",
+    "district": "Irvine Unified",
+    "query": "\"Eastshore Elementary\" \"Irvine Unified\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://www.trulia.com/schools/CA-irvine-eastshore_elementary_school-1881261",
+      "https://www.homes.com/school/irvine-ca/eastshore-elementary-school/dpjxdss38283e/",
+      "https://www.greatschools.org/california/irvine/3817-Eastshore-Elementary-School/"
+    ],
+    "stage": "search_only; needs_source_identity_date_and_context_review",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "30736500135137",
+    "school": "Eastwood Elementary",
+    "district": "Irvine Unified",
+    "query": "\"Eastwood Elementary\" \"Irvine Unified\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://www.trulia.com/schools/CA-irvine-eastwood_elementary-5700129859",
+      "https://www.movoto.com/schools/irvine-ca/eastwood-elementary-068450014114/",
+      "https://www.realtor.com/local/schools/Eastwood-Elementary-079038021"
+    ],
+    "stage": "search_only; needs_source_identity_date_and_context_review",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "30736506089445",
+    "school": "Greentree Elementary",
+    "district": "Irvine Unified",
+    "query": "\"Greentree Elementary\" \"Irvine Unified\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://www.trulia.com/schools/CA-irvine-greentree_elementary_school-98605",
+      "https://www.niche.com/k12/greentree-elementary-school-irvine-ca/",
+      "https://www.movoto.com/schools/irvine-ca/greentree-elementary-school-068450007058/"
+    ],
+    "stage": "search_only; needs_source_identity_date_and_context_review",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "30736500142232",
+    "school": "Irvine Chinese Immersion Academy",
+    "district": "Irvine Unified",
+    "query": "\"Irvine Chinese Immersion Academy\" \"Irvine Unified\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://www.greatschools.org/california/irvine/33939-Irvine-Chinese-Immersion-Academy/",
+      "https://www.publicschoolreview.com/irvine-chinese-immersion-academy-profile",
+      "https://www.trulia.com/schools/CA-irvine-irvine_chinese_immersion_academy-5700321511"
+    ],
+    "stage": "search_only; needs_source_identity_date_and_context_review",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "30736503030152",
+    "school": "Irvine High",
+    "district": "Irvine Unified",
+    "query": "\"Irvine High\" \"Irvine Unified\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://www.niche.com/k12/irvine-high-school-irvine-ca/reviews/",
+      "https://www.niche.com/k12/irvine-high-school-irvine-ca/",
+      "https://www.trulia.com/schools/CA-irvine-irvine_high_school-1397648"
+    ],
+    "stage": "search_only; needs_source_identity_date_and_context_review",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "30736500140988",
+    "school": "Irvine Unified School District Virtual Academy",
+    "district": "Irvine Unified",
+    "query": "\"Irvine Unified School District Virtual Academy\" \"Irvine Unified\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://www.talkirvine.com/threads/irvine-virtual-academy-iva.17567/"
+    ],
+    "stage": "search_only; needs_source_identity_date_and_context_review",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "30736500127472",
+    "school": "Jeffrey Trail Middle",
+    "district": "Irvine Unified",
+    "query": "\"Jeffrey Trail Middle\" \"Irvine Unified\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://www.niche.com/k12/jeffrey-trail-middle-school-irvine-ca/reviews/",
+      "https://www.greatschools.org/california/irvine/31106-Jeffrey-Trail-Middle/",
+      "https://www.niche.com/k12/jeffrey-trail-middle-school-irvine-ca/"
+    ],
+    "stage": "search_only; needs_source_identity_date_and_context_review",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "30736506098511",
+    "school": "Lakeside Middle",
+    "district": "Irvine Unified",
+    "query": "\"Lakeside Middle\" \"Irvine Unified\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://www.niche.com/k12/lakeside-middle-school-irvine-ca/",
+      "https://www.trulia.com/schools/CA-irvine-lakeside_middle_school-1543287",
+      "https://www.cde.ca.gov/sdprofile/details.aspx?cds=30736506098511"
+    ],
+    "stage": "search_only; needs_source_identity_date_and_context_review",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "30736500138719",
+    "school": "Loma Ridge Elementary",
+    "district": "Irvine Unified",
+    "query": "\"Loma Ridge Elementary\" \"Irvine Unified\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://www.trulia.com/schools/CA-irvine-loma_ridge_elementary-5700265260",
+      "https://www.realtor.com/local/schools/Loma-Ridge-079041011",
+      "https://www.realtor.com/local/schools/Loma-Ridge-Elementary-079041011"
+    ],
+    "stage": "search_only; needs_source_identity_date_and_context_review",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "30736506106850",
+    "school": "Meadow Park Elementary",
+    "district": "Irvine Unified",
+    "query": "\"Meadow Park Elementary\" \"Irvine Unified\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://meadowpark.iusd.org/about/services",
+      "https://meadowpark.iusd.org/news-center?article_category=176",
+      "https://meadowpark.iusd.org/news-center?article_category=576"
+    ],
+    "stage": "search_only; needs_source_identity_date_and_context_review",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "30736506100861",
+    "school": "Northwood Elementary",
+    "district": "Irvine Unified",
+    "query": "\"Northwood Elementary\" \"Irvine Unified\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://www.trulia.com/schools/CA-irvine-northwood_elementary_school-2105905",
+      "https://www.movoto.com/schools/irvine-ca/northwood-elementary-school-068450007374/",
+      "https://www.niche.com/k12/northwood-elementary-school-irvine-ca/"
+    ],
+    "stage": "search_only; needs_source_identity_date_and_context_review",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "30736503030657",
+    "school": "Northwood High",
+    "district": "Irvine Unified",
+    "query": "\"Northwood High\" \"Irvine Unified\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://www.niche.com/k12/northwood-high-school-irvine-ca/reviews/",
+      "https://www.trulia.com/schools/CA-irvine-northwood_high_school-4875572",
+      "https://www.movoto.com/schools/irvine-ca/northwood-high-school-068450008251/"
+    ],
+    "stage": "search_only; needs_source_identity_date_and_context_review",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "30736506120141",
+    "school": "Oak Creek Elementary",
+    "district": "Irvine Unified",
+    "query": "\"Oak Creek Elementary\" \"Irvine Unified\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://www.trulia.com/schools/CA-irvine-oak_creek_elementary_school-1397650",
+      "https://www.homes.com/school/irvine-ca/oak-creek-elementary-school/v6enbfjkg10fk/",
+      "https://www.movoto.com/schools/irvine-ca/oak-creek-elementary-school-068450010572/"
+    ],
+    "stage": "search_only; needs_source_identity_date_and_context_review",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "30736506115786",
+    "school": "Plaza Vista",
+    "district": "Irvine Unified",
+    "query": "\"Plaza Vista\" \"Irvine Unified\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://www.niche.com/k12/plaza-vista-irvine-ca/reviews/",
+      "https://www.niche.com/k12/plaza-vista-irvine-ca/",
+      "https://www.trulia.com/schools/CA-irvine-plaza_vista_school-4875950"
+    ],
+    "stage": "search_only; needs_source_identity_date_and_context_review",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "30736500133405",
+    "school": "Portola High",
+    "district": "Irvine Unified",
+    "query": "\"Portola High\" \"Irvine Unified\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://www.niche.com/k12/portola-high-school-irvine-ca/reviews/",
+      "https://www.niche.com/k12/portola-high-school-irvine-ca/",
+      "https://www.niche.com/k12/portola-high-school-irvine-ca/students/"
+    ],
+    "stage": "search_only; needs_source_identity_date_and_context_review",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "30736500129296",
+    "school": "Portola Springs Elementary",
+    "district": "Irvine Unified",
+    "query": "\"Portola Springs Elementary\" \"Irvine Unified\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://www.niche.com/k12/portola-springs-elementary-school-irvine-ca/reviews/",
+      "https://www.trulia.com/schools/CA-irvine-portola_springs_elementary-5700126661",
+      "https://www.greatschools.org/california/irvine/31847-Portola-Springs-Elementary/"
+    ],
+    "stage": "search_only; needs_source_identity_date_and_context_review",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "30736506071179",
+    "school": "Rancho San Joaquin Middle",
+    "district": "Irvine Unified",
+    "query": "\"Rancho San Joaquin Middle\" \"Irvine Unified\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://www.niche.com/k12/rancho-san-joaquin-middle-school-irvine-ca/reviews/",
+      "https://www.trulia.com/schools/CA-irvine-rancho_san_joaquin_middle_school-98629",
+      "https://www.niche.com/k12/rancho-san-joaquin-middle-school-irvine-ca/"
+    ],
+    "stage": "search_only; needs_source_identity_date_and_context_review",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "30736506098529",
+    "school": "Santiago Hills Elementary",
+    "district": "Irvine Unified",
+    "query": "\"Santiago Hills Elementary\" \"Irvine Unified\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://www.movoto.com/schools/irvine-ca/santiago-hills-elementary-school-068450007064/",
+      "https://www.trulia.com/schools/CA-irvine-santiago_hills_elementary_school-1881273",
+      "https://www.niche.com/k12/santiago-hills-elementary-school-irvine-ca/"
+    ],
+    "stage": "search_only; needs_source_identity_date_and_context_review",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "30736506100879",
+    "school": "Sierra Vista Middle",
+    "district": "Irvine Unified",
+    "query": "\"Sierra Vista Middle\" \"Irvine Unified\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://www.niche.com/k12/sierra-vista-middle-school-irvine-ca/reviews/",
+      "https://www.greatschools.org/california/irvine/3830-Sierra-Vista-Middle-School/",
+      "https://www.trulia.com/schools/CA-irvine-sierra_vista_middle_school-2105888"
+    ],
+    "stage": "search_only; needs_source_identity_date_and_context_review",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "30736500141119",
+    "school": "Solis Park",
+    "district": "Irvine Unified",
+    "query": "\"Solis Park\" \"Irvine Unified\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://www.trulia.com/schools/CA-irvine-solis_park-5700321479",
+      "https://www.greatschools.org/california/irvine/33794-Solis-Park/",
+      "https://www.cde.ca.gov/schooldirectory/details?cdscode=30736500141119"
+    ],
+    "stage": "search_only; needs_source_identity_date_and_context_review",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "30736506111876",
+    "school": "South Lake Middle",
+    "district": "Irvine Unified",
+    "query": "\"South Lake Middle\" \"Irvine Unified\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://www.niche.com/k12/south-lake-middle-school-irvine-ca/reviews",
+      "https://www.trulia.com/schools/CA-irvine-south_lake_middle_school-4289284",
+      "https://www.movoto.com/schools/irvine-ca/south-lake-middle-school-068450003493/"
+    ],
+    "stage": "search_only; needs_source_identity_date_and_context_review",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "30736506107502",
+    "school": "Springbrook Elementary",
+    "district": "Irvine Unified",
+    "query": "\"Springbrook Elementary\" \"Irvine Unified\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://www.niche.com/k12/springbrook-elementary-school-irvine-ca/reviews/",
+      "https://www.niche.com/k12/springbrook-elementary-school-irvine-ca/",
+      "https://www.movoto.com/schools/irvine-ca/springbrook-elementary-school-068450009468/"
+    ],
+    "stage": "search_only; needs_source_identity_date_and_context_review",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "30736506096200",
+    "school": "Stone Creek Elementary",
+    "district": "Irvine Unified",
+    "query": "\"Stone Creek Elementary\" \"Irvine Unified\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://www.trulia.com/schools/CA-irvine-stone_creek_elementary_school-1543275",
+      "https://www.niche.com/k12/stone-creek-elementary-school-irvine-ca/reviews/",
+      "https://www.movoto.com/schools/irvine-ca/stone-creek-elementary-school-068450007065/"
+    ],
+    "stage": "search_only; needs_source_identity_date_and_context_review",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "30736506096192",
+    "school": "Stonegate Elementary",
+    "district": "Irvine Unified",
+    "query": "\"Stonegate Elementary\" \"Irvine Unified\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://www.trulia.com/schools/CA-irvine-stonegate_elementary_school-10776299",
+      "https://www.niche.com/k12/stonegate-elementary-school-irvine-ca/reviews/",
+      "https://www.schooldigger.com/go/CA/schools/8450007050/school.aspx?t=tbReviews"
+    ],
+    "stage": "source_text_read; identity_unverified",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "30736506068647",
+    "school": "Turtle Rock Elementary",
+    "district": "Irvine Unified",
+    "query": "\"Turtle Rock Elementary\" \"Irvine Unified\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://www.niche.com/k12/turtle-rock-elementary-school-irvine-ca/reviews/",
+      "https://www.movoto.com/schools/irvine-ca/turtle-rock-elementary-school-068450007066/",
+      "https://www.niche.com/k12/turtle-rock-elementary-school-irvine-ca/"
+    ],
+    "stage": "search_only; needs_source_identity_date_and_context_review",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "30736503035102",
+    "school": "University High",
+    "district": "Irvine Unified",
+    "query": "\"University High\" \"Irvine Unified\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://www.niche.com/k12/university-high-school-irvine-ca/reviews/",
+      "https://www.niche.com/k12/university-high-school-irvine-ca/",
+      "https://www.trulia.com/schools/CA-irvine-university_high_school-98643"
+    ],
+    "stage": "search_only; needs_source_identity_date_and_context_review",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "30736506030191",
+    "school": "University Park Elementary",
+    "district": "Irvine Unified",
+    "query": "\"University Park Elementary\" \"Irvine Unified\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://www.niche.com/k12/university-park-elementary-school-irvine-ca/reviews/",
+      "https://www.trulia.com/schools/CA-irvine-university_park_elementary_school-98655",
+      "https://www.niche.com/k12/university-park-elementary-school-irvine-ca/"
+    ],
+    "stage": "search_only; needs_source_identity_date_and_context_review",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "30736506095137",
+    "school": "Venado Middle",
+    "district": "Irvine Unified",
+    "query": "\"Venado Middle\" \"Irvine Unified\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://venado.iusd.org/article/iusd-annual-survey-1",
+      "https://www.niche.com/k12/venado-middle-school-irvine-ca/",
+      "https://www.publicschoolreview.com/venado-middle-school-profile"
+    ],
+    "stage": "search_only; needs_source_identity_date_and_context_review",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "30736506094718",
+    "school": "Vista Verde",
+    "district": "Irvine Unified",
+    "query": "\"Vista Verde\" \"Irvine Unified\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://www.niche.com/k12/vista-verde-irvine-ca/reviews/",
+      "https://www.movoto.com/schools/irvine-ca/vista-verde-068450007070/",
+      "https://www.trulia.com/schools/CA-irvine-vista_verde_k_8_school-98667"
+    ],
+    "stage": "search_only; needs_source_identity_date_and_context_review",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "30736506108799",
+    "school": "Westpark Elementary",
+    "district": "Irvine Unified",
+    "query": "\"Westpark Elementary\" \"Irvine Unified\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://www.trulia.com/schools/CA-irvine-westpark_elementary_school-3402251",
+      "https://www.niche.com/k12/westpark-elementary-school-irvine-ca/",
+      "https://www.realtor.com/local/schools/Westpark-Elementary-School-078626241"
+    ],
+    "stage": "search_only; needs_source_identity_date_and_context_review",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "30736503030285",
+    "school": "Woodbridge High",
+    "district": "Irvine Unified",
+    "query": "\"Woodbridge High\" \"Irvine Unified\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://www.niche.com/k12/woodbridge-high-school-irvine-ca/reviews/",
+      "https://www.niche.com/k12/woodbridge-high-school-irvine-ca/students/",
+      "https://www.niche.com/k12/woodbridge-high-school-irvine-ca/"
+    ],
+    "stage": "search_only; needs_source_identity_date_and_context_review",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "30736506085344",
+    "school": "Woodbury Elementary",
+    "district": "Irvine Unified",
+    "query": "\"Woodbury Elementary\" \"Irvine Unified\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://www.trulia.com/schools/CA-irvine-woodbury_elementary_school-5700072240",
+      "https://www.niche.com/k12/woodbury-elementary-school-irvine-ca/",
+      "https://www.greatschools.org/california/irvine/3818-Woodbury-Elementary-School/"
+    ],
+    "stage": "search_only; needs_source_identity_date_and_context_review",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "30103060140822",
+    "school": "Irvine International Academy",
+    "district": "Orange County Department of Education",
+    "query": "\"Irvine International Academy\" \"Orange County Department of Education\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://schoolfactors.org/school/30103060140822",
+      "https://www.greatschools.org/california/irvine/33276-Irvine-International-Academy/",
+      "https://citizenportal.ai/articles/6191733/california/school-districts/orange-county-department-of-education/Dozens-of-parents-students-speak-in-support-of-Irvine-International-Academy-as-board-and-school-leaders-pledge-to-resolve-complaints"
+    ],
+    "stage": "search_only; needs_source_identity_date_and_context_review",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "30736430102871",
+    "school": "Arnold O. Beckman High",
+    "district": "Tustin Unified",
+    "query": "\"Arnold O. Beckman High\" \"Tustin Unified\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://www.greatschools.org/california/irvine/13862-Arnold-O.-Beckman-High-School/reviews"
+    ],
+    "stage": "search_only; needs_source_identity_date_and_context_review",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "30736430102889",
+    "school": "Hicks Canyon Elementary",
+    "district": "Tustin Unified",
+    "query": "\"Hicks Canyon Elementary\" \"Tustin Unified\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://www.trulia.com/schools/CA-irvine-hicks_canyon_elementary_school-5351579",
+      "https://www.movoto.com/schools/irvine-ca/hicks-canyon-elementary-school-064015010995/",
+      "https://www.niche.com/k12/hicks-canyon-elementary-school-irvine-ca/"
+    ],
+    "stage": "search_only; needs_source_identity_date_and_context_review",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "30736436118772",
+    "school": "Myford Elementary",
+    "district": "Tustin Unified",
+    "query": "\"Myford Elementary\" \"Tustin Unified\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://www.niche.com/k12/myford-elementary-school-irvine-ca/",
+      "https://www.greatschools.org/california/irvine/11997-Myford-Elementary-School/",
+      "https://www.trulia.com/schools/CA-irvine-myford_elementary_school-4946080"
+    ],
+    "stage": "search_only; needs_source_identity_date_and_context_review",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "30736430121152",
+    "school": "Orchard Hills",
+    "district": "Tustin Unified",
+    "query": "\"Orchard Hills\" \"Tustin Unified\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://www.niche.com/k12/orchard-hills-irvine-ca/",
+      "https://www.trulia.com/schools/CA-irvine-orchard_hills_school-5700084278",
+      "https://www.greatschools.org/california/irvine/25320-Orchard-Hills-School/"
+    ],
+    "stage": "search_only; needs_source_identity_date_and_context_review",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  },
+  {
+    "cds": "37754160139386",
+    "school": "Excel Academy Charter",
+    "district": "Warner Unified",
+    "query": "\"Excel Academy Charter\" \"Warner Unified\" parent reviews school climate survey",
+    "searched_date": "2026-10-12",
+    "candidate_urls": [
+      "https://www.greatschools.org/california/irvine/33324-Excel-Academy-Charter/"
+    ],
+    "stage": "search_only; needs_source_identity_date_and_context_review",
+    "limit": "Search snippets may mix neighboring schools or syndicate the same review; not evidence of parent consensus."
+  }
+]

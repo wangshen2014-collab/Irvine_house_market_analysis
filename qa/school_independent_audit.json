@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "independent_source_cells": 13860,
+  "independent_ELPI_CCI_ratios": 490,
+  "manual_reference_fields": 8,
+  "school_SPSA_DFS_cross_format_checks": 4,
+  "irvine_unique_CDS": 51,
+  "geography_check": "four IUSD maps visually inspected; no exact-address or legal-city polygon certification",
+  "limitations": "same upstream assessments; no causal school-effect, ranking, seating, or independent parent-identity validation"
+}

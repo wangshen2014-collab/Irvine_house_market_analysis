@@ -1,0 +1,11 @@
+{
+  "reproduced_public_tables": [
+    "school_directory_20261012.csv",
+    "school_directory_exclusions_20261012.csv",
+    "school_indicators_2025.csv",
+    "school_comparison_matrix_2025.csv"
+  ],
+  "byte_identical": true,
+  "equal_length_input_mutation_rejected_before_output": true,
+  "public_scripts_compile": true
+}

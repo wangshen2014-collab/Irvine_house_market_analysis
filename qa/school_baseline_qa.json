@@ -1,0 +1,40 @@
+{
+  "input_sha256": {
+    "cde_directory.txt": "aa172fe64c447884251f98eaa10220d6e1f02f942a4a8cb1208acbf47f139703",
+    "ela2025.txt": "3ed9b3f9af3f55bc8ba5390ef0532b0bf594e1c835d655520c0f0ab76c66fd04",
+    "math2025.txt": "5e9137a1698f645a511f4b1bf23fbfe64782df87af8aabeecc4f4552bdb2332b",
+    "elpi2025.txt": "4b7d3a8e1bc6b699438056b1e2d0da3b6fd137359fde76b8ab29992edb657eb6",
+    "cci2025.txt": "a515082440741da7f03d14c5ae73f084d978301faadcf8889ff42484a5c73eb4"
+  },
+  "directory_rows": 231,
+  "scope_counts": {
+    "comparison_city_address_directory": 36,
+    "district_context_only": 144,
+    "irvine_address_directory": 51
+  },
+  "irvine_category_counts": {
+    "charter": 4,
+    "conventional": 44,
+    "virtual_or_alternative": 3
+  },
+  "irvine_district_counts": {
+    "Helendale Elementary": 1,
+    "Irvine Unified": 44,
+    "Orange County Department of Education": 1,
+    "Tustin Unified": 4,
+    "Warner Unified": 1
+  },
+  "excluded_rows": 11,
+  "indicator_rows": 2310,
+  "published_rows": 2001,
+  "irvine_published_ALL_or_EL_by_indicator": {
+    "ELA": 51,
+    "MATH": 51,
+    "ELPI": 49,
+    "CCI": 10
+  },
+  "exact_address_assignments_verified": 0,
+  "grade_specific_seat_availability_verified": 0,
+  "municipal_polygon_coverage": "not_verified; directory scope explicit",
+  "whole_school_module_complete": false
+}

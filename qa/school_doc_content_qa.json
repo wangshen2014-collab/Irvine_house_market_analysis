@@ -1,0 +1,26 @@
+{
+  "native_tables_verified": 9,
+  "native_cells_verified": 483,
+  "checks": [
+    {
+      "tab": "review",
+      "tables": 1,
+      "cells_verified": 36
+    },
+    {
+      "tab": "school",
+      "tables": 8,
+      "cells_verified": 447
+    }
+  ],
+  "prior_12_tabs_preserved_except_authorized_execution_and_two_crosscity_text_edits": true,
+  "parent_search_coverage": 51,
+  "assignment_verified": 0,
+  "original_document_changed_tabs": [
+    "执行方案与验收指标",
+    "需求：跨市成本与买家选择"
+  ],
+  "original_other_10_tabs_text_unchanged": true,
+  "pdf_new_pages_visually_inspected": "93-108 of 108; native tab cover page 95",
+  "visual_result": "No clipping or overlapping text; multi-page tables remain readable; continuation pages lack repeated header"
+}
