@@ -4,7 +4,7 @@
 
 ## 项目状态
 
-2026-10-11启动。已完成县级历史人口／净迁移、城市家庭数量分解及官方长期预测的阶段研究；已补城市ACS结构、重点社区统计代理诊断、成交字段试采集，以及25笔售房的公开挂牌时间线和4笔三卧关闭租赁。已补2023—2025年HMDA按揭购买力与BLS工资就业；真实买家来源、城市分流及完整需求／供给／定价研究仍未完成，尚未形成买入／等待结论。
+2026-10-11启动；截至2026-10-12，已串行推进至步骤11联合情景，各模块覆盖与限制见STATUS。步骤12独立公共B综合及步骤13最终独立审阅仍待完成；尚未接入家庭A/C或形成家庭最终买／等结论。
 
 ## 工作方式
 
@@ -209,3 +209,17 @@ python scripts/chart_rate_transmission.py --analysis PRIVATE_OUTPUT/analysis.jso
 ```
 
 build／audit使用Python标准库，chart需matplotlib。若需从原工作簿重建FHFA选取，用含openpyxl的Python运行 `scripts/extract_rate_workbooks.py --evidence-dir EVIDENCE_DIR`；只读取官方工作簿，结果应与manifest指纹相同。设计见 `data/rate_analysis_design.json`。所有缺失值保持缺失；月度价格对齐截至2026-08，10月最新周值单列，FHFA锁定估计截至2024Q2。完整公共B和步骤11联合情景尚未完成。
+
+## 步骤11：联合情景与融资条件
+
+[阶段十四报告](reports/2026-10-12_joint_scenarios_phase14.md)按预测版本、市场定价和实际产品条件形成4类情景；不把低利率或月供边界当房价预测。真实个人LE仍未取得。下一项仅步骤12独立公共B综合，见[新线程指令](docs/step12_independent_synthesis_prompt.md)。
+
+```bash
+# evidence-dir为本阶段私人证据包解压后的目录；不把raw/提交公开仓库。
+python scripts/build_joint_scenarios.py --evidence-dir /path/to/evidence --private-out /path/to/derived
+python scripts/audit_joint_scenarios.py --evidence-dir /path/to/evidence --private-out /path/to/derived
+# 图表依赖matplotlib、numpy及Noto Sans CJK SC；计算脚本仅标准库，audit另用Poppler pdftotext。
+python scripts/chart_joint_scenarios.py --private-out /path/to/derived
+```
+
+43份冻结输入先核SHA-256；同URL变版应登记新版本，不直接替换。144项算术／提取复核、13份输出逐字节复跑通过，3处来源月供差异保留。所有公开数值敏感性都是虚构归一化边界；银行价目不等于个人批准，ARM／再融资可用性、全部费用及目标品质未认证。正式报告含12张原生表与2张原创图，交付记录见QA。

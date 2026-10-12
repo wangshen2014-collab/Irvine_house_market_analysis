@@ -1,0 +1,21 @@
+{
+  "status": "passed",
+  "byte_identical_outputs": 13,
+  "matches": {
+    "arm_cap_stress.csv": true,
+    "coverage.csv": true,
+    "equal_payment_boundaries.csv": true,
+    "forecast_errors.csv": true,
+    "forecasts.csv": true,
+    "four_handle_grid.csv": true,
+    "four_handle_history.csv": true,
+    "market.csv": true,
+    "payment_grid.csv": true,
+    "points.csv": true,
+    "refinance.csv": true,
+    "source_anomalies.csv": true,
+    "analysis.json": true
+  },
+  "changed_input_rejected_before_write": true,
+  "scope": "numeric JSON and CSV; image rendering checked separately"
+}

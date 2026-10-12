@@ -1,0 +1,51 @@
+{
+  "stage": "step11_phase14",
+  "as_of": "2026-10-12",
+  "status": "research_complete_with_limits; archive_verified; ready_for_publication",
+  "document": {
+    "native_tables": 12,
+    "cells": 227,
+    "exact_cell_readback": true,
+    "original_charts": 2,
+    "previous18_tab_bodies_unchanged_before_handoff": true,
+    "pdf_total_pages_before_handoff": 161,
+    "body_pages_visually_checked": [
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161
+    ],
+    "title_separator_page": 152
+  },
+  "qa": {
+    "arithmetic_and_extraction_checks": 144,
+    "reproducible_numeric_outputs": 13,
+    "input_mutation_rejected_before_output": true,
+    "source_payment_discrepancies_retained": 3,
+    "second_model_review": false
+  },
+  "archive": {
+    "indexed_members": 93,
+    "bytes": 7011189,
+    "sha256": "3a72f31f9fbd28b583774c5cb9a815af03bff8861300524ecb3d9912dbf9b383",
+    "local_zip_and_members_verified": true,
+    "remote_size_and_parent_verified": true,
+    "remote_bytes_redownloaded": false,
+    "code_snapshot_tree": "52afaf88ef8110880735af4c5c258f3ece90437c",
+    "private_url_omitted": true
+  },
+  "publication_note": "Canonical PR/head/main and final document receipt are recorded after publication in the formal private handoff; this receipt does not fabricate a future commit.",
+  "remaining_gaps": [
+    "personal Loan Estimate = 0",
+    "live futures path unavailable",
+    "target product transaction and supply denominators",
+    "complete net rents and carrying costs",
+    "school/broker coverage limits"
+  ],
+  "next_step": "12 independent public B synthesis in a new thread; then step13 independent review; no A/C yet"
+}

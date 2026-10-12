@@ -1,0 +1,122 @@
+{
+  "module": "step11_joint_scenarios_phase14",
+  "as_of": "2026-10-12",
+  "timezone": "America/Los_Angeles",
+  "design_frozen_before_calculation": true,
+  "scope": "independent public B; no household A/C; no subagents; no third-party contact",
+  "horizons": [
+    "6-12 months",
+    "2-3 years",
+    "3-5 years",
+    "5-10 years"
+  ],
+  "required_scenarios": [
+    "stable_disinflation",
+    "recession_disinflation",
+    "higher_for_longer",
+    "target_supply_expansion"
+  ],
+  "scenario_probability": null,
+  "scenario_price_forecast": null,
+  "forecast_error_definition": "actual complete-quarter arithmetic mean of dated weekly PMMS minus vintage forecast, percentage points; Q4 2026 excluded",
+  "forecast_error_cohorts": [
+    {
+      "vintage": "2025-09-11",
+      "institution": "Fannie Mae",
+      "quarters": [
+        "2026Q1",
+        "2026Q2",
+        "2026Q3"
+      ]
+    },
+    {
+      "vintage": "2026-05-15",
+      "institution": "MBA",
+      "quarters": [
+        "2026Q3"
+      ]
+    }
+  ],
+  "payment_sensitivity": {
+    "synthetic_only": true,
+    "initial_price_index": 100,
+    "initial_down_fraction": 0.4,
+    "initial_rate_pct": 7.375,
+    "future_rates_pct": [
+      4.5,
+      5.5,
+      6.5,
+      7.375,
+      8.5
+    ],
+    "future_price_indices": [
+      90,
+      100,
+      110
+    ],
+    "term_months": 360,
+    "include_fixed_cash_and_fixed_fraction": true,
+    "exclude": [
+      "rent_carry",
+      "taxes",
+      "insurance",
+      "HOA",
+      "maintenance",
+      "opportunity_cost",
+      "transaction_cost",
+      "income_underwriting"
+    ]
+  },
+  "four_handle_condition": {
+    "ten_year_grid_pct": [
+      2.0,
+      2.5,
+      3.0,
+      3.5,
+      4.0,
+      4.5,
+      5.0,
+      5.5
+    ],
+    "spread_grid_pp": [
+      1.5,
+      2.0,
+      2.5,
+      3.0
+    ],
+    "historical_filter": "2000-01 through 2026-09; 4 <= monthly mortgage < 5; descriptive only"
+  },
+  "loan_math": {
+    "normalization_principal_usd": 100000,
+    "normalization_not_eligible_loan_quote": true,
+    "fixed_rate_pct": 7.375,
+    "arm_initial_rate_pct": 6.125,
+    "arm_initial_months": 60,
+    "arm_adjustment_months": 12,
+    "arm_caps_pp": [
+      2,
+      2,
+      6
+    ],
+    "points_lower_rate_pct": 7.125,
+    "points_fraction": 0.01,
+    "horizons_months": [
+      12,
+      24,
+      36,
+      60,
+      84,
+      120
+    ],
+    "refinance_at_month": 36,
+    "refinance_rate_pct": 5.5,
+    "refinance_cost_fraction": 0.02,
+    "refinance_new_term_months": [
+      324,
+      360
+    ],
+    "refinance_probability": null
+  },
+  "no_timing_backtest": "Historical vintage data and full same-product transactions unavailable; no claim of optimized buy timing",
+  "acceptance": "source dates and scopes, unexpired vs expired offers, independent amortization and forecast extraction checks, missing personal quotes preserved"
+}
