@@ -1,0 +1,3310 @@
+{
+  "version": "history_phase6_v1",
+  "as_of_local": "2026-10-11",
+  "timezone": "America/Los_Angeles",
+  "window_start": "2024-10-12",
+  "window_end": "2026-10-11",
+  "status": "passed_with_source_and_coverage_limitations",
+  "metrics": {
+    "sale_cases": 25,
+    "candidate_product_strata": 17,
+    "stable_profile_candidates": 21,
+    "profile_and_price_candidates": 20,
+    "event_rows": 131,
+    "sale_cohort_event_rows": 118,
+    "in_window_event_rows": 130,
+    "prior_context_event_rows": 1,
+    "event_type_counts": {
+      "lease_closed": 4,
+      "lease_listed": 9,
+      "lease_price": 3,
+      "lease_removed": 6,
+      "reported_public_sale": 6,
+      "sale_cancelled": 3,
+      "sale_closed": 26,
+      "sale_contingent": 3,
+      "sale_expired": 2,
+      "sale_listed": 34,
+      "sale_pending": 4,
+      "sale_price": 19,
+      "sale_relisted": 5,
+      "sale_removed": 7
+    },
+    "sale_cases_by_observed_close_quarter": {
+      "2025Q1": 1,
+      "2025Q2": 4,
+      "2025Q3": 2,
+      "2025Q4": 4,
+      "2026Q1": 1,
+      "2026Q2": 6,
+      "2026Q3": 6,
+      "2026Q4": 1
+    },
+    "quarter_count_interpretation": "fixed_nonrandom_sample_only_not_market_volume",
+    "sale_date_min": "2025-02-05",
+    "sale_date_max": "2026-10-01",
+    "multiple_named_sale_mls_cases": 3,
+    "new_three_bed_closed_leases": 4,
+    "prior_four_bed_closed_leases": 3,
+    "excluded_lease_candidates": 3,
+    "complete_mls_history_verified": 0,
+    "actual_contract_dom_verified": 0,
+    "signed_new_leases_verified": 0,
+    "effective_net_new_rents_verified": 0,
+    "source_record_url_pairs": 45,
+    "distinct_source_urls": 45
+  },
+  "checks_passed": 812,
+  "checks_failed": 0,
+  "independent_model_review_performed": false,
+  "checks": [
+    {
+      "check": "frozen_bytes_pilot_notes",
+      "passed": true
+    },
+    {
+      "check": "frozen_sha256_pilot_notes",
+      "passed": true
+    },
+    {
+      "check": "frozen_bytes_history_notes",
+      "passed": true
+    },
+    {
+      "check": "frozen_sha256_history_notes",
+      "passed": true
+    },
+    {
+      "check": "frozen_bytes_source_map",
+      "passed": true
+    },
+    {
+      "check": "frozen_sha256_source_map",
+      "passed": true
+    },
+    {
+      "check": "fixed_sale_cohort_25",
+      "passed": true
+    },
+    {
+      "check": "history_covers_exact_frozen_cohort",
+      "passed": true
+    },
+    {
+      "check": "groups_partition_cohort_once",
+      "passed": true
+    },
+    {
+      "check": "T001_source_turn76view5",
+      "passed": true
+    },
+    {
+      "check": "T001_event_0_0_type",
+      "passed": true
+    },
+    {
+      "check": "T001_event_0_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "T001_event_0_0_amount",
+      "passed": true
+    },
+    {
+      "check": "T001_event_0_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "T001_event_0_1_type",
+      "passed": true
+    },
+    {
+      "check": "T001_event_0_1_not_future",
+      "passed": true
+    },
+    {
+      "check": "T001_event_0_1_amount",
+      "passed": true
+    },
+    {
+      "check": "T001_event_0_1_boundary",
+      "passed": true
+    },
+    {
+      "check": "T001_event_0_2_type",
+      "passed": true
+    },
+    {
+      "check": "T001_event_0_2_not_future",
+      "passed": true
+    },
+    {
+      "check": "T001_event_0_2_amount",
+      "passed": true
+    },
+    {
+      "check": "T001_event_0_2_boundary",
+      "passed": true
+    },
+    {
+      "check": "T001_event_0_3_type",
+      "passed": true
+    },
+    {
+      "check": "T001_event_0_3_not_future",
+      "passed": true
+    },
+    {
+      "check": "T001_event_0_3_amount",
+      "passed": true
+    },
+    {
+      "check": "T001_event_0_3_boundary",
+      "passed": true
+    },
+    {
+      "check": "T001_event_0_4_type",
+      "passed": true
+    },
+    {
+      "check": "T001_event_0_4_not_future",
+      "passed": true
+    },
+    {
+      "check": "T001_event_0_4_amount",
+      "passed": true
+    },
+    {
+      "check": "T001_event_0_4_boundary",
+      "passed": true
+    },
+    {
+      "check": "T001_same_baseline_close",
+      "passed": true
+    },
+    {
+      "check": "T001_close_in_window",
+      "passed": true
+    },
+    {
+      "check": "T001_observed_listing_and_current_mls",
+      "passed": true
+    },
+    {
+      "check": "T001_calendar_span_order",
+      "passed": true
+    },
+    {
+      "check": "T001_independent_fraction_first",
+      "passed": true
+    },
+    {
+      "check": "T001_independent_fraction_last",
+      "passed": true
+    },
+    {
+      "check": "T001_partial_not_complete",
+      "passed": true
+    },
+    {
+      "check": "T002_source_turn82view0",
+      "passed": true
+    },
+    {
+      "check": "T002_event_0_0_type",
+      "passed": true
+    },
+    {
+      "check": "T002_event_0_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "T002_event_0_0_amount",
+      "passed": true
+    },
+    {
+      "check": "T002_event_0_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "T002_event_0_1_type",
+      "passed": true
+    },
+    {
+      "check": "T002_event_0_1_not_future",
+      "passed": true
+    },
+    {
+      "check": "T002_event_0_1_amount",
+      "passed": true
+    },
+    {
+      "check": "T002_event_0_1_boundary",
+      "passed": true
+    },
+    {
+      "check": "T002_source_turn80view0",
+      "passed": true
+    },
+    {
+      "check": "T002_event_1_0_type",
+      "passed": true
+    },
+    {
+      "check": "T002_event_1_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "T002_event_1_0_amount",
+      "passed": true
+    },
+    {
+      "check": "T002_event_1_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "T002_same_baseline_close",
+      "passed": true
+    },
+    {
+      "check": "T002_close_in_window",
+      "passed": true
+    },
+    {
+      "check": "T002_observed_listing_and_current_mls",
+      "passed": true
+    },
+    {
+      "check": "T002_calendar_span_order",
+      "passed": true
+    },
+    {
+      "check": "T002_independent_fraction_first",
+      "passed": true
+    },
+    {
+      "check": "T002_independent_fraction_last",
+      "passed": true
+    },
+    {
+      "check": "T002_partial_not_complete",
+      "passed": true
+    },
+    {
+      "check": "T003_source_turn76view6",
+      "passed": true
+    },
+    {
+      "check": "T003_event_0_0_type",
+      "passed": true
+    },
+    {
+      "check": "T003_event_0_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "T003_event_0_0_amount",
+      "passed": true
+    },
+    {
+      "check": "T003_event_0_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "T003_event_0_1_type",
+      "passed": true
+    },
+    {
+      "check": "T003_event_0_1_not_future",
+      "passed": true
+    },
+    {
+      "check": "T003_event_0_1_amount",
+      "passed": true
+    },
+    {
+      "check": "T003_event_0_1_boundary",
+      "passed": true
+    },
+    {
+      "check": "T003_event_0_2_type",
+      "passed": true
+    },
+    {
+      "check": "T003_event_0_2_not_future",
+      "passed": true
+    },
+    {
+      "check": "T003_event_0_2_amount",
+      "passed": true
+    },
+    {
+      "check": "T003_event_0_2_boundary",
+      "passed": true
+    },
+    {
+      "check": "T003_event_0_3_type",
+      "passed": true
+    },
+    {
+      "check": "T003_event_0_3_not_future",
+      "passed": true
+    },
+    {
+      "check": "T003_event_0_3_amount",
+      "passed": true
+    },
+    {
+      "check": "T003_event_0_3_boundary",
+      "passed": true
+    },
+    {
+      "check": "T003_source_turn77view0",
+      "passed": true
+    },
+    {
+      "check": "T003_event_1_0_type",
+      "passed": true
+    },
+    {
+      "check": "T003_event_1_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "T003_event_1_0_amount",
+      "passed": true
+    },
+    {
+      "check": "T003_event_1_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "T003_event_1_1_type",
+      "passed": true
+    },
+    {
+      "check": "T003_event_1_1_not_future",
+      "passed": true
+    },
+    {
+      "check": "T003_event_1_1_amount",
+      "passed": true
+    },
+    {
+      "check": "T003_event_1_1_boundary",
+      "passed": true
+    },
+    {
+      "check": "T003_same_baseline_close",
+      "passed": true
+    },
+    {
+      "check": "T003_close_in_window",
+      "passed": true
+    },
+    {
+      "check": "T003_observed_listing_and_current_mls",
+      "passed": true
+    },
+    {
+      "check": "T003_calendar_span_order",
+      "passed": true
+    },
+    {
+      "check": "T003_partial_not_complete",
+      "passed": true
+    },
+    {
+      "check": "T004_source_turn82view3",
+      "passed": true
+    },
+    {
+      "check": "T004_event_0_0_type",
+      "passed": true
+    },
+    {
+      "check": "T004_event_0_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "T004_event_0_0_amount",
+      "passed": true
+    },
+    {
+      "check": "T004_event_0_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "T004_event_0_1_type",
+      "passed": true
+    },
+    {
+      "check": "T004_event_0_1_not_future",
+      "passed": true
+    },
+    {
+      "check": "T004_event_0_1_amount",
+      "passed": true
+    },
+    {
+      "check": "T004_event_0_1_boundary",
+      "passed": true
+    },
+    {
+      "check": "T004_same_baseline_close",
+      "passed": true
+    },
+    {
+      "check": "T004_close_in_window",
+      "passed": true
+    },
+    {
+      "check": "T004_observed_listing_and_current_mls",
+      "passed": true
+    },
+    {
+      "check": "T004_calendar_span_order",
+      "passed": true
+    },
+    {
+      "check": "T004_independent_fraction_first",
+      "passed": true
+    },
+    {
+      "check": "T004_independent_fraction_last",
+      "passed": true
+    },
+    {
+      "check": "T004_partial_not_complete",
+      "passed": true
+    },
+    {
+      "check": "T005_source_turn82view4",
+      "passed": true
+    },
+    {
+      "check": "T005_event_0_0_type",
+      "passed": true
+    },
+    {
+      "check": "T005_event_0_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "T005_event_0_0_amount",
+      "passed": true
+    },
+    {
+      "check": "T005_event_0_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "T005_event_0_1_type",
+      "passed": true
+    },
+    {
+      "check": "T005_event_0_1_not_future",
+      "passed": true
+    },
+    {
+      "check": "T005_event_0_1_amount",
+      "passed": true
+    },
+    {
+      "check": "T005_event_0_1_boundary",
+      "passed": true
+    },
+    {
+      "check": "T005_source_turn82view4",
+      "passed": true
+    },
+    {
+      "check": "T005_event_1_0_type",
+      "passed": true
+    },
+    {
+      "check": "T005_event_1_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "T005_event_1_0_amount",
+      "passed": true
+    },
+    {
+      "check": "T005_event_1_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "T005_event_1_1_type",
+      "passed": true
+    },
+    {
+      "check": "T005_event_1_1_not_future",
+      "passed": true
+    },
+    {
+      "check": "T005_event_1_1_amount",
+      "passed": true
+    },
+    {
+      "check": "T005_event_1_1_boundary",
+      "passed": true
+    },
+    {
+      "check": "T005_event_1_2_type",
+      "passed": true
+    },
+    {
+      "check": "T005_event_1_2_not_future",
+      "passed": true
+    },
+    {
+      "check": "T005_event_1_2_amount",
+      "passed": true
+    },
+    {
+      "check": "T005_event_1_2_boundary",
+      "passed": true
+    },
+    {
+      "check": "T005_same_baseline_close",
+      "passed": true
+    },
+    {
+      "check": "T005_close_in_window",
+      "passed": true
+    },
+    {
+      "check": "T005_observed_listing_and_current_mls",
+      "passed": true
+    },
+    {
+      "check": "T005_calendar_span_order",
+      "passed": true
+    },
+    {
+      "check": "T005_independent_fraction_first",
+      "passed": true
+    },
+    {
+      "check": "T005_independent_fraction_last",
+      "passed": true
+    },
+    {
+      "check": "T005_partial_not_complete",
+      "passed": true
+    },
+    {
+      "check": "T006_source_turn80view1",
+      "passed": true
+    },
+    {
+      "check": "T006_event_0_0_type",
+      "passed": true
+    },
+    {
+      "check": "T006_event_0_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "T006_event_0_0_amount",
+      "passed": true
+    },
+    {
+      "check": "T006_event_0_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "T006_event_0_1_type",
+      "passed": true
+    },
+    {
+      "check": "T006_event_0_1_not_future",
+      "passed": true
+    },
+    {
+      "check": "T006_event_0_1_amount",
+      "passed": true
+    },
+    {
+      "check": "T006_event_0_1_boundary",
+      "passed": true
+    },
+    {
+      "check": "T006_event_0_2_type",
+      "passed": true
+    },
+    {
+      "check": "T006_event_0_2_not_future",
+      "passed": true
+    },
+    {
+      "check": "T006_event_0_2_amount",
+      "passed": true
+    },
+    {
+      "check": "T006_event_0_2_boundary",
+      "passed": true
+    },
+    {
+      "check": "T006_event_0_3_type",
+      "passed": true
+    },
+    {
+      "check": "T006_event_0_3_not_future",
+      "passed": true
+    },
+    {
+      "check": "T006_event_0_3_amount",
+      "passed": true
+    },
+    {
+      "check": "T006_event_0_3_boundary",
+      "passed": true
+    },
+    {
+      "check": "T006_event_0_4_type",
+      "passed": true
+    },
+    {
+      "check": "T006_event_0_4_not_future",
+      "passed": true
+    },
+    {
+      "check": "T006_event_0_4_amount",
+      "passed": true
+    },
+    {
+      "check": "T006_event_0_4_boundary",
+      "passed": true
+    },
+    {
+      "check": "T006_event_0_5_type",
+      "passed": true
+    },
+    {
+      "check": "T006_event_0_5_not_future",
+      "passed": true
+    },
+    {
+      "check": "T006_event_0_5_amount",
+      "passed": true
+    },
+    {
+      "check": "T006_event_0_5_boundary",
+      "passed": true
+    },
+    {
+      "check": "T006_event_0_6_type",
+      "passed": true
+    },
+    {
+      "check": "T006_event_0_6_not_future",
+      "passed": true
+    },
+    {
+      "check": "T006_event_0_6_amount",
+      "passed": true
+    },
+    {
+      "check": "T006_event_0_6_boundary",
+      "passed": true
+    },
+    {
+      "check": "T006_source_turn51view3",
+      "passed": true
+    },
+    {
+      "check": "T006_event_1_0_type",
+      "passed": true
+    },
+    {
+      "check": "T006_event_1_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "T006_event_1_0_amount",
+      "passed": true
+    },
+    {
+      "check": "T006_event_1_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "T006_same_baseline_close",
+      "passed": true
+    },
+    {
+      "check": "T006_close_in_window",
+      "passed": true
+    },
+    {
+      "check": "T006_observed_listing_and_current_mls",
+      "passed": true
+    },
+    {
+      "check": "T006_calendar_span_order",
+      "passed": true
+    },
+    {
+      "check": "T006_independent_fraction_first",
+      "passed": true
+    },
+    {
+      "check": "T006_independent_fraction_last",
+      "passed": true
+    },
+    {
+      "check": "T006_partial_not_complete",
+      "passed": true
+    },
+    {
+      "check": "T007_source_turn84view0",
+      "passed": true
+    },
+    {
+      "check": "T007_event_0_0_type",
+      "passed": true
+    },
+    {
+      "check": "T007_event_0_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "T007_event_0_0_amount",
+      "passed": true
+    },
+    {
+      "check": "T007_event_0_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "T007_event_0_1_type",
+      "passed": true
+    },
+    {
+      "check": "T007_event_0_1_not_future",
+      "passed": true
+    },
+    {
+      "check": "T007_event_0_1_amount",
+      "passed": true
+    },
+    {
+      "check": "T007_event_0_1_boundary",
+      "passed": true
+    },
+    {
+      "check": "T007_event_0_2_type",
+      "passed": true
+    },
+    {
+      "check": "T007_event_0_2_not_future",
+      "passed": true
+    },
+    {
+      "check": "T007_event_0_2_amount",
+      "passed": true
+    },
+    {
+      "check": "T007_event_0_2_boundary",
+      "passed": true
+    },
+    {
+      "check": "T007_source_turn87view4",
+      "passed": true
+    },
+    {
+      "check": "T007_event_1_0_type",
+      "passed": true
+    },
+    {
+      "check": "T007_event_1_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "T007_event_1_0_amount",
+      "passed": true
+    },
+    {
+      "check": "T007_event_1_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "T007_same_baseline_close",
+      "passed": true
+    },
+    {
+      "check": "T007_close_in_window",
+      "passed": true
+    },
+    {
+      "check": "T007_observed_listing_and_current_mls",
+      "passed": true
+    },
+    {
+      "check": "T007_calendar_span_order",
+      "passed": true
+    },
+    {
+      "check": "T007_independent_fraction_first",
+      "passed": true
+    },
+    {
+      "check": "T007_independent_fraction_last",
+      "passed": true
+    },
+    {
+      "check": "T007_partial_not_complete",
+      "passed": true
+    },
+    {
+      "check": "T008_source_turn80view2",
+      "passed": true
+    },
+    {
+      "check": "T008_event_0_0_type",
+      "passed": true
+    },
+    {
+      "check": "T008_event_0_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "T008_event_0_0_amount",
+      "passed": true
+    },
+    {
+      "check": "T008_event_0_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "T008_event_0_1_type",
+      "passed": true
+    },
+    {
+      "check": "T008_event_0_1_not_future",
+      "passed": true
+    },
+    {
+      "check": "T008_event_0_1_amount",
+      "passed": true
+    },
+    {
+      "check": "T008_event_0_1_boundary",
+      "passed": true
+    },
+    {
+      "check": "T008_event_0_2_type",
+      "passed": true
+    },
+    {
+      "check": "T008_event_0_2_not_future",
+      "passed": true
+    },
+    {
+      "check": "T008_event_0_2_amount",
+      "passed": true
+    },
+    {
+      "check": "T008_event_0_2_boundary",
+      "passed": true
+    },
+    {
+      "check": "T008_event_0_3_type",
+      "passed": true
+    },
+    {
+      "check": "T008_event_0_3_not_future",
+      "passed": true
+    },
+    {
+      "check": "T008_event_0_3_amount",
+      "passed": true
+    },
+    {
+      "check": "T008_event_0_3_boundary",
+      "passed": true
+    },
+    {
+      "check": "T008_event_0_4_type",
+      "passed": true
+    },
+    {
+      "check": "T008_event_0_4_not_future",
+      "passed": true
+    },
+    {
+      "check": "T008_event_0_4_amount",
+      "passed": true
+    },
+    {
+      "check": "T008_event_0_4_boundary",
+      "passed": true
+    },
+    {
+      "check": "T008_event_0_5_type",
+      "passed": true
+    },
+    {
+      "check": "T008_event_0_5_not_future",
+      "passed": true
+    },
+    {
+      "check": "T008_event_0_5_amount",
+      "passed": true
+    },
+    {
+      "check": "T008_event_0_5_boundary",
+      "passed": true
+    },
+    {
+      "check": "T008_source_turn80view2",
+      "passed": true
+    },
+    {
+      "check": "T008_event_1_0_type",
+      "passed": true
+    },
+    {
+      "check": "T008_event_1_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "T008_event_1_0_amount",
+      "passed": true
+    },
+    {
+      "check": "T008_event_1_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "T008_event_1_1_type",
+      "passed": true
+    },
+    {
+      "check": "T008_event_1_1_not_future",
+      "passed": true
+    },
+    {
+      "check": "T008_event_1_1_amount",
+      "passed": true
+    },
+    {
+      "check": "T008_event_1_1_boundary",
+      "passed": true
+    },
+    {
+      "check": "T008_event_1_2_type",
+      "passed": true
+    },
+    {
+      "check": "T008_event_1_2_not_future",
+      "passed": true
+    },
+    {
+      "check": "T008_event_1_2_amount",
+      "passed": true
+    },
+    {
+      "check": "T008_event_1_2_boundary",
+      "passed": true
+    },
+    {
+      "check": "T008_event_1_3_type",
+      "passed": true
+    },
+    {
+      "check": "T008_event_1_3_not_future",
+      "passed": true
+    },
+    {
+      "check": "T008_event_1_3_amount",
+      "passed": true
+    },
+    {
+      "check": "T008_event_1_3_boundary",
+      "passed": true
+    },
+    {
+      "check": "T008_same_baseline_close",
+      "passed": true
+    },
+    {
+      "check": "T008_close_in_window",
+      "passed": true
+    },
+    {
+      "check": "T008_observed_listing_and_current_mls",
+      "passed": true
+    },
+    {
+      "check": "T008_calendar_span_order",
+      "passed": true
+    },
+    {
+      "check": "T008_independent_fraction_first",
+      "passed": true
+    },
+    {
+      "check": "T008_independent_fraction_last",
+      "passed": true
+    },
+    {
+      "check": "T008_partial_not_complete",
+      "passed": true
+    },
+    {
+      "check": "T009_source_turn84view2",
+      "passed": true
+    },
+    {
+      "check": "T009_event_0_0_type",
+      "passed": true
+    },
+    {
+      "check": "T009_event_0_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "T009_event_0_0_amount",
+      "passed": true
+    },
+    {
+      "check": "T009_event_0_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "T009_event_0_1_type",
+      "passed": true
+    },
+    {
+      "check": "T009_event_0_1_not_future",
+      "passed": true
+    },
+    {
+      "check": "T009_event_0_1_amount",
+      "passed": true
+    },
+    {
+      "check": "T009_event_0_1_boundary",
+      "passed": true
+    },
+    {
+      "check": "T009_event_0_2_type",
+      "passed": true
+    },
+    {
+      "check": "T009_event_0_2_not_future",
+      "passed": true
+    },
+    {
+      "check": "T009_event_0_2_amount",
+      "passed": true
+    },
+    {
+      "check": "T009_event_0_2_boundary",
+      "passed": true
+    },
+    {
+      "check": "T009_event_0_3_type",
+      "passed": true
+    },
+    {
+      "check": "T009_event_0_3_not_future",
+      "passed": true
+    },
+    {
+      "check": "T009_event_0_3_amount",
+      "passed": true
+    },
+    {
+      "check": "T009_event_0_3_boundary",
+      "passed": true
+    },
+    {
+      "check": "T009_source_turn84view2",
+      "passed": true
+    },
+    {
+      "check": "T009_event_1_0_type",
+      "passed": true
+    },
+    {
+      "check": "T009_event_1_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "T009_event_1_0_amount",
+      "passed": true
+    },
+    {
+      "check": "T009_event_1_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "T009_event_1_1_type",
+      "passed": true
+    },
+    {
+      "check": "T009_event_1_1_not_future",
+      "passed": true
+    },
+    {
+      "check": "T009_event_1_1_amount",
+      "passed": true
+    },
+    {
+      "check": "T009_event_1_1_boundary",
+      "passed": true
+    },
+    {
+      "check": "T009_same_baseline_close",
+      "passed": true
+    },
+    {
+      "check": "T009_close_in_window",
+      "passed": true
+    },
+    {
+      "check": "T009_observed_listing_and_current_mls",
+      "passed": true
+    },
+    {
+      "check": "T009_calendar_span_order",
+      "passed": true
+    },
+    {
+      "check": "T009_independent_fraction_first",
+      "passed": true
+    },
+    {
+      "check": "T009_independent_fraction_last",
+      "passed": true
+    },
+    {
+      "check": "T009_partial_not_complete",
+      "passed": true
+    },
+    {
+      "check": "T010_source_turn83view3",
+      "passed": true
+    },
+    {
+      "check": "T010_event_0_0_type",
+      "passed": true
+    },
+    {
+      "check": "T010_event_0_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "T010_event_0_0_amount",
+      "passed": true
+    },
+    {
+      "check": "T010_event_0_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "T010_event_0_1_type",
+      "passed": true
+    },
+    {
+      "check": "T010_event_0_1_not_future",
+      "passed": true
+    },
+    {
+      "check": "T010_event_0_1_amount",
+      "passed": true
+    },
+    {
+      "check": "T010_event_0_1_boundary",
+      "passed": true
+    },
+    {
+      "check": "T010_same_baseline_close",
+      "passed": true
+    },
+    {
+      "check": "T010_close_in_window",
+      "passed": true
+    },
+    {
+      "check": "T010_observed_listing_and_current_mls",
+      "passed": true
+    },
+    {
+      "check": "T010_calendar_span_order",
+      "passed": true
+    },
+    {
+      "check": "T010_independent_fraction_first",
+      "passed": true
+    },
+    {
+      "check": "T010_independent_fraction_last",
+      "passed": true
+    },
+    {
+      "check": "T010_partial_not_complete",
+      "passed": true
+    },
+    {
+      "check": "T011_source_turn83view4",
+      "passed": true
+    },
+    {
+      "check": "T011_event_0_0_type",
+      "passed": true
+    },
+    {
+      "check": "T011_event_0_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "T011_event_0_0_amount",
+      "passed": true
+    },
+    {
+      "check": "T011_event_0_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "T011_event_0_1_type",
+      "passed": true
+    },
+    {
+      "check": "T011_event_0_1_not_future",
+      "passed": true
+    },
+    {
+      "check": "T011_event_0_1_amount",
+      "passed": true
+    },
+    {
+      "check": "T011_event_0_1_boundary",
+      "passed": true
+    },
+    {
+      "check": "T011_same_baseline_close",
+      "passed": true
+    },
+    {
+      "check": "T011_close_in_window",
+      "passed": true
+    },
+    {
+      "check": "T011_observed_listing_and_current_mls",
+      "passed": true
+    },
+    {
+      "check": "T011_calendar_span_order",
+      "passed": true
+    },
+    {
+      "check": "T011_independent_fraction_first",
+      "passed": true
+    },
+    {
+      "check": "T011_independent_fraction_last",
+      "passed": true
+    },
+    {
+      "check": "T011_partial_not_complete",
+      "passed": true
+    },
+    {
+      "check": "T012_source_turn84view1",
+      "passed": true
+    },
+    {
+      "check": "T012_event_0_0_type",
+      "passed": true
+    },
+    {
+      "check": "T012_event_0_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "T012_event_0_0_amount",
+      "passed": true
+    },
+    {
+      "check": "T012_event_0_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "T012_event_0_1_type",
+      "passed": true
+    },
+    {
+      "check": "T012_event_0_1_not_future",
+      "passed": true
+    },
+    {
+      "check": "T012_event_0_1_amount",
+      "passed": true
+    },
+    {
+      "check": "T012_event_0_1_boundary",
+      "passed": true
+    },
+    {
+      "check": "T012_event_0_2_type",
+      "passed": true
+    },
+    {
+      "check": "T012_event_0_2_not_future",
+      "passed": true
+    },
+    {
+      "check": "T012_event_0_2_amount",
+      "passed": true
+    },
+    {
+      "check": "T012_event_0_2_boundary",
+      "passed": true
+    },
+    {
+      "check": "T012_event_0_3_type",
+      "passed": true
+    },
+    {
+      "check": "T012_event_0_3_not_future",
+      "passed": true
+    },
+    {
+      "check": "T012_event_0_3_amount",
+      "passed": true
+    },
+    {
+      "check": "T012_event_0_3_boundary",
+      "passed": true
+    },
+    {
+      "check": "T012_source_turn84view1",
+      "passed": true
+    },
+    {
+      "check": "T012_event_1_0_type",
+      "passed": true
+    },
+    {
+      "check": "T012_event_1_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "T012_event_1_0_amount",
+      "passed": true
+    },
+    {
+      "check": "T012_event_1_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "T012_event_1_1_type",
+      "passed": true
+    },
+    {
+      "check": "T012_event_1_1_not_future",
+      "passed": true
+    },
+    {
+      "check": "T012_event_1_1_amount",
+      "passed": true
+    },
+    {
+      "check": "T012_event_1_1_boundary",
+      "passed": true
+    },
+    {
+      "check": "T012_same_baseline_close",
+      "passed": true
+    },
+    {
+      "check": "T012_close_in_window",
+      "passed": true
+    },
+    {
+      "check": "T012_observed_listing_and_current_mls",
+      "passed": true
+    },
+    {
+      "check": "T012_calendar_span_order",
+      "passed": true
+    },
+    {
+      "check": "T012_independent_fraction_first",
+      "passed": true
+    },
+    {
+      "check": "T012_independent_fraction_last",
+      "passed": true
+    },
+    {
+      "check": "T012_partial_not_complete",
+      "passed": true
+    },
+    {
+      "check": "T013_source_turn80view3",
+      "passed": true
+    },
+    {
+      "check": "T013_event_0_0_type",
+      "passed": true
+    },
+    {
+      "check": "T013_event_0_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "T013_event_0_0_amount",
+      "passed": true
+    },
+    {
+      "check": "T013_event_0_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "T013_event_0_1_type",
+      "passed": true
+    },
+    {
+      "check": "T013_event_0_1_not_future",
+      "passed": true
+    },
+    {
+      "check": "T013_event_0_1_amount",
+      "passed": true
+    },
+    {
+      "check": "T013_event_0_1_boundary",
+      "passed": true
+    },
+    {
+      "check": "T013_event_0_2_type",
+      "passed": true
+    },
+    {
+      "check": "T013_event_0_2_not_future",
+      "passed": true
+    },
+    {
+      "check": "T013_event_0_2_amount",
+      "passed": true
+    },
+    {
+      "check": "T013_event_0_2_boundary",
+      "passed": true
+    },
+    {
+      "check": "T013_event_0_3_type",
+      "passed": true
+    },
+    {
+      "check": "T013_event_0_3_not_future",
+      "passed": true
+    },
+    {
+      "check": "T013_event_0_3_amount",
+      "passed": true
+    },
+    {
+      "check": "T013_event_0_3_boundary",
+      "passed": true
+    },
+    {
+      "check": "T013_event_0_4_type",
+      "passed": true
+    },
+    {
+      "check": "T013_event_0_4_not_future",
+      "passed": true
+    },
+    {
+      "check": "T013_event_0_4_amount",
+      "passed": true
+    },
+    {
+      "check": "T013_event_0_4_boundary",
+      "passed": true
+    },
+    {
+      "check": "T013_event_0_5_type",
+      "passed": true
+    },
+    {
+      "check": "T013_event_0_5_not_future",
+      "passed": true
+    },
+    {
+      "check": "T013_event_0_5_amount",
+      "passed": true
+    },
+    {
+      "check": "T013_event_0_5_boundary",
+      "passed": true
+    },
+    {
+      "check": "T013_source_turn52view3",
+      "passed": true
+    },
+    {
+      "check": "T013_event_1_0_type",
+      "passed": true
+    },
+    {
+      "check": "T013_event_1_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "T013_event_1_0_amount",
+      "passed": true
+    },
+    {
+      "check": "T013_event_1_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "T013_same_baseline_close",
+      "passed": true
+    },
+    {
+      "check": "T013_close_in_window",
+      "passed": true
+    },
+    {
+      "check": "T013_observed_listing_and_current_mls",
+      "passed": true
+    },
+    {
+      "check": "T013_calendar_span_order",
+      "passed": true
+    },
+    {
+      "check": "T013_independent_fraction_first",
+      "passed": true
+    },
+    {
+      "check": "T013_independent_fraction_last",
+      "passed": true
+    },
+    {
+      "check": "T013_partial_not_complete",
+      "passed": true
+    },
+    {
+      "check": "T014_source_turn84view3",
+      "passed": true
+    },
+    {
+      "check": "T014_event_0_0_type",
+      "passed": true
+    },
+    {
+      "check": "T014_event_0_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "T014_event_0_0_amount",
+      "passed": true
+    },
+    {
+      "check": "T014_event_0_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "T014_event_0_1_type",
+      "passed": true
+    },
+    {
+      "check": "T014_event_0_1_not_future",
+      "passed": true
+    },
+    {
+      "check": "T014_event_0_1_amount",
+      "passed": true
+    },
+    {
+      "check": "T014_event_0_1_boundary",
+      "passed": true
+    },
+    {
+      "check": "T014_event_0_2_type",
+      "passed": true
+    },
+    {
+      "check": "T014_event_0_2_not_future",
+      "passed": true
+    },
+    {
+      "check": "T014_event_0_2_amount",
+      "passed": true
+    },
+    {
+      "check": "T014_event_0_2_boundary",
+      "passed": true
+    },
+    {
+      "check": "T014_same_baseline_close",
+      "passed": true
+    },
+    {
+      "check": "T014_close_in_window",
+      "passed": true
+    },
+    {
+      "check": "T014_observed_listing_and_current_mls",
+      "passed": true
+    },
+    {
+      "check": "T014_calendar_span_order",
+      "passed": true
+    },
+    {
+      "check": "T014_independent_fraction_first",
+      "passed": true
+    },
+    {
+      "check": "T014_independent_fraction_last",
+      "passed": true
+    },
+    {
+      "check": "T014_partial_not_complete",
+      "passed": true
+    },
+    {
+      "check": "T015_source_turn86view3",
+      "passed": true
+    },
+    {
+      "check": "T015_event_0_0_type",
+      "passed": true
+    },
+    {
+      "check": "T015_event_0_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "T015_event_0_0_amount",
+      "passed": true
+    },
+    {
+      "check": "T015_event_0_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "T015_event_0_1_type",
+      "passed": true
+    },
+    {
+      "check": "T015_event_0_1_not_future",
+      "passed": true
+    },
+    {
+      "check": "T015_event_0_1_amount",
+      "passed": true
+    },
+    {
+      "check": "T015_event_0_1_boundary",
+      "passed": true
+    },
+    {
+      "check": "T015_same_baseline_close",
+      "passed": true
+    },
+    {
+      "check": "T015_close_in_window",
+      "passed": true
+    },
+    {
+      "check": "T015_observed_listing_and_current_mls",
+      "passed": true
+    },
+    {
+      "check": "T015_calendar_span_order",
+      "passed": true
+    },
+    {
+      "check": "T015_independent_fraction_first",
+      "passed": true
+    },
+    {
+      "check": "T015_independent_fraction_last",
+      "passed": true
+    },
+    {
+      "check": "T015_partial_not_complete",
+      "passed": true
+    },
+    {
+      "check": "T016_source_turn83view5",
+      "passed": true
+    },
+    {
+      "check": "T016_event_0_0_type",
+      "passed": true
+    },
+    {
+      "check": "T016_event_0_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "T016_event_0_0_amount",
+      "passed": true
+    },
+    {
+      "check": "T016_event_0_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "T016_event_0_1_type",
+      "passed": true
+    },
+    {
+      "check": "T016_event_0_1_not_future",
+      "passed": true
+    },
+    {
+      "check": "T016_event_0_1_amount",
+      "passed": true
+    },
+    {
+      "check": "T016_event_0_1_boundary",
+      "passed": true
+    },
+    {
+      "check": "T016_same_baseline_close",
+      "passed": true
+    },
+    {
+      "check": "T016_close_in_window",
+      "passed": true
+    },
+    {
+      "check": "T016_observed_listing_and_current_mls",
+      "passed": true
+    },
+    {
+      "check": "T016_calendar_span_order",
+      "passed": true
+    },
+    {
+      "check": "T016_independent_fraction_first",
+      "passed": true
+    },
+    {
+      "check": "T016_independent_fraction_last",
+      "passed": true
+    },
+    {
+      "check": "T016_partial_not_complete",
+      "passed": true
+    },
+    {
+      "check": "T017_source_turn86view2",
+      "passed": true
+    },
+    {
+      "check": "T017_event_0_0_type",
+      "passed": true
+    },
+    {
+      "check": "T017_event_0_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "T017_event_0_0_amount",
+      "passed": true
+    },
+    {
+      "check": "T017_event_0_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "T017_event_0_1_type",
+      "passed": true
+    },
+    {
+      "check": "T017_event_0_1_not_future",
+      "passed": true
+    },
+    {
+      "check": "T017_event_0_1_amount",
+      "passed": true
+    },
+    {
+      "check": "T017_event_0_1_boundary",
+      "passed": true
+    },
+    {
+      "check": "T017_same_baseline_close",
+      "passed": true
+    },
+    {
+      "check": "T017_close_in_window",
+      "passed": true
+    },
+    {
+      "check": "T017_observed_listing_and_current_mls",
+      "passed": true
+    },
+    {
+      "check": "T017_calendar_span_order",
+      "passed": true
+    },
+    {
+      "check": "T017_independent_fraction_first",
+      "passed": true
+    },
+    {
+      "check": "T017_independent_fraction_last",
+      "passed": true
+    },
+    {
+      "check": "T017_partial_not_complete",
+      "passed": true
+    },
+    {
+      "check": "T018_source_turn86view1",
+      "passed": true
+    },
+    {
+      "check": "T018_event_0_0_type",
+      "passed": true
+    },
+    {
+      "check": "T018_event_0_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "T018_event_0_0_amount",
+      "passed": true
+    },
+    {
+      "check": "T018_event_0_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "T018_event_0_1_type",
+      "passed": true
+    },
+    {
+      "check": "T018_event_0_1_not_future",
+      "passed": true
+    },
+    {
+      "check": "T018_event_0_1_amount",
+      "passed": true
+    },
+    {
+      "check": "T018_event_0_1_boundary",
+      "passed": true
+    },
+    {
+      "check": "T018_same_baseline_close",
+      "passed": true
+    },
+    {
+      "check": "T018_close_in_window",
+      "passed": true
+    },
+    {
+      "check": "T018_observed_listing_and_current_mls",
+      "passed": true
+    },
+    {
+      "check": "T018_calendar_span_order",
+      "passed": true
+    },
+    {
+      "check": "T018_independent_fraction_first",
+      "passed": true
+    },
+    {
+      "check": "T018_independent_fraction_last",
+      "passed": true
+    },
+    {
+      "check": "T018_partial_not_complete",
+      "passed": true
+    },
+    {
+      "check": "T019_source_turn74search6",
+      "passed": true
+    },
+    {
+      "check": "T019_event_0_0_type",
+      "passed": true
+    },
+    {
+      "check": "T019_event_0_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "T019_event_0_0_amount",
+      "passed": true
+    },
+    {
+      "check": "T019_event_0_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "T019_event_0_1_type",
+      "passed": true
+    },
+    {
+      "check": "T019_event_0_1_not_future",
+      "passed": true
+    },
+    {
+      "check": "T019_event_0_1_amount",
+      "passed": true
+    },
+    {
+      "check": "T019_event_0_1_boundary",
+      "passed": true
+    },
+    {
+      "check": "T019_event_0_2_type",
+      "passed": true
+    },
+    {
+      "check": "T019_event_0_2_not_future",
+      "passed": true
+    },
+    {
+      "check": "T019_event_0_2_amount",
+      "passed": true
+    },
+    {
+      "check": "T019_event_0_2_boundary",
+      "passed": true
+    },
+    {
+      "check": "T019_event_0_3_type",
+      "passed": true
+    },
+    {
+      "check": "T019_event_0_3_not_future",
+      "passed": true
+    },
+    {
+      "check": "T019_event_0_3_amount",
+      "passed": true
+    },
+    {
+      "check": "T019_event_0_3_boundary",
+      "passed": true
+    },
+    {
+      "check": "T019_source_turn74search6",
+      "passed": true
+    },
+    {
+      "check": "T019_event_1_0_type",
+      "passed": true
+    },
+    {
+      "check": "T019_event_1_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "T019_event_1_0_amount",
+      "passed": true
+    },
+    {
+      "check": "T019_event_1_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "T019_same_baseline_close",
+      "passed": true
+    },
+    {
+      "check": "T019_close_in_window",
+      "passed": true
+    },
+    {
+      "check": "T019_observed_listing_and_current_mls",
+      "passed": true
+    },
+    {
+      "check": "T019_calendar_span_order",
+      "passed": true
+    },
+    {
+      "check": "T019_independent_fraction_first",
+      "passed": true
+    },
+    {
+      "check": "T019_independent_fraction_last",
+      "passed": true
+    },
+    {
+      "check": "T019_partial_not_complete",
+      "passed": true
+    },
+    {
+      "check": "T020_source_turn85view0",
+      "passed": true
+    },
+    {
+      "check": "T020_event_0_0_type",
+      "passed": true
+    },
+    {
+      "check": "T020_event_0_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "T020_event_0_0_amount",
+      "passed": true
+    },
+    {
+      "check": "T020_event_0_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "T020_event_0_1_type",
+      "passed": true
+    },
+    {
+      "check": "T020_event_0_1_not_future",
+      "passed": true
+    },
+    {
+      "check": "T020_event_0_1_amount",
+      "passed": true
+    },
+    {
+      "check": "T020_event_0_1_boundary",
+      "passed": true
+    },
+    {
+      "check": "T020_event_0_2_type",
+      "passed": true
+    },
+    {
+      "check": "T020_event_0_2_not_future",
+      "passed": true
+    },
+    {
+      "check": "T020_event_0_2_amount",
+      "passed": true
+    },
+    {
+      "check": "T020_event_0_2_boundary",
+      "passed": true
+    },
+    {
+      "check": "T020_event_0_3_type",
+      "passed": true
+    },
+    {
+      "check": "T020_event_0_3_not_future",
+      "passed": true
+    },
+    {
+      "check": "T020_event_0_3_amount",
+      "passed": true
+    },
+    {
+      "check": "T020_event_0_3_boundary",
+      "passed": true
+    },
+    {
+      "check": "T020_source_turn85view0",
+      "passed": true
+    },
+    {
+      "check": "T020_event_1_0_type",
+      "passed": true
+    },
+    {
+      "check": "T020_event_1_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "T020_event_1_0_amount",
+      "passed": true
+    },
+    {
+      "check": "T020_event_1_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "T020_event_1_1_type",
+      "passed": true
+    },
+    {
+      "check": "T020_event_1_1_not_future",
+      "passed": true
+    },
+    {
+      "check": "T020_event_1_1_amount",
+      "passed": true
+    },
+    {
+      "check": "T020_event_1_1_boundary",
+      "passed": true
+    },
+    {
+      "check": "T020_event_1_2_type",
+      "passed": true
+    },
+    {
+      "check": "T020_event_1_2_not_future",
+      "passed": true
+    },
+    {
+      "check": "T020_event_1_2_amount",
+      "passed": true
+    },
+    {
+      "check": "T020_event_1_2_boundary",
+      "passed": true
+    },
+    {
+      "check": "T020_event_1_3_type",
+      "passed": true
+    },
+    {
+      "check": "T020_event_1_3_not_future",
+      "passed": true
+    },
+    {
+      "check": "T020_event_1_3_amount",
+      "passed": true
+    },
+    {
+      "check": "T020_event_1_3_boundary",
+      "passed": true
+    },
+    {
+      "check": "T020_source_turn85view0",
+      "passed": true
+    },
+    {
+      "check": "T020_event_2_0_type",
+      "passed": true
+    },
+    {
+      "check": "T020_event_2_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "T020_event_2_0_amount",
+      "passed": true
+    },
+    {
+      "check": "T020_event_2_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "T020_same_baseline_close",
+      "passed": true
+    },
+    {
+      "check": "T020_close_in_window",
+      "passed": true
+    },
+    {
+      "check": "T020_observed_listing_and_current_mls",
+      "passed": true
+    },
+    {
+      "check": "T020_calendar_span_order",
+      "passed": true
+    },
+    {
+      "check": "T020_independent_fraction_first",
+      "passed": true
+    },
+    {
+      "check": "T020_independent_fraction_last",
+      "passed": true
+    },
+    {
+      "check": "T020_partial_not_complete",
+      "passed": true
+    },
+    {
+      "check": "T021_source_turn87view0",
+      "passed": true
+    },
+    {
+      "check": "T021_event_0_0_type",
+      "passed": true
+    },
+    {
+      "check": "T021_event_0_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "T021_event_0_0_amount",
+      "passed": true
+    },
+    {
+      "check": "T021_event_0_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "T021_event_0_1_type",
+      "passed": true
+    },
+    {
+      "check": "T021_event_0_1_not_future",
+      "passed": true
+    },
+    {
+      "check": "T021_event_0_1_amount",
+      "passed": true
+    },
+    {
+      "check": "T021_event_0_1_boundary",
+      "passed": true
+    },
+    {
+      "check": "T021_source_turn87view0",
+      "passed": true
+    },
+    {
+      "check": "T021_event_1_0_type",
+      "passed": true
+    },
+    {
+      "check": "T021_event_1_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "T021_event_1_0_amount",
+      "passed": true
+    },
+    {
+      "check": "T021_event_1_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "T021_event_1_1_type",
+      "passed": true
+    },
+    {
+      "check": "T021_event_1_1_not_future",
+      "passed": true
+    },
+    {
+      "check": "T021_event_1_1_amount",
+      "passed": true
+    },
+    {
+      "check": "T021_event_1_1_boundary",
+      "passed": true
+    },
+    {
+      "check": "T021_source_turn87view0",
+      "passed": true
+    },
+    {
+      "check": "T021_event_2_0_type",
+      "passed": true
+    },
+    {
+      "check": "T021_event_2_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "T021_event_2_0_amount",
+      "passed": true
+    },
+    {
+      "check": "T021_event_2_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "T021_event_2_1_type",
+      "passed": true
+    },
+    {
+      "check": "T021_event_2_1_not_future",
+      "passed": true
+    },
+    {
+      "check": "T021_event_2_1_amount",
+      "passed": true
+    },
+    {
+      "check": "T021_event_2_1_boundary",
+      "passed": true
+    },
+    {
+      "check": "T021_source_turn87view0",
+      "passed": true
+    },
+    {
+      "check": "T021_event_3_0_type",
+      "passed": true
+    },
+    {
+      "check": "T021_event_3_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "T021_event_3_0_amount",
+      "passed": true
+    },
+    {
+      "check": "T021_event_3_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "T021_event_3_1_type",
+      "passed": true
+    },
+    {
+      "check": "T021_event_3_1_not_future",
+      "passed": true
+    },
+    {
+      "check": "T021_event_3_1_amount",
+      "passed": true
+    },
+    {
+      "check": "T021_event_3_1_boundary",
+      "passed": true
+    },
+    {
+      "check": "T021_source_turn85view1",
+      "passed": true
+    },
+    {
+      "check": "T021_event_4_0_type",
+      "passed": true
+    },
+    {
+      "check": "T021_event_4_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "T021_event_4_0_amount",
+      "passed": true
+    },
+    {
+      "check": "T021_event_4_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "T021_event_4_1_type",
+      "passed": true
+    },
+    {
+      "check": "T021_event_4_1_not_future",
+      "passed": true
+    },
+    {
+      "check": "T021_event_4_1_amount",
+      "passed": true
+    },
+    {
+      "check": "T021_event_4_1_boundary",
+      "passed": true
+    },
+    {
+      "check": "T021_event_4_2_type",
+      "passed": true
+    },
+    {
+      "check": "T021_event_4_2_not_future",
+      "passed": true
+    },
+    {
+      "check": "T021_event_4_2_amount",
+      "passed": true
+    },
+    {
+      "check": "T021_event_4_2_boundary",
+      "passed": true
+    },
+    {
+      "check": "T021_source_turn85view1",
+      "passed": true
+    },
+    {
+      "check": "T021_event_5_0_type",
+      "passed": true
+    },
+    {
+      "check": "T021_event_5_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "T021_event_5_0_amount",
+      "passed": true
+    },
+    {
+      "check": "T021_event_5_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "T021_same_baseline_close",
+      "passed": true
+    },
+    {
+      "check": "T021_close_in_window",
+      "passed": true
+    },
+    {
+      "check": "T021_observed_listing_and_current_mls",
+      "passed": true
+    },
+    {
+      "check": "T021_calendar_span_order",
+      "passed": true
+    },
+    {
+      "check": "T021_independent_fraction_first",
+      "passed": true
+    },
+    {
+      "check": "T021_independent_fraction_last",
+      "passed": true
+    },
+    {
+      "check": "T021_partial_not_complete",
+      "passed": true
+    },
+    {
+      "check": "T022_source_turn85view2",
+      "passed": true
+    },
+    {
+      "check": "T022_event_0_0_type",
+      "passed": true
+    },
+    {
+      "check": "T022_event_0_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "T022_event_0_0_amount",
+      "passed": true
+    },
+    {
+      "check": "T022_event_0_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "T022_event_0_1_type",
+      "passed": true
+    },
+    {
+      "check": "T022_event_0_1_not_future",
+      "passed": true
+    },
+    {
+      "check": "T022_event_0_1_amount",
+      "passed": true
+    },
+    {
+      "check": "T022_event_0_1_boundary",
+      "passed": true
+    },
+    {
+      "check": "T022_event_0_2_type",
+      "passed": true
+    },
+    {
+      "check": "T022_event_0_2_not_future",
+      "passed": true
+    },
+    {
+      "check": "T022_event_0_2_amount",
+      "passed": true
+    },
+    {
+      "check": "T022_event_0_2_boundary",
+      "passed": true
+    },
+    {
+      "check": "T022_source_turn85view2",
+      "passed": true
+    },
+    {
+      "check": "T022_event_1_0_type",
+      "passed": true
+    },
+    {
+      "check": "T022_event_1_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "T022_event_1_0_amount",
+      "passed": true
+    },
+    {
+      "check": "T022_event_1_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "T022_event_1_1_type",
+      "passed": true
+    },
+    {
+      "check": "T022_event_1_1_not_future",
+      "passed": true
+    },
+    {
+      "check": "T022_event_1_1_amount",
+      "passed": true
+    },
+    {
+      "check": "T022_event_1_1_boundary",
+      "passed": true
+    },
+    {
+      "check": "T022_event_1_2_type",
+      "passed": true
+    },
+    {
+      "check": "T022_event_1_2_not_future",
+      "passed": true
+    },
+    {
+      "check": "T022_event_1_2_amount",
+      "passed": true
+    },
+    {
+      "check": "T022_event_1_2_boundary",
+      "passed": true
+    },
+    {
+      "check": "T022_event_1_3_type",
+      "passed": true
+    },
+    {
+      "check": "T022_event_1_3_not_future",
+      "passed": true
+    },
+    {
+      "check": "T022_event_1_3_amount",
+      "passed": true
+    },
+    {
+      "check": "T022_event_1_3_boundary",
+      "passed": true
+    },
+    {
+      "check": "T022_same_baseline_close",
+      "passed": true
+    },
+    {
+      "check": "T022_close_in_window",
+      "passed": true
+    },
+    {
+      "check": "T022_observed_listing_and_current_mls",
+      "passed": true
+    },
+    {
+      "check": "T022_calendar_span_order",
+      "passed": true
+    },
+    {
+      "check": "T022_independent_fraction_first",
+      "passed": true
+    },
+    {
+      "check": "T022_independent_fraction_last",
+      "passed": true
+    },
+    {
+      "check": "T022_partial_not_complete",
+      "passed": true
+    },
+    {
+      "check": "T023_source_turn87view1",
+      "passed": true
+    },
+    {
+      "check": "T023_event_0_0_type",
+      "passed": true
+    },
+    {
+      "check": "T023_event_0_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "T023_event_0_0_amount",
+      "passed": true
+    },
+    {
+      "check": "T023_event_0_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "T023_event_0_1_type",
+      "passed": true
+    },
+    {
+      "check": "T023_event_0_1_not_future",
+      "passed": true
+    },
+    {
+      "check": "T023_event_0_1_amount",
+      "passed": true
+    },
+    {
+      "check": "T023_event_0_1_boundary",
+      "passed": true
+    },
+    {
+      "check": "T023_same_baseline_close",
+      "passed": true
+    },
+    {
+      "check": "T023_close_in_window",
+      "passed": true
+    },
+    {
+      "check": "T023_observed_listing_and_current_mls",
+      "passed": true
+    },
+    {
+      "check": "T023_calendar_span_order",
+      "passed": true
+    },
+    {
+      "check": "T023_independent_fraction_first",
+      "passed": true
+    },
+    {
+      "check": "T023_independent_fraction_last",
+      "passed": true
+    },
+    {
+      "check": "T023_partial_not_complete",
+      "passed": true
+    },
+    {
+      "check": "T024_source_turn87view2",
+      "passed": true
+    },
+    {
+      "check": "T024_event_0_0_type",
+      "passed": true
+    },
+    {
+      "check": "T024_event_0_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "T024_event_0_0_amount",
+      "passed": true
+    },
+    {
+      "check": "T024_event_0_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "T024_event_0_1_type",
+      "passed": true
+    },
+    {
+      "check": "T024_event_0_1_not_future",
+      "passed": true
+    },
+    {
+      "check": "T024_event_0_1_amount",
+      "passed": true
+    },
+    {
+      "check": "T024_event_0_1_boundary",
+      "passed": true
+    },
+    {
+      "check": "T024_source_turn87view2",
+      "passed": true
+    },
+    {
+      "check": "T024_event_1_0_type",
+      "passed": true
+    },
+    {
+      "check": "T024_event_1_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "T024_event_1_0_amount",
+      "passed": true
+    },
+    {
+      "check": "T024_event_1_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "T024_event_1_1_type",
+      "passed": true
+    },
+    {
+      "check": "T024_event_1_1_not_future",
+      "passed": true
+    },
+    {
+      "check": "T024_event_1_1_amount",
+      "passed": true
+    },
+    {
+      "check": "T024_event_1_1_boundary",
+      "passed": true
+    },
+    {
+      "check": "T024_same_baseline_close",
+      "passed": true
+    },
+    {
+      "check": "T024_close_in_window",
+      "passed": true
+    },
+    {
+      "check": "T024_observed_listing_and_current_mls",
+      "passed": true
+    },
+    {
+      "check": "T024_calendar_span_order",
+      "passed": true
+    },
+    {
+      "check": "T024_independent_fraction_first",
+      "passed": true
+    },
+    {
+      "check": "T024_independent_fraction_last",
+      "passed": true
+    },
+    {
+      "check": "T024_partial_not_complete",
+      "passed": true
+    },
+    {
+      "check": "T025_source_turn87view3",
+      "passed": true
+    },
+    {
+      "check": "T025_event_0_0_type",
+      "passed": true
+    },
+    {
+      "check": "T025_event_0_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "T025_event_0_0_amount",
+      "passed": true
+    },
+    {
+      "check": "T025_event_0_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "T025_event_0_1_type",
+      "passed": true
+    },
+    {
+      "check": "T025_event_0_1_not_future",
+      "passed": true
+    },
+    {
+      "check": "T025_event_0_1_amount",
+      "passed": true
+    },
+    {
+      "check": "T025_event_0_1_boundary",
+      "passed": true
+    },
+    {
+      "check": "T025_same_baseline_close",
+      "passed": true
+    },
+    {
+      "check": "T025_close_in_window",
+      "passed": true
+    },
+    {
+      "check": "T025_observed_listing_and_current_mls",
+      "passed": true
+    },
+    {
+      "check": "T025_calendar_span_order",
+      "passed": true
+    },
+    {
+      "check": "T025_independent_fraction_first",
+      "passed": true
+    },
+    {
+      "check": "T025_independent_fraction_last",
+      "passed": true
+    },
+    {
+      "check": "T025_partial_not_complete",
+      "passed": true
+    },
+    {
+      "check": "L004_lease_not_sale",
+      "passed": true
+    },
+    {
+      "check": "L004_profile",
+      "passed": true
+    },
+    {
+      "check": "L004_scope",
+      "passed": true
+    },
+    {
+      "check": "L004_net_rent_unknown",
+      "passed": true
+    },
+    {
+      "check": "L004_source_turn93view0",
+      "passed": true
+    },
+    {
+      "check": "L004_event_0_0_type",
+      "passed": true
+    },
+    {
+      "check": "L004_event_0_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "L004_event_0_0_amount",
+      "passed": true
+    },
+    {
+      "check": "L004_event_0_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "L004_event_0_1_type",
+      "passed": true
+    },
+    {
+      "check": "L004_event_0_1_not_future",
+      "passed": true
+    },
+    {
+      "check": "L004_event_0_1_amount",
+      "passed": true
+    },
+    {
+      "check": "L004_event_0_1_boundary",
+      "passed": true
+    },
+    {
+      "check": "L004_source_turn92view6",
+      "passed": true
+    },
+    {
+      "check": "L004_closure_event",
+      "passed": true
+    },
+    {
+      "check": "L004_close_in_window",
+      "passed": true
+    },
+    {
+      "check": "L004_asking_precedes_close",
+      "passed": true
+    },
+    {
+      "check": "L005_lease_not_sale",
+      "passed": true
+    },
+    {
+      "check": "L005_profile",
+      "passed": true
+    },
+    {
+      "check": "L005_scope",
+      "passed": true
+    },
+    {
+      "check": "L005_net_rent_unknown",
+      "passed": true
+    },
+    {
+      "check": "L005_source_turn93view1",
+      "passed": true
+    },
+    {
+      "check": "L005_event_0_0_type",
+      "passed": true
+    },
+    {
+      "check": "L005_event_0_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "L005_event_0_0_amount",
+      "passed": true
+    },
+    {
+      "check": "L005_event_0_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "L005_source_turn81view2",
+      "passed": true
+    },
+    {
+      "check": "L005_event_1_0_type",
+      "passed": true
+    },
+    {
+      "check": "L005_event_1_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "L005_event_1_0_amount",
+      "passed": true
+    },
+    {
+      "check": "L005_event_1_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "L005_event_1_1_type",
+      "passed": true
+    },
+    {
+      "check": "L005_event_1_1_not_future",
+      "passed": true
+    },
+    {
+      "check": "L005_event_1_1_amount",
+      "passed": true
+    },
+    {
+      "check": "L005_event_1_1_boundary",
+      "passed": true
+    },
+    {
+      "check": "L005_event_1_2_type",
+      "passed": true
+    },
+    {
+      "check": "L005_event_1_2_not_future",
+      "passed": true
+    },
+    {
+      "check": "L005_event_1_2_amount",
+      "passed": true
+    },
+    {
+      "check": "L005_event_1_2_boundary",
+      "passed": true
+    },
+    {
+      "check": "L005_source_turn81view2",
+      "passed": true
+    },
+    {
+      "check": "L005_event_2_0_type",
+      "passed": true
+    },
+    {
+      "check": "L005_event_2_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "L005_event_2_0_amount",
+      "passed": true
+    },
+    {
+      "check": "L005_event_2_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "L005_event_2_1_type",
+      "passed": true
+    },
+    {
+      "check": "L005_event_2_1_not_future",
+      "passed": true
+    },
+    {
+      "check": "L005_event_2_1_amount",
+      "passed": true
+    },
+    {
+      "check": "L005_event_2_1_boundary",
+      "passed": true
+    },
+    {
+      "check": "L005_source_turn91view2",
+      "passed": true
+    },
+    {
+      "check": "L005_closure_event",
+      "passed": true
+    },
+    {
+      "check": "L005_close_in_window",
+      "passed": true
+    },
+    {
+      "check": "L005_asking_precedes_close",
+      "passed": true
+    },
+    {
+      "check": "L006_lease_not_sale",
+      "passed": true
+    },
+    {
+      "check": "L006_profile",
+      "passed": true
+    },
+    {
+      "check": "L006_scope",
+      "passed": true
+    },
+    {
+      "check": "L006_net_rent_unknown",
+      "passed": true
+    },
+    {
+      "check": "L006_source_turn93view2",
+      "passed": true
+    },
+    {
+      "check": "L006_event_0_0_type",
+      "passed": true
+    },
+    {
+      "check": "L006_event_0_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "L006_event_0_0_amount",
+      "passed": true
+    },
+    {
+      "check": "L006_event_0_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "L006_source_turn88view0",
+      "passed": true
+    },
+    {
+      "check": "L006_event_1_0_type",
+      "passed": true
+    },
+    {
+      "check": "L006_event_1_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "L006_event_1_0_amount",
+      "passed": true
+    },
+    {
+      "check": "L006_event_1_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "L006_source_turn92view5",
+      "passed": true
+    },
+    {
+      "check": "L006_closure_event",
+      "passed": true
+    },
+    {
+      "check": "L006_close_in_window",
+      "passed": true
+    },
+    {
+      "check": "L006_asking_precedes_close",
+      "passed": true
+    },
+    {
+      "check": "L007_lease_not_sale",
+      "passed": true
+    },
+    {
+      "check": "L007_profile",
+      "passed": true
+    },
+    {
+      "check": "L007_scope",
+      "passed": true
+    },
+    {
+      "check": "L007_net_rent_unknown",
+      "passed": true
+    },
+    {
+      "check": "L007_source_turn92view3",
+      "passed": true
+    },
+    {
+      "check": "L007_event_0_0_type",
+      "passed": true
+    },
+    {
+      "check": "L007_event_0_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "L007_event_0_0_amount",
+      "passed": true
+    },
+    {
+      "check": "L007_event_0_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "L007_event_0_1_type",
+      "passed": true
+    },
+    {
+      "check": "L007_event_0_1_not_future",
+      "passed": true
+    },
+    {
+      "check": "L007_event_0_1_amount",
+      "passed": true
+    },
+    {
+      "check": "L007_event_0_1_boundary",
+      "passed": true
+    },
+    {
+      "check": "L007_source_turn90view1",
+      "passed": true
+    },
+    {
+      "check": "L007_event_1_0_type",
+      "passed": true
+    },
+    {
+      "check": "L007_event_1_0_not_future",
+      "passed": true
+    },
+    {
+      "check": "L007_event_1_0_amount",
+      "passed": true
+    },
+    {
+      "check": "L007_event_1_0_boundary",
+      "passed": true
+    },
+    {
+      "check": "L007_source_turn91view0",
+      "passed": true
+    },
+    {
+      "check": "L007_source_turn90search2",
+      "passed": true
+    },
+    {
+      "check": "L007_closure_event",
+      "passed": true
+    },
+    {
+      "check": "L007_close_in_window",
+      "passed": true
+    },
+    {
+      "check": "L007_asking_precedes_close",
+      "passed": true
+    },
+    {
+      "check": "X001_source_turn83view1",
+      "passed": true
+    },
+    {
+      "check": "X001_source_turn88view3",
+      "passed": true
+    },
+    {
+      "check": "X002_source_turn76view3",
+      "passed": true
+    },
+    {
+      "check": "X002_source_turn77view1",
+      "passed": true
+    },
+    {
+      "check": "X003_source_turn75search16",
+      "passed": true
+    },
+    {
+      "check": "X003_source_turn81view1",
+      "passed": true
+    },
+    {
+      "check": "four_new_three_bed_leases",
+      "passed": true
+    },
+    {
+      "check": "unique_new_leases",
+      "passed": true
+    },
+    {
+      "check": "unique_event_rows",
+      "passed": true
+    },
+    {
+      "check": "21_stable_profile_candidates",
+      "passed": true
+    },
+    {
+      "check": "20_profile_and_price_candidates",
+      "passed": true
+    },
+    {
+      "check": "all_actual_dom_remain_missing",
+      "passed": true
+    },
+    {
+      "check": "no_quality_index_claim",
+      "passed": true
+    },
+    {
+      "check": "T007_calendar_reference",
+      "passed": true
+    },
+    {
+      "check": "T020_calendar_reference",
+      "passed": true
+    },
+    {
+      "check": "T021_calendar_reference",
+      "passed": true
+    },
+    {
+      "check": "T024_calendar_reference",
+      "passed": true
+    },
+    {
+      "check": "price_conflict_suppresses_ratios",
+      "passed": true
+    },
+    {
+      "check": "new_bed_conflict_excluded",
+      "passed": true
+    },
+    {
+      "check": "public_record_claims_not_extra_closes",
+      "passed": true
+    },
+    {
+      "check": "one_prior_boundary_event",
+      "passed": true
+    }
+  ]
+}

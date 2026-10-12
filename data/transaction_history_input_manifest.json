@@ -1,0 +1,23 @@
+{
+  "version": "history_phase6_v1",
+  "as_of_local": "2026-10-11",
+  "fingerprint_scope": "research_notes_and_reference_index_not_downloaded_listing_HTML",
+  "public_storage": "fingerprints_only_private_inputs_required",
+  "inputs": {
+    "pilot_notes": {
+      "filename": "pilot_working.json",
+      "bytes": 87175,
+      "sha256": "73488a35aa39e9c4d40669c0f9a485085278fc4a28c4bfd5c0b5396ec8d88bfb"
+    },
+    "history_notes": {
+      "filename": "history_notes.json",
+      "bytes": 39272,
+      "sha256": "9be2132b111ccb212b662adb78a74239ef9603ff146a77225b0ed10a5136b6e9"
+    },
+    "source_map": {
+      "filename": "used_source_references.json",
+      "bytes": 8592,
+      "sha256": "a91a39f90fa37073230fe64541dd3b325e62ba64bc7a28bacf56dafbe3304985"
+    }
+  }
+}
