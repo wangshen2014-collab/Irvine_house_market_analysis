@@ -1,0 +1,5 @@
+source_file,building_form,unique_qmi,exactly4br,fourbr_price_min,fourbr_price_max,fourbr_sqft_min,fourbr_sqft_max,fourbr_move_in_ready,coverage
+toll_gpn.html,attached_townhome,9,6,1479000,1726000,2132,2281,0,selected_builder_pages_only; no city inventory inference
+toll_gpn.html,detached_condominium,6,4,1899000,2279000,2624,2793,2,selected_builder_pages_only; no city inventory inference
+toll_gpn.html,unverified,3,0,,,,,0,selected_builder_pages_only; no city inventory inference
+toll_summit.html,single_family,5,0,,,,,0,selected_builder_pages_only; no city inventory inference

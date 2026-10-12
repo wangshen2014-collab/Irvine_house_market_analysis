@@ -1,0 +1,725 @@
+{
+  "as_of": "2026-10-12",
+  "method": "Analyst classification of limited published project facts; counts represent source quantities, never summed as city remaining supply.",
+  "story_housing": {
+    "n-ejIm5f": {
+      "units_reported": 107,
+      "building_form": "multifamily",
+      "tenure": "unknown",
+      "parent_id": "",
+      "count_caveat": "hearing_outcome_unverified"
+    },
+    "n-BJYWCm": {
+      "units_reported": 460,
+      "building_form": "apartments_and_attached",
+      "tenure": "mixed",
+      "parent_id": "",
+      "count_caveat": "Oct8_list_461_vs_map_460"
+    },
+    "n-6ghSph": {
+      "units_reported": 108,
+      "building_form": "attached_townhomes",
+      "tenure": "sale",
+      "parent_id": "",
+      "count_caveat": ""
+    },
+    "n-UNETzX": {
+      "units_reported": 2400,
+      "building_form": "unspecified",
+      "tenure": "unknown",
+      "parent_id": "",
+      "count_caveat": "proposal_not_approval"
+    },
+    "n-oVF7Ds": {
+      "units_reported": 668,
+      "building_form": "multifamily",
+      "tenure": "unknown",
+      "parent_id": "",
+      "count_caveat": ""
+    },
+    "n-w4u32m": {
+      "units_reported": 448,
+      "building_form": "apartments",
+      "tenure": "rental",
+      "parent_id": "",
+      "count_caveat": ""
+    },
+    "n-lbygDc": {
+      "units_reported": 58,
+      "building_form": "condominium_form_unknown",
+      "tenure": "sale",
+      "parent_id": "",
+      "count_caveat": ""
+    },
+    "n-fLoqOs": {
+      "units_reported": 68,
+      "building_form": "multifamily",
+      "tenure": "rental",
+      "parent_id": "",
+      "count_caveat": ""
+    },
+    "n-QNqsCT": {
+      "units_reported": 378,
+      "building_form": "mixed_detached_paired",
+      "tenure": "sale",
+      "parent_id": "n-aegbLk",
+      "count_caveat": "child_do_not_add"
+    },
+    "n-DwnNaF": {
+      "units_reported": 473,
+      "building_form": "mixed_detached_paired",
+      "tenure": "sale",
+      "parent_id": "n-aegbLk",
+      "count_caveat": "child_do_not_add"
+    },
+    "n-VIeR03": {
+      "units_reported": 154,
+      "building_form": "affordable_multifamily",
+      "tenure": "rental",
+      "parent_id": "",
+      "count_caveat": "replaces_future_185_allowance_not_additive"
+    },
+    "n-aegbLk": {
+      "units_reported": 1138,
+      "building_form": "mixed_detached_paired_affordable",
+      "tenure": "mixed",
+      "parent_id": "",
+      "count_caveat": "854_market_284_affordable; child_market_sum_851_conflict",
+      "stage_override": "land_development",
+      "additional_source": "gateway_faq202606.pdf;gateway_park20260923.pdf"
+    },
+    "n-cEGjPS": {
+      "units_reported": 830,
+      "building_form": "apartments",
+      "tenure": "rental",
+      "parent_id": "",
+      "count_caveat": ""
+    },
+    "n-StXNgO": {
+      "units_reported": 980,
+      "building_form": "senior_independent_living",
+      "tenure": "age_restricted",
+      "parent_id": "",
+      "count_caveat": "plus79_assisted36_memory_excluded; shared_case_ID_conflict"
+    },
+    "n-AybPs9": {
+      "units_reported": 422,
+      "building_form": "multifamily",
+      "tenure": "unknown",
+      "parent_id": "",
+      "count_caveat": ""
+    },
+    "n-U9m7rS": {
+      "units_reported": 221,
+      "building_form": "70_townhomes_151_affordable",
+      "tenure": "mixed",
+      "parent_id": "",
+      "count_caveat": ""
+    },
+    "n-Zqcy6p": {
+      "units_reported": 75,
+      "building_form": "conversion_and_townhomes",
+      "tenure": "unknown",
+      "parent_id": "",
+      "count_caveat": "65_plus9_equals74_conflict"
+    },
+    "n-7lgdNq": {
+      "units_reported": 120,
+      "building_form": "affordable_multifamily",
+      "tenure": "rental",
+      "parent_id": "great_park_master",
+      "count_caveat": "subset_not_additive"
+    },
+    "n-5EHjqS": {
+      "units_reported": 150,
+      "building_form": "multifamily",
+      "tenure": "unknown",
+      "parent_id": "",
+      "count_caveat": "2018_approval; new118_preapplication_same_site"
+    },
+    "n-VhsjAJ": {
+      "units_reported": 184,
+      "building_form": "attached_condominium",
+      "tenure": "sale",
+      "parent_id": "",
+      "count_caveat": ""
+    },
+    "n-YCuqQW": {
+      "units_reported": 310,
+      "building_form": "SFD",
+      "tenure": "sale",
+      "parent_id": "great_park_master",
+      "count_caveat": "APR_2025_net171"
+    },
+    "n-aV8Nj4": {
+      "units_reported": 474,
+      "building_form": "SFD",
+      "tenure": "sale",
+      "parent_id": "great_park_master",
+      "count_caveat": "APR_2025_net336"
+    },
+    "n-kCMESv": {
+      "units_reported": 354,
+      "building_form": "SFD",
+      "tenure": "sale",
+      "parent_id": "great_park_master",
+      "count_caveat": "APR_2025_net216"
+    },
+    "n-BJHkPx": {
+      "units_reported": 421,
+      "building_form": "SFD",
+      "tenure": "sale",
+      "parent_id": "great_park_master",
+      "count_caveat": "APR_2025_net283"
+    },
+    "n-NiKA2j": {
+      "units_reported": 36,
+      "building_form": "SFD",
+      "tenure": "sale",
+      "parent_id": "great_park_master",
+      "count_caveat": "replacement_of69_senior_units_net_minus33"
+    },
+    "n-ZRJRog": {
+      "units_reported": 313,
+      "building_form": "apartments",
+      "tenure": "rental",
+      "parent_id": "",
+      "count_caveat": "future_affordable185_excluded; proposed154_separate"
+    },
+    "n-sB5d0T": {
+      "units_reported": null,
+      "building_form": "senior_care",
+      "tenure": "age_restricted",
+      "parent_id": "",
+      "count_caveat": "housing_unit_count_unverified"
+    },
+    "n-x9Dxz9": {
+      "units_reported": 1233,
+      "building_form": "apartments",
+      "tenure": "rental",
+      "parent_id": "",
+      "count_caveat": "phase1_of2500; APR_tenure_O_conflict"
+    },
+    "n-NYrzhX": {
+      "units_reported": 1858,
+      "building_form": "apartments",
+      "tenure": "rental",
+      "parent_id": "",
+      "count_caveat": ""
+    },
+    "n-4FfakY": {
+      "units_reported": 889,
+      "building_form": "apartments",
+      "tenure": "rental",
+      "parent_id": "",
+      "count_caveat": ""
+    },
+    "n-WHZcps": {
+      "units_reported": 585,
+      "building_form": "apartments",
+      "tenure": "rental",
+      "parent_id": "",
+      "count_caveat": "585_plan_not670_capacity_increase"
+    },
+    "n-pSFMO5": {
+      "units_reported": 1261,
+      "building_form": "apartments",
+      "tenure": "rental",
+      "parent_id": "",
+      "count_caveat": "partly_leasing_not_all_remaining"
+    },
+    "n-QrQ8jQ": {
+      "units_reported": 82,
+      "building_form": "detached_condominium",
+      "tenure": "sale",
+      "parent_id": "",
+      "count_caveat": "bedroom_mix_unknown"
+    },
+    "n-9Ra8v4": {
+      "units_reported": 876,
+      "building_form": "apartments",
+      "tenure": "rental",
+      "parent_id": "",
+      "count_caveat": ""
+    },
+    "n-FUEyob": {
+      "units_reported": 412,
+      "building_form": "attached_condominium",
+      "tenure": "sale",
+      "parent_id": "",
+      "count_caveat": "2026_revision_from426_APR2025"
+    },
+    "n-hMloTP": {
+      "units_reported": 593,
+      "building_form": "multifamily",
+      "tenure": "unknown",
+      "parent_id": "",
+      "count_caveat": "phase3_subset1600_not_additive"
+    },
+    "n-vYeODW": {
+      "units_reported": 520,
+      "building_form": "SFD",
+      "tenure": "sale",
+      "parent_id": "",
+      "count_caveat": "135+137+159+89; total_not_remaining"
+    },
+    "n-tXDsuD": {
+      "units_reported": null,
+      "building_form": "product_modification",
+      "tenure": "sale",
+      "parent_id": "great_park_master",
+      "count_caveat": "overlap_no_added_count"
+    },
+    "n-jMveQ3": {
+      "units_reported": -43,
+      "building_form": "product_modification",
+      "tenure": "sale",
+      "parent_id": "great_park_master",
+      "count_caveat": "net_reduction_not_new_units"
+    },
+    "n-tqwI8V": {
+      "units_reported": 178,
+      "building_form": "apartments",
+      "tenure": "rental",
+      "parent_id": "",
+      "count_caveat": "completed_not_future"
+    },
+    "n-FnfUg0": {
+      "units_reported": 357,
+      "building_form": "apartments",
+      "tenure": "rental",
+      "parent_id": "",
+      "count_caveat": "completed_not_future"
+    },
+    "n-fJduuh": {
+      "units_reported": 80,
+      "building_form": "affordable_multifamily",
+      "tenure": "rental",
+      "parent_id": "",
+      "count_caveat": "completed_not_future"
+    },
+    "n-3Vvhui": {
+      "units_reported": 287,
+      "building_form": "apartments",
+      "tenure": "rental",
+      "parent_id": "",
+      "count_caveat": "completed_not_future"
+    },
+    "n-Z22eeQ": {
+      "units_reported": 288,
+      "building_form": "apartments",
+      "tenure": "rental",
+      "parent_id": "",
+      "count_caveat": "completed_not_future"
+    },
+    "n-XlXDe0": {
+      "units_reported": 457,
+      "building_form": "apartments",
+      "tenure": "rental",
+      "parent_id": "",
+      "count_caveat": "completed_not_future"
+    },
+    "n-7mCOjx": {
+      "units_reported": 1950,
+      "building_form": "apartments",
+      "tenure": "rental",
+      "parent_id": "",
+      "count_caveat": "completed_parent_phase; new585_separate"
+    }
+  },
+  "additional_projects": [
+    {
+      "project_id": "irvine_technology240",
+      "city": "Irvine",
+      "project": "Technology Drive affordable proposal",
+      "units_reported": 240,
+      "stage": "preapplication",
+      "building_form": "affordable_multifamily",
+      "tenure": "rental",
+      "source_file": "irvine_discretionary_20261008.pdf",
+      "count_caveat": "",
+      "parent_id": "",
+      "case_ids": "00991037-PPA"
+    },
+    {
+      "project_id": "irvine_boomers",
+      "city": "Irvine",
+      "project": "3405 Michelson / Boomers",
+      "units_reported": 430,
+      "stage": "preapplication",
+      "building_form": "apartments_and_attached",
+      "tenure": "mixed",
+      "source_file": "irvine_discretionary_20261008.pdf",
+      "count_caveat": "313+109=422_vs430_headline",
+      "parent_id": "",
+      "case_ids": "00989225-PPA"
+    },
+    {
+      "project_id": "irvine_main118",
+      "city": "Irvine",
+      "project": "2525 Main revised proposal",
+      "units_reported": 118,
+      "stage": "preapplication",
+      "building_form": "multifamily",
+      "tenure": "unknown",
+      "source_file": "irvine_discretionary_20261008.pdf",
+      "count_caveat": "alternative_not_additive",
+      "parent_id": "n-5EHjqS",
+      "case_ids": "00988530-PPA"
+    },
+    {
+      "project_id": "irvine_skypark",
+      "city": "Irvine",
+      "project": "18017 Sky Park senior proposal",
+      "units_reported": 120,
+      "stage": "preapplication",
+      "building_form": "senior_independent_living",
+      "tenure": "age_restricted",
+      "source_file": "irvine_discretionary_20261008.pdf",
+      "count_caveat": "plus60_assisted20_memory_not_general_housing",
+      "parent_id": "",
+      "case_ids": "00980201-PPA"
+    },
+    {
+      "project_id": "irvine_culver1",
+      "city": "Irvine",
+      "project": "16972 Culver conversion",
+      "units_reported": 1,
+      "stage": "pending",
+      "building_form": "conversion",
+      "tenure": "unknown",
+      "source_file": "irvine_discretionary_20261008.pdf",
+      "count_caveat": "",
+      "parent_id": "",
+      "case_ids": "00960908-PZC;00960910-PMP"
+    },
+    {
+      "project_id": "irvine_gillette",
+      "city": "Irvine",
+      "project": "17832–17840 Gillette",
+      "units_reported": 336,
+      "stage": "pending",
+      "building_form": "apartments",
+      "tenure": "rental",
+      "source_file": "irvine_discretionary_20261008.pdf",
+      "count_caveat": "2016_application_no_current_delivery_date",
+      "parent_id": "",
+      "case_ids": "00695549-PGA;00695550-PZC"
+    },
+    {
+      "project_id": "gp19406",
+      "city": "Irvine",
+      "project": "Great Park VTTM 19406",
+      "units_reported": 219,
+      "stage": "approved",
+      "building_form": "SFD",
+      "tenure": "sale",
+      "source_file": "irvine_apr2025.xlsm",
+      "count_caveat": "gross219_vs2025_net81",
+      "parent_id": "great_park_master",
+      "case_ids": "VTTM19406"
+    },
+    {
+      "project_id": "great_park_master",
+      "city": "Irvine",
+      "project": "Great Park total entitled homesites",
+      "units_reported": 11800,
+      "stage": "master_capacity",
+      "building_form": "mixed",
+      "tenure": "mixed",
+      "source_file": "fph_10q20260630.html",
+      "count_caveat": "approximate; 9643_land_sites_transferred_not_finished_homes",
+      "parent_id": "",
+      "case_ids": ""
+    },
+    {
+      "project_id": "lf_rancho145",
+      "city": "Lake Forest",
+      "project": "Rancho Parkway South",
+      "units_reported": 145,
+      "stage": "pending",
+      "building_form": "duplex_and_townhome",
+      "tenure": "sale",
+      "source_file": "lf_smartsheet.html",
+      "count_caveat": "resubmitted2026-10-05",
+      "parent_id": "",
+      "case_ids": "GPA06-26-5876;ZC06-26-5877;SDP06-26-5878;TPM2026-135"
+    },
+    {
+      "project_id": "lf_commercentre198",
+      "city": "Lake Forest",
+      "project": "26000 Commercentre",
+      "units_reported": 198,
+      "stage": "pending",
+      "building_form": "attached_townhome_rowhome",
+      "tenure": "sale",
+      "source_file": "lf_smartsheet.html",
+      "count_caveat": "20_moderate_affordable; environmental_review_pending",
+      "parent_id": "",
+      "case_ids": "TTM19486;SDP03-26-5860"
+    },
+    {
+      "project_id": "lf_chase165",
+      "city": "Lake Forest",
+      "project": "Chase mixed use / El Toro",
+      "units_reported": 165,
+      "stage": "pending",
+      "building_form": "multifamily",
+      "tenure": "unknown",
+      "source_file": "lf_smartsheet.html",
+      "count_caveat": "hotel_rooms_excluded",
+      "parent_id": "",
+      "case_ids": "SDP07-24-5724"
+    },
+    {
+      "project_id": "lf_meadows",
+      "city": "Lake Forest",
+      "project": "The Meadows",
+      "units_reported": 541,
+      "stage": "historical_approved",
+      "building_form": "single_family",
+      "tenure": "sale",
+      "source_file": "lf_meadows.html",
+      "count_caveat": "plus65_senior_apartments; capacity675_not_remaining",
+      "parent_id": "",
+      "case_ids": ""
+    },
+    {
+      "project_id": "lf_portola",
+      "city": "Lake Forest",
+      "project": "Portola Center",
+      "units_reported": 926,
+      "stage": "historical_mixed_stages",
+      "building_form": "mixed",
+      "tenure": "sale",
+      "source_file": "lf_portola.html",
+      "count_caveat": "2020_progress_not2026_remaining",
+      "parent_id": "",
+      "case_ids": ""
+    },
+    {
+      "project_id": "lf_serrano",
+      "city": "Lake Forest",
+      "project": "Serrano Summit",
+      "units_reported": 537,
+      "stage": "historical_approved",
+      "building_form": "detached_and_attached",
+      "tenure": "sale",
+      "source_file": "lf_serrano.html",
+      "count_caveat": "remaining_unverified",
+      "parent_id": "",
+      "case_ids": ""
+    },
+    {
+      "project_id": "tustin_enderle",
+      "city": "Tustin",
+      "project": "Enderle Center",
+      "units_reported": 100,
+      "stage": "approved",
+      "building_form": "condominium_form_unknown",
+      "tenure": "sale",
+      "source_file": "tustin_projects.html",
+      "count_caveat": "2026_city_actions; start_unverified",
+      "parent_id": "",
+      "case_ids": "PROJ-MU-2025-00001;DR2026-0001"
+    },
+    {
+      "project_id": "tustin_senior",
+      "city": "Tustin",
+      "project": "Armstrong senior community",
+      "units_reported": 172,
+      "stage": "approved",
+      "building_form": "senior_housing",
+      "tenure": "age_restricted",
+      "source_file": "tustin_projects.html",
+      "count_caveat": "plus75_assisted28_memory_excluded",
+      "parent_id": "",
+      "case_ids": ""
+    },
+    {
+      "project_id": "tustin_cypress",
+      "city": "Tustin",
+      "project": "Cypress Grove",
+      "units_reported": 145,
+      "stage": "approved",
+      "building_form": "62_detached_83_attached",
+      "tenure": "sale",
+      "source_file": "tustin_projects.html",
+      "count_caveat": "2025-12-02_approval; start_unverified",
+      "parent_id": "",
+      "case_ids": "DR2025-0004;TTM2025-0001"
+    },
+    {
+      "project_id": "tustin_ic",
+      "city": "Tustin",
+      "project": "Irvine Company / Tustin Legacy",
+      "units_reported": 1336,
+      "stage": "under_construction",
+      "building_form": "apartments",
+      "tenure": "rental",
+      "source_file": "tustin_projects.html",
+      "count_caveat": "1–3BR_592–1513sf",
+      "parent_id": "",
+      "case_ids": "DR2024-0013;TTM19353"
+    },
+    {
+      "project_id": "tustin_district",
+      "city": "Tustin",
+      "project": "Residences at The District",
+      "units_reported": 800,
+      "stage": "pending",
+      "building_form": "apartments",
+      "tenure": "rental",
+      "source_file": "tustin_projects.html",
+      "count_caveat": "phase1_450_subset_not_additive",
+      "parent_id": "",
+      "case_ids": "SP2024-0007;DR2024-0023"
+    },
+    {
+      "project_id": "tustin_compass",
+      "city": "Tustin",
+      "project": "Compass at Red Hill",
+      "units_reported": 73,
+      "stage": "grading",
+      "building_form": "attached_townhome",
+      "tenure": "sale",
+      "source_file": "tustin_projects.html",
+      "count_caveat": "1215–1719sf; model_vertical_Fall2026_expected",
+      "parent_id": "",
+      "case_ids": "13751/13841 Red Hill"
+    },
+    {
+      "project_id": "tustin_kb",
+      "city": "Tustin",
+      "project": "KB Newport",
+      "units_reported": 42,
+      "stage": "partly_completed",
+      "building_form": "condo_and_livework",
+      "tenure": "sale",
+      "source_file": "tustin_projects.html",
+      "count_caveat": "35_condos7_livework; 5of6_buildings_final2025; remaining_units_unknown",
+      "parent_id": "",
+      "case_ids": "TTM19164"
+    },
+    {
+      "project_id": "tustin_olson",
+      "city": "Tustin",
+      "project": "Olson / 17332 Irvine Boulevard",
+      "units_reported": 15,
+      "stage": "pending",
+      "building_form": "7_detached_8_duplex",
+      "tenure": "sale",
+      "source_file": "tustin_projects.html",
+      "count_caveat": "2026-10-27_hearing_future",
+      "parent_id": "",
+      "case_ids": "TTM19483"
+    },
+    {
+      "project_id": "tustin_bonita",
+      "city": "Tustin",
+      "project": "1052 Bonita",
+      "units_reported": 4,
+      "stage": "plan_check",
+      "building_form": "attached",
+      "tenure": "sale",
+      "source_file": "tustin_projects.html",
+      "count_caveat": "replaces1SFD_net3; plancheck_Aug2026",
+      "parent_id": "",
+      "case_ids": ""
+    },
+    {
+      "project_id": "av_creek",
+      "city": "Aliso Viejo",
+      "project": "27081 Aliso Creek",
+      "units_reported": 137,
+      "stage": "pending",
+      "building_form": "townhomes_and_garden_courts",
+      "tenure": "sale",
+      "source_file": "aliso_creek.html",
+      "count_caveat": "2026-10-21_hearing_future",
+      "parent_id": "",
+      "case_ids": ""
+    },
+    {
+      "project_id": "av_parkway",
+      "city": "Aliso Viejo",
+      "project": "26940–26980 Aliso Viejo Parkway",
+      "units_reported": 142,
+      "stage": "pending",
+      "building_form": "townhomes_and_duplex",
+      "tenure": "sale",
+      "source_file": "aliso_parkway.html",
+      "count_caveat": "3_to4_stories",
+      "parent_id": "",
+      "case_ids": ""
+    },
+    {
+      "project_id": "av_argonaut15",
+      "city": "Aliso Viejo",
+      "project": "15 Argonaut",
+      "units_reported": 58,
+      "stage": "pending_outcome_unverified",
+      "building_form": "attached_townhome",
+      "tenure": "sale",
+      "source_file": "aliso_argonaut15.html",
+      "count_caveat": "1320–1827sf; Oct7_hearing_outcome_not_verified",
+      "parent_id": "",
+      "case_ids": ""
+    },
+    {
+      "project_id": "av_argonaut95",
+      "city": "Aliso Viejo",
+      "project": "Axis / 95 Argonaut",
+      "units_reported": 61,
+      "stage": "under_construction",
+      "building_form": "townhome",
+      "tenure": "sale",
+      "source_file": "aliso_argonaut95.html",
+      "count_caveat": "2–4BR; approved2025-12-03",
+      "parent_id": "",
+      "case_ids": ""
+    },
+    {
+      "project_id": "av_freedom",
+      "city": "Aliso Viejo",
+      "project": "400–700 Freedom Lane",
+      "units_reported": 72,
+      "stage": "pending",
+      "building_form": "duplex",
+      "tenure": "sale",
+      "source_file": "aliso_freedom.html",
+      "count_caveat": "index71_vs_detail72; 3–4BR",
+      "parent_id": "",
+      "case_ids": ""
+    },
+    {
+      "project_id": "av_polaris",
+      "city": "Aliso Viejo",
+      "project": "1–5 Polaris",
+      "units_reported": 405,
+      "stage": "pending",
+      "building_form": "duplex_townhome_back_to_back_rowtown",
+      "tenure": "sale",
+      "source_file": "aliso_polaris.html",
+      "count_caveat": "21_VLI; concept_review_not_approval",
+      "parent_id": "",
+      "case_ids": ""
+    },
+    {
+      "project_id": "irvine_unit_merger",
+      "city": "Irvine",
+      "project": "IBC two-condominium merger proposal",
+      "units_reported": -1,
+      "stage": "preapplication",
+      "building_form": "condominium",
+      "tenure": "unknown",
+      "source_file": "irvine_discretionary_20261008.pdf",
+      "count_caveat": "net_reduction2to1_not_new_supply",
+      "parent_id": "",
+      "case_ids": "00989635-PPA"
+    }
+  ],
+  "unknown_policy": "null and empty values are not zero",
+  "forecast_policy": "No annual allocation without documented delivery schedule; no ad hoc probabilities",
+  "target_definition": "exactly4BR; detached building/no common wall; >1650sf; post2010; ownership and tenure separate"
+}
