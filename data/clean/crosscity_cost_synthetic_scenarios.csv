@@ -1,0 +1,3 @@
+﻿id,price_usd,ltv,rate,years,uniform_assumed_advalorem,hoa_monthly,special_annual,insurance_annual,maintenance_annual,monthly_pi,monthly_assumed_tax,monthly_selected_cashflow,all_in_economic_cost_usd,warning
+illustration_base,2000000,0.8,0.06,30,0.011,300,3000,3000,10000,9592.81,1833.33,13059.48,,全部情景参数为演示输入，非市场均值、真实报价或上下界；本金是现金支出但不是消费成本；不含税抵扣、资本机会成本、交易费用、通勤、utilities及特殊维修。实际从价税须逐税基税率求和，未必共享购价税基。
+illustration_higher_fees,2000000,0.8,0.06,30,0.011,500,6000,6000,20000,9592.81,1833.33,14592.81,,全部情景参数为演示输入，非市场均值、真实报价或上下界；本金是现金支出但不是消费成本；不含税抵扣、资本机会成本、交易费用、通勤、utilities及特殊维修。实际从价税须逐税基税率求和，未必共享购价税基。

@@ -1,0 +1,19 @@
+{
+  "isolated_byte_equal_files": [
+    "crosscity_broker_opinions.csv",
+    "crosscity_buyer_evidence_gates.csv",
+    "crosscity_cost_marginal_scenarios.csv",
+    "crosscity_cost_synthetic_scenarios.csv",
+    "crosscity_evidence_coverage.csv",
+    "crosscity_match_sensitivity.csv",
+    "crosscity_qa.json",
+    "private/all_candidate_pairs.csv",
+    "private/buyer_leads.json",
+    "private/property_cost_review.csv",
+    "private/proxy_pairs.csv"
+  ],
+  "same_length_input_tamper_rejected_before_output": true,
+  "compiled_scripts": 2,
+  "second_model_review": false,
+  "subagents_used": false
+}

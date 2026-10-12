@@ -1,0 +1,85 @@
+{
+  "version": "phase8-2026-10-11",
+  "matching": {
+    "area_ratio_max": 1.1,
+    "year_gap_max": 5,
+    "close_gap_days_max": 180,
+    "min_year": 2010,
+    "min_area_sqft": 1650,
+    "bedrooms": 4
+  },
+  "sensitivity": [
+    [
+      "base",
+      1.1,
+      5,
+      180
+    ],
+    [
+      "area_5pct",
+      1.05,
+      5,
+      180
+    ],
+    [
+      "close_90days",
+      1.1,
+      5,
+      90
+    ],
+    [
+      "close_365days",
+      1.1,
+      5,
+      365
+    ],
+    [
+      "year_10years",
+      1.1,
+      10,
+      180
+    ]
+  ],
+  "financing": {
+    "price_delta_usd": 100000,
+    "annual_rates": [
+      0.05,
+      0.06,
+      0.07
+    ],
+    "ltv": 0.8,
+    "years": 30,
+    "uniform_assumed_advalorem": 0.011,
+    "fee_deltas_monthly_usd": [
+      250,
+      500
+    ]
+  },
+  "synthetic_scenarios": [
+    {
+      "id": "illustration_base",
+      "price_usd": 2000000,
+      "ltv": 0.8,
+      "rate": 0.06,
+      "years": 30,
+      "uniform_assumed_advalorem": 0.011,
+      "hoa_monthly": 300,
+      "special_annual": 3000,
+      "insurance_annual": 3000,
+      "maintenance_annual": 10000
+    },
+    {
+      "id": "illustration_higher_fees",
+      "price_usd": 2000000,
+      "ltv": 0.8,
+      "rate": 0.06,
+      "years": 30,
+      "uniform_assumed_advalorem": 0.011,
+      "hoa_monthly": 500,
+      "special_annual": 6000,
+      "insurance_annual": 6000,
+      "maintenance_annual": 20000
+    }
+  ],
+  "scenario_warning": "全部情景参数为演示输入，非市场均值、真实报价或上下界；本金是现金支出但不是消费成本；不含税抵扣、资本机会成本、交易费用、通勤、utilities及特殊维修。实际从价税须逐税基税率求和，未必共享购价税基。"
+}

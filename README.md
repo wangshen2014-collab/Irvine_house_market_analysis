@@ -123,3 +123,20 @@ python scripts/report_purchasing_power.py
 恢复指定证据包中的raw目录；可加`--download`取得尚缺的官方文件，若指纹不同则停止并登记新版本。复用阶段三ACS标准表需从证据包或本仓库相应版本恢复。
 
 步骤5仍受限完成：跨市同品质全成本、原居城市／选择案例及12—20位经纪人覆盖未达到验收。本轮未启动第二模型。下一项为跨市可比成本与买家来源补证；全市学校、供给和定价模块保持在后续计划。
+
+## 跨市品质与成本阶段八更新
+
+[跨市品质、持有成本与买家选择](reports/2026-10-11_crosscity_costs_phase8.md)：固定25笔成交基线中20笔符合轮廓；51组候选跨市配对有4组通过面积、房龄及成交时间门槛，仅涉及2套外市房。日期收紧至90天仅2组，完整品质认证0组，不估计城市溢价。
+
+8套房屋的HOA及成本缺口单列；季度HOA折月，不把未知特别收费、保险或新买家税单填零。3个利率输入与2组纯演示费用情景由公式及高精度逐月余额迭代交叉核对。13位个人／品牌公开文章、6个机构品牌、3条匿名客户自述登记；长期Irvine来源不足，独立核验的完整买家流向0条。未进行访谈、第二模型审阅或多智能体工作。
+
+```bash
+python scripts/build_crosscity_comparison.py --input-dir /path/to/phase8/inputs --private-out /path/to/phase8/reviewed
+python scripts/report_crosscity_comparison.py
+# 若需指定个人研究阅读版的原生表计划：
+python scripts/report_crosscity_comparison.py --private-dir /path/to/phase8/reviewed --doc-plan /path/to/phase8/doc_plan.json
+```
+
+恢复指定阶段八证据包的`inputs`目录（5份冻结笔记／基线），以`data/crosscity_source_manifest.json`校验后运行；`data/crosscity_scenario_config.json`为显式研究参数。两份脚本仅用Python标准库，第三条命令会生成含逐屋数据的私有报告计划，不能加入公共仓库。官方7份成功下载、3项失败状态分别登记；SHA256未被用于冒充未下载网页的原件。公开6表和QA，隔离输出及私有诊断共11份逐字节一致；等长输入篡改在写出前被拒绝。
+
+下一项：全市学校与2026—27地址边界、教育项目和容量规则，之后继续供给、租赁全成本、定价及独立审阅。步骤5仍受限完成，完整公共B和买入／等待结论未完成，家庭A/C尚未接入。
