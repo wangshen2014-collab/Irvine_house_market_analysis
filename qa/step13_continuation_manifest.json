@@ -1,0 +1,28 @@
+{
+  "version": "S13-continuation-v1",
+  "reviewed_frozen_main": "697f152000da23ad842be849d91a82ea484baa1d",
+  "reviewed_research_commit": "469aaea3485f96dd18b91d536b224f0ef8aab0a7",
+  "verdict": "limited_scope_pass",
+  "hash_algorithm": "sha256",
+  "files": {
+    "README.md": "2eebae23adc62f00349d52428231611cb543fe4e508b5346cea2016dca589e2d",
+    "STATUS.md": "cc5ac925c414c1b0beb7fedf4abb79ecf803961598e94ebb84e7ab09b92da638",
+    "data/step12_a_parameter_interface.json": "7e8414ff5fb593fd0ec000b16ea668ef194b05f8d92a285d67ee7ce7164ae4b7",
+    "data/step12_evidence_index.json": "7cbbde72bf8d4264bee32cdddc1389719de7d792f551d0cbfc7002f121861e86",
+    "qa/step13_acceptance.json": "23f0da1b5f571ac8613c697cf063261222a28a16f3a4d9db23678f0ff56a889a",
+    "qa/step13_action_coverage.csv": "2353853d41fb9263998d51d752747a7372f24195d488004e9c06040506fe7565",
+    "qa/step13_continuation_checks.json": "82999ac31ea37ec7ebfe91b93fb8b4e593f3c270df7f2903042c310345ac4946",
+    "qa/step13_document_qa.json": "d2caf5671efc60f97c9c0493cdcb9ebe303a5c27245d814b9fe2ee3aa80d20da",
+    "qa/step13_issues.csv": "7cb84031de31dd87252a1eaf13f36dabb15131969fed7642fac00a5163f41ca2",
+    "qa/step13_issues_20261012_history.csv": "d570aac571b50a91b09abd72c7cb106bc7ea05e18ad32efc5bdd0648c075b93b",
+    "qa/step13_parameter_coverage.csv": "98710518b5024efbbc94c4dc92454f2390034f43602d7610676d08407c049314",
+    "qa/step13_repair_log.json": "8ae08f3f3c0606b760d03b56d765f05e9b9edcb7094b8ee971f2ea8670458d9e",
+    "qa/step13_source_coverage.csv": "d6bd38bad6f814b510b18ba5af6488b05b1935dbbfa11071a118db1434d00d90",
+    "reports/2026-10-12_step12_a_parameters.md": "b4c9ec2c91932b7bfb56c6a745ed8e7881b87536fcfdf39f9e717b02b9ffe46b",
+    "reports/2026-10-12_step12_independent_synthesis.md": "1ebfa86663d46ba5156e723999b4725b923f2de43311b774a666d3456338d968",
+    "reports/2026-10-12_step12_review_packet.md": "fb219b66076e987cf3ffdc0bdde1f3b41e5064ded7e8e3aa8f2bb2c2f6cbd3cc",
+    "reports/2026-10-13_step13_continuation_review.md": "66c7e8c4cd18a4a624924e75dcf0e9e1df2326840ec58e709a2b1e8875c95f06",
+    "scripts/audit_step13_continuation.py": "98458b9bf0f0f27a19b794d6d5b1fd0ac16de321416b28119be9129c00ebabe5"
+  },
+  "note": "Excludes itself and the later publication receipt; old Step12 manifest verifies original frozen commit bytes, not these reviewed amendments."
+}

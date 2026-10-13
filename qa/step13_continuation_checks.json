@@ -1,0 +1,253 @@
+{
+  "reviewed_commit": "697f152000da23ad842be849d91a82ea484baa1d",
+  "household_A_C_read_or_run": false,
+  "production_modules_imported": false,
+  "scope": "targeted_new_step12_evidence",
+  "raw_fingerprints": [
+    {
+      "evidence": "E02",
+      "file": "hmda_2025_purchase_oc.csv",
+      "sha256": "f2f93c2ae7ac0b01a4c7de613c2e89e46409829e29a34fe58d7c17f582a1127e",
+      "matches_frozen_index": true
+    },
+    {
+      "evidence": "E05",
+      "file": "irvine_apr2025.xlsm",
+      "sha256": "4d337b26452462503751fff183e2ec3e0b1cf816f3f24c33c0a0be9667848845",
+      "matches_frozen_index": true
+    },
+    {
+      "evidence": "E06",
+      "file": "gateway_faq202606.pdf",
+      "sha256": "6ec682946a4d97bf4c0d0653211bbf6e3f67f7040e2c581730d3e8bbc5af89f8",
+      "matches_frozen_index": true
+    },
+    {
+      "evidence": "E07",
+      "file": "Neighborhood_zhvi_bdrmcnt_4_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv",
+      "sha256": "9c50b5283c2e192d0fac7fc676c0db21a45b37c67f41824206db35c9407e91ad",
+      "matches_frozen_index": true
+    },
+    {
+      "evidence": "E08",
+      "file": "realtor_county_history.csv",
+      "sha256": "d2021d58077cbcad380f895685522b9b799783a38a7290ccaa6021f7bf651aa3",
+      "matches_frozen_index": true
+    },
+    {
+      "evidence": "E09",
+      "file": "cusocal_rates.html",
+      "sha256": "a212bbf032c351b8e0d26df909cde710e7b6dd2385c91d38a2e36583ebe56a60",
+      "matches_frozen_index": true
+    },
+    {
+      "evidence": "E09",
+      "file": "schoolsfirst_purchase.html",
+      "sha256": "2b96bee868ddc5e1f96e86552d6876542160401ee1ae5d0f9a0bcce3e2516497",
+      "matches_frozen_index": true
+    },
+    {
+      "evidence": "E10",
+      "file": "fannie_202609_housing.pdf",
+      "sha256": "e484610992fbc31c26c0ec627f391553daf0e5c574b9dac0a0527ce2620ea264",
+      "matches_frozen_index": true
+    },
+    {
+      "evidence": "E10",
+      "file": "mba_current_download.pdf",
+      "sha256": "7bbfc3fca4f694e7e4b47a13b7454318897b235535e1dea533e7be71d7f264fd",
+      "matches_frozen_index": true
+    }
+  ],
+  "acs_standard_table_derivation": [
+    {
+      "metric": "households_total",
+      "change": 13810.0,
+      "derived_moe90": 1945.0372747070942,
+      "method": "disjoint_window_difference_RSS;old_MOE_approximation;new_MOE=published",
+      "raw_original_reread": false
+    },
+    {
+      "metric": "owner_households",
+      "change": 3813.0,
+      "derived_moe90": 1792.8078536195674,
+      "method": "disjoint_window_difference_RSS;old_MOE_approximation;new_MOE=published",
+      "raw_original_reread": false
+    },
+    {
+      "metric": "renter_households",
+      "change": 9997.0,
+      "derived_moe90": 2112.0580010975077,
+      "method": "disjoint_window_difference_RSS;old_MOE_approximation;new_MOE=published",
+      "raw_original_reread": false
+    }
+  ],
+  "inherited_financing": [
+    {
+      "path": "scripts/audit_step13_financing.py",
+      "sha256": "2228b6939dd4f158d63c9602a47e71bc3513c66b4e9a43206eee751b7dc7e48b",
+      "unchanged": true,
+      "rerun": false
+    },
+    {
+      "path": "data/scenario_analysis_design.json",
+      "sha256": "071a5cc02816bf5731773a796ef31f5228f700b2edee6e82e3e23b06a013adaa",
+      "unchanged": true,
+      "rerun": false
+    },
+    {
+      "path": "data/clean/scenario_equal_payment_boundaries.csv",
+      "sha256": "f1214d1545f8ff63c6dc1d6b084bcc27abb70fec3cffc87a6f153709d0a132ba",
+      "unchanged": true,
+      "rerun": false
+    },
+    {
+      "path": "data/clean/scenario_points.csv",
+      "sha256": "427245bb7cf192ebbfc4659aaf5d06477f6e584ebf7f78839306506cdf42c0b5",
+      "unchanged": true,
+      "rerun": false
+    },
+    {
+      "path": "data/clean/scenario_arm_cap_stress.csv",
+      "sha256": "c66c83b164e2824702fb68692d0ddd58f70ec486648b143c716bf415289f5a7f",
+      "unchanged": true,
+      "rerun": false
+    },
+    {
+      "path": "data/clean/scenario_refinance.csv",
+      "sha256": "47d4f4bf1e7448b6945b48dc569f285e55f2084dea550ede4750f6799892d8d2",
+      "unchanged": true,
+      "rerun": false
+    },
+    {
+      "path": "qa/step13_financing_independent.json",
+      "sha256": "0ee76736e1440f1e65d0d7945505b6264df9096b6683ed290db5ae3a8e97fe6f",
+      "unchanged": true,
+      "rerun": false
+    }
+  ],
+  "hmda_sql": {
+    "raw_count": 28853,
+    "core_tracts": 43,
+    "oc_strict": 12367,
+    "irvine": {
+      "loans": 1002,
+      "income_thousands_usd": {
+        "valid": 915,
+        "median": 326.0,
+        "nonpositive": 9
+      },
+      "cltv_pct": {
+        "valid": 976,
+        "median": 73.5375,
+        "nonpositive": 0
+      }
+    },
+    "band": {
+      "loans": 159,
+      "income_thousands_usd": {
+        "valid": 139,
+        "median": 463.0,
+        "nonpositive": 1
+      },
+      "cltv_pct": {
+        "valid": 156,
+        "median": 69.816,
+        "nonpositive": 0
+      }
+    }
+  },
+  "apr_readonly_workbook": {
+    "entitled": {
+      "5+": 3712,
+      "SFD": 1123,
+      "2 to 4": 0,
+      "SFA": 0,
+      "ADU": 0
+    },
+    "permitted": {
+      "5+": 895,
+      "SFD": 360,
+      "2 to 4": 27,
+      "SFA": 121,
+      "ADU": 8
+    },
+    "completed": {
+      "5+": 230,
+      "SFD": 600,
+      "2 to 4": 0,
+      "SFA": 194,
+      "ADU": 28
+    }
+  },
+  "zhvi_decimal_ratios": {
+    "Woodbury": {
+      "id": "403197",
+      "yoy_pct": -4.043916036831125,
+      "two_year_pct": -1.1083480580940483,
+      "from_2024_2025_peak_pct": -7.011263285602044
+    },
+    "Portola Springs": {
+      "id": "403196",
+      "yoy_pct": -4.397845524488047,
+      "two_year_pct": -1.90433413519398,
+      "from_2024_2025_peak_pct": -6.1425176288868455
+    },
+    "Stonegate": {
+      "id": "775702",
+      "yoy_pct": -1.0819972533501918,
+      "two_year_pct": 0.8572531198596233,
+      "from_2024_2025_peak_pct": -4.084428794489071
+    },
+    "Orchard Hills": {
+      "id": "403127",
+      "yoy_pct": -2.6678856689451047,
+      "two_year_pct": 1.4579670707387564,
+      "from_2024_2025_peak_pct": -4.9034095307521035
+    }
+  },
+  "realtor_decimal_ratios": {
+    "active_listing_count": {
+      "yoy_pct": 3.8604957227462164,
+      "reported_yoy_pct": 3.85
+    },
+    "pending_listing_count": {
+      "yoy_pct": -18.352244696595953,
+      "reported_yoy_pct": -18.36
+    },
+    "new_listing_count": {
+      "yoy_pct": 1.1483253588516746,
+      "reported_yoy_pct": 1.15
+    },
+    "median_days_on_market": {
+      "yoy_pct": -7.017543859649122,
+      "reported_yoy_pct": -6.19
+    },
+    "median_listing_price": {
+      "yoy_pct": -6.533575317604356,
+      "reported_yoy_pct": -6.53
+    },
+    "median_square_feet": {
+      "yoy_pct": -4.266666666666667,
+      "reported_yoy_pct": -4.31
+    },
+    "median_listing_price_per_square_foot": {
+      "yoy_pct": -2.7624309392265194,
+      "reported_yoy_pct": -2.76
+    },
+    "active_vs_2019_pct": -30.64303500805625
+  },
+  "new_claim_price_plus_10_fixed_cash_PI_change_pct": 6.766936184163123,
+  "all_parameter_adoption_counts": {
+    "blocked_pending_evidence": 23,
+    "reference_only": 7
+  },
+  "source_discrepancies_retained": [
+    "Realtor DOM and area reported yoy vs frozen levels; reason unknown"
+  ],
+  "limitations": [
+    "Geography crosswalk reused, no new spatial audit",
+    "No target matched transactions, signed leases, property expenses or personal quotes acquired",
+    "No timing return or household choice inferred from these checks"
+  ]
+}

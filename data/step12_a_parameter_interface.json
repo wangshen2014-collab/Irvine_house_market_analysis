@@ -1,5 +1,5 @@
 {
-  "schema_version": "step12-interface-v1",
+  "schema_version": "step12-interface-v1.1",
   "as_of_local": "2026-10-12",
   "timezone": "America/Los_Angeles",
   "input_commit": "c2ad6899d8a3aa5a41fd36afa54e3b9a7f76e716",
@@ -25,7 +25,7 @@
       "confidence": "未识别",
       "update_rule": "合格可比成交、净让利与房屋条件齐全后",
       "adoption": "blocked_pending_evidence",
-      "notes": "ZHVI、挂牌价和房产估值均不能代替。"
+      "notes": "ZHVI、挂牌价和房产估值均不能代替。合同价与卖方抵扣、点数补贴、其他让利分别登记；经济净价用于可比分析，不直接替代贷款本金或税基。同一抵扣只能在经济净价／交易成本的一处计入。"
     },
     {
       "id": "housing_price_growth",
@@ -124,7 +124,7 @@
       "confidence": "未识别",
       "update_rule": "取得真实租约、优惠、租客承担费用及服务匹配",
       "adoption": "blocked_pending_evidence",
-      "notes": "有效租金=(合同总租金+强制租客费用−已确认优惠)/租期月数；押金另列。"
+      "notes": "有效租金=(合同总租金+强制租客费用−已确认优惠)/租期月数；押金另列。含入净租的强制费用不可在owner_renter_cost_difference再次计入。"
     },
     {
       "id": "rent_growth",
@@ -153,7 +153,7 @@
       "observation_window": "当期候选清单",
       "forecast_horizon": "每个比较期限",
       "unit": "USD/月或不货币化评分",
-      "price_basis": "名义美元／名义比率",
+      "price_basis": "货币化时用名义USD；非货币评分无名义／实际口径",
       "tax_basis": "税前；不含个人税效",
       "evidence_kind": "missing",
       "base_value": null,
@@ -248,7 +248,7 @@
       "observation_window": "本轮未设长期通胀假设",
       "forecast_horizon": "与现金流期限一致",
       "unit": "%/年",
-      "price_basis": "名义美元／名义比率",
+      "price_basis": "价格水平变化率；用于同一基期名义金额转实际金额",
       "tax_basis": "不适用",
       "evidence_kind": "missing",
       "base_value": null,
@@ -282,8 +282,8 @@
       "id": "pmms_reference",
       "variable": "全国30年固定参考",
       "region": "美国全国",
-      "product": "PMMS调查口径，非个人jumbo",
-      "observation_window": "2026-10-08发布／观察",
+      "product": "PMMS合规自住单套购房贷款申请口径（LPA），非个人jumbo",
+      "observation_window": "2026-10-08发布；2026-10-01至10-07申请周（ET）",
       "forecast_horizon": "历史周值",
       "unit": "%/年",
       "price_basis": "名义美元／名义比率",
@@ -295,7 +295,7 @@
       "confidence": "参考高；个人适用低",
       "update_rule": "每周新版单独保存",
       "adoption": "reference_only",
-      "notes": "不用于与8月房价作同月因果回归。"
+      "notes": "2022-11-17起使用LPA申请资料；这是周均参考而非10月8日个人报价，不与8月房价作同月因果回归。"
     },
     {
       "id": "fixed_menu_reference",
@@ -348,13 +348,13 @@
       "id": "arm_reference",
       "variable": "公开jumbo 5/1 ARM压力",
       "region": "CU SoCal公开样例",
-      "product": "30年摊还／CLTV60%／FICO760+；1年CMT+2.5",
+      "product": "菜单条件：CLTV60%／FICO760+；1年CMT＋2.5个百分点；计算假设：30年全额摊还",
       "observation_window": "冻结2026-10-12；新网页标10-13生效",
       "forecast_horizon": "前60月、61／73／85月分开",
       "unit": "票面%及USD/月每初贷10万",
       "price_basis": "名义美元／名义比率",
       "tax_basis": "税前；不含个人税效",
-      "evidence_kind": "observed_menu",
+      "evidence_kind": "mixed_observed_menu_and_synthetic_sensitivity",
       "base_value": {
         "initial_rate": 6.125,
         "caps": "2/2/6",
@@ -369,7 +369,13 @@
       "confidence": "菜单提取与算术高；个人条款未知",
       "update_rule": "取得正式合同及重置指数日期后",
       "adoption": "reference_only",
-      "notes": "压力为指数充分高且达到各次上限，不是预测；不假设能再融资。"
+      "notes": "利率与2/2/6上限是菜单事实；每初贷10万美元、360月摊还及各PI是归一化计算。压力假设指数充分高且连续触及各次上限，不是银行未来报价或预测；不假设能再融资。",
+      "component_evidence_kind": {
+        "base_value.initial_rate": "observed_menu",
+        "base_value.caps": "observed_menu",
+        "base_value.initial_PI": "derived_normalized_payment",
+        "stress_value": "synthetic_cap_path"
+      }
     },
     {
       "id": "refinancing_assumption",
@@ -464,7 +470,7 @@
       "confidence": "未取得",
       "update_rule": "以预期新税基、当年税率区与官方账单核算",
       "adoption": "blocked_pending_evidence",
-      "notes": "不使用卖家旧税单直接外推；补充税是过渡补计，不永久双算。"
+      "notes": "不使用卖家旧税单直接外推；补充税是过渡补计，不永久双算。本接口明确包含MR／CFD及其他已核特别评估；分别列出组成，mello_roos只作其中分项。"
     },
     {
       "id": "mello_roos",
@@ -483,7 +489,7 @@
       "confidence": "未取得",
       "update_rule": "官方特税报告、实际账单及升级率明确后",
       "adoption": "blocked_pending_evidence",
-      "notes": "与property_tax_total明确含／不含关系，禁止重复计入。"
+      "notes": "本接口已规定包含于property_tax_total；只作备忘分项，禁止再次加总。A若原字段不含MR，步骤14须明确映射后再计算。"
     },
     {
       "id": "hoa",
@@ -540,7 +546,7 @@
       "confidence": "未取得",
       "update_rule": "检查、责任划分和报价后",
       "adoption": "blocked_pending_evidence",
-      "notes": "简单房价百分比只能另行标敏感性，不能装成实测。"
+      "notes": "简单房价百分比只能另行标敏感性，不能装成实测。储备转存不是已发生费用；现金储备余额与未来维修实际支出不能双算消耗。"
     },
     {
       "id": "owner_renter_cost_difference",
@@ -588,8 +594,8 @@
       "observation_window": "本轮未确认家庭期限",
       "forecast_horizon": "6—12月等待与后续共同终点分开",
       "unit": "月／年",
-      "price_basis": "名义美元／名义比率",
-      "tax_basis": "税前；不含个人税效",
+      "price_basis": "不适用（期限）",
+      "tax_basis": "不适用（期限；相关现金流另标税前／税后）",
       "evidence_kind": "missing",
       "base_value": null,
       "stress_value": null,
@@ -599,5 +605,8 @@
       "adoption": "blocked_pending_evidence",
       "notes": "不能拿1年租费与30年总利息直接比。"
     }
-  ]
+  ],
+  "reviewed_frozen_commit": "697f152000da23ad842be849d91a82ea484baa1d",
+  "review_result": "limited_scope_pass_step13",
+  "revision_note": "仅修订定义与采用边界；全部原数值及null不变；本轮未读取A/C。"
 }
