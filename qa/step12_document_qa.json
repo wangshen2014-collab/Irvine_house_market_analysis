@@ -1,0 +1,26 @@
+{
+  "status": "pass_native_content_and_layout",
+  "scope": "step12 new tab only; final publication receipt appended later",
+  "native_tables": 12,
+  "native_cells_compared": 282,
+  "original_tabs_unchanged_before_execution_append": 20,
+  "parameters": 30,
+  "source_groups": 12,
+  "arithmetic_and_schema_checks": 96,
+  "independent_step13_review": false,
+  "reproduction_byte_identical": true,
+  "decision_card_single_page": true,
+  "reviewed_pdf": "v2_step12_final_body.pdf",
+  "reviewed_pdf_sha256": "e2f320fb7e1f7e353cf2dc137c3e7c7baa038d4474e82c8ad13f4d5ba083172b",
+  "reviewed_body_page_range": "172-192 in this pre-publication PDF; tab-title separator171",
+  "layout_repairs": [
+    "Repeat table headers across pages",
+    "Keep rows intact",
+    "Keep section headings with following table"
+  ],
+  "publication_scan": "changed public files checked for private links, local workspace paths, credentials and vendor raw series; none published",
+  "limits": [
+    "Does not certify evidence adequacy",
+    "Final receipt appended after publication; immutable body hash manifest separate"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "version": "B12-20261012-v1",
+  "input_commit": "c2ad6899d8a3aa5a41fd36afa54e3b9a7f76e716",
+  "hash_algorithm": "sha256",
+  "files": {
+    "README.md": "a47fffebc8894b5d71e6b27aa757d2cbba6964f92f3f4d3202cb92168e519125",
+    "STATUS.md": "e735d4b045c6bfd49de4e8e1ee2ce3a660296038fddc4107742389a5daaac115",
+    "data/step12_a_parameter_interface.json": "999c200fba2fb37698fc8a56447600d1005dfc1cdb0a1f8765392549a379927c",
+    "data/step12_evidence_index.json": "0622fecf23aaee9f641a048e448b66039f8b501ee8c32b88b807445fb21ffecd",
+    "qa/step12_checks.json": "94cc7fb7ab2b9cf9564eb43a62a87c0a7f824203649e0e0db9756f774aab2834",
+    "qa/step12_document_qa.json": "a3153275f1cd9b22e9b18b52aa5fb58aadcea27dd54be39539f14da935acf78d",
+    "reports/2026-10-12_step12_a_parameters.md": "ff01cd5c5dee26ca09b916f8997aa759721a2f470bc0b6adbf96fc546da8b633",
+    "reports/2026-10-12_step12_independent_synthesis.md": "d74d53090babac7a147536309f13b8e111ea016d3f40b9af1c9479e67e5fdb11",
+    "reports/2026-10-12_step12_preliminary.md": "24f46f6c3c95bcd9087d881b8b905357f49cbcb7624897468c445b496b17902b",
+    "reports/2026-10-12_step12_review_packet.md": "750c5b6ebddfb3d12d86e197e55d8c750c9bfd2725a1e8c0f30f09e644593663",
+    "scripts/audit_step12_synthesis.py": "920629c12326e9071e633a550c9e655542ad4970680278fb9209f44f625cd3d6"
+  },
+  "note": "This manifest excludes itself and the later publication receipt. It identifies research payload bytes without a self-referential commit hash."
+}
