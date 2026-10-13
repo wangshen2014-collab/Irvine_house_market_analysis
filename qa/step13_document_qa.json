@@ -1,0 +1,45 @@
+{
+  "stage": "step13_continuation",
+  "original_step13_text_preserved": true,
+  "new_action_rows": 23,
+  "new_parameter_rows": 30,
+  "new_native_tables": 2,
+  "new_native_cells_readback_exact": 165,
+  "step12_native_replacements_readback_exact": 23,
+  "other_tabs_unchanged_before_execution_append": 19,
+  "layout_review": {
+    "export": "native Google Drive PDF",
+    "new_review_pages_in_prepublication_export": [
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179
+    ],
+    "new_tables_headers_repeat": true,
+    "step12_decision_card_still_one_page": true,
+    "text_and_tables_unclipped": true,
+    "export_size_bytes": 4856460,
+    "note": "Page numbers refer to the prepublication PDF. Later execution/publication receipts may shift them. Streamed fetch failed twice; standard export succeeded. No browser fallback.",
+    "step12_changed_pages_inspected": [
+      181,
+      182,
+      184,
+      185,
+      186,
+      187,
+      188,
+      189,
+      190,
+      191,
+      193,
+      194,
+      195,
+      197
+    ]
+  },
+  "private_identifiers_omitted": true
+}

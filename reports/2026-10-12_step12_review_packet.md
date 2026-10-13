@@ -1,6 +1,6 @@
 # 步骤12：冻结审阅包
 
-版本B12-20261012-v1；洛杉矶时间2026-10-12。研究输入冻结于main `c2ad6899d8a3aa5a41fd36afa54e3b9a7f76e716`。本次产物的内容SHA-256见 `qa/step12_artifact_manifest.json`；发布commit和PR见随后提交的 `qa/step12_delivery_receipt.json`。采用“内容先冻结、回执后引用”以避免文件自含自身commit的循环。
+原冻结审阅包版本B12-20261012-v1，洛杉矶时间2026-10-12。步骤13接续审核已限定范围通过；原manifest用于核697f152／469aaea冻结字节，不用于误核审阅后修订文件。当前修订及完整覆盖见 `reports/2026-10-13_step13_continuation_review.md`、`qa/step13_continuation_manifest.json`。下文保留原交接要求作为历史记录。研究输入冻结于main `c2ad6899d8a3aa5a41fd36afa54e3b9a7f76e716`。本次产物的内容SHA-256见 `qa/step12_artifact_manifest.json`；发布commit和PR见随后提交的 `qa/step12_delivery_receipt.json`。采用“内容先冻结、回执后引用”以避免文件自含自身commit的循环。
 
 审阅对象是本轮三件套：`reports/2026-10-12_step12_independent_synthesis.md`、`data/step12_a_parameter_interface.json`（阅读版 `reports/2026-10-12_step12_a_parameters.md`）、本审阅包。初步判断单独保留。不是phase12定价，也不是旧步骤13前置验收。
 
@@ -44,7 +44,7 @@
 | E11／D6恒等式 | scenario_equal_payment_boundaries的6.5%行；scenario设计；旧step13融资QA | 本轮360期付款现值求和得105.5634／109.2723；旧点数、ARM、再融资抽核复用，未冒充新增全量审核 |
 | E12／租买 | rental_coverage；V2租赁tab及冻结字段笔记 | 18观察、12关闭／6挂牌，8配对、2同址；净有效租金0，完整成本0/8；非净收益样本 |
 
-来源时钟：ACS2020—2024不当2026年度流量；HMDA2025不当2026当前成交；价格模型止2026-08，县级挂牌止09，全国按揭周值与国债日值止10-08，现行页面检索日另列。检索服务内容保存为“工具读取记录”，不假称网站原始HTML；当前网页不能反向认证先前冻结版本。
+来源时钟：ACS2020—2024不当2026年度流量；HMDA2025不当2026当前成交；价格模型止2026-08，县级挂牌止09，全国按揭10-08发布值观察10-01至10-07申请周（ET），国债日值止10-08，现行页面检索日另列。检索服务内容保存为“工具读取记录”，不假称网站原始HTML；当前网页不能反向认证先前冻结版本。
 
 官方入口包括[CFPB HMDA](https://ffiec.cfpb.gov/data-browser/)、[Irvine APR原表](https://cityofirvine.gov/sites/default/files/legacy-documents/civica-34702-2025-housing-element-annual-progress-report.xlsm)、[Gateway FAQ](https://cityofirvine.gov/sites/default/files/legacy-documents/gateway-village-residential-project_faq_june-2026.pdf)、[Zillow Research](https://www.zillow.com/research/data/)、[Realtor Economic Research](https://www.realtor.com/research/data/)、[Freddie PMMS](https://www.freddiemac.com/pmms)、[FRED DGS10](https://fred.stlouisfed.org/series/DGS10)。具体数据URL及SHA应以冻结索引为准，不用更新后的网页悄悄替换。
 

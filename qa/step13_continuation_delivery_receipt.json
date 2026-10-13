@@ -1,0 +1,38 @@
+{
+  "version": "S13-continuation-delivery-v1",
+  "reviewed_frozen_main": "697f152000da23ad842be849d91a82ea484baa1d",
+  "reviewed_research_commit": "469aaea3485f96dd18b91d536b224f0ef8aab0a7",
+  "review_content_commit": "ebc512d829d9bddd8c30431d2a2663782a596856",
+  "review_content_tree": "4f83abe69124eaa1987494bbaa1fecabc341b94d",
+  "pull_request_number": 15,
+  "pull_request_url": "https://github.com/wangshen2014-collab/Irvine_house_market_analysis/pull/15",
+  "verdict": "limited_scope_pass",
+  "full_step13_completed": true,
+  "S13_001": "closed_verified",
+  "actions_reviewed": 23,
+  "parameters_reviewed": 30,
+  "reference_only": 7,
+  "unknown_blocked": 23,
+  "numeric_and_null_values_unchanged": true,
+  "reviewer_performed_local_repairs": true,
+  "repairs_second_independent_external_review": false,
+  "formal_document": {
+    "existing_review_tab_appended": true,
+    "old_review_text_preserved": true,
+    "step12_native_replacements_readback_verified": 23,
+    "new_tables": 2,
+    "new_cells_readback_verified": 165,
+    "pdf_layout_verified": true,
+    "final_execution_and_merge_receipt": "Recorded in formal V2 after authorized PR merge; private document identifiers omitted"
+  },
+  "private_archive": {
+    "bytes": 9057632,
+    "sha256": "688a621dbe49decc83ba917423bb2bca4e849009e6b11cfdbc302bff2880c161",
+    "downloaded_copy_sha256_verified": true,
+    "stage": "prepublication review evidence; final merge/Docs receipt kept separately",
+    "private_url_omitted": true
+  },
+  "no_household_A_C_read_or_run": true,
+  "merge_result": "The eventual merge SHA is recorded by PR #15 and formal V2. This pre-merge receipt does not contain a self-referential merge hash.",
+  "next_action": "步骤14：接入最新家庭模型A并交给C判断具体房源"
+}

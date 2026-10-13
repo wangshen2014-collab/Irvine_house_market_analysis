@@ -1,0 +1,30 @@
+{
+  "report_id": "S13-20261013-CONTINUATION-v1",
+  "reviewed_commit": "697f152000da23ad842be849d91a82ea484baa1d",
+  "research_commit": "469aaea3485f96dd18b91d536b224f0ef8aab0a7",
+  "verdict": "limited_scope_pass",
+  "verdict_zh": "限定范围通过，可以进入步骤14",
+  "full_step13_completed": true,
+  "step12_artifacts_confirmed": true,
+  "eligible_to_begin_step14": true,
+  "eligible_for_automatic_A_import": false,
+  "household_A_C_read_or_run": false,
+  "all_prior_V2_modules_unconditionally_accepted": false,
+  "unresolved_major_issues_in_unconditional_B_claims": [],
+  "blocked_outputs": [
+    "unconditional_household_buy_wait_rent_ranking",
+    "timing_return_advantage",
+    "precise_Reserve_price_path_or_premium",
+    "target_months_inventory_or_delivery_surge",
+    "address_school_guarantee"
+  ],
+  "action_coverage_count": 23,
+  "parameter_coverage_count": 30,
+  "reference_only_count": 7,
+  "blocked_pending_evidence_count": 23,
+  "reviewer_performed_repairs": true,
+  "second_independent_review_of_repairs": false,
+  "historical_gate": "qa/step13_gate.json",
+  "current_issues": "qa/step13_issues.csv",
+  "next_action": "步骤14：接入最新家庭模型A并交给C判断具体房源"
+}

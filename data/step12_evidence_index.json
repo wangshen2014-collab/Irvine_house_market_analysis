@@ -195,7 +195,7 @@
       "id": "E09",
       "topic": "现行参考利率与公开菜单",
       "level": "本轮冻结HTML与当前官方网页定向回读；个人LE为0",
-      "window": "PMMS与DGS10观察2026-10-08；SF网页2026-10-12；CU新页标2026-10-13",
+      "window": "PMMS2026-10-08发布，申请观察周10-01至10-07 ET；DGS10日值10-08；SF网页10-12；CU新页标10-13",
       "locators": [
         "schoolsfirst_purchase.html: Fixed-Rate Mortgages Jumbo及示例假设，票面与APR分列",
         "cusocal_rates.html: Jumbo Fixed及Jumbo Adjustable，不用conforming栏APR",
@@ -300,5 +300,6 @@
       "checked_local_date": "2026-10-12",
       "public_storage": "原始微观／供应商完整历史不公开；仅链接、指纹和有限派生事实"
     }
-  ]
+  ],
+  "review_amendment": "S13-006: 只修PMMS观察窗；历史原件及指纹不变。"
 }
