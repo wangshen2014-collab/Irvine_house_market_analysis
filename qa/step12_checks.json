@@ -1,0 +1,750 @@
+{
+  "status": "pass_selected_arithmetic_with_source_differences_retained",
+  "as_of_local": "2026-10-12",
+  "timezone": "America/Los_Angeles",
+  "input_commit": "c2ad6899d8a3aa5a41fd36afa54e3b9a7f76e716",
+  "same_agent_serial_check": true,
+  "independent_step13_review": false,
+  "checks_count": 96,
+  "fingerprints": [
+    {
+      "file": "hmda_2025_purchase_oc.csv",
+      "sha256": "f2f93c2ae7ac0b01a4c7de613c2e89e46409829e29a34fe58d7c17f582a1127e",
+      "bytes": 10987886,
+      "source_url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2025&counties=06059&loan_purposes=1",
+      "manifest": "data/purchasing_source_manifest.json"
+    },
+    {
+      "file": "irvine_apr2025.xlsm",
+      "sha256": "4d337b26452462503751fff183e2ec3e0b1cf816f3f24c33c0a0be9667848845",
+      "bytes": 1665141,
+      "source_url": "https://cityofirvine.gov/sites/default/files/legacy-documents/civica-34702-2025-housing-element-annual-progress-report.xlsm",
+      "manifest": "data/supply_source_manifest.json"
+    },
+    {
+      "file": "Neighborhood_zhvi_bdrmcnt_4_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv",
+      "sha256": "9c50b5283c2e192d0fac7fc676c0db21a45b37c67f41824206db35c9407e91ad",
+      "bytes": 46854390,
+      "source_url": "https://files.zillowstatic.com/research/public_csvs/zhvi/Neighborhood_zhvi_bdrmcnt_4_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv",
+      "manifest": "data/pricing_source_manifest.json"
+    },
+    {
+      "file": "realtor_county_history.csv",
+      "sha256": "d2021d58077cbcad380f895685522b9b799783a38a7290ccaa6021f7bf651aa3",
+      "bytes": 103158368,
+      "source_url": "https://econdata.s3-us-west-2.amazonaws.com/Reports/Core/RDC_Inventory_Core_Metrics_County_History.csv",
+      "manifest": "data/pricing_source_manifest.json"
+    },
+    {
+      "file": "schoolsfirst_purchase.html",
+      "sha256": "2b96bee868ddc5e1f96e86552d6876542160401ee1ae5d0f9a0bcce3e2516497",
+      "bytes": 70411,
+      "source_url": "https://www.schoolsfirstfcu.org/rates/mortgage-purchase",
+      "manifest": "data/scenario_source_manifest.json"
+    },
+    {
+      "file": "cusocal_rates.html",
+      "sha256": "a212bbf032c351b8e0d26df909cde710e7b6dd2385c91d38a2e36583ebe56a60",
+      "bytes": 427149,
+      "source_url": "https://www.cusocal.org/loans/personal/rates/",
+      "manifest": "data/scenario_source_manifest.json"
+    }
+  ],
+  "hmda_2025": {
+    "all": {
+      "loans": 1002,
+      "income_valid": 915,
+      "income_median_usd": 326000.0,
+      "cltv_valid": 976,
+      "cltv_median_pct": 73.5375
+    },
+    "value_2m_to_under_3m": {
+      "loans": 159,
+      "income_valid": 139,
+      "income_median_usd": 463000.0,
+      "cltv_valid": 156,
+      "cltv_median_pct": 69.816
+    }
+  },
+  "apr_2025": {
+    "entitled": {
+      "all": 4835,
+      "SFD": 1123
+    },
+    "permitted": {
+      "all": 1411,
+      "SFD": 360
+    },
+    "completed": {
+      "all": 1052,
+      "SFD": 600
+    }
+  },
+  "zhvi_four_bedroom": {
+    "Woodbury": {
+      "region_id": "403197",
+      "yoy_pct": -4.043916036831119,
+      "two_year_pct": -1.1083480580940441,
+      "change_from_2024_2025_peak_pct": -7.011263285602043
+    },
+    "Portola Springs": {
+      "region_id": "403196",
+      "yoy_pct": -4.397845524488043,
+      "two_year_pct": -1.9043341351939858,
+      "change_from_2024_2025_peak_pct": -6.1425176288868455
+    },
+    "Stonegate": {
+      "region_id": "775702",
+      "yoy_pct": -1.0819972533501976,
+      "two_year_pct": 0.8572531198596245,
+      "change_from_2024_2025_peak_pct": -4.084428794489082
+    },
+    "Orchard Hills": {
+      "region_id": "403127",
+      "yoy_pct": -2.6678856689451025,
+      "two_year_pct": 1.4579670707387526,
+      "change_from_2024_2025_peak_pct": -4.903409530752112
+    }
+  },
+  "realtor_oc_202609": {
+    "active_listing_count": {
+      "current": 4735.0,
+      "prior_year": 4559.0,
+      "level_based_yoy_pct": 3.8604957227462267,
+      "source_yoy_pct": 3.85
+    },
+    "new_listing_count": {
+      "current": 2114.0,
+      "prior_year": 2090.0,
+      "level_based_yoy_pct": 1.1483253588516762,
+      "source_yoy_pct": 1.15
+    },
+    "pending_listing_count": {
+      "current": 1655.0,
+      "prior_year": 2027.0,
+      "level_based_yoy_pct": -18.352244696595953,
+      "source_yoy_pct": -18.360000000000003
+    },
+    "median_days_on_market": {
+      "current": 53.0,
+      "prior_year": 57.0,
+      "level_based_yoy_pct": -7.017543859649122,
+      "source_yoy_pct": -6.1899999999999995
+    },
+    "median_listing_price": {
+      "current": 1287500.0,
+      "prior_year": 1377500.0,
+      "level_based_yoy_pct": -6.533575317604356,
+      "source_yoy_pct": -6.529999999999999
+    },
+    "median_square_feet": {
+      "current": 1795.0,
+      "prior_year": 1875.0,
+      "level_based_yoy_pct": -4.266666666666663,
+      "source_yoy_pct": -4.31
+    },
+    "median_listing_price_per_square_foot": {
+      "current": 704.0,
+      "prior_year": 724.0,
+      "level_based_yoy_pct": -2.7624309392265234,
+      "source_yoy_pct": -2.76
+    },
+    "active_vs_2019sep_pct": -30.643035008056252
+  },
+  "financing": {
+    "synthetic_only": true,
+    "price_index_base": 100,
+    "cash_index_base": 40,
+    "rate_from_pct": 7.375,
+    "rate_to_pct": 6.5,
+    "PI_per_100k_from": 690.6751475973349,
+    "PI_per_100k_to": 632.0680234929605,
+    "fixed_cash_equal_PI_price_index": 105.56336868115845,
+    "fixed_fraction_equal_PI_price_index": 109.2722811352641,
+    "price_plus_10pct_PI_change_pct_fixed_cash": 6.766936184163064
+  },
+  "checks": [
+    {
+      "name": "sha256:hmda_2025_purchase_oc.csv",
+      "actual": "f2f93c2ae7ac0b01a4c7de613c2e89e46409829e29a34fe58d7c17f582a1127e",
+      "expected": "f2f93c2ae7ac0b01a4c7de613c2e89e46409829e29a34fe58d7c17f582a1127e",
+      "passed": true
+    },
+    {
+      "name": "sha256:irvine_apr2025.xlsm",
+      "actual": "4d337b26452462503751fff183e2ec3e0b1cf816f3f24c33c0a0be9667848845",
+      "expected": "4d337b26452462503751fff183e2ec3e0b1cf816f3f24c33c0a0be9667848845",
+      "passed": true
+    },
+    {
+      "name": "sha256:Neighborhood_zhvi_bdrmcnt_4_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv",
+      "actual": "9c50b5283c2e192d0fac7fc676c0db21a45b37c67f41824206db35c9407e91ad",
+      "expected": "9c50b5283c2e192d0fac7fc676c0db21a45b37c67f41824206db35c9407e91ad",
+      "passed": true
+    },
+    {
+      "name": "sha256:realtor_county_history.csv",
+      "actual": "d2021d58077cbcad380f895685522b9b799783a38a7290ccaa6021f7bf651aa3",
+      "expected": "d2021d58077cbcad380f895685522b9b799783a38a7290ccaa6021f7bf651aa3",
+      "passed": true
+    },
+    {
+      "name": "sha256:schoolsfirst_purchase.html",
+      "actual": "2b96bee868ddc5e1f96e86552d6876542160401ee1ae5d0f9a0bcce3e2516497",
+      "expected": "2b96bee868ddc5e1f96e86552d6876542160401ee1ae5d0f9a0bcce3e2516497",
+      "passed": true
+    },
+    {
+      "name": "sha256:cusocal_rates.html",
+      "actual": "a212bbf032c351b8e0d26df909cde710e7b6dd2385c91d38a2e36583ebe56a60",
+      "expected": "a212bbf032c351b8e0d26df909cde710e7b6dd2385c91d38a2e36583ebe56a60",
+      "passed": true
+    },
+    {
+      "name": "Irvine_core_tracts",
+      "actual": 43,
+      "expected": 43,
+      "passed": true
+    },
+    {
+      "name": "HMDA_2025_OC_purchase_raw_rows",
+      "actual": 28853,
+      "expected": 28853,
+      "passed": true
+    },
+    {
+      "name": "HMDA_2025_OC_strict_rows",
+      "actual": 12367,
+      "expected": 12367,
+      "passed": true
+    },
+    {
+      "name": "HMDA_2025_Irvine_core_strict_rows",
+      "actual": 1002,
+      "expected": 1002,
+      "passed": true
+    },
+    {
+      "name": "HMDA_all_income_valid",
+      "actual": 915,
+      "expected": 915,
+      "passed": true
+    },
+    {
+      "name": "HMDA_all_income_median_usd",
+      "actual": 326000.0,
+      "expected": 326000,
+      "passed": true
+    },
+    {
+      "name": "HMDA_2m_3m_loans",
+      "actual": 159,
+      "expected": 159,
+      "passed": true
+    },
+    {
+      "name": "HMDA_2m_3m_income_valid",
+      "actual": 139,
+      "expected": 139,
+      "passed": true
+    },
+    {
+      "name": "HMDA_2m_3m_income_median_usd",
+      "actual": 463000.0,
+      "expected": 463000,
+      "passed": true
+    },
+    {
+      "name": "HMDA_2m_3m_cltv_valid",
+      "actual": 156,
+      "expected": 156,
+      "passed": true
+    },
+    {
+      "name": "HMDA_2m_3m_cltv_median_pct",
+      "actual": 69.816,
+      "expected": 69.816,
+      "passed": true
+    },
+    {
+      "name": "APR_entitled_Summary",
+      "actual": 4835.0,
+      "expected": 4835,
+      "passed": true
+    },
+    {
+      "name": "APR_entitled_detail",
+      "actual": 4835.0,
+      "expected": 4835,
+      "passed": true
+    },
+    {
+      "name": "APR_permitted_Summary",
+      "actual": 1411.0,
+      "expected": 1411,
+      "passed": true
+    },
+    {
+      "name": "APR_permitted_detail",
+      "actual": 1411.0,
+      "expected": 1411,
+      "passed": true
+    },
+    {
+      "name": "APR_completed_Summary",
+      "actual": 1052.0,
+      "expected": 1052,
+      "passed": true
+    },
+    {
+      "name": "APR_completed_detail",
+      "actual": 1052.0,
+      "expected": 1052,
+      "passed": true
+    },
+    {
+      "name": "APR_SFD_permitted",
+      "actual": 360,
+      "expected": 360,
+      "passed": true
+    },
+    {
+      "name": "APR_SFD_completed",
+      "actual": 600,
+      "expected": 600,
+      "passed": true
+    },
+    {
+      "name": "ZHVI_last_date_Woodbury",
+      "actual": "2026-08-31",
+      "expected": "2026-08-31",
+      "passed": true
+    },
+    {
+      "name": "ZHVI_last_date_Portola Springs",
+      "actual": "2026-08-31",
+      "expected": "2026-08-31",
+      "passed": true
+    },
+    {
+      "name": "ZHVI_last_date_Stonegate",
+      "actual": "2026-08-31",
+      "expected": "2026-08-31",
+      "passed": true
+    },
+    {
+      "name": "ZHVI_last_date_Orchard Hills",
+      "actual": "2026-08-31",
+      "expected": "2026-08-31",
+      "passed": true
+    },
+    {
+      "name": "ZHVI_SG_yoy",
+      "actual": -1.0819972533501976,
+      "expected": -1.081997,
+      "passed": true
+    },
+    {
+      "name": "ZHVI_OH_yoy",
+      "actual": -2.6678856689451025,
+      "expected": -2.667886,
+      "passed": true
+    },
+    {
+      "name": "Realtor_last_month",
+      "actual": "202609",
+      "expected": "202609",
+      "passed": true
+    },
+    {
+      "name": "OC_active",
+      "actual": 4735.0,
+      "expected": 4735,
+      "passed": true
+    },
+    {
+      "name": "OC_pending",
+      "actual": 1655.0,
+      "expected": 1655,
+      "passed": true
+    },
+    {
+      "name": "OC_DOM_shorter",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "PI_7_375_per_100k",
+      "actual": 690.6751475973349,
+      "expected": 690.6751475973392,
+      "passed": true
+    },
+    {
+      "name": "fixed_cash_equal_PI_index",
+      "actual": 105.56336868115845,
+      "expected": 105.56336868115834,
+      "passed": true
+    },
+    {
+      "name": "fixed_ratio_equal_PI_index",
+      "actual": 109.2722811352641,
+      "expected": 109.27228113526392,
+      "passed": true
+    },
+    {
+      "name": "ACS_renter_share_of_point_increase",
+      "actual": 72.38957277335264,
+      "expected": 72.38957277335264,
+      "passed": true
+    },
+    {
+      "name": "parameter_schema:target_purchase_price",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "missing_stays_null:target_purchase_price",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "parameter_schema:housing_price_growth",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "missing_stays_null:housing_price_growth",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "parameter_schema:housing_price_sensitivity",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "parameter_schema:zhvi_stonegate_yoy",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "parameter_schema:zhvi_orchard_hills_yoy",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "parameter_schema:same_product_effective_rent",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "missing_stays_null:same_product_effective_rent",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "parameter_schema:rent_growth",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "missing_stays_null:rent_growth",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "parameter_schema:housing_service_difference",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "missing_stays_null:housing_service_difference",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "parameter_schema:equity_total_return_historical",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "missing_stays_null:equity_total_return_historical",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "parameter_schema:equity_total_return_expected",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "missing_stays_null:equity_total_return_expected",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "parameter_schema:equity_after_tax_return",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "missing_stays_null:equity_after_tax_return",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "parameter_schema:cash_opportunity_return",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "missing_stays_null:cash_opportunity_return",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "parameter_schema:inflation_deflator",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "missing_stays_null:inflation_deflator",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "parameter_schema:personal_mortgage_rate",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "missing_stays_null:personal_mortgage_rate",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "parameter_schema:pmms_reference",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "parameter_schema:fixed_menu_reference",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "parameter_schema:future_rate_sensitivity",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "parameter_schema:arm_reference",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "parameter_schema:refinancing_assumption",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "missing_stays_null:refinancing_assumption",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "parameter_schema:down_payment_and_term",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "missing_stays_null:down_payment_and_term",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "parameter_schema:acquisition_cost",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "missing_stays_null:acquisition_cost",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "parameter_schema:disposition_cost",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "missing_stays_null:disposition_cost",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "parameter_schema:property_tax_total",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "missing_stays_null:property_tax_total",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "parameter_schema:mello_roos",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "missing_stays_null:mello_roos",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "parameter_schema:hoa",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "missing_stays_null:hoa",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "parameter_schema:insurance",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "missing_stays_null:insurance",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "parameter_schema:maintenance_capex",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "missing_stays_null:maintenance_capex",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "parameter_schema:owner_renter_cost_difference",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "missing_stays_null:owner_renter_cost_difference",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "parameter_schema:tax_benefit",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "missing_stays_null:tax_benefit",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "parameter_schema:holding_horizon",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "missing_stays_null:holding_horizon",
+      "actual": true,
+      "expected": true,
+      "passed": true
+    },
+    {
+      "name": "not_ready_for_A:target_purchase_price",
+      "actual": "blocked_pending_evidence",
+      "expected": "blocked_pending_evidence",
+      "passed": true
+    },
+    {
+      "name": "not_ready_for_A:same_product_effective_rent",
+      "actual": "blocked_pending_evidence",
+      "expected": "blocked_pending_evidence",
+      "passed": true
+    },
+    {
+      "name": "not_ready_for_A:equity_total_return_expected",
+      "actual": "blocked_pending_evidence",
+      "expected": "blocked_pending_evidence",
+      "passed": true
+    },
+    {
+      "name": "not_ready_for_A:personal_mortgage_rate",
+      "actual": "blocked_pending_evidence",
+      "expected": "blocked_pending_evidence",
+      "passed": true
+    }
+  ],
+  "limitations": [
+    "Selected sources only; no new census geometry audit",
+    "No target-product matched price/rent index",
+    "No personal loan estimate or household A/C input",
+    "QA pass is not an adequacy or forecast verdict"
+  ]
+}

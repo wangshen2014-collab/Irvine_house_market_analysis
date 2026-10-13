@@ -4,7 +4,7 @@
 
 ## 项目状态
 
-2026-10-11启动；截至2026-10-12，已完成步骤11受限基线。步骤13前置验收确认步骤12综合报告、统一A参数表和审阅包尚缺，故完整独立审核无法完成，A/C保持未接入。四类融资算术经本轮独立抽核可保留，不能代替市场综合验收。见[步骤13审核记录](reports/2026-10-12_step13_independent_review.md)和[当前状态](STATUS.md)。
+2026-10-12步骤12三件套已形成可审版本：[综合结论](reports/2026-10-12_step12_independent_synthesis.md)、[统一A参数表](reports/2026-10-12_step12_a_parameters.md)、[冻结审阅包](reports/2026-10-12_step12_review_packet.md)。市场证据较支持有期限等待并保留条件买入；不证明等待获利。完整步骤13尚待另线程审阅，A/C未接入；原S13-001为补件待验收，作者不自签关闭。见[当前状态](STATUS.md)。以下阶段记录保留其当时完成边界，当前状态以此处及STATUS为准。
 
 ## 工作方式
 
@@ -236,3 +236,14 @@ python scripts/audit_step13_financing.py --evidence-dir /path/to/step11-evidence
 ```
 
 脚本使用Decimal逐月余额和二分法，不导入生产build/audit代码；输出中的`eligible_for_A_C_integration`始终为false，不将算术通过改成市场结论通过。完整范围和未读原件见公开覆盖表及审核报告。
+
+## 步骤12复算与交接
+
+30项接口区分历史、菜单、缺失和虚构敏感性；关键实盘值null，不能自动导入A。6份冻结原件指纹、HMDA／APR／社区四卧价格／县级库存与归一化融资经选择性复算，96项检查通过不等于96项经济判断通过。
+
+```bash
+python scripts/audit_step12_synthesis.py --evidence-root /path/to/evidence-root --out /tmp/step12_checks.json
+git diff --no-index qa/step12_checks.json /tmp/step12_checks.json
+```
+
+私有目录布局、原件定位、步骤与阶段映射、最强反证和优先级缺口见冻结审阅包。源内DOM及面积同比差异、CU网页次日标示均保留。唯一下一项为冻结版本的步骤13完整独立审阅；不得用此前步骤11融资抽核代替。

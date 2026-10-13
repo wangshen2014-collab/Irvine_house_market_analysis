@@ -1,0 +1,41 @@
+{
+  "version": "B12-20261012-delivery-v1",
+  "as_of_local": "2026-10-12",
+  "timezone": "America/Los_Angeles",
+  "input_commit": "c2ad6899d8a3aa5a41fd36afa54e3b9a7f76e716",
+  "research_payload_commit": "469aaea3485f96dd18b91d536b224f0ef8aab0a7",
+  "pull_request_number": 14,
+  "pull_request_url": "https://github.com/wangshen2014-collab/Irvine_house_market_analysis/pull/14",
+  "merge_record": "This is the pre-merge delivery record. The authorized merge result and final main commit are recorded by PR #14 and the formal V2 execution tab; the research payload remains pinned above.",
+  "artifact_manifest": "qa/step12_artifact_manifest.json",
+  "qa": "qa/step12_checks.json",
+  "checks": 96,
+  "reproduction_byte_identical": true,
+  "formal_document": {
+    "new_tab_title": "独立公共B：综合结论",
+    "native_tables": 12,
+    "verified_cells": 282,
+    "original_tabs_unchanged_before_execution_append": 20,
+    "decision_card_one_page": true,
+    "body_layout_verified": true,
+    "postmerge_execution_append": "recorded separately in formal V2; private identifiers omitted"
+  },
+  "private_archive": {
+    "file_name": "Irvine_B_step12_evidence_20261012.zip",
+    "bytes": 67351753,
+    "sha256": "4f5b11774a40d91605379535109b8fbe1e38b1431c794fcd3440a6df952d2ee3",
+    "uploaded_to_designated_folder": true,
+    "metadata_size_verified": true,
+    "downloaded_copy_sha256_verified": true,
+    "private_url_omitted": true
+  },
+  "review_gate": {
+    "step12_reviewable": true,
+    "full_step13_completed": false,
+    "S13_001": "supplement_submitted_pending_independent_acceptance",
+    "eligible_for_A_C": false
+  },
+  "no_household_A_C_read_or_run": true,
+  "no_subagents": true,
+  "no_third_party_contact": true
+}

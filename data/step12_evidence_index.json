@@ -1,0 +1,304 @@
+{
+  "version": "step12-evidence-v1",
+  "timezone": "America/Los_Angeles",
+  "entries": [
+    {
+      "id": "E01",
+      "topic": "人口／迁移／家庭／预测",
+      "level": "本轮标准表、方法与版本复核；没有全量重读人口原件",
+      "window": "DOF E2截至2025年6月；DOF E5 2026-01；Census Vintage2025；ACS2015—2019与2020—2024；DOF2026人口与2025家庭预测；SCAG2024正式／2026草案",
+      "locators": [
+        "data/clean/county_components_2020_2025.csv: Orange County、2025、DOF/Census分别选",
+        "data/clean/acs_household_window_changes.csv: Irvine，total/owner/renter households及MOE",
+        "data/clean/city_household_growth_decomposition.csv: Irvine",
+        "data/clean/scag_city_county_forecast_vintages.csv: Orange County，不混草案"
+      ],
+      "manifests": [
+        "data/acs_source_manifest.json",
+        "data/acs_history_source_manifest.json",
+        "data/forecast_source_manifest.json",
+        "data/sources.csv"
+      ],
+      "primary_links": [
+        "https://dof.ca.gov/forecasting/demographics/estimates/",
+        "https://www.census.gov/programs-surveys/acs/news/updates.html"
+      ],
+      "new_check": "ACS更新页：2025一年表发布日期仍待定；2020—2024五年表2026-01-29发布。未以访问日期假造新调查期。",
+      "input_commit": "c2ad6899d8a3aa5a41fd36afa54e3b9a7f76e716",
+      "checked_local_date": "2026-10-12",
+      "public_storage": "原始微观／供应商完整历史不公开；仅链接、指纹和有限派生事实"
+    },
+    {
+      "id": "E02",
+      "topic": "边际获贷购买力",
+      "level": "本轮冻结原CSV直接筛选与复算；地理crosswalk复用，未重新叠加",
+      "window": "2025 HMDA Snapshot，FAQ冻结06-02／发布说明06-01均保留",
+      "locators": [
+        "hmda_2025_purchase_oc.csv: county06059，action1 purpose1 occupancy1 lien1 construction1 total_units1 reverse2 open_end2 business2",
+        "data/clean/hmda_tract_city_crosswalk.csv: Irvine/core_99999=True，43tracts",
+        "income单位千美元；loan_to_value_ratio百分数；property_value 2000000<=x<3000000"
+      ],
+      "manifests": [
+        "data/purchasing_source_manifest.json"
+      ],
+      "originals": [
+        {
+          "file": "hmda_2025_purchase_oc.csv",
+          "source_url": "https://ffiec.cfpb.gov/v2/data-browser-api/view/csv?years=2025&counties=06059&loan_purposes=1",
+          "sha256": "f2f93c2ae7ac0b01a4c7de613c2e89e46409829e29a34fe58d7c17f582a1127e",
+          "original_retrieval": "2026-10-12T04:00:57.161542+00:00"
+        }
+      ],
+      "input_commit": "c2ad6899d8a3aa5a41fd36afa54e3b9a7f76e716",
+      "checked_local_date": "2026-10-12",
+      "public_storage": "原始微观／供应商完整历史不公开；仅链接、指纹和有限派生事实"
+    },
+    {
+      "id": "E03",
+      "topic": "跨市／房源品质／买家分流",
+      "level": "本轮报告、字段口径、覆盖表与V2公开字段笔记对照；未取得契据／签署合同",
+      "window": "2024-10至2026-10搜索窗；实际25售房关闭覆盖2025-02至2026-10",
+      "locators": [
+        "data/clean/crosscity_evidence_coverage.csv",
+        "data/clean/crosscity_match_sensitivity.csv",
+        "data/clean/crosscity_buyer_evidence_gates.csv",
+        "data/transaction_history_source_index.csv；逐屋数值仅在私人阅读版"
+      ],
+      "manifests": [
+        "data/crosscity_source_manifest.json",
+        "data/transaction_history_input_manifest.json"
+      ],
+      "primary_links": [],
+      "input_commit": "c2ad6899d8a3aa5a41fd36afa54e3b9a7f76e716",
+      "checked_local_date": "2026-10-12",
+      "public_storage": "原始微观／供应商完整历史不公开；仅链接、指纹和有限派生事实"
+    },
+    {
+      "id": "E04",
+      "topic": "学校与入学",
+      "level": "本轮标准表、目录分母、覆盖与V2正文对照；未复核每所原始材料或地址定位",
+      "window": "2025 Dashboard主要对应2024—25学年；2026—27边界；截至2026-10-12",
+      "locators": [
+        "data/clean/school_directory_20261012.csv: Irvine行政地址51行，比较36、背景144",
+        "data/clean/school_boundary_register_202627.csv: Stonegate及Orchard Hills候选链",
+        "data/clean/school_parent_search_coverage_20261012.csv: 检索不等于全文深读"
+      ],
+      "manifests": [
+        "data/school_source_manifest.json"
+      ],
+      "primary_links": [
+        "https://www.caschooldashboard.org/"
+      ],
+      "input_commit": "c2ad6899d8a3aa5a41fd36afa54e3b9a7f76e716",
+      "checked_local_date": "2026-10-12",
+      "public_storage": "原始微观／供应商完整历史不公开；仅链接、指纹和有限派生事实"
+    },
+    {
+      "id": "E05",
+      "topic": "年度供给与目标分母",
+      "level": "本轮APR原XLSM XML直接加总，项目／建商复用冻结清单",
+      "window": "2025全年APR；2026-10-12项目／库存截面",
+      "locators": [
+        "irvine_apr2025.xlsm: Summary C29/D29/E29；Table A2第13行起1189条，F建筑类型，T批准、AG许可、AT完工",
+        "data/clean/supply_project_ledger_20261012.csv: 母子关系、additive_city_total=False、remaining_units空",
+        "data/clean/supply_builder_inventory_aggregate_20261012.csv: 18QMI/6detached/4四卧"
+      ],
+      "manifests": [
+        "data/supply_source_manifest.json"
+      ],
+      "originals": [
+        {
+          "file": "irvine_apr2025.xlsm",
+          "source_url": "https://cityofirvine.gov/sites/default/files/legacy-documents/civica-34702-2025-housing-element-annual-progress-report.xlsm",
+          "sha256": "4d337b26452462503751fff183e2ec3e0b1cf816f3f24c33c0a0be9667848845",
+          "original_retrieval": "2026-10-12T15:15:23.275978+00:00"
+        }
+      ],
+      "input_commit": "c2ad6899d8a3aa5a41fd36afa54e3b9a7f76e716",
+      "checked_local_date": "2026-10-12",
+      "public_storage": "原始微观／供应商完整历史不公开；仅链接、指纹和有限派生事实"
+    },
+    {
+      "id": "E06",
+      "topic": "Gateway交付时点辨析",
+      "level": "本轮官方FAQ PDF／当前网页回读，非开发商交付承诺",
+      "window": "June2026 FAQ；截至2026-10-12",
+      "locators": [
+        "gateway_faq202606.pdf: 总量、建筑形态／卧室面积及construction timeline问答；预计2027-06 vertical、2027秋models/first sales",
+        "data/clean/supply_project_ledger_20261012.csv: 母子期851/854分歧保留"
+      ],
+      "manifests": [
+        "data/supply_source_manifest.json"
+      ],
+      "originals": [
+        {
+          "file": "gateway_faq202606.pdf",
+          "source_url": "https://cityofirvine.gov/sites/default/files/legacy-documents/gateway-village-residential-project_faq_june-2026.pdf",
+          "sha256": "6ec682946a4d97bf4c0d0653211bbf6e3f67f7040e2c581730d3e8bbc5af89f8",
+          "original_retrieval": "2026-10-12T15:17:36.226745+00:00"
+        }
+      ],
+      "input_commit": "c2ad6899d8a3aa5a41fd36afa54e3b9a7f76e716",
+      "checked_local_date": "2026-10-12",
+      "public_storage": "原始微观／供应商完整历史不公开；仅链接、指纹和有限派生事实"
+    },
+    {
+      "id": "E07",
+      "topic": "四卧价格模型",
+      "level": "本轮原CSV直接复算4个社区；城市4卧数字未新增复算且主报告未采用",
+      "window": "2026-10-12下载修订版；末列2026-08-31，比较2025-08/2024-08和2024—2025最高月",
+      "locators": [
+        "Neighborhood_zhvi_bdrmcnt_4_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv: State CA、City Irvine；RegionID775702/403127/403197/403196",
+        "Orchard Hills全区不能代表Reserve；无房龄／共墙限制"
+      ],
+      "manifests": [
+        "data/pricing_source_manifest.json"
+      ],
+      "originals": [
+        {
+          "file": "raw/Neighborhood_zhvi_bdrmcnt_4_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv",
+          "source_url": "https://files.zillowstatic.com/research/public_csvs/zhvi/Neighborhood_zhvi_bdrmcnt_4_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv",
+          "sha256": "9c50b5283c2e192d0fac7fc676c0db21a45b37c67f41824206db35c9407e91ad",
+          "original_retrieval": "2026-10-12T19:58:17.361095+00:00"
+        }
+      ],
+      "input_commit": "c2ad6899d8a3aa5a41fd36afa54e3b9a7f76e716",
+      "checked_local_date": "2026-10-12",
+      "public_storage": "原始微观／供应商完整历史不公开；仅链接、指纹和有限派生事实"
+    },
+    {
+      "id": "E08",
+      "topic": "县级挂牌数量与构成",
+      "level": "本轮原CSV直接复算；本轮新增DOM内置同比差异",
+      "window": "2026-09对2025-09及2019-09；冻结2026-10-12下载版",
+      "locators": [
+        "realtor_county_history.csv: county_fips06059；month_date_yyyymm202609/202509/201909",
+        "active/new/pending listing_count；median_days_on_market；median_listing_price；median_square_feet；每sf报价",
+        "DOM53/57给-7.0175%，源_yy=-6.19%；面积1795/1875给-4.2667%，源_yy=-4.31%；不静默改写源值"
+      ],
+      "manifests": [
+        "data/pricing_source_manifest.json"
+      ],
+      "originals": [
+        {
+          "file": "raw/realtor_county_history.csv",
+          "source_url": "https://econdata.s3-us-west-2.amazonaws.com/Reports/Core/RDC_Inventory_Core_Metrics_County_History.csv",
+          "sha256": "d2021d58077cbcad380f895685522b9b799783a38a7290ccaa6021f7bf651aa3",
+          "original_retrieval": "2026-10-12T20:00:41.551482+00:00"
+        }
+      ],
+      "input_commit": "c2ad6899d8a3aa5a41fd36afa54e3b9a7f76e716",
+      "checked_local_date": "2026-10-12",
+      "public_storage": "原始微观／供应商完整历史不公开；仅链接、指纹和有限派生事实"
+    },
+    {
+      "id": "E09",
+      "topic": "现行参考利率与公开菜单",
+      "level": "本轮冻结HTML与当前官方网页定向回读；个人LE为0",
+      "window": "PMMS与DGS10观察2026-10-08；SF网页2026-10-12；CU新页标2026-10-13",
+      "locators": [
+        "schoolsfirst_purchase.html: Fixed-Rate Mortgages Jumbo及示例假设，票面与APR分列",
+        "cusocal_rates.html: Jumbo Fixed及Jumbo Adjustable，不用conforming栏APR",
+        "当前CU webpage标下一日生效，非本地as-of可锁认证"
+      ],
+      "manifests": [
+        "data/scenario_source_manifest.json",
+        "data/rate_source_manifest.json"
+      ],
+      "originals": [
+        {
+          "file": "raw/cusocal_rates.html",
+          "source_url": "https://www.cusocal.org/loans/personal/rates/",
+          "sha256": "a212bbf032c351b8e0d26df909cde710e7b6dd2385c91d38a2e36583ebe56a60",
+          "original_retrieval": "2026-10-12T21:34:29.388336+00:00"
+        },
+        {
+          "file": "raw/schoolsfirst_purchase.html",
+          "source_url": "https://www.schoolsfirstfcu.org/rates/mortgage-purchase",
+          "sha256": "2b96bee868ddc5e1f96e86552d6876542160401ee1ae5d0f9a0bcce3e2516497",
+          "original_retrieval": "2026-10-12T21:33:27.211141+00:00"
+        }
+      ],
+      "primary_links": [
+        "https://www.freddiemac.com/pmms",
+        "https://fred.stlouisfed.org/series/DGS10",
+        "https://www.schoolsfirstfcu.org/rates/mortgage-purchase",
+        "https://www.cusocal.org/loans/personal/rates/"
+      ],
+      "input_commit": "c2ad6899d8a3aa5a41fd36afa54e3b9a7f76e716",
+      "checked_local_date": "2026-10-12",
+      "public_storage": "原始微观／供应商完整历史不公开；仅链接、指纹和有限派生事实"
+    },
+    {
+      "id": "E10",
+      "topic": "预测版本与前瞻边界",
+      "level": "本轮Fannie／MBA原PDF文字提取复读；不重做所有旧预测误差；Fed主要复用冻结版本",
+      "window": "Fannie2026-09-11（rates截至08-31）；MBA2026-10-11；Fed2026-09-16",
+      "locators": [
+        "fannie_202609_housing.pdf: 第一页Mortgage Rates，2026Q4/2027Q4，%季度均值",
+        "mba_current_download.pdf: 第一页30-Year Mortgage Rate，2026Q4/2027Q4；10-11版，不用09版代替",
+        "data/scenario_source_index.csv；季度均值／全年均值／年末政策值分开"
+      ],
+      "manifests": [
+        "data/scenario_source_manifest.json"
+      ],
+      "originals": [
+        {
+          "file": "raw/fannie_202609_housing.pdf",
+          "source_url": "https://www.fanniemae.com/media/58226/display",
+          "sha256": "e484610992fbc31c26c0ec627f391553daf0e5c574b9dac0a0527ce2620ea264",
+          "original_retrieval": "2026-10-12T21:32:40.000802+00:00"
+        },
+        {
+          "file": "raw/mba_current_download.pdf",
+          "source_url": "https://img03.en25.com/Web/MortgageBankersAssociation/{7f0a9213-51f8-47c5-b15e-cf2125f80eab}_Mortgage_Finance_Forecast_Oct_2026.pdf",
+          "sha256": "7bbfc3fca4f694e7e4b47a13b7454318897b235535e1dea533e7be71d7f264fd",
+          "original_retrieval": "2026-10-12T21:34:01.474534+00:00"
+        }
+      ],
+      "input_commit": "c2ad6899d8a3aa5a41fd36afa54e3b9a7f76e716",
+      "checked_local_date": "2026-10-12",
+      "public_storage": "原始微观／供应商完整历史不公开；仅链接、指纹和有限派生事实"
+    },
+    {
+      "id": "E11",
+      "topic": "贷款恒等式、联合风险及股票缺口",
+      "level": "本轮现值求和另算法复算等PI；复用既有步骤13四类融资算术抽核；未核股票总回报",
+      "window": "归一化虚构设计2026-10-12；非家庭金额或市场预测",
+      "locators": [
+        "data/scenario_analysis_design.json",
+        "data/clean/scenario_equal_payment_boundaries.csv: rate_pct6.5",
+        "data/clean/scenario_arm_cap_stress.csv",
+        "qa/step13_financing_independent.json: 输入未改时保留，不能代替综合外审",
+        "data/step12_a_parameter_interface.json: equity_total_return_expected及historical均null"
+      ],
+      "manifests": [
+        "data/scenario_source_manifest.json"
+      ],
+      "primary_links": [
+        "https://www.consumerfinance.gov/owning-a-home/compare/compare-loan-estimates/"
+      ],
+      "input_commit": "c2ad6899d8a3aa5a41fd36afa54e3b9a7f76e716",
+      "checked_local_date": "2026-10-12",
+      "public_storage": "原始微观／供应商完整历史不公开；仅链接、指纹和有限派生事实"
+    },
+    {
+      "id": "E12",
+      "topic": "同服务租买与全成本",
+      "level": "本轮字段笔记、覆盖、标准口径及V2正文对照；签署租约／真实报价均未取得",
+      "window": "18笔目的性观察截至2026-10-12；MLS关闭12、挂牌6",
+      "locators": [
+        "data/clean/rental_coverage_20261012.csv",
+        "reports/2026-10-12_rental_cost_phase11.md: 成本定义及未知保护",
+        "私人rental_notes.json: 18观察/8配对/2同址；不能推净收益率"
+      ],
+      "manifests": [
+        "data/rental_source_manifest.json"
+      ],
+      "primary_links": [],
+      "input_commit": "c2ad6899d8a3aa5a41fd36afa54e3b9a7f76e716",
+      "checked_local_date": "2026-10-12",
+      "public_storage": "原始微观／供应商完整历史不公开；仅链接、指纹和有限派生事实"
+    }
+  ]
+}
